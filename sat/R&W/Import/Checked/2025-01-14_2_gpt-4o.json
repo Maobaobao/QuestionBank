@@ -1,0 +1,141 @@
+{
+    "article_title": "Seeing Earth From Space Will Change You",
+    "article_author": "Marina Koren",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Space Exploration", "Astronomy", "Overview Effect", "Space Tourism"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Not everyone had been changed by what they saw, White learned. But among those who were, White found common themes, which he described in The Overview Effect, first published in 1987. The astronauts’ sense of national belonging faded away, replaced by one of connection with their fellow human beings. They also felt a new bond with their home planet, the only known source of life in an otherwise forbidding universe. The Earth, with its wispy atmosphere, looked delicate, in need of care."
+      },
+      {
+        "passage_number": 2,
+        "text": "This version of the overview effect has taken hold in the public imagination, reinforced over the years by books and documentaries about the American space program. In this telling, the effect can seem like a special gesture bestowed by the cosmos upon anyone brave enough to venture beyond Earth."
+      },
+      {
+        "passage_number": 3,
+        "text": "But as Jordan Bimm, a historian of space exploration at the University of Chicago, has written, the overview effect is as much a cultural phenomenon as a celestial one. It is a human narrative, its themes shaped by a variety of earthly circumstances. The overview effect arose when the NASA astronaut corps was rigorously homogeneous: white males with engineering degrees and military experience. These men were a product of their training and their time. Spaceflight was a dangerous new frontier that required mental as well as physical fortitude— the right stuff."
+      },
+      {
+        "passage_number": 4,
+        "text": "The imperative to always demonstrate the right stuff shaped the language that astronauts used to describe their experiences in space. As Patricia Santy, a longtime psychiatrist at NASA’s Johnson Space Center, in Houston, wrote in 1994, \"Expression of emotions such as sadness or fear is considered a weakness.\" If the sight of Earth marooned in darkness inspired such feelings in the heart of an astronaut, he was unlikely to admit it, lest he jeopardize his shot at another mission."
+      }
+    ],
+    "questions": [
+      
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "As used in the passage, \"homogeneous\" most closely means:",
+        "options": {
+          "A": "Identical in appearance.",
+          "B": "Unified in structure.",
+          "C": "Consisting of similar or uniform elements.",
+          "D": "Sharing cultural diversity."
+        },
+        "answer": "C",
+        "explanation": "The word 'homogeneous' refers to the similar characteristics shared by early NASA astronauts, such as race, gender, and professional backgrounds.",
+        "score_improvement_tip": "Pay attention to context clues provided by surrounding text when interpreting the meaning of a word."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "Which of the following best supports the idea that the overview effect captures the public imagination?",
+        "options": {
+          "A": "It was first described in 1987.",
+          "B": "It has been reinforced by books and documentaries.",
+          "C": "It appears to be a celestial gift.",
+          "D": "It affects only a few astronauts."
+        },
+        "answer": "B",
+        "explanation": "The text explicitly states that the public's perception of the overview effect has been shaped by media such as books and documentaries.",
+        "score_improvement_tip": "When choosing evidence, match it directly to the claim being evaluated."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What can be inferred about the cultural expectations for astronauts based on their descriptions of Earth?",
+        "options": {
+          "A": "Astronauts were encouraged to minimize emotional expression.",
+          "B": "Descriptions of Earth focused on religious interpretations.",
+          "C": "Astronauts were expected to portray space as dangerous.",
+          "D": "Cultural expectations had no impact on their narratives."
+        },
+        "answer": "A",
+        "explanation": "The passage highlights that cultural norms and professional expectations discouraged astronauts from expressing feelings such as sadness or fear.",
+        "score_improvement_tip": "Inference questions require understanding implications from the text rather than direct statements."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What is the significance of astronauts using religious terms to describe Earth?",
+        "options": {
+          "A": "It reflected their personal beliefs.",
+          "B": "It distinguished them from Soviet cosmonauts.",
+          "C": "It underscored the danger of space travel.",
+          "D": "It was encouraged by NASA policy."
+        },
+        "answer": "B",
+        "explanation": "The passage connects the use of religious language to Cold War-era ideologies that contrasted with the Soviet Union's atheism.",
+        "score_improvement_tip": "Consider historical and cultural contexts when evaluating inferences."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "What rhetorical strategy is employed in the statement, 'Not everyone had been changed by what they saw'?",
+        "options": {
+          "A": "Emphasizing a contrasting perspective.",
+          "B": "Highlighting universal truth.",
+          "C": "Presenting statistical evidence.",
+          "D": "Minimizing dissenting opinions."
+        },
+        "answer": "A",
+        "explanation": "This statement sets up a comparison between those affected by the overview effect and those who were not, adding nuance to the discussion.",
+        "score_improvement_tip": "Pay attention to how contrasts are used to develop the author's argument."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which claim is best supported by the statement that 'expression of emotions such as sadness or fear is considered a weakness'?",
+        "options": {
+          "A": "NASA discouraged displays of emotion among astronauts.",
+          "B": "Spaceflight is inherently dangerous.",
+          "C": "Astronauts used religious language to mask fear.",
+          "D": "Descriptions of space were heavily censored."
+        },
+        "answer": "A",
+        "explanation": "The passage explicitly mentions that cultural expectations discouraged astronauts from expressing vulnerable emotions.",
+        "score_improvement_tip": "Use directly stated information to select the answer that aligns most closely with the evidence."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }
+  

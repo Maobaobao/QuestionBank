@@ -1,0 +1,231 @@
+{
+    "article_title": "The Coming Collapse",
+    "article_author": "Douglas Fox",
+    "article_date": "2023",
+    "article_source": "Scientific American",
+    "article_category": "Essay",
+    "article_tags": ["Antarctica", "Climate Change", "Ice Shelves", "Field Research"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Antarctic fieldwork requires sending tons of fuel, food, and survival gear ahead of time. The field team has to be supported by layers of transport, workers, and staging camps. All told, the Thwaites research expeditions required several hundred thousand kilograms of equipment and supplies delivered by ships, planes, and convoys of tractors towing sleds across hundreds of kilometers of ice that had been searched ahead of time for crevasses. The British Antarctic Survey and the US Antarctic Program staged some of that gear a year or two in advance. But in Antarctica, even this kind of preparation isn’t enough to avoid complications."
+      },
+      {
+        "passage_number": 2,
+        "text": "In September 2019, two months before I joined Pettit’s team as they departed for the frozen continent, they received new satellite images showing two new rifts in the ice shelf. These “daggers” originated where the ice collides with the undersea mountain; the rifts had surged inward toward the coast, to within five kilometers of our planned destination. Expedition leaders worried that one of these rifts could rip through the camp, but the team decided to press forward, with a colleague back home tracking the rifts via satellite. After a series of storms delayed the expedition by a few weeks, we reached the Thwaites Eastern Ice Shelf in mid-December 2019. We assembled a row of tents, protected from the constant easterly winds by walls of snow blocks shoveled and handsawed from the landscape, and set up gear for what would be a month of arduous work to come."
+      },
+      {
+        "passage_number": 3,
+        "text": "The first couple of days were relatively warm. Our boots plunged deeply into the slushy snow, and puddles of meltwater pooled up along the tents. A series of giant ice cliffs, eight kilometers away, were visible to the south. Those upheavals marked the zone where the ice cracked and flexed as it transitioned from a grounded glacier into a floating ice shelf."
+      },
+      {
+        "passage_number": 4,
+        "text": "As the weather cooled and the snow hardened, Pettit made her first long walks, dragging her radar along preplanned lines. The radar provided two-dimensional profiles of the ice shelf’s internal layers, like the slices of a hospital MRI scan. Those first glimpses proved far more interesting than Pettit expected."
+      },
+      {
+        "passage_number": 5,
+        "text": "Her radar showed that layers in the top 25 meters of the shelf were smooth and mostly flat, but below that they suddenly turned jagged. Pettit speculated that the jagged layers had been part of the ice when it juddered across the rocky coastline bed and started to float seaward, perhaps fifteen years before; they were forever imprinted with the trauma of that transition. The smooth layers represented snow that had fallen on top since then, when the ice was afloat."
+      },
+      {
+        "passage_number": 6,
+        "text": "More surprising, Pettit found that the shelf’s underside—a place that human eyes had never seen—looked strangely ordered, as if it had somehow been sculpted intentionally. The underside was corrugated with a series of trenches that ran perpendicular to the direction of ice flow, like waves offshore from a beach. Each trench was 500 to 700 meters wide and cut as far as 50 meters up into the ice, the height of a twelve-story building. “These things are huge,” Pettit told me. Oddest of all, the trench walls weren’t smooth, as one might expect of melting ice. They were stair-stepped terraces, with a series of vertical walls each five to eight meters tall, like the sides of an open-pit mine. “We don’t know what these stepped things are,” she said."
+      },
+      {
+        "passage_number": 7,
+        "text": "These stair-stepped trenches had escaped detection in previous surveys. Airborne radar measurements are taken from planes moving at least 150 kilometers per hour, so each reading is an average over a long swath of ice. Pettit dragged her radar at a stately three kilometers per hour, allowing her to capture a much finer-grained picture."
+      },
+      {
+        "passage_number": 8,
+        "text": "As Pettit was getting her first look at the strange terraced structures, her colleagues were starting to see hints of another unexpected observation: the bottom of the ice was not melting the way they expected. On January 2, I wolfed down a breakfast of dehydrated porridge with Christian Wild, a postdoctoral scholar who works with Pettit. He and I then drove a snowmobile out into a frigid snowfall. The sound of the engine was muffled, and the wan light seemed to seep in from all directions, leaving no shadows, no texture, and no hint of the approaching bumps that we trundled over. We steered along our GPS line, with just enough visibility to see each new flag appear silently into view, then dissolve behind us in a gentle slurry of snowflakes."
+      },
+      {
+        "passage_number": 9,
+        "text": "At a series of stops, Wild used high-precision radar to measure the thickness of the ice shelf, accurate to a few millimeters. He had already measured the same points a week earlier. Because satellite estimates suggested the ice shelf was thinning an average of two or three meters per year, he expected to find the ice three to six centimeters thinner than the week before. To his astonishment, he saw almost no thinning. “It doesn’t make any sense,” he said toward the end of a long day."
+      },
+      {
+        "passage_number": 10,
+        "text": "Back at camp, other team members prepared to measure the temperature of the ocean currents flowing under the ice shelf. Over several days they tossed 6,000 kilograms of hard snow, one block at a time, into a canvas-sided tank the size of a large hot tub. They melted the snow and heated the water, then used it to make a hole as wide as a dinner plate 250 meters down through the shelf. Scambos lowered a string of sensors through this hole into the ocean water below. For the next year or two this sensor station, powered in part by solar panels on a small steel tower, would measure the water temperature, salinity and currents."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The challenges of preparing for Antarctic fieldwork",
+          "B": "The role of the British Antarctic Survey in research",
+          "C": "The dangers of crevasses in Antarctica",
+          "D": "The types of equipment used in Antarctic research"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the logistical challenges and preparations required for Antarctic fieldwork, including the transportation of equipment and supplies.",
+        "score_improvement_tip": "Identify the central subject of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, what does the word 'daggers' most nearly mean?",
+        "options": {
+          "A": "Sharp tools",
+          "B": "Cracks in the ice",
+          "C": "Satellite images",
+          "D": "Mountain peaks"
+        },
+        "answer": "B",
+        "explanation": "In this context, 'daggers' refers to the cracks or rifts in the ice shelf, as described in the passage.",
+        "score_improvement_tip": "Use context clues to infer the meaning of figurative or descriptive language."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What can be inferred about the ice cliffs described in the passage?",
+        "options": {
+          "A": "They are formed by the melting of the ice shelf.",
+          "B": "They mark the transition from grounded glacier to floating ice shelf.",
+          "C": "They are located near the research camp.",
+          "D": "They are caused by the movement of tectonic plates."
+        },
+        "answer": "B",
+        "explanation": "The passage states that the ice cliffs mark the zone where the ice transitions from a grounded glacier to a floating ice shelf.",
+        "score_improvement_tip": "Look for implicit information that is not directly stated but can be logically inferred from the text."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the description of Pettit’s radar work?",
+        "options": {
+          "A": "To highlight the challenges of using radar in Antarctica",
+          "B": "To explain how radar revealed unexpected features of the ice shelf",
+          "C": "To compare radar technology with MRI scans",
+          "D": "To emphasize the importance of preplanned research lines"
+        },
+        "answer": "B",
+        "explanation": "The passage describes how Pettit’s radar work revealed unexpected features of the ice shelf, such as jagged layers and smooth surfaces.",
+        "score_improvement_tip": "Pay attention to the author's or researcher's intent when describing scientific methods or findings."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which choice best describes the relationship between the jagged and smooth layers of the ice shelf?",
+        "options": {
+          "A": "The jagged layers are older and represent the ice’s transition to floating.",
+          "B": "The smooth layers are older and were formed by melting.",
+          "C": "The jagged layers are caused by recent snowfall.",
+          "D": "The smooth layers are caused by the movement of the glacier."
+        },
+        "answer": "A",
+        "explanation": "The passage states that the jagged layers were formed during the ice’s transition to floating, while the smooth layers represent more recent snowfall.",
+        "score_improvement_tip": "Analyze the relationship between different features or phenomena described in the text."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which piece of evidence best supports the idea that the ice shelf’s underside is uniquely structured?",
+        "options": {
+          "A": "The trenches are 500 to 700 meters wide and 50 meters deep.",
+          "B": "The trench walls are stair-stepped terraces.",
+          "C": "The trenches run perpendicular to the direction of ice flow.",
+          "D": "The trenches were not detected in previous surveys."
+        },
+        "answer": "B",
+        "explanation": "The stair-stepped terraces are described as unique and unexpected, highlighting the unusual structure of the ice shelf’s underside.",
+        "score_improvement_tip": "Identify direct textual evidence that supports the main idea or specific claims in the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "How does the description of Pettit’s radar method relate to the overall theme of the article?",
+        "options": {
+          "A": "It shows that airborne radar is more effective than ground-based radar.",
+          "B": "It highlights the importance of detailed, fine-grained measurements.",
+          "C": "It suggests that previous surveys were inaccurate.",
+          "D": "It emphasizes the challenges of working in Antarctica."
+        },
+        "answer": "B",
+        "explanation": "Pettit’s detailed radar method, which captures fine-grained images, aligns with the article’s theme of uncovering unexpected and complex features of the ice shelf.",
+        "score_improvement_tip": "Analyze how different parts of the text connect to support or explain a central theme or idea."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about the conditions during Wild’s snowmobile journey?",
+        "options": {
+          "A": "The journey was hindered by poor visibility and challenging terrain.",
+          "B": "The journey was quick and uneventful due to clear weather.",
+          "C": "The journey was delayed by mechanical issues with the snowmobile.",
+          "D": "The journey was unnecessary due to satellite measurements."
+        },
+        "answer": "A",
+        "explanation": "The passage describes poor visibility, muffled sounds, and a lack of shadows, indicating challenging conditions during Wild’s journey.",
+        "score_improvement_tip": "Use descriptive language and specific details in the text to infer conditions or circumstances."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the primary purpose of Wild’s measurements of the ice shelf’s thickness?",
+        "options": {
+          "A": "To confirm satellite estimates of ice thinning",
+          "B": "To challenge previous assumptions about ice melting",
+          "C": "To demonstrate the accuracy of high-precision radar",
+          "D": "To highlight the effects of snowfall on ice thickness"
+        },
+        "answer": "B",
+        "explanation": "Wild’s measurements revealed that the ice was not thinning as expected, challenging previous assumptions about ice melting.",
+        "score_improvement_tip": "Consider the broader context and implications of specific scientific findings or observations."
+      },
+      {
+        "question_number": 10,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Which choice best maintains the grammatical and logical coherence of the following sentence? “Over several days they tossed 6,000 kilograms of hard snow, one block at a time, into a canvas-sided tank the size of a large hot tub.”",
+        "options": {
+          "A": "NO CHANGE",
+          "B": "Over several days they tossed 6,000 kilograms of hard snow, one block at a time into a canvas-sided tank the size of a large hot tub.",
+          "C": "Over several days they tossed 6,000 kilograms of hard snow one block at a time, into a canvas-sided tank the size of a large hot tub.",
+          "D": "Over several days they tossed 6,000 kilograms of hard snow one block at a time into a canvas-sided tank the size of a large hot tub"
+        },
+        "answer": "A",
+        "explanation": "The original sentence is grammatically correct and logically coherent, with proper punctuation and structure.",
+        "score_improvement_tip": "Ensure that sentences maintain proper grammatical structure and logical flow, especially when dealing with complex ideas."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

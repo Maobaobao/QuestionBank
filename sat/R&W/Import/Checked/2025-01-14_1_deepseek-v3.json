@@ -1,0 +1,190 @@
+{
+    "article_title": "Seeing Earth From Space Will Change You",
+    "article_author": "Marina Koren",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Space Exploration", "Astronomy", "Overview Effect", "Space Tourism"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Beholding the silky clouds below, the continents and the seas, many astronauts have seen their home planet—and humankind’s relationship to it—in a profoundly new light. “It becomes so small and so fragile, and such a precious little spot in that universe that you can block out with your thumb,” Russell “Rusty” Schweickart, who spent 10 days orbiting Earth on the Apollo 9 mission, said in a 1974 speech."
+      },
+      {
+        "passage_number": 2,
+        "text": "Michael Collins, the Apollo 11 astronaut who flew around the moon, believed that if world leaders could experience the overview effect, intractable political differences might be resolved. “That all important border would be invisible, that noisy argument suddenly silenced,” Collins wrote in his memoir, Carrying the Fire.<br><br>Gene Cernan, one of just a dozen people to have walked on the lunar surface, desperately wanted the rest of humanity to see what he had seen. “If only everyone could relate to the beauty and the purposefulness of it,” he said in 1985. “It wouldn’t bring a utopia to this planet for people to understand it all, but it might make a difference.”"
+      },
+      {
+        "passage_number": 3,
+        "text": "More than three decades later, spaceflight is not yet available to everyone, not even close. Unlike in Cernan’s era, however, when such trips were made exclusively by professional astronauts, today a seat on a spacecraft is available in a growing tourism industry, at least for those who can afford the astronomical fare. Blue Origin has carried 31 people to the edge of space and back since the summer of 2021. Elon Musk’s SpaceX has launched seven space tourists all the way into orbit; three of them spent more than two weeks living on the International Space Station. The next group of SpaceX tourists will exit their capsule and go on a little spacewalk."
+      },
+      {
+        "passage_number": 4,
+        "text": "As commercial space travel becomes less expensive and more common, we can test Cernan’s proposition that if enough people experience the overview effect, life back on Earth could be meaningfully improved. But we might also find that a more varied group of travelers describes the experience in different terms than the astronauts who went before them. What will a new generation of voyagers see when they regard their home from space?"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, the phrase 'overview effect' most likely refers to:",
+        "options": {
+          "A": "A technical term for space navigation",
+          "B": "The emotional impact of seeing Earth from space",
+          "C": "A scientific theory about the moon",
+          "D": "The physical sensation of weightlessness"
+        },
+        "answer": "B",
+        "explanation": "The 'overview effect' is described as a profound change in perspective experienced by astronauts when viewing Earth from space, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of specific terms or phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Based on the passage, what can be inferred about Gene Cernan's perspective on space travel?",
+        "options": {
+          "A": "He believed space travel should be limited to professionals.",
+          "B": "He thought space travel could foster global unity.",
+          "C": "He was skeptical about the benefits of space tourism.",
+          "D": "He prioritized scientific research over personal experiences."
+        },
+        "answer": "B",
+        "explanation": "Cernan's desire for others to see Earth from space and his belief that it 'might make a difference' suggest he thought it could promote global understanding, making B the correct answer.",
+        "score_improvement_tip": "Inference questions require you to read between the lines and connect ideas logically."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What is the primary purpose of the third passage?",
+        "options": {
+          "A": "To criticize the high cost of space tourism",
+          "B": "To highlight the advancements in space travel accessibility",
+          "C": "To compare Blue Origin and SpaceX missions",
+          "D": "To explain the technical challenges of spacewalks"
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the growing accessibility of space travel through commercial ventures, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's intent by analyzing the main points and supporting details."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best summarizes the author's argument in the final passage?",
+        "options": {
+          "A": "Space tourism will lead to scientific breakthroughs.",
+          "B": "The overview effect may have varying impacts on different travelers.",
+          "C": "Space travel will soon be affordable for everyone.",
+          "D": "Astronauts' experiences are more profound than tourists'."
+        },
+        "answer": "B",
+        "explanation": "The author suggests that a diverse group of travelers might describe the overview effect differently, making B the correct answer.",
+        "score_improvement_tip": "Synthesis questions require you to combine information from the passage to identify the overarching argument."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "Which quotation from the passage best supports the idea that Earth appears fragile from space?",
+        "options": {
+          "A": "“It becomes so small and so fragile, and such a precious little spot in that universe that you can block out with your thumb.”",
+          "B": "“Beholding the silky clouds below, the continents and the seas...”",
+          "C": "“Russell 'Rusty' Schweickart, who spent 10 days orbiting Earth...”",
+          "D": "“Many astronauts have seen their home planet—and humankind’s relationship to it—in a profoundly new light.”"
+        },
+        "answer": "A",
+        "explanation": "The quotation directly describes Earth as fragile when viewed from space, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text that supports the question's premise."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "How does Michael Collins' perspective on the overview effect compare to Gene Cernan's?",
+        "options": {
+          "A": "Both believe it could resolve political conflicts.",
+          "B": "Collins emphasizes unity, while Cernan focuses on beauty.",
+          "C": "Cernan is more skeptical about its impact than Collins.",
+          "D": "Collins thinks it is overrated, while Cernan finds it transformative."
+        },
+        "answer": "B",
+        "explanation": "Collins highlights the potential for unity, while Cernan emphasizes the beauty and purposefulness of Earth, making B the correct answer.",
+        "score_improvement_tip": "Compare and contrast perspectives by identifying key differences in their viewpoints."
+      },
+      {
+        "question_number": 8,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 3,
+        "question": "Which choice best completes the sentence? 'Blue Origin has carried 31 people to the edge of space and back ______ the summer of 2021.'",
+        "options": {
+          "A": "since",
+          "B": "for",
+          "C": "from",
+          "D": "during"
+        },
+        "answer": "A",
+        "explanation": "The correct preposition to indicate a time period starting in the summer of 2021 is 'since,' making A the correct answer.",
+        "score_improvement_tip": "Pay attention to prepositions and their usage in context."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best completes the sentence? 'As commercial space travel becomes less expensive and more common, ______ we can test Cernan’s proposition.'",
+        "options": {
+          "A": "however",
+          "B": "therefore",
+          "C": "although",
+          "D": "meanwhile"
+        },
+        "answer": "B",
+        "explanation": "The sentence requires a transition that indicates a logical conclusion, making 'therefore' the correct choice.",
+        "score_improvement_tip": "Choose transitions that logically connect ideas within the sentence."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What can be inferred about the future of space tourism based on the final passage?",
+        "options": {
+          "A": "It will remain exclusive to the wealthy.",
+          "B": "It will lead to a decline in scientific research.",
+          "C": "It may influence how people perceive Earth.",
+          "D": "It will replace traditional forms of travel."
+        },
+        "answer": "C",
+        "explanation": "The passage suggests that more people experiencing the overview effect could change perspectives on Earth, making C the correct answer.",
+        "score_improvement_tip": "Use the passage's implications to make logical predictions about future developments."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

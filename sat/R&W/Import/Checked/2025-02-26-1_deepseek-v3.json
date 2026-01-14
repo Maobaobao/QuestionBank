@@ -1,0 +1,231 @@
+{
+    "article_title": "The Landlord and the Tenant",
+    "article_author": "Raquel Rutledge and Ken Armstrong",
+    "article_date": "2023",
+    "article_source": "ProPublica and Milwaukee Journal Sentinel",
+    "article_category": "Journalism",
+    "article_tags": ["Foster Care", "Abuse", "Legal Records"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "This story, a partnership between the Milwaukee Journal Sentinel and ProPublica, is the product of nine months of reporting.<br><br>We obtained records from at least eighteen local, state, and federal agencies and from eight different municipal, circuit, and federal courts. The records include notes of police detectives, code inspectors, and process servers; emails among Milwaukee police and federal agents; autopsies; deeds; fire reports from the West Allis, Brookfield, and Milwaukee fire departments, the Wisconsin Division of Criminal Investigation, the U.S. Fire Administration, and the U.S. Bureau of Alcohol, Tobacco, Firearms and Explosives; building-maintenance reports in Milwaukee and West Allis; Angelica Belen’s state Department of Corrections file; and more than one hundred photographs of the fire scene in West Allis."
+      },
+      {
+        "passage_number": 2,
+        "text": "The story’s dialogue comes mostly from audio records or transcripts. We obtained recordings of the 911 call on April 11, 2013; the police detectives’ five interviews with Belen on April 11 and 12, 2013; and Todd Brunner’s sentencing hearing in federal court in 2017. We gathered transcripts of Dawn Sosa’s sentencing hearing in 1992; a neighbor testifying about Brunner threatening him in 2004; Brunner being questioned by a bank’s lawyer in 2012; Belen’s sentencing in 2013; and Brunner’s sentencing in 2020 on a battery charge."
+      },
+      {
+        "passage_number": 3,
+        "text": "This article includes accounts of childhood abuse provided by Belen and her sister Rosalie Breckenridge. We spoke with both women, separately, in multiple interviews during which they recalled similar details about their time in foster and adoptive homes. We interviewed Belen in fifteen-minute phone conversations spanning more than three hours and in dozens of emails and visits to prison. We interviewed Breckenridge over the phone and at her home in Iowa."
+      },
+      {
+        "passage_number": 4,
+        "text": "To try to verify their accounts, we inspected a voluminous file in Milwaukee County Children’s Court. (Getting access required permission from Belen and Breckenridge and approval by a Milwaukee Circuit Court judge.) These records provided details about the girls’ biological parents, the girls’ history and health, their movement through foster homes and schools, and assessments by social workers. The documents spelled out abuse the girls endured before being placed in foster care. The records did not include information about abuse by foster parents, saying only that the girls were removed abruptly from the home in Waukesha via an emergency order."
+      },
+      {
+        "passage_number": 5,
+        "text": "Details about the harm to Belen in the foster and adoptive homes came, in part, from another Children’s Court file, regarding placement of Belen’s son. (Getting access to this file also required a judge’s approval.) In this file, social workers recapped Belen’s history in foster care. Referring to the home in Waukesha, they wrote, 'Angelica and her sibling wanted a father and were moved to a two-parent home pending adoption, but were physically abused.'<br><br>Social workers also noted that when Angelica was a teenager, living with the mother-daughter duo, they received a referral about marks on her wrists from being grabbed."
+      },
+      {
+        "passage_number": 6,
+        "text": "Details about the harm to Belen in the foster and adoptive homes came, in part, from another Children’s Court file, regarding placement of Belen’s son. (Getting access to this file also required a judge’s approval.) In this file, social workers recapped Belen’s history in foster care. Referring to the home in Waukesha, they wrote, 'Angelica and her sibling wanted a father and were moved to a two-parent home pending adoption, but were physically abused.'<br><br>Social workers also noted that when Angelica was a teenager, living with the mother-daughter duo, they received a referral about marks on her wrists from being grabbed.<br><br>In court, Belen’s aunt spoke and wrote of Belen’s abuse in foster care. In addition, a client services specialist in the Office of the State Public Defender wrote a memorandum saying Belen 'was victimized sexually in several foster placements.'<br><br>We received limited records from the Wisconsin Department of Children and Families confirming payments to the Waukesha foster parents during the time Belen was with them. The department did not have a complete file on the family as the record retention requirement was twenty years and had expired."
+      },
+      {
+        "passage_number": 7,
+        "text": "We did not name the foster parents as our investigation did not turn up any court records indicating they were charged with any crime. Records from the Department of Children and Families show payments to the couple ceased at the time the girls were removed from the home, indicating they did not have additional foster children placed with them.<br><br>We interviewed the foster father from the Waukesha home. He denied they abused the girls. (We also tried to reach the foster mother. The foster father sent a text in response that he said was on behalf of both of them. 'We Love them Very Much,' the text said of Angelica and Rosalie.)"
+      },
+      {
+        "passage_number": 8,
+        "text": "The daughter and mother who twice took in the two girls—when Angelica was five and ten—are no longer alive. We found no records indicating either was charged with any crime relating to the girls’ care.<br><br>We contacted Michael Guolee, the judge, now retired, who sentenced Dawn Sosa in 1992. (He’s the judge who told Sosa, 'You are weak.') He said he didn’t remember the case."
+      },
+      {
+        "passage_number": 9,
+        "text": "We tried to reach Shawn Brunner, both through his family and his lawyer. We sent letters to the address he shares with his parents and to the PO box that he lists in court records as his official address. We received confirmation from the Postal Service that they were delivered. We also sent him a message through Facebook. (We also sent written questions to Todd Brunner’s wife and did not get a response.)"
+      },
+      {
+        "passage_number": 10,
+        "text": "In our reporting, we were sometimes unable to get records because they were so old they had been destroyed. For example, we were unable to get the records from when Brunner first filed for bankruptcy protection, in 1992. We also could not find records detailing the resolution of Dawn Sosa’s arrest in 1985.<br><br>At times we drew on newspaper clips, including, most prominently, stories done by the Journal Sentinel’s Cary Spivak and an investigation published by the paper in 2021 about electrical fires."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the sources of information used in the investigation",
+          "B": "To explain the legal process involved in the case",
+          "C": "To highlight the challenges faced by investigators",
+          "D": "To provide a summary of the findings"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the extensive records and sources used in the investigation, making A the correct answer.",
+        "score_improvement_tip": "Focus on the main idea of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in the passage, the word 'transcripts' most likely refers to:",
+        "options": {
+          "A": "Written records of spoken words",
+          "B": "Legal documents",
+          "C": "Audio recordings",
+          "D": "Police reports"
+        },
+        "answer": "A",
+        "explanation": "The context indicates that 'transcripts' are written records of spoken words, such as those from interviews and court hearings.",
+        "score_improvement_tip": "Use context clues to determine the meaning of specific terms."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What can be inferred about the interviews with Belen and Breckenridge?",
+        "options": {
+          "A": "They were conducted in a single session",
+          "B": "They provided consistent accounts of their experiences",
+          "C": "They focused solely on their time in foster care",
+          "D": "They were conducted without their consent"
+        },
+        "answer": "B",
+        "explanation": "The passage mentions that both women recalled similar details, suggesting consistency in their accounts.",
+        "score_improvement_tip": "Look for clues in the text that support inferences about the information provided."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Why does the author mention the 'emergency order' in the passage?",
+        "options": {
+          "A": "To emphasize the severity of the situation",
+          "B": "To explain the legal process",
+          "C": "To highlight the role of social workers",
+          "D": "To provide a timeline of events"
+        },
+        "answer": "A",
+        "explanation": "The mention of an 'emergency order' underscores the urgency and seriousness of the situation, making A the correct answer.",
+        "score_improvement_tip": "Consider the author's purpose in including specific details."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which piece of evidence supports the claim that Belen was physically abused in foster care?",
+        "options": {
+          "A": "The records from Milwaukee County Children’s Court",
+          "B": "The testimony of Belen’s aunt",
+          "C": "The social workers’ notes in the Children’s Court file",
+          "D": "The foster father’s denial of abuse"
+        },
+        "answer": "C",
+        "explanation": "The social workers’ notes explicitly mention physical abuse, providing direct evidence.",
+        "score_improvement_tip": "Identify specific textual evidence that supports claims made in the passage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the information in second passage relate to the information in the first passage?",
+        "options": {
+          "A": "It provides additional evidence of abuse",
+          "B": "It contradicts the earlier claims",
+          "C": "It introduces a new perspective",
+          "D": "It summarizes the previous information"
+        },
+        "answer": "A",
+        "explanation": "The passage adds further evidence of abuse through the memorandum and limited records, supporting the earlier claims.",
+        "score_improvement_tip": "Look for connections between different parts of the text to understand how they relate."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "What is the effect of including the foster father’s text message in the passage?",
+        "options": {
+          "A": "It provides a counterpoint to the allegations of abuse",
+          "B": "It emphasizes the emotional impact on the foster parents",
+          "C": "It highlights the lack of evidence against the foster parents",
+          "D": "It adds a personal touch to the narrative"
+        },
+        "answer": "A",
+        "explanation": "The text message offers a contrasting perspective to the allegations, providing balance to the narrative.",
+        "score_improvement_tip": "Consider how different elements of the text contribute to the overall message."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about the judge’s statement to Dawn Sosa?",
+        "options": {
+          "A": "It was intended to be motivational",
+          "B": "It reflected his personal opinion",
+          "C": "It was based on evidence presented in court",
+          "D": "It was a standard legal pronouncement"
+        },
+        "answer": "B",
+        "explanation": "The judge’s statement appears to be a personal opinion rather than a legal judgment, making B the correct answer.",
+        "score_improvement_tip": "Use context to infer the meaning behind statements made in the text."
+      },
+      {
+        "question_number": 9,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which choice best completes the sentence? 'We tried to reach Shawn Brunner, both through his family and his lawyer. We sent letters to the address he shares with his parents and to the PO box that he lists in court records as his official address. We received confirmation from the Postal Service that they were delivered. We also sent him a message through Facebook.'",
+        "options": {
+          "A": "However, we did not receive a response.",
+          "B": "Therefore, we concluded our investigation.",
+          "C": "Meanwhile, we continued our search.",
+          "D": "Consequently, we closed the case."
+        },
+        "answer": "A",
+        "explanation": "The sentence logically concludes with the lack of response, making A the correct choice.",
+        "score_improvement_tip": "Ensure that the completed sentence maintains logical coherence with the rest of the passage."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What does the inability to obtain certain records suggest about the investigation?",
+        "options": {
+          "A": "It was hindered by the age of the records",
+          "B": "It was incomplete due to lack of cooperation",
+          "C": "It was biased towards certain sources",
+          "D": "It was focused on recent events"
+        },
+        "answer": "A",
+        "explanation": "The passage indicates that some records were too old to be obtained, suggesting that the investigation was hindered by the age of the records.",
+        "score_improvement_tip": "Use quantitative details in the text to draw conclusions about the investigation."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

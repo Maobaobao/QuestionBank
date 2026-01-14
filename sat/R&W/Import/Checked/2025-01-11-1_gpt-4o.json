@@ -1,0 +1,103 @@
+{
+    "article_title": "Obituary for Dead Languages",
+    "article_author": "Heather Altfeld",
+    "article_date": "2019",
+    "article_source": "The Best American Essays",
+    "article_category": "Essay",
+    "article_tags": ["Language", "Culture", "History"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Pressed with copper, inked on vellum, Ortelius’s 1570 Theatrum orbis terrarum (Theatre of the World) was an atlas of the visible, the earth as stage, the seas as audience, 160 maps graphing possibility, illuminating the desire for the unexplored. Each cartograph was legend to the coveted marvels of the known universe: spice, salt, fur, gold, moon, salt, stars, love, the whim of elements engraved in its corners—sun, fire, the rage of Poseidon, cold wind strapped to a mortal at sea. The boundaries, invisible to birds and despots, are marked by turrets, blurred by the rivers the dead cross alone at night. Here are the Nubian elephants, here are the hot tents of the Tartars, who used the blood of horses to slake their thirst, here the locusts of Ethiopia, who devour the corn and leave the meadows and pastures bare of grass so that the people do oftentimes leave their native soil where they were bred and born and are forced, for want of victuals, to go seek some other place to dwell on."
+      },
+      {
+        "passage_number": 2,
+        "text": "Recent broadcast from the terrarium of sadness and destruction: it will take between ten and fourteen days from now for another of the world’s 6,900 languages to die out. So let’s say that today the last speaker of something somewhere is dying. <br><br>Exhibit A: Alban Michael. Out of the 7,700,000,000 people on earth, he was the only one left who could speak Nuchatlaht. He lived near Nootka Island, he spoke to his parents in dreams, as there was no one left to speak to him. And then one year ago, he was gone, himself a dream, his language buried with him. <br><br>Exhibit B: After millennia of surviving in the Caucasus Mountains on one vowel and eighty-four consonants, Ubykh died in the grave of Tevfik Esenç. He said, I see you well instead of I love you and You cut my heart instead of You please me, the sounds of his words described in a fable as the noise of a bag of pebbles poured on a sultan’s marble floor."
+      },
+      {
+        "passage_number": 3,
+        "text": "Every human infant is a despot. Watch one emerge—first the head extruding slowly from the hot liquor of the sac, then the face turned to cough the brine, then one arm reaching out from the first mine, deep in the underground sea. Here is the lips’ first taste of salt, first gold, first light. Its first shriek is the most perverse desire to own and be owned, skin, liver, pinkies, hair, heart, all of it needs to belong, to the mother, to the father, to the country beneath it, it wants its own sky as soon as it sees light, fistfuls of cloud to swallow and devour. Every tiny hand grabs at the delicious world, each slivered nail wants to rake its sands and its sadnesses, merciless, indiscriminate."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary purpose of Ortelius’s Theatrum orbis terrarum as described in the passage?",
+        "options": {
+          "A": "To catalog historical artifacts",
+          "B": "To graph the possibilities of exploration",
+          "C": "To depict mythical creatures",
+          "D": "To promote commercial trade routes"
+        },
+        "answer": "B",
+        "explanation": "The passage highlights how the atlas graphically represented exploration possibilities and coveted marvels, making option B the correct choice.",
+        "score_improvement_tip": "Focus on the key details about an artifact's purpose, as described by the text."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "In the context of the passage, what does the word ‘blurred’ most nearly mean?",
+        "options": {
+          "A": "Confused",
+          "B": "Obscured",
+          "C": "Merged",
+          "D": "Smudged"
+        },
+        "answer": "B",
+        "explanation": "The word 'blurred' in the context of boundaries suggests they are obscured or made indistinct, aligning with option B.",
+        "score_improvement_tip": "Contextual clues are essential for vocabulary questions; consider how words function within a sentence."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Which choice provides the best evidence for the extinction of languages being a persistent global issue?",
+        "options": {
+          "A": "Recent broadcast from the terrarium of sadness and destruction.",
+          "B": "It will take between ten and fourteen days from now for another of the world’s 6,900 languages to die out.",
+          "C": "Exhibit A: Alban Michael.",
+          "D": "He spoke to his parents in dreams."
+        },
+        "answer": "B",
+        "explanation": "The statement quantifies the frequency of language extinction, providing a strong factual basis for the issue.",
+        "score_improvement_tip": "Look for specific data or examples that directly support the central claim of the question."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "How does the author characterize human infants in the context of their connection to language and belonging?",
+        "options": {
+          "A": "As inherently self-sufficient beings",
+          "B": "As symbols of pure innocence",
+          "C": "As possessive and demanding",
+          "D": "As curious and imaginative"
+        },
+        "answer": "C",
+        "explanation": "The passage emphasizes infants’ desire to own and belong, describing them as possessive and demanding.",
+        "score_improvement_tip": "Pay attention to descriptive language and how it aligns with broader themes."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }
+  
+  

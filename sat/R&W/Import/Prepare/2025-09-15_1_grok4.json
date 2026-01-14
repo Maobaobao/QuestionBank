@@ -1,0 +1,219 @@
+{
+  "article_title": "A space-based farmhand for hire",
+  "article_author": "Orji Sunday",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Science and Technology",
+  "article_tags": ["Precision Farming", "Satellite Imagery", "Agriculture in Africa", "Climate Change"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "While certain spots on his 70-hectare cassava farm in Ibadan, Nigeria, were thriving, a sizable parcel was pale and parched—the result of an early and unexpected halt in the rains. The cassava stems, starved of water, had withered to straw.\n\n“It was a really terrible experience for us,” Tope says, estimating the cost of the loss at more than 50 million naira ($32,000). “We were praying for a miracle to happen. But unfortunately, it was too late.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "When the next planting season rolled around, Tope’s team weighed different ways to avoid another cycle of heavy losses. They decided to work with EOS Data Analytics, a California-based provider of satellite imagery and data for precision farming.\n\nThe company uses wavelengths of light including the near-infrared, which penetrates plant canopies and can be used to measure a range of variables, including moisture level and chlorophyll content.\n\nEOS’s models and algorithms deliver insights on crops’ health weekly through an online platform that farmers can use to make informed decisions about issues such as when to plant, how much herbicide to use, and how to schedule fertilizer use, weeding, or irrigation."
+    },
+    {
+      "passage_number": 3,
+      "text": "When EOS first launched in 2015, it relied largely on imagery from a combination of satellites, especially the European Union’s Sentinel-2. But Sentinel-2 has a maximum resolution of 10 meters, making it of limited use for spotting issues on smaller farms, says Yevhenii Marchenko, the company’s sales team lead.\n\nSo last year the company launched EOS SAT-1, a satellite designed and operated solely for agriculture. Fees to use the crop-monitoring platform now start at $1.90 per hectare per year for small areas and drop as the farm gets larger. (Farmers who can afford to have adopted drones and other related technologies, but drones are significantly more expensive to maintain and scale, says Marchenko.)"
+    },
+    {
+      "passage_number": 4,
+      "text": "In many developing countries, farming is impaired by lack of data. For centuries, farmers relied on native intelligence rooted in experience and hope, says Daramola John, a professor of agriculture and agricultural technology at Bells University of Technology in southwest Nigeria. “Africa is way behind in the race for modernizing farming,” he says. “And a lot of farmers suffer huge losses because of it.”"
+    },
+    {
+      "passage_number": 5,
+      "text": "In the spring of 2023, when the new planting season was to start, Tope’s company, Carmi Agro Foods, had used GPSenabled software to map the boundaries of its farm. Its setup on the EOS crop monitoring platform was also completed. Tope used the platform to determine the appropriate spacing for the stems and seeds. The rigors and risks of manual monitoring had disappeared. His field-monitoring officers needed only to peer at their phones to know where or when specific spots needed attention on various farms. He was able to track weed breakouts quickly and efficiently."
+    },
+    {
+      "passage_number": 6,
+      "text": "This technology is gaining traction among farmers in other parts of Nigeria and the rest of Africa. More than 242,000 people in Africa, Southeast Asia, Latin America, the United States, and Europe use the EOS crop-monitoring platform. In 2023 alone, 53,000 more farmers subscribed to the service.\n\nOne of them is Adewale Adegoke, the CEO of Agro Xchange Technology Services, a company dedicated to boosting crop yields using technology and good agricultural practices. Adegoke used the platform on half a million hectares (around 1.25 million acres) owned by 63,000 farmers. He says the yield of maize farmers using the platform, for instance, grew to two tons per acre, at least twice the national average.\n\nAdegoke adds that local farmers, who have been struggling with fluctuating conditions as a result of climate change, have been especially drawn to the platform’s early warning system for weather."
+    },
+    {
+      "passage_number": 7,
+      "text": "As harvest time draws nearer this year, Tope reports, the prospects of his cassava field, which now spans a thousand hectares, is quite promising. This is thanks in part to his ability to anticipate and counter the sudden dry spells. He spaced the plantings better and then followed advisories on weeding, fertilizer use, and other issues related to the health of the crops.\n\n“So far, the result has been convincing,” says Tope. “We are no longer subjecting the performance of our farms to chance. This time, we are in charge.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary issue described in the passage?",
+      "options": {
+        "A": "A farmer's decision to adopt new technology",
+        "B": "The benefits of satellite imagery for farming",
+        "C": "Crop failure due to insufficient rainfall",
+        "D": "The expansion of a cassava farm in Nigeria"
+      },
+      "answer": "C",
+      "explanation": "The passage details the withering of cassava stems due to an early halt in rains, leading to significant financial loss, making C the correct choice.",
+      "score_improvement_tip": "Focus on identifying the main problem or event in the text rather than peripheral details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'insights' most nearly means",
+      "options": {
+        "A": "observations",
+        "B": "opinions",
+        "C": "analyses",
+        "D": "visions"
+      },
+      "answer": "A",
+      "explanation": "The term refers to data-derived observations on crop health provided weekly, aligning with 'observations' in context.",
+      "score_improvement_tip": "Consider how the word fits the surrounding sentence to determine its precise meaning."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main reason EOS launched its own satellite?",
+      "options": {
+        "A": "To reduce costs for farmers",
+        "B": "To improve resolution for smaller farms",
+        "C": "To compete with drone technology",
+        "D": "To expand into new markets"
+      },
+      "answer": "B",
+      "explanation": "The passage states that Sentinel-2's 10-meter resolution was limited for smaller farms, prompting the launch of EOS SAT-1.",
+      "score_improvement_tip": "Look for direct textual support that explains causes or reasons in the passage."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The main purpose of the passage is to",
+      "options": {
+        "A": "criticize traditional farming methods",
+        "B": "highlight the challenges of data scarcity in developing countries' agriculture",
+        "C": "promote a specific university's agricultural program",
+        "D": "describe the history of farming in Africa"
+      },
+      "answer": "B",
+      "explanation": "The passage emphasizes how lack of data impairs farming and quotes an expert on Africa's lag in modernization.",
+      "score_improvement_tip": "Determine the author's intent by examining the overall focus and supporting quotes."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "However",
+        "B": "Additionally",
+        "C": "Consequently",
+        "D": "Meanwhile"
+      },
+      "answer": "C",
+      "explanation": "The setup on the platform led to the disappearance of manual monitoring risks, indicating a result, so 'Consequently' fits best.",
+      "score_improvement_tip": "Choose transitions that reflect the logical relationship between ideas, such as cause and effect."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the passage, it can most reasonably be inferred that the platform's appeal to local farmers is primarily due to",
+      "options": {
+        "A": "its low subscription fees",
+        "B": "its integration with drone technology",
+        "C": "its ability to address climate-related uncertainties",
+        "D": "its exclusive focus on maize crops"
+      },
+      "answer": "C",
+      "explanation": "The passage notes farmers' struggles with climate change and their attraction to the early warning system for weather.",
+      "score_improvement_tip": "Draw inferences by connecting implied ideas, such as linking challenges to specific features."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "Suppose a researcher found that farms using traditional methods experienced consistent yields despite climate fluctuations. This finding would most directly undermine",
+      "options": {
+        "A": "Tope's claim about being in charge of farm performance",
+        "B": "the implication that technology reduces risks from chance",
+        "C": "the report on the promising prospects of the cassava field",
+        "D": "the details about spacing plantings and following advisories"
+      },
+      "answer": "B",
+      "explanation": "The passage contrasts reliance on chance with technology's control, which would be weakened if traditional methods also mitigated fluctuations.",
+      "score_improvement_tip": "Evaluate how hypothetical evidence challenges underlying assumptions in the text."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "While researching a topic, a student has taken the following notes:\n• EOS uses near-infrared light to measure moisture and chlorophyll.\n• Insights are delivered weekly via an online platform.\n• Farmers make decisions on planting, herbicides, and irrigation.\nWhich choice most effectively uses relevant information from the notes to explain the platform's function?",
+      "options": {
+        "A": "EOS provides weekly insights using near-infrared light, allowing farmers to decide on various crop management issues.",
+        "B": "Farmers rely on EOS for decisions about herbicides and irrigation, based on moisture measurements.",
+        "C": "The platform measures chlorophyll content and delivers insights on planting schedules.",
+        "D": "Near-infrared light penetrates canopies, but weekly delivery is key for farmers."
+      },
+      "answer": "A",
+      "explanation": "This choice synthesizes all notes comprehensively to describe the platform's overall function.",
+      "score_improvement_tip": "Synthesize notes by selecting the option that best integrates all key points without omission or distortion."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Fees to use the crop-monitoring platform now start at $1.90 per hectare per year for small areas and drop as the farm gets larger. (Farmers who can afford to have adopted drones and other related technologies, but drones are significantly more expensive to maintain and scale, says Marchenko.)\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "Farmers who can afford to have adopted drones and other related technologies, but drones are significantly more expensive to maintain and scale, says Marchenko.",
+        "B": "Farmers who can afford them have adopted drones and other related technologies, but drones are significantly more expensive to maintain and scale, says Marchenko.",
+        "C": "Farmers who can afford to, have adopted drones and other related technologies but drones are significantly more expensive to maintain and scale, says Marchenko.",
+        "D": "Farmers who can afford to have adopted drones and other related technologies but drones are significantly more expensive to maintain and scale says Marchenko."
+      },
+      "answer": "B",
+      "explanation": "The correct choice adds 'them' for pronoun reference and uses a comma to separate the clause properly.",
+      "score_improvement_tip": "Check for pronoun clarity and proper punctuation in parenthetical statements."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "While certain spots on his 70-hectare cassava farm in Ibadan, Nigeria, were thriving, a sizable parcel was pale and parched—the result of an early and unexpected halt in the rains. The cassava stems, starved of water, had withered to straw.\nTo make the text most logically complete, the sentence should begin with",
+      "options": {
+        "A": "Although",
+        "B": "Because",
+        "C": "When",
+        "D": "If"
+      },
+      "answer": "A",
+      "explanation": " 'Although' best introduces the contrast between thriving spots and the parched parcel.",
+      "score_improvement_tip": "Select introductory words that establish the intended logical relationship, such as contrast."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, synthesis, and analysis, accurately interpreting complex contexts and structures while applying conventions precisely.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on nuanced inferences, cross-connections, or advanced rhetorical revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require deep inference, synthesis of ideas, cross-text analysis, and precise application of conventions in complex sentences.",
+    "medium_questions": "Medium questions focus on identifying purposes, using textual evidence, and selecting appropriate transitions for logical flow.",
+    "easy_questions": "Easy questions test basic identification of central ideas and word meanings in straightforward contexts."
+  }
+}

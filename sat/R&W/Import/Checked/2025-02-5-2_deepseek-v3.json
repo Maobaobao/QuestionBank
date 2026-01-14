@@ -1,0 +1,207 @@
+{
+  "article_title": "What Plants Are Saying About Us",
+  "article_author": "Amanda Gefter",
+  "article_date": "2024",
+  "article_source": "Nautilus",
+  "article_category": "Essay",
+  "article_tags": ["Plants", "Cognition", "Neuroscience", "Biology"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Calvo wasn’t into plants, either. Not at first. As a philosopher, he was busy trying to understand human minds. When he began studying cognitive science in the 1990s, the dominant view was the brain was a kind of computer. Just as computers represent data in transistors, which can be in “on” or “off” states corresponding to 0s and 1s, brains were thought to represent data in the states of their neurons, which could be “on” or “off” depending on whether they fire. Computers manipulate their representations according to logical rules, or algorithms, and brains, by analogy, were believed to do the same.<br>But Calvo wasn’t convinced. Computers are good at logic, at carrying out long, precise calculations—not exactly humanity’s shining skill. Humans are good at something else: noticing patterns, intuiting, functioning in the face of ambiguity, error, and noise. While a computer’s reasoning is only as good as the data you feed it, a human can intuit a lot from just a few vague hints—a skill that surely helped on the savannah when we had to recognize a tiger hiding in the bushes from just a few broken stripes. “My hunch was that there was something really wrong, something deeply distorted about the very idea that cognition had to do with manipulating symbols or following rules,” Calvo says."
+    },
+    {
+      "passage_number": 2,
+      "text": "Calvo went to the University of California San Diego to work on artificial neural networks. Rather than dealing in symbols and algorithms, neural networks represent data in large webs of associations, where one wrong digit doesn’t matter so long as more of them are right, and from a few sketchy clues—stripe, rustle, orange, eye—the network can bootstrap a half-decent guess—tiger!<br>Artificial neural networks have led to breakthroughs in machine learning and big data, but they still seemed, to Calvo, a far cry from living intelligence. Programmers train the neural networks, telling them when they’re right and when they’re wrong, whereas living systems figure things out for themselves, and with small amounts of data to boot. A computer has to see, say, a million pictures of cats before it can recognize one, and even then all it takes to trip up the algorithm is a shadow. Meanwhile, you show a two-year-old human one cat, cast all the shadows you want, and the toddler will recognize that kitty.<br>“Artificial systems give us nice metaphors,” Calvo says. “But what we can model with artificial systems is not genuine cognition. Biological systems are doing something entirely different.”<br>Calvo was determined to find out what that was, to get at the essence of how real biological systems perceive, think, imagine, and learn. Humans share a long evolutionary history with other forms of life, other forms of mind, so why not start with the most basic living systems and work from the bottom up? “If you study systems that look way different and yet you find similarities,” Calvo says, “maybe you can put your finger on what is truly at stake.”<br>So Calvo traded neural networks for a green thumb. To understand how human minds work, he was going to start with plants."
+    },
+    {
+      "passage_number": 3,
+      "text": "It turns out it’s true: Plants do stuff.<br>For one thing, they can sense their surroundings. Plants have photoreceptors that respond to different wavelengths of light, allowing them to differentiate not only brightness but color. Tiny grains of starch in organelles called amyloplasts shift around in response to gravity, so the plants know which way is up. Chemical receptors detect odor molecules; mechanoreceptors respond to touch; the stress and strain of specific cells track the plant’s own ever-changing shape, while the deformation of others monitors outside forces, like wind. Plants can sense humidity, nutrients, competition, predators, microorganisms, magnetic fields, salt, and temperature, and can track how all of those things are changing over time. They watch for meaningful trends—Is the soil depleting? Is the salt content rising?—then alter their growth and behavior through gene expression to compensate.<br>Plants’ abilities to sense and respond to their surroundings lead to what seems like intelligent behavior. Their roots can avoid obstacles. They can distinguish self from non-self, stranger from kin. If a plant finds itself in a crowd, it will invest resources in vertical growth to remain in light; if nutrients are on the decline, it will opt for root expansion instead. Leaves munched on by insects send electrochemical signals to warn the rest of the foliage, and they’re quicker to react to threats if they’ve encountered them in the past. Plants chat among themselves and with other species. They release volatile organic compounds with a lexicon, Calvo says, of more than 1,700 “words”—allowing them to shout things that a human might translate as “caterpillar incoming” or “*$@#, lawn mower!”<br>Their behavior isn’t merely reactive—plants anticipate, too. They can turn their leaves in the direction of the sun before it rises, and accurately trace its location in the sky even when they’re kept in the dark. They can predict, based on prior experience, when pollinators are most likely to show up and time their pollen production accordingly. A plant’s form is a record of its history. Its cells—shaped by experience—remember."
+    },
+    {
+      "passage_number": 4,
+      "text": "Chat? Anticipate? Remember? It’s tempting to tame all those words with scare quotes, as if they can’t mean for plants what they mean for us. For plants, we say, it’s biochemistry, just physiology and brute mechanics—as if that’s not true for us, too."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary focus of the first passage?",
+      "options": {
+        "A": "The superiority of computers over human brains",
+        "B": "Calvo’s critique of the brain-as-computer analogy",
+        "C": "The history of artificial neural networks",
+        "D": "The role of logic in human cognition"
+      },
+      "answer": "B",
+      "explanation": "The passage centers on Calvo’s skepticism about reducing cognition to symbolic computation, contrasting human intuition with computer logic.",
+      "score_improvement_tip": "Identify the main argument by focusing on repeated critiques or comparisons in the text."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "As used in the passage, 'bootstrapping' most nearly means:",
+      "options": {
+        "A": "Pulling oneself up by physical effort",
+        "B": "Deriving a conclusion from limited data",
+        "C": "Programming a computer algorithm",
+        "D": "Replacing old systems with new ones"
+      },
+      "answer": "B",
+      "explanation": "The context describes neural networks making 'half-decent guesses' from sketchy clues, indicating inference from partial data.",
+      "score_improvement_tip": "Connect technical terms to their functional descriptions in the passage."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Why did Calvo switch from studying neural networks to plants?",
+      "options": {
+        "A": "Plants are easier to model than computers.",
+        "B": "He wanted to explore biological cognition’s unique traits.",
+        "C": "Neural networks had already solved human cognition.",
+        "D": "Plants use symbols like human brains."
+      },
+      "answer": "B",
+      "explanation": "Calvo sought to understand biological cognition by studying systems that 'look way different' but share fundamental traits.",
+      "score_improvement_tip": "Link shifts in research focus to explicitly stated motivations."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The detailed list of plant capabilities primarily serves to:",
+      "options": {
+        "A": "Downplay human cognitive abilities",
+        "B": "Argue that plants possess intelligence",
+        "C": "Explain agricultural techniques",
+        "D": "Compare plants to computers"
+      },
+      "answer": "B",
+      "explanation": "The passage builds evidence (sensing, anticipating, communicating) to challenge assumptions about plant intelligence.",
+      "score_improvement_tip": "Analyze how examples collectively support an overarching claim."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "Which evidence best demonstrates plants' ability to 'remember'?",
+      "options": {
+        "A": "Leaves send electrochemical signals when damaged.",
+        "B": "Cells are shaped by past experiences.",
+        "C": "Roots avoid obstacles.",
+        "D": "Plants track magnetic fields."
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states that a plant’s cells 'remember' through experience-driven shaping.",
+      "score_improvement_tip": "Match specific verbs in the question (e.g., 'remember') to direct textual references."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "As used in the passage, 'lexicon' most nearly means:",
+      "options": {
+        "A": "Dictionary",
+        "B": "Vocabulary",
+        "C": "Grammar rules",
+        "D": "Chemical formula"
+      },
+      "answer": "B",
+      "explanation": "The context compares plant chemical signals to a vocabulary ('1,700 words'), making 'lexicon' synonymous with 'vocabulary.'",
+      "score_improvement_tip": "Use analogies in the text (e.g., 'words') to decode metaphorical terms."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The final paragraph implies that human cognition is:",
+      "options": {
+        "A": "Fundamentally different from plant biochemistry",
+        "B": "Also rooted in physiological processes",
+        "C": "Superior due to self-awareness",
+        "D": "Unrelated to mechanical systems"
+      },
+      "answer": "B",
+      "explanation": "The author challenges the distinction between plant 'biochemistry' and human cognition, implying both are physiological.",
+      "score_improvement_tip": "Note rhetorical questions and comparisons to infer the author’s perspective."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The reference to studying systems that 'look way different' primarily serves to:",
+      "options": {
+        "A": "Criticize artificial intelligence research",
+        "B": "Justify Calvo’s methodological shift",
+        "C": "Highlight flaws in neural networks",
+        "D": "Promote interdisciplinary collaboration"
+      },
+      "answer": "B",
+      "explanation": "Calvo uses this reasoning to explain why studying plants could reveal universal aspects of cognition.",
+      "score_improvement_tip": "Identify how quotes support a researcher’s rationale."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Which finding supports Calvo’s skepticism about the brain-as-computer model?",
+      "options": {
+        "A": "Humans struggle with precise calculations.",
+        "B": "Neural networks require massive datasets.",
+        "C": "Toddlers recognize cats from one example.",
+        "D": "Plants anticipate sunrise."
+      },
+      "answer": "C",
+      "explanation": "The toddler example contrasts human efficiency with computers’ data hunger, aligning with Calvo’s critique.",
+      "score_improvement_tip": "Connect examples to the broader argument they illustrate."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "How does the final paragraph relate to the passage’s opening discussion of computers?",
+      "options": {
+        "A": "It contrasts mechanical and biological systems.",
+        "B": "It reinforces the superiority of human cognition.",
+        "C": "It questions assumptions about human uniqueness.",
+        "D": "It proposes a new model for AI development."
+      },
+      "answer": "C",
+      "explanation": "Both sections challenge anthropocentric views: first by comparing humans to computers, then plants to humans.",
+      "score_improvement_tip": "Track thematic parallels between introductory and concluding sections."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery in synthesizing complex arguments, decoding nuanced vocabulary, and analyzing rhetorical structures across passages.",
+    "700_level_performance": "Students scoring 700 show strong comprehension of explicit ideas and moderate inferences but may miss subtle connections or layered meanings."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require analyzing rhetorical strategies, inferring author perspectives, and connecting themes across passages.",
+    "medium_questions": "Medium questions test comprehension of evidence-based claims and vocabulary in technical contexts.",
+    "easy_questions": "Easy questions assess identification of explicit details and central ideas."
+  }
+}

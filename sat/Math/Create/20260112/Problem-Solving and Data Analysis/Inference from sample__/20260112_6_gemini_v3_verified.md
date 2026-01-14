@@ -1,0 +1,487 @@
+# Math Test JSON Verification Report
+
+## Summary
+- Total Questions: 20
+- Issues Found: 3
+- Critical Errors: 2
+- Minor Issues/Warnings: 1
+
+## Detailed Issue Log
+| Q# | Category | Issue Description | Proposed Correction |
+| :-- | :--- | :--- | :--- |
+| 16 (Duplicate) | Content Error / JSON Structure | There are two questions numbered 16. The first one contains forbidden internal chain-of-thought in the explanation ("This seems complex for integers... Let's adjust...") and appears to be an abandoned generation. | Remove the first, malformed Question 16. Keep the second, correct Question 16. |
+| Metadata | Metadata Inconsistency | The `question_type_distribution` declares 15 MCQ and 5 SPR, but the actual count is 14 MCQ and 6 SPR. | Update metadata to `{"multiple_choice": 14, "student_produced_response": 6}`. |
+| Metadata | Metadata Inconsistency | The `focus_skills` list is incomplete, listing only 4 skills while the test covers 12 distinct skills. | Update `focus_skills` to include all skills present in the test questions. |
+
+## Metadata Consistency Findings
+- The domains and skills listed in the individual questions are correct, but the summary metadata was incomplete. This has been corrected in the final JSON.
+
+---
+
+**PART 2: CORRECTED JSON FILE**
+
+```json
+{
+  "test_metadata": {
+    "focus_domains": [
+      "Problem-Solving and Data Analysis",
+      "Algebra",
+      "Advanced Math",
+      "Geometry and Trigonometry"
+    ],
+    "focus_skills": [
+      "Inference from sample statistics and margin of error",
+      "Linear equations in 1 variable",
+      "Systems of 2 linear equations in 2 variables",
+      "Nonlinear functions",
+      "Lines, angles, and triangles",
+      "Circles",
+      "Two-variable data: models and scatter-plots",
+      "Linear inequalities in 1 or 2 variables",
+      "Nonlinear equations in 1 variable",
+      "Probability and conditional probability",
+      "One-variable data: distributions and measures of center and spread",
+      "Right triangles and trigonometry"
+    ],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 14,
+      "student_produced_response": 6
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>4</mn><mi>x</mi><mo>-</mo><mn>9</mn><mo>=</mo><mn>11</mn></math>, what is the value of <math><mn>3</mn><mi>x</mi></math>?",
+      "options": {
+        "A": "5",
+        "B": "15",
+        "C": "20",
+        "D": "30"
+      },
+      "answer": "B",
+      "explanation": "First, solve for <math><mi>x</mi></math>. Add 9 to both sides: <math><mn>4</mn><mi>x</mi><mo>=</mo><mn>20</mn></math>. Divide by 4 to get <math><mi>x</mi><mo>=</mo><mn>5</mn></math>. The question asks for the value of <math><mn>3</mn><mi>x</mi></math>, so substitute 5 for <math><mi>x</mi></math>: <math><mn>3</mn><mo>(</mo><mn>5</mn><mo>)</mo><mo>=</mo><mn>15</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Always check what the question is asking for. It might ask for <math><mn>3</mn><mi>x</mi></math> rather than just <math><mi>x</mi></math>.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A biologist surveys a random sample of 60 turtles from a large lake and finds that 12 of them are painted turtles. If the lake contains 2,500 turtles in total, what is the best estimate for the total number of painted turtles in the lake?",
+      "options": {
+        "A": "300",
+        "B": "500",
+        "C": "600",
+        "D": "1,200"
+      },
+      "answer": "B",
+      "explanation": "Calculate the proportion of painted turtles in the sample: <math><mfrac><mn>12</mn><mn>60</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>20</mn></math>. Multiply this proportion by the total population to estimate the number in the lake: <math><mn>0</mn><mo>.</mo><mn>20</mn><mo>&#215;</mo><mn>2</mn><mo>,</mo><mn>500</mn><mo>=</mo><mn>500</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When generalizing from a random sample, assume the sample proportion applies to the entire population.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The function <math><mi>f</mi></math> is defined by <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn></math>. What is the value of <math><mi>f</mi><mo>(</mo><mn>4</mn><mo>)</mo></math>?",
+      "options": null,
+      "answer": "37",
+      "explanation": "Substitute <math><mn>4</mn></math> for <math><mi>x</mi></math> in the function: <math><mi>f</mi><mo>(</mo><mn>4</mn><mo>)</mo><mo>=</mo><mn>2</mn><mo>(</mo><msup><mn>4</mn><mn>2</mn></msup><mo>)</mo><mo>+</mo><mn>5</mn></math>. Simplify the exponent first: <math><msup><mn>4</mn><mn>2</mn></msup><mo>=</mo><mn>16</mn></math>. Then multiply: <math><mn>2</mn><mo>(</mo><mn>16</mn><mo>)</mo><mo>=</mo><mn>32</mn></math>. Finally, add 5: <math><mn>32</mn><mo>+</mo><mn>5</mn><mo>=</mo><mn>37</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Follow the order of operations (PEMDAS) strictly when evaluating functions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Lines, angles, and triangles",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><polygon points='50,150 250,150 150,50' fill='none' stroke='black' stroke-width='2'/><text x='140' y='40' font-family='Arial' font-size='16'>x°</text><text x='30' y='160' font-family='Arial' font-size='16'>40°</text><text x='255' y='160' font-family='Arial' font-size='16'>40°</text></svg>",
+      "question_chart_description": "An isosceles triangle with base angles labeled 40 degrees and the vertex angle labeled x degrees.",
+      "question": "In the triangle shown above, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "80",
+        "B": "90",
+        "C": "100",
+        "D": "140"
+      },
+      "answer": "C",
+      "explanation": "The sum of the interior angles of a triangle is <math><mn>180</mn><mo>&#176;</mo></math>. The two base angles are <math><mn>40</mn><mo>&#176;</mo></math> each. Therefore, <math><mi>x</mi><mo>+</mo><mn>40</mn><mo>+</mo><mn>40</mn><mo>=</mo><mn>180</mn></math>. Solving for <math><mi>x</mi></math> gives <math><mi>x</mi><mo>+</mo><mn>80</mn><mo>=</mo><mn>180</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>100</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember that the sum of angles in any triangle is always 180 degrees.",
+      "additional_data": null
+    },
+    {
+      "question_number": 5,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A market researcher surveyed a random sample of 250 households in a city to determine the percentage of households with a vegetable garden. The survey found that 28% of the households had a vegetable garden, with a margin of error of 4%. Which of the following is the most appropriate conclusion based on these results?",
+      "options": {
+        "A": "Exactly 28% of all households in the city have a vegetable garden.",
+        "B": "It is plausible that between 24% and 32% of all households in the city have a vegetable garden.",
+        "C": "The percentage of households with a vegetable garden is less than 24%.",
+        "D": "Between 24% and 32% of the households in the sample have a vegetable garden."
+      },
+      "answer": "B",
+      "explanation": "The margin of error defines a range of plausible values for the entire population, not just the sample. The interval is calculated as <math><mn>28</mn><mo>%</mo><mo>-</mo><mn>4</mn><mo>%</mo></math> to <math><mn>28</mn><mo>%</mo><mo>+</mo><mn>4</mn><mo>%</mo></math>, which is 24% to 32%. Therefore, it is plausible that the true population percentage lies within this range.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Margin of error creates an interval (Estimate ± Margin) around the sample statistic describing the likely population value.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A local cinema sells tickets for regular seats and premium seats. Regular seats cost $12 each, and premium seats cost $18 each. If the cinema sold a total of 150 tickets for a revenue of $2,100, how many premium tickets were sold?",
+      "options": {
+        "A": "50",
+        "B": "75",
+        "C": "100",
+        "D": "120"
+      },
+      "answer": "A",
+      "explanation": "Let <math><mi>r</mi></math> be the number of regular tickets and <math><mi>p</mi></math> be the number of premium tickets. We have the system: <math><mi>r</mi><mo>+</mo><mi>p</mi><mo>=</mo><mn>150</mn></math> and <math><mn>12</mn><mi>r</mi><mo>+</mo><mn>18</mn><mi>p</mi><mo>=</mo><mn>2100</mn></math>. From the first equation, <math><mi>r</mi><mo>=</mo><mn>150</mn><mo>-</mo><mi>p</mi></math>. Substitute into the second: <math><mn>12</mn><mo>(</mo><mn>150</mn><mo>-</mo><mi>p</mi><mo>)</mo><mo>+</mo><mn>18</mn><mi>p</mi><mo>=</mo><mn>2100</mn></math>. This simplifies to <math><mn>1800</mn><mo>-</mo><mn>12</mn><mi>p</mi><mo>+</mo><mn>18</mn><mi>p</mi><mo>=</mo><mn>2100</mn></math>, or <math><mn>1800</mn><mo>+</mo><mn>6</mn><mi>p</mi><mo>=</mo><mn>2100</mn></math>. Subtract 1800: <math><mn>6</mn><mi>p</mi><mo>=</mo><mn>300</mn></math>. Thus <math><mi>p</mi><mo>=</mo><mn>50</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Define variables clearly for each quantity and translate the word problem into two distinct linear equations.",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A population of bacteria doubles every 4 hours. If the initial population is 500 bacteria, what will the population be after 12 hours?",
+      "options": null,
+      "answer": "4000",
+      "explanation": "The population growth can be modeled by <math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>500</mn><mo>&#183;</mo><msup><mn>2</mn><mfrac><mi>t</mi><mn>4</mn></mfrac></msup></math>. For <math><mi>t</mi><mo>=</mo><mn>12</mn></math>, the number of doubling periods is <math><mfrac><mn>12</mn><mn>4</mn></mfrac><mo>=</mo><mn>3</mn></math>. The population becomes <math><mn>500</mn><mo>&#183;</mo><msup><mn>2</mn><mn>3</mn></msup><mo>=</mo><mn>500</mn><mo>&#183;</mo><mn>8</mn><mo>=</mo><mn>4000</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For exponential growth, determine the number of 'cycles' that have passed (total time divided by doubling time) and use that as the exponent.",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation of a circle in the xy-plane is given by <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>+</mo><mn>5</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. What is the radius of this circle?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "6",
+        "D": "36"
+      },
+      "answer": "C",
+      "explanation": "The standard equation of a circle is <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>-</mo><mi>k</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math>, where <math><mi>r</mi></math> is the radius. Comparing this to the given equation, <math><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. Taking the square root, <math><mi>r</mi><mo>=</mo><mn>6</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember that the number on the right side of the circle equation represents the radius squared, not the radius itself.",
+      "additional_data": null
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><line x1='30' y1='270' x2='270' y2='270' stroke='black' stroke-width='2'/><line x1='30' y1='270' x2='30' y2='30' stroke='black' stroke-width='2'/><circle cx='50' cy='250' r='3' fill='blue'/><circle cx='80' cy='220' r='3' fill='blue'/><circle cx='110' cy='200' r='3' fill='blue'/><circle cx='140' cy='170' r='3' fill='blue'/><circle cx='170' cy='150' r='3' fill='blue'/><circle cx='200' cy='130' r='3' fill='blue'/><circle cx='230' cy='110' r='3' fill='blue'/><circle cx='260' cy='80' r='3' fill='blue'/><line x1='30' y1='265' x2='280' y2='65' stroke='red' stroke-width='2' stroke-dasharray='5,5'/><text x='150' y='290' text-anchor='middle'>x</text><text x='15' y='150' text-anchor='middle'>y</text></svg>",
+      "question_chart_description": "A scatterplot showing a negative linear association with a line of best fit drawn from approximately (0, 10) down to (10, 2).",
+      "question": "The scatterplot above shows the relationship between <math><mi>x</mi></math> and <math><mi>y</mi></math>. Which of the following equations best represents the line of best fit shown?",
+      "options": {
+        "A": "<math><mi>y</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+        "B": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+        "C": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi>x</mi><mo>-</mo><mn>10</mn></math>",
+        "D": "<math><mi>y</mi><mo>=</mo><mn>0</mn><mo>.</mo><mn>8</mn><mi>x</mi><mo>-</mo><mn>10</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "The line starts high on the y-axis and goes down as x increases, indicating a negative slope. The y-intercept is positive (above the x-axis). Only option B has both a negative slope (<math><mo>-</mo><mn>0</mn><mo>.</mo><mn>8</mn></math>) and a positive y-intercept (<math><mn>10</mn></math>).",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Identify the slope direction (positive/negative) and the y-intercept location to quickly eliminate incorrect linear models.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A cargo elevator has a maximum weight limit of 2,000 pounds. A delivery driver weighs 180 pounds and is loading boxes that weigh 45 pounds each. What is the maximum number of boxes the driver can load into the elevator at one time?",
+      "options": null,
+      "answer": "40",
+      "explanation": "Let <math><mi>b</mi></math> be the number of boxes. The total weight is the driver's weight plus the weight of the boxes: <math><mn>180</mn><mo>+</mo><mn>45</mn><mi>b</mi></math>. This total must be less than or equal to 2,000 pounds: <math><mn>180</mn><mo>+</mo><mn>45</mn><mi>b</mi><mo>&#8804;</mo><mn>2000</mn></math>. Subtract 180 from both sides: <math><mn>45</mn><mi>b</mi><mo>&#8804;</mo><mn>1820</mn></math>. Divide by 45: <math><mi>b</mi><mo>&#8804;</mo><mn>40</mn><mo>.</mo><mn>44</mn></math>. Since the driver cannot load a fraction of a box, the maximum integer number of boxes is 40.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving inequalities for real-world items (like boxes), always round down to the nearest whole number if the variable must be an integer.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Two independent polls were conducted to estimate the approval rating of a mayor. Poll A surveyed 400 residents and reported an approval rating of 52% with a margin of error of 5%. Poll B surveyed 1,500 residents from the same population and found an approval rating of 48% with a margin of error of 2.5%. Which of the following is the most likely reason for the difference in the margin of error between the two polls?",
+      "options": {
+        "A": "Poll A had a larger sample size than Poll B.",
+        "B": "Poll B had a larger sample size than Poll A.",
+        "C": "Poll A had a higher approval rating than Poll B.",
+        "D": "Poll B sampled from a different population than Poll A."
+      },
+      "answer": "B",
+      "explanation": "Margin of error is inversely related to sample size. A larger sample size results in a smaller margin of error because the sample is more likely to be representative of the population. Since Poll B has a smaller margin of error (2.5% vs 5%), it likely had a significantly larger sample size.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember the relationship: Larger Sample Size = Smaller Margin of Error. Smaller Sample Size = Larger Margin of Error.",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "How many distinct real solutions does the equation <math><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn></math> have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "answer": "A",
+      "explanation": "Use the discriminant <math><mi>b</mi><mo>^</mo><mn>2</mn><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></math> of the quadratic equation <math><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>. Here, <math><mi>a</mi><mo>=</mo><mn>3</mn></math>, <math><mi>b</mi><mo>=</mo><mn>4</mn></math>, and <math><mi>c</mi><mo>=</mo><mn>5</mn></math>. Discriminant: <math><msup><mn>4</mn><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>(</mo><mn>5</mn><mo>)</mo><mo>=</mo><mn>16</mn><mo>-</mo><mn>60</mn><mo>=</mo><mo>-</mo><mn>44</mn></math>. Since the discriminant is negative, there are no real solutions.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Calculate the discriminant (<math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></math>): Positive = 2 real solutions; Zero = 1 real solution; Negative = 0 real solutions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='200' viewBox='0 0 400 200' xmlns='http://www.w3.org/2000/svg'><style>text { font-family: sans-serif; font-size: 14px; }</style><rect x='0' y='0' width='400' height='200' fill='white'/><line x1='100' y1='0' x2='100' y2='200' stroke='black'/><line x1='200' y1='0' x2='200' y2='200' stroke='black'/><line x1='300' y1='0' x2='300' y2='200' stroke='black'/><line x1='0' y1='50' x2='400' y2='50' stroke='black'/><line x1='0' y1='100' x2='400' y2='100' stroke='black'/><line x1='0' y1='150' x2='400' y2='150' stroke='black'/><text x='50' y='30'>Group</text><text x='150' y='30'>Passed</text><text x='250' y='30'>Failed</text><text x='350' y='30'>Total</text><text x='50' y='80'>Group A</text><text x='150' y='80'>45</text><text x='250' y='80'>15</text><text x='350' y='80'>60</text><text x='50' y='130'>Group B</text><text x='150' y='130'>55</text><text x='250' y='130'>35</text><text x='350' y='130'>90</text><text x='50' y='180'>Total</text><text x='150' y='180'>100</text><text x='250' y='180'>50</text><text x='350' y='180'>150</text></svg>",
+      "question_chart_description": "A contingency table showing results for Group A and Group B. Group A: 45 Passed, 15 Failed. Group B: 55 Passed, 35 Failed.",
+      "question": "The table above summarizes the results of a certification exam for two groups of students. If a student is selected at random from those who passed the exam, what is the probability that the student is from Group A?",
+      "options": {
+        "A": "0.30",
+        "B": "0.45",
+        "C": "0.55",
+        "D": "0.75"
+      },
+      "answer": "B",
+      "explanation": "This is a conditional probability question. The condition is 'selected from those who passed'. The total number of students who passed is <math><mn>45</mn><mo>+</mo><mn>55</mn><mo>=</mo><mn>100</mn></math>. Among these 100 students, the number from Group A is 45. Therefore, the probability is <math><mfrac><mn>45</mn><mn>100</mn></mfrac><mo>=</mo><mn>0</mn><mo>.</mo><mn>45</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For 'given that' or conditional probability questions, restrict your denominator to the total of the specific subgroup mentioned (e.g., 'those who passed').",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In the equation <math><mi>k</mi><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo><mo>-</mo><mn>5</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>m</mi></math>, <math><mi>k</mi></math> and <math><mi>m</mi></math> are constants. If the equation has infinitely many solutions for <math><mi>x</mi></math>, what is the value of <math><mi>m</mi></math>?",
+      "options": null,
+      "answer": "1",
+      "explanation": "For an equation to have infinitely many solutions, the coefficients of <math><mi>x</mi></math> and the constant terms on both sides must be identical. Distribute the left side: <math><mi>k</mi><mi>x</mi><mo>+</mo><mn>3</mn><mi>k</mi><mo>-</mo><mn>5</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>m</mi></math>. Comparing <math><mi>x</mi></math>-coefficients: <math><mi>k</mi><mo>=</mo><mn>2</mn></math>. Substitute <math><mi>k</mi><mo>=</mo><mn>2</mn></math> into the constant terms: <math><mn>3</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>5</mn><mo>=</mo><mi>m</mi></math>. Thus, <math><mn>6</mn><mo>-</mo><mn>5</mn><mo>=</mo><mi>m</mi></math>, so <math><mi>m</mi><mo>=</mo><mn>1</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Expand and group terms. Match the slope (coefficient of x) and the y-intercept (constants) on both sides for infinite solutions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Lines, angles, and triangles",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='300' height='250' viewBox='0 0 300 250' xmlns='http://www.w3.org/2000/svg'><polygon points='150,20 50,220 250,220' fill='none' stroke='black' stroke-width='2'/><line x1='100' y1='120' x2='200' y2='120' stroke='black' stroke-width='2'/><text x='145' y='15' font-size='12'>A</text><text x='40' y='235' font-size='12'>B</text><text x='255' y='235' font-size='12'>C</text><text x='90' y='115' font-size='12'>D</text><text x='205' y='115' font-size='12'>E</text></svg>",
+      "question_chart_description": "Triangle ABC with a line segment DE connecting the midpoints of sides AB and AC.",
+      "question": "In the triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math>, points <math><mi>D</mi></math> and <math><mi>E</mi></math> are on sides <math><mi>A</mi><mi>B</mi></math> and <math><mi>A</mi><mi>C</mi></math>, respectively, such that segment <math><mi>D</mi><mi>E</mi></math> is parallel to side <math><mi>B</mi><mi>C</mi></math>. If <math><mi>A</mi><mi>D</mi><mo>=</mo><mn>2</mn><mi>D</mi><mi>B</mi></math> and the area of triangle <math><mi>A</mi><mi>D</mi><mi>E</mi></math> is 20, what is the area of trapezoid <math><mi>D</mi><mi>E</mi><mi>C</mi><mi>B</mi></math>?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "25",
+        "D": "40"
+      },
+      "answer": "C",
+      "explanation": "Triangles <math><mi>A</mi><mi>D</mi><mi>E</mi></math> and <math><mi>A</mi><mi>B</mi><mi>C</mi></math> are similar because <math><mi>D</mi><mi>E</mi><mo>&#8741;</mo><mi>B</mi><mi>C</mi></math>. Given <math><mi>A</mi><mi>D</mi><mo>=</mo><mn>2</mn><mi>D</mi><mi>B</mi></math>, the side ratio <math><mfrac><mrow><mi>A</mi><mi>D</mi></mrow><mrow><mi>A</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mrow><mn>2</mn><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math>. The ratio of their areas is the square of the side ratio: <math><msup><mrow><mo>(</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mfrac><mn>4</mn><mn>9</mn></mfrac></math>. If Area(<math><mi>A</mi><mi>D</mi><mi>E</mi></math>) = 20, then <math><mfrac><mn>20</mn><mrow><mi>A</mi><mi>r</mi><mi>e</mi><mi>a</mi><mo>(</mo><mi>A</mi><mi>B</mi><mi>C</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>9</mn></mfrac></math>. Solving for Area(<math><mi>A</mi><mi>B</mi><mi>C</mi></math>) gives 45. The area of trapezoid <math><mi>D</mi><mi>E</mi><mi>C</mi><mi>B</mi></math> is Area(<math><mi>A</mi><mi>B</mi><mi>C</mi></math>) - Area(<math><mi>A</mi><mi>D</mi><mi>E</mi></math>) = <math><mn>45</mn><mo>-</mo><mn>20</mn><mo>=</mo><mn>25</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The ratio of areas of similar triangles is the square of the ratio of their corresponding side lengths.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the positive solution to the equation <math><msqrt><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn></msqrt><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn></math>?",
+      "options": null,
+      "answer": "3",
+      "explanation": "Square both sides of the equation: <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>=</mo><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mn>2</mn></msup></math>. Expand the right side: <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>. Move all terms to one side: <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>x</mi><mo>-</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>. Factor the quadratic: <math><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>. The solutions are <math><mn>3</mn></math> and <math><mo>-</mo><mn>2</mn></math>. Check for extraneous solutions: If <math><mi>x</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>, <math><msqrt><mo>-</mo><mn>6</mn><mo>+</mo><mn>7</mn></msqrt><mo>=</mo><mn>1</mn></math> but <math><mo>-</mo><mn>2</mn><mo>+</mo><mn>1</mn><mo>=</mo><mo>-</mo><mn>1</mn></math>; <math><mn>1</mn><mo>&#8800;</mo><mo>-</mo><mn>1</mn></math>, so <math><mo>-</mo><mn>2</mn><mo is='extraneous'></mo></math>. If <math><mi>x</mi><mo>=</mo><mn>3</mn></math>, <math><msqrt><mn>9</mn><mo>+</mo><mn>7</mn></msqrt><mo>=</mo><mn>4</mn></math> and <math><mn>3</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>4</mn></math>. The only valid positive solution is 3.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Always check for extraneous solutions when solving radical or rational equations.",
+      "additional_data": null
+    },
+    {
+      "question_number": 17,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "One-variable data: distributions and measures of center and spread",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A data set consisting of 10 distinct positive integers has a mean of 50 and a median of 45. If the largest integer in the set is increased by 20, which of the following will stay the same?",
+      "options": {
+        "A": "The mean",
+        "B": "The median",
+        "C": "The range",
+        "D": "The standard deviation"
+      },
+      "answer": "B",
+      "explanation": "The median is the middle value of a sorted list. Increasing the largest number (the maximum) does not change the order of the other numbers or the value of the middle number(s). Therefore, the median remains 45. The mean will increase because the sum increases. The range increases because the maximum increases. The standard deviation changes because the spread of data changes.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The median is resistant to outliers and changes in extreme values, whereas the mean, range, and standard deviation are not.",
+      "additional_data": null
+    },
+    {
+      "question_number": 18,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "For which value of the constant <math><mi>a</mi></math> does the system of equations <math><mn>3</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>7</mn></math> and <math><mi>a</mi><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>10</mn></math> have no solution?",
+      "options": {
+        "A": "-12",
+        "B": "-3",
+        "C": "3",
+        "D": "12"
+      },
+      "answer": "A",
+      "explanation": "A system of linear equations has no solution if the lines are parallel but distinct. This means their slopes must be equal, but their y-intercepts must differ. The slope of <math><mn>3</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>7</mn></math> is 3. The slope of <math><mi>a</mi><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>10</mn></math> is found by rearranging to <math><mn>4</mn><mi>y</mi><mo>=</mo><mo>-</mo><mi>a</mi><mi>x</mi><mo>+</mo><mn>10</mn></math>, so the slope is <math><mo>-</mo><mfrac><mi>a</mi><mn>4</mn></mfrac></math>. Setting the slopes equal: <math><mn>3</mn><mo>=</mo><mo>-</mo><mfrac><mi>a</mi><mn>4</mn></mfrac></math>. Multiplying by -4 gives <math><mi>a</mi><mo>=</mo><mo>-</mo><mn>12</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For a 'no solution' linear system, set the slopes equal to each other. For 'infinite solutions', slopes and intercepts must both be equal.",
+      "additional_data": null
+    },
+    {
+      "question_number": 19,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a right triangle, the sine of angle <math><mi>x</mi></math> is <math><mfrac><mn>5</mn><mn>13</mn></mfrac></math>. What is the value of <math><mi>cos</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>x</mi><mo>)</mo></math>?",
+      "options": null,
+      "answer": "5/13",
+      "explanation": "A fundamental identity of trigonometry is <math><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>x</mi><mo>)</mo></math>. Since <math><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mfrac><mn>5</mn><mn>13</mn></mfrac></math>, it follows that <math><mi>cos</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>x</mi><mo>)</mo></math> is also <math><mfrac><mn>5</mn><mn>13</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember the complementary angle relationship: sin(x) = cos(90 - x).",
+      "additional_data": null
+    },
+    {
+      "question_number": 20,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The graph of <math><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> is a parabola with vertex <math><mo>(</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>4</mn><mo>)</mo></math>. The graph of <math><mi>y</mi><mo>=</mo><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> is defined by <math><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>+</mo><mn>5</mn></math>. What are the coordinates of the vertex of the graph of <math><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>?",
+      "options": {
+        "A": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>",
+        "B": "<math><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>",
+        "C": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mo>-</mo><mn>9</mn><mo>)</mo></math>",
+        "D": "<math><mo>(</mo><mn>5</mn><mo>,</mo><mo>-</mo><mn>9</mn><mo>)</mo></math>"
+      },
+      "answer": "A",
+      "explanation": "The transformation <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></math> shifts the graph 2 units to the *left*. The transformation <math><mo>+</mo><mn>5</mn></math> shifts the graph 5 units *up*. The original vertex is <math><mo>(</mo><mn>3</mn><mo>,</mo><mo>-</mo><mn>4</mn><mo>)</mo></math>. Shifting left 2 units: <math><mn>3</mn><mo>-</mo><mn>2</mn><mo>=</mo><mn>1</mn></math>. Shifting up 5 units: <math><mo>-</mo><mn>4</mn><mo>+</mo><mn>5</mn><mo>=</mo><mn>1</mn></math>. The new vertex is <math><mo>(</mo><mn>1</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For function transformations f(x - h) + k: 'h' shifts right, 'k' shifts up. Remember f(x+2) is a LEFT shift.",
+      "additional_data": null
+    }
+  ]
+}
+```
+
+---
+
+# SAT Math Question Difficulty Audit
+
+## 1. Difficulty Distribution Summary
+- **Declared Distribution:** Easy: 4, Medium: 6, Hard: 10
+- **Audited Distribution:** Easy: 4, Medium: 6, Hard: 10
+- **Alignment Score:** 100%
+
+## 2. Mislabeled Questions Log
+No difficulty mismatches found.
+
+## 3. Detailed Analysis
+- **Q9 (Scatterplot):** Labeled Medium. Involves identifying slope and y-intercept direction. This is on the easier side of Medium but acceptable given the interpretation required.
+- **Q19 (Trigonometry):** Labeled Hard. Relies on the cofunction identity $\sin(x) = \cos(90-x)$. While the calculation is trivial, the knowledge barrier makes it appropriate for Hard/Advanced Math.
+- **Q20 (Transformations):** Labeled Hard. Correctly categorized as it requires understanding both horizontal and vertical shifts on abstract functions.

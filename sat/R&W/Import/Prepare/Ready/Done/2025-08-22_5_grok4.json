@@ -1,0 +1,215 @@
+{
+  "article_title": "To Demonstrate Empathy, Try Speaking Slowly",
+  "article_author": "Giovanni Luca",
+  "article_date": "March-April, 2024",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Empathy", "Speaking Rate", "Customer Service", "Research"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Ample research has shown that even small changes in wording can affect how a message is received. For example, service agents who use “I” rather than “we” see boosts in customer satisfaction; online reviews that include swear words are viewed as more helpful; and refusals couched as “I don’t” rather than “I can’t” are more persuasive. A new study finds that when it comes to conveying empathy, it’s not just what people say that counts but also how they say it—specifically, the rate at which they speak. And that can have powerful effects on the recipient’s perceptions and satisfaction."
+    },
+    {
+      "passage_number": 2,
+      "text": "The researchers began with a field study in which they analyzed nearly 200 customer-service calls to a large U.S. online retailer. Automated tools measured each representative’s articulation rate, or the number of syllables uttered per second of speaking time, and customers graded the reps on helpfulness. The more slowly that reps spoke (within a normal range), the happier customers were with the help they received."
+    },
+    {
+      "passage_number": 3,
+      "text": "To explore what drove those results, the researchers conducted three experiments. In the first, participants were asked to imagine calling customer service with a billing issue. They listened to one of two versions of the supposed agent’s response, recorded by a voice actor. In one version, the agent spoke one standard deviation more slowly than the average speed of the agents in the field study. In the other, the agent spoke one standard deviation more quickly. The participants then answered questions about the agent’s empathy and helpfulness and their satisfaction with the call. Those listening to the slower agent perceived greater degrees of empathy and helpfulness and reported higher satisfaction."
+    },
+    {
+      "passage_number": 4,
+      "text": "The second experiment was similar in design but compared slow and average speaking speeds and used a different context: Participants imagined that they were listening to a doctor’s response to a persistent and distressing medical complaint. Here, too, slower speech increased perceptions of empathy and raised satisfaction; it also made the doctor seem more proficient."
+    },
+    {
+      "passage_number": 5,
+      "text": "The third experiment tested whether speed matters when people have less need for empathy: When participants were told that the medical issue was mild and would be easy to solve, the benefits of slow speech were less pronounced. Another analysis found that the gains were also lessened when speakers used inherently empathetic language."
+    },
+    {
+      "passage_number": 6,
+      "text": "“Speaking more slowly signals that communicators understand and care about their audience’s needs,” the researchers write. “Frontline employees seek to build loyalty, politicians want to be trusted, and educators strive to foster growth. Our results suggest that a relatively simple shift…can help.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main focus of the passage?",
+      "options": {
+        "A": "The impact of wording on message reception",
+        "B": "The role of speaking rate in conveying empathy",
+        "C": "Examples of persuasive language in reviews",
+        "D": "Differences between 'I' and 'we' in service"
+      },
+      "answer": "B",
+      "explanation": "The passage introduces research on wording but centers on a new study about speaking rate and its effects on empathy and satisfaction.",
+      "score_improvement_tip": "Identify the primary topic by noting how examples lead to the key study introduced."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "As used in the passage, 'couched' most nearly means",
+      "options": {
+        "A": "framed",
+        "B": "hidden",
+        "C": "relaxed",
+        "D": "debated"
+      },
+      "answer": "A",
+      "explanation": "The word 'couched' refers to how refusals are expressed or phrased, as in 'couched as “I don’t” rather than “I can’t”'.",
+      "score_improvement_tip": "Use surrounding examples to determine the meaning of words in specific contexts."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which detail from the passage best supports the idea that slower speech correlates with higher customer satisfaction?",
+      "options": {
+        "A": "Analysis of nearly 200 calls",
+        "B": "Measurement of syllables per second",
+        "C": "Customers grading reps on helpfulness",
+        "D": "Happier customers with slower-speaking reps"
+      },
+      "answer": "D",
+      "explanation": "The passage states that 'the more slowly that reps spoke... the happier customers were with the help they received,' directly linking slower speech to satisfaction.",
+      "score_improvement_tip": "Look for details that explicitly connect variables in cause-effect relationships."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "The primary purpose of describing the first experiment is to",
+      "options": {
+        "A": "illustrate the methodology of the field study",
+        "B": "explain the drivers behind the field study results",
+        "C": "compare billing issues to medical complaints",
+        "D": "highlight variations in voice actor recordings"
+      },
+      "answer": "B",
+      "explanation": "The passage begins with 'To explore what drove those results,' indicating the experiment aims to investigate the field study's findings.",
+      "score_improvement_tip": "Examine introductory phrases to understand the role of a section within the larger text."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice completes the text with the most logical transition? The second experiment was similar in design but compared slow and average speaking speeds and used a different context: ________, slower speech increased perceptions of empathy and raised satisfaction;",
+      "options": {
+        "A": "However",
+        "B": "In contrast",
+        "C": "Here, too",
+        "D": "Nevertheless"
+      },
+      "answer": "C",
+      "explanation": "The phrase 'Here, too' logically connects the similar positive outcomes in the second experiment to those in the first.",
+      "score_improvement_tip": "Choose transitions that maintain consistency in results across examples."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Based on the passage, the researchers would most likely agree that articulation rate in customer service should be",
+      "options": {
+        "A": "minimized to enhance perceived helpfulness",
+        "B": "varied depending on the customer's issue",
+        "C": "kept within a normal range but slower for better outcomes",
+        "D": "increased to handle more calls efficiently"
+      },
+      "answer": "C",
+      "explanation": "The passage specifies 'the more slowly that reps spoke (within a normal range),' implying slower rates within norms yield better results, without suggesting extremes.",
+      "score_improvement_tip": "Infer agreements by combining explicit details with implied limitations."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "As used in the passage, 'deviation' most nearly means",
+      "options": {
+        "A": "departure from a standard",
+        "B": "error in measurement",
+        "C": "variation in tone",
+        "D": "shift in empathy levels"
+      },
+      "answer": "A",
+      "explanation": "In 'one standard deviation more slowly,' it refers to a statistical measure of variation from the average speed.",
+      "score_improvement_tip": "Consider technical contexts like statistics when interpreting terms in research descriptions."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The description of the second experiment implies that slower speech may have broader applications because it",
+      "options": {
+        "A": "applies only to average speeds in medical contexts",
+        "B": "enhances perceived proficiency beyond empathy",
+        "C": "is limited to distressing complaints",
+        "D": "replaces the need for empathetic language"
+      },
+      "answer": "B",
+      "explanation": "The passage notes slower speech 'also made the doctor seem more proficient,' suggesting additional benefits like perceived expertise.",
+      "score_improvement_tip": "Draw inferences from additional outcomes mentioned to understand wider implications."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "While researching empathy in communication, a student claims that speaking slowly always maximizes empathy perceptions. Which finding, if true, would most directly undermine the student's claim?",
+      "options": {
+        "A": "Slow speech benefits are pronounced in mild issues",
+        "B": "Gains from slow speech lessen with empathetic language",
+        "C": "Fast speech reduces satisfaction in all contexts",
+        "D": "Average speeds yield neutral empathy perceptions"
+      },
+      "answer": "B",
+      "explanation": "The passage indicates benefits are 'lessened when speakers used inherently empathetic language,' showing slow speech isn't always maximal.",
+      "score_improvement_tip": "Synthesize evidence that introduces conditions or exceptions to challenge absolute claims."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The researchers' concluding statement primarily serves to",
+      "options": {
+        "A": "summarize the experiments' methodologies",
+        "B": "generalize the findings to various professional fields",
+        "C": "caution against over-relying on slow speech",
+        "D": "contrast frontline employees with politicians"
+      },
+      "answer": "B",
+      "explanation": "By listing roles like employees, politicians, and educators, the statement extends the implications of slow speech to build loyalty, trust, and growth.",
+      "score_improvement_tip": "Analyze how conclusions broaden specific results to wider applications."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level exhibit exceptional command of advanced skills, including nuanced inferences, rhetorical analysis, and synthesis across contexts, while accurately interpreting complex vocabulary and structures.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension of main ideas and details but may falter on subtle inferences, advanced word meanings, or synthesizing conditional evidence."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences requiring synthesis of implicit details, advanced vocabulary in technical contexts, and analysis of rhetorical purposes or undermining evidence.",
+    "medium_questions": "Medium questions focus on identifying supporting evidence, understanding text purposes, and selecting appropriate transitions based on contextual logic.",
+    "easy_questions": "Easy questions assess basic identification of central ideas and straightforward word meanings using direct contextual clues."
+  }
+}

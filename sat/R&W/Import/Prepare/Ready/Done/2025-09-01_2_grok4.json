@@ -1,0 +1,224 @@
+{
+  "article_title": "Precedents Thinking",
+  "article_author": "Stefanos Zenios",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Entrepreneurship", "Innovation", "Startups", "Business Strategy", "Precedents Thinking"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Stanford’s entrepreneurship course “Startup Garage” has helped students launch more than 100 startups and attract more than $3 billion dollars’ worth of venture capital. One of those startups was the food-delivery company DoorDash. The four students who became its founding management team had a broad goal of helping small businesses increase their revenue. They followed the three steps of precedents thinking to develop and implement their idea."
+    },
+    {
+      "passage_number": 2,
+      "text": "Frame. The students began by interviewing 60 smallbusiness owners. In one interview they learned that a bakery in Menlo Park, California, had to turn down 10 to 15 orders a week because the customers wanted delivery but the owner lacked the time to make it. Interviews with restaurant owners revealed the same problem: Other than pizza places and Chinese restaurants, few independent eateries have enough demand to justify building their own infrastructure. That research led the students to define the challenge they wanted to tackle: How can we enable independent restaurants and bakeries to offer their customers an economic and reliable delivery option?"
+    },
+    {
+      "passage_number": 3,
+      "text": "Search. To develop a deeper understanding of that challenge, the members of the DoorDash team took part-time jobs as drivers for Domino’s, which had a long history of offering a well-regarded delivery service. They discovered that a key obstacle for the Domino’s model was extreme variability in demand. On some days drivers would be paid to do nothing because few orders came in; on other days high demand resulted in late deliveries and upset customers. Next the students took part-time jobs as FedEx drivers. They soon recognized that FedEx’s optimization of driving routes was critical to delivering packages economically within specified delivery windows. Finally, they read up on Uber, a then-exploding Silicon Valley startup with a transportation model that relied on gig workers and thus could adjust to uneven demand."
+    },
+    {
+      "passage_number": 4,
+      "text": "What the DoorDash founders learned helped them identify the five elements of the problem they had to solve to reach a workable solution: (1) how to manage variability in demand; (2) how to share a delivery infrastructure and network across independent restaurants and small bakeries; (3) how to seamlessly place and deliver orders; (4) how to keep delivery costs as low as possible; and (5) how to ensure that orders were delivered in a timely fashion. Their research on the relevant precedents—Domino’s, FedEx, and Uber— led them to the next step."
+    },
+    {
+      "passage_number": 5,
+      "text": "Combine. In this step an innovator takes pieces of past innovations that are pertinent to one or more elements of the overall problem and combines them to comprehensively solve it. The DoorDash team borrowed from the welldeveloped Domino’s mobile ordering system, which enables customers to conveniently place orders and track their progress. It copied Uber’s model of a driver network that could flex with changing demand. And it adopted FedEx’s route- optimization algorithms for minimizing delivery costs and accurately predicting and quoting delivery times to customers. That led the team to its big idea: a shared delivery infrastructure for restaurants that pooled drivers to adapt to fluctuations in demand and enable affordable just-in-time delivery. Three precedents helped launch a business that’s now worth more than $70 billion."
+    },
+    {
+      "passage_number": 6,
+      "text": "Precedents thinking is practiced extensively in “Startup Garage.” We’ve also helped companies use it to generate innovative ideas for solving their most important business challenges. For example, the leaders of an enterprise we’ll call Global Foods, which one of us advised, used the method when their biggest and most profitable line of products was being stigmatized for contributing to the obesity epidemic in the United States, Mexico, and many other countries. The CEO called the situation “an existential threat.” Using search engines, social media, internal small-group sessions, and external networking, the leaders identified 16 precedents that met three important criteria: They were highly relevant to at least one element of the challenge, were more than just a common best practice, and showed strong evidence of success beyond luck."
+    },
+    {
+      "passage_number": 7,
+      "text": "Only two of the 16 came from the food industry. Ten came from other business areas including agriculture, shoes, clothing, child entertainment, and professional sports. The other four came from outside the business world—for example, the way the Colombian metropolis Medellín reinvigorated its tourism industry after years of being called “the murder capital of the world,” and how Pope Francis changed perceptions of the Catholic Church when it was being stigmatized for its role in child abuse, gay rights, and the treatment of women.<br><br>Playing with a handful of precedents at a time, Global Foods’ leaders produced ideas that led to a corporate transformation they called “volume to value.” It included changes to ingredients and packaging for its product lineup; a new pricing policy to encourage lower-volume, more-moderate servings; a sharper R&D and marketing focus on the functional benefits of its offerings; an increased focus on acquiring more-healthful food products; a more collaborative approach with its most vocal detractors; and a very public commitment to being part of the solution to obesity without accepting blame for causing it."
+    },
+    {
+      "passage_number": 8,
+      "text": "One of the advantages of precedents thinking, especially for large corporations, is that it produces big ideas that don’t require a leap into the unknown and thus feel less risky. Many of the changes adopted at Global Foods overturned more than a hundred years of corporate orthodoxy. But its leaders found the courage to implement them because the changes were based on successful precedents—and those changes worked. Within a few short years schools and governments backed off, radical detractors went quiet, and acceptance of Global Foods returned. The whole industry was transformed by the emergence of successful healthfulfood startups that were subsequently acquired by companies like Global Foods."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the text, what was the broad goal of the DoorDash founding team?",
+      "options": {
+        "A": "To launch a startup in the food industry",
+        "B": "To help small businesses increase their revenue",
+        "C": "To attract venture capital for new ideas",
+        "D": "To teach entrepreneurship courses"
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states that the four students had a broad goal of helping small businesses increase their revenue.",
+      "score_improvement_tip": "Focus on identifying explicitly stated details in the text to avoid overcomplicating simple questions."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "The primary purpose of the text is to",
+      "options": {
+        "A": "describe a specific example of research leading to problem definition",
+        "B": "criticize small businesses for lacking delivery options",
+        "C": "compare bakeries and restaurants in California",
+        "D": "explain the history of food delivery services"
+      },
+      "answer": "A",
+      "explanation": "The text details how interviews with business owners led to defining a challenge, illustrating the 'Frame' step.",
+      "score_improvement_tip": "Determine the main function of the passage by summarizing its content in one sentence."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main idea of the text?",
+      "options": {
+        "A": "Domino’s delivery service is superior to FedEx’s model",
+        "B": "The DoorDash team gained insights from working at established companies",
+        "C": "Uber’s model is unsuitable for food delivery",
+        "D": "Part-time jobs are essential for all entrepreneurs"
+      },
+      "answer": "B",
+      "explanation": "The text describes how the team learned from jobs at Domino’s, FedEx, and reading about Uber to understand delivery challenges.",
+      "score_improvement_tip": "Look for recurring themes or actions in the passage to identify the central point."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "As used in the text, 'elements' most nearly means",
+      "options": {
+        "A": "components",
+        "B": "substances",
+        "C": "principles",
+        "D": "features"
+      },
+      "answer": "A",
+      "explanation": "The word 'elements' refers to the five parts of the problem, functioning as components of the overall challenge.",
+      "score_improvement_tip": "Substitute synonyms into the sentence to see which fits the context without changing meaning."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "However",
+        "B": "In addition",
+        "C": "For instance",
+        "D": "Therefore"
+      },
+      "question": "The DoorDash team borrowed from Domino’s mobile ordering system. ________, it copied Uber’s model of a driver network.",
+      "answer": "B",
+      "explanation": " 'In addition' logically connects two examples of borrowing from precedents in the 'Combine' step.",
+      "score_improvement_tip": "Consider the relationship between sentences—additive, contrasting, or causal—to choose the right transition."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the text, the reader can infer that precedents thinking is most useful for",
+      "options": {
+        "A": "addressing complex challenges by drawing on proven successes",
+        "B": "relying solely on internal company knowledge",
+        "C": "avoiding any form of external research",
+        "D": "focusing only on common best practices"
+      },
+      "answer": "A",
+      "explanation": "The text shows how Global Foods used precedents meeting criteria of relevance, novelty, and proven success to solve a threat.",
+      "score_improvement_tip": "Draw logical conclusions from implied information rather than explicit statements to handle inference questions."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "The examples of Medellín and Pope Francis primarily serve to illustrate",
+      "options": {
+        "A": "how non-business precedents can address stigma-related challenges",
+        "B": "the limitations of precedents from outside industries",
+        "C": "why food industry precedents are insufficient",
+        "D": "the need for more precedents in business transformations"
+      },
+      "answer": "A",
+      "explanation": "These non-business examples show how diverse precedents helped Global Foods transform perceptions of their products.",
+      "score_improvement_tip": "Analyze how examples connect to broader ideas across the text for synthesis questions."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "To make the text more effective, the writer could add which detail to support the claim about reduced risk?",
+      "options": {
+        "A": "A comparison to unsuccessful innovations without precedents",
+        "B": "Statistics on Global Foods' revenue post-transformation",
+        "C": "Descriptions of other corporate orthodoxies",
+        "D": "Quotes from Startup Garage students"
+      },
+      "answer": "A",
+      "explanation": "Adding a contrast to risky leaps without precedents would strengthen the argument about the method's advantages.",
+      "score_improvement_tip": "Evaluate how added details enhance rhetorical goals like persuasion or support in the text."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which version of the underlined portion best completes the sentence? 'Interviews with restaurant owners revealed the same problem: Other than pizza places and Chinese restaurants, few independent eateries have enough demand to justify building their own infrastructure.' (Assume 'problem:' is underlined)",
+      "options": {
+        "A": "problem; Other",
+        "B": "problem. Other",
+        "C": "problem, other",
+        "D": "problem: other"
+      },
+      "answer": "B",
+      "explanation": "A period after 'problem' creates two complete sentences, improving clarity and conforming to conventions.",
+      "score_improvement_tip": "Test punctuation options for logical sentence structure and grammatical sense."
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The text implies that without combining precedents, the DoorDash team would likely have",
+      "options": {
+        "A": "struggled to create a comprehensive solution to all problem elements",
+        "B": "ignored variability in demand entirely",
+        "C": "focused only on Domino’s model",
+        "D": "abandoned the idea of shared infrastructure"
+      },
+      "answer": "A",
+      "explanation": "The 'Combine' step is described as necessary to comprehensively solve the overall problem using pieces from precedents.",
+      "score_improvement_tip": "Infer outcomes based on the text's logic to predict unstated consequences."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, rhetorical analysis, and synthesis, accurately interpreting complex structures and making nuanced connections across texts.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on subtle inferences, cross-text links, and refining expression for rhetorical impact."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require deep inference, synthesis of ideas across passages, and evaluation of rhetorical choices or structural elements.",
+    "medium_questions": "Medium questions focus on understanding main ideas, vocabulary in context, and logical transitions within texts.",
+    "easy_questions": "Easy questions test basic identification of central details and explicit purposes in the text."
+  }
+}

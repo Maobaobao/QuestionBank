@@ -1,0 +1,89 @@
+{
+    "article_title": "Seeing Earth From Space Will Change You",
+    "article_author": "Marina Koren",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Space Exploration", "Astronomy", "Overview Effect", "Space Tourism"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Beholding the silky clouds below, the continents and the seas, many astronauts have seen their home planet—and humankind’s relationship to it—in a profoundly new light. “It becomes so small and so fragile, and such a precious little spot in that universe that you can block out with your thumb,” Russell “Rusty” Schweickart, who spent 10 days orbiting Earth on the Apollo 9 mission, said in a 1974 speech."
+      },
+      {
+        "passage_number": 2,
+        "text": "Michael Collins, the Apollo 11 astronaut who flew around the moon, believed that if world leaders could experience the overview effect, intractable political differences might be resolved. “That all important border would be invisible, that noisy argument suddenly silenced,” Collins wrote in his memoir, Carrying the Fire.<br><br>Gene Cernan, one of just a dozen people to have walked on the lunar surface, desperately wanted the rest of humanity to see what he had seen. “If only everyone could relate to the beauty and the purposefulness of it,” he said in 1985. “It wouldn’t bring a utopia to this planet for people to understand it all, but it might make a difference.”"
+      },
+      {
+        "passage_number": 3,
+        "text": "More than three decades later, spaceflight is not yet available to everyone, not even close. Unlike in Cernan’s era, however, when such trips were made exclusively by professional astronauts, today a seat on a spacecraft is available in a growing tourism industry, at least for those who can afford the astronomical fare. Blue Origin has carried 31 people to the edge of space and back since the summer of 2021. Elon Musk’s SpaceX has launched seven space tourists all the way into orbit; three of them spent more than two weeks living on the International Space Station. The next group of SpaceX tourists will exit their capsule and go on a little spacewalk."
+      },
+      {
+        "passage_number": 4,
+        "text": "As commercial space travel becomes less expensive and more common, we can test Cernan’s proposition that if enough people experience the overview effect, life back on Earth could be meaningfully improved. But we might also find that a more varied group of travelers describes the experience in different terms than the astronauts who went before them. What will a new generation of voyagers see when they regard their home from space?"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "Astronauts often feel insignificant in space.",
+          "B": "Spaceflight offers unique views of Earth.",
+          "C": "The Apollo 9 mission highlighted Earth's fragility.",
+          "D": "Rusty Schweickart's speech influenced environmental activism."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the unique perspective astronauts have of Earth from space, showcasing its fragility and preciousness.",
+        "score_improvement_tip": "Focus on the core message being conveyed rather than specific details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in the text, the word 'purposefulness' most nearly means:",
+        "options": {
+          "A": "Efficiency",
+          "B": "Intention",
+          "C": "Design",
+          "D": "Serenity"
+        },
+        "answer": "B",
+        "explanation": "'Purposefulness' in this context refers to the sense of intention and significance astronauts perceive when viewing Earth.",
+        "score_improvement_tip": "Consider the surrounding sentences for context to infer the meaning of a word."
+      },
+      {
+        "question_number": 3,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What does the author most likely mean by 'a more varied group of travelers describes the experience in different terms'?",
+        "options": {
+          "A": "Diverse travelers may focus on personal rather than universal insights.",
+          "B": "Space travel will likely lose its significance for non-astronauts.",
+          "C": "Future travelers will prioritize scientific findings over emotions.",
+          "D": "The experience of space will be different due to technological advancements."
+        },
+        "answer": "A",
+        "explanation": "The passage implies that a diverse set of individuals might offer personal interpretations of the overview effect, differing from professional astronauts' perspectives.",
+        "score_improvement_tip": "Identify key contrasts or expansions of ideas when interpreting rhetorical statements."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students at this level effectively analyze complex arguments and synthesize diverse viewpoints with precision.",
+      "700_level_performance": "Students at this level demonstrate strong reading comprehension but may struggle with higher-level inferences and word choices."
+    },
+    "explanation_summary": {
+      "hard_questions": "Focus on advanced synthesis and nuanced inference.",
+      "medium_questions": "Assess detailed comprehension and basic synthesis.",
+      "easy_questions": "Ensure understanding of primary ideas and explicit statements."
+    }
+  }
+  

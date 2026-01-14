@@ -1,0 +1,231 @@
+{
+    "article_title": "The Games We Play",
+    "article_author": "Kareem Abdul-Jabbar",
+    "article_date": "2022",
+    "article_source": "AARP the Magazine",
+    "article_category": "Essay",
+    "article_tags": ["Sports", "Racism", "History", "Social Justice"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "When I was young, sports seemed like a welcome oasis from the open racism around me. I had been shaken by reading about the brutal slaying years earlier of fourteen-year-old Emmett Till, whose murderers were acquitted by an all-white jury and who, once released, bragged to Look magazine that they’d killed him. Then, when I was seventeen, I accidentally got caught up in the Harlem riot of 1964, which broke out after a white cop killed a fifteen-year-old Black kid, James Powell. How was I to feel safe in a country where that could happen to me, simply because of the color of my skin?"
+      },
+      {
+        "passage_number": 2,
+        "text": "But with basketball, the ball didn’t care who put it through the hoop. The game was based only on ability. If you had better skills, people wanted you on their team. No one cared who your parents were or how many friends you had. It was a pure, sweaty meritocracy. For me, it was a glimpse, however temporary, of the way the world should be. When I played, the world outside the gym doors, with all its irrational prejudices and enraged injustices, was silenced. There was the sound of the ball being dribbled, the squeal of sneakers on wood, and the cheers of the crowd when the ball slapped through the net."
+      },
+      {
+        "passage_number": 3,
+        "text": "Of course, all paradises eventually fall. The more successful my high school team became, the bigger the crowds and the more I would hear the racial slurs and taunts. Even my beloved coach used the n-word, in a misguided attempt to fire me up. It did, but not in the way he’d anticipated. I began to realize that there really was no safe haven from racism. This inspired me to learn more about American history, and especially African American history, to understand why things were still this way a hundred years after the Civil War. I met Martin Luther King Jr. I read the words of Malcolm X. I stopped hiding in the gym."
+      },
+      {
+        "passage_number": 4,
+        "text": "Even while playing at UCLA, I heard the same slurs and even threats. But it wasn’t just the overt racism that polluted the purity of the sport. I started playing for UCLA in 1966, and a year later, the NCAA banned the slam dunk. The ban, which lasted until 1976, was popularly known as the Lew Alcindor rule, because I had made liberal use of the slam dunk. In fact, many of the frequent slam dunkers were Black, and there was a definite feeling that the rule had been invoked to keep Black players from dominating."
+      },
+      {
+        "passage_number": 5,
+        "text": "We all knew it was no coincidence that the rule was laid down less than a year after the all-Black players from Texas Western College defeated an all-white team from the University of Kentucky and won the national championship. Even that historic victory was tainted with racism: The custom was to bring out a ladder and ceremonially cut down the net. No ladder was brought out. Traditionally, the winners appeared on The Ed Sullivan Show to celebrate their victory. Not this time."
+      },
+      {
+        "passage_number": 6,
+        "text": "As I graduated from college to the NBA and as more Black players were slowly integrating professional sports, a popular theory being tossed around was called Black athletic superiority, which credited the rise of the Black athlete to genetics. The gist was that white athletes earned their athletic success through hard work and grit while Black athletes were just born that way. In 2003, the Journal of Blacks in Higher Education addressed this claim: “If there is a ‘black gene’ that leads to athletic prowess, why then do African Americans, 90 percent of whom have at least one white ancestor, outperform blacks from African nations in every sport except long-distance running?”"
+      },
+      {
+        "passage_number": 7,
+        "text": "Some would say, “Easy there, Kareem. That was all a long time ago. We’ve come a long way.” Yes, we have. But not as long a way as many white people think. There’s been plenty of publicity about how COVID-19 is having a much greater effect on the Black and Latino communities, both in the death rates and the economic devastation. Late last spring, an estimated 15 million to 26 million people marched to protest police brutality against Blacks, in the largest protest movement in U.S. history."
+      },
+      {
+        "passage_number": 8,
+        "text": "The headlines are also filled with the current aggressive attempts of states across the country to pass 361 laws to restrict access to voting, which will mostly impact minority and poor voters. The definition of democracy is being rewritten to be exclusive rather than inclusive. And most of those being excluded have dark skin."
+      },
+      {
+        "passage_number": 9,
+        "text": "How much have times changed? Amanda Gorman, the twenty-three-year-old Black poet who read at President Biden’s inauguration and then read again at the Super Bowl, is now one of the most recognizable Black people in the country. Yet, in March, she tweeted that she was followed home by a security guard who said she “looked suspicious” and demanded to know if she lived there. He did not leave until she showed him her keys and let herself in."
+      },
+      {
+        "passage_number": 10,
+        "text": "Add that to the white woman, walking her dog in New York City’s Central Park, who called the police simply because a Black man reminded her that her dog needed to be on a leash. Or the Black graduate student at Yale, napping in her dorm’s common area, being questioned by police because another student thought she was not supposed to be there. And the two Black men, waiting for a friend at a Starbucks in Philadelphia, whom the manager called the police on because they were not paying customers."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary reason the author initially found sports to be a refuge?",
+        "options": {
+          "A": "It provided financial stability",
+          "B": "It offered an escape from racism",
+          "C": "It allowed him to travel",
+          "D": "It helped him make friends"
+        },
+        "answer": "B",
+        "explanation": "The author describes sports as a 'welcome oasis from the open racism around me,' indicating that it provided an escape from racial prejudice.",
+        "score_improvement_tip": "Focus on the author's emotional response and the context provided in the passage to identify the main idea."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, what does the word 'meritocracy' most likely mean?",
+        "options": {
+          "A": "A system based on family connections",
+          "B": "A system based on individual ability",
+          "C": "A system based on financial status",
+          "D": "A system based on popularity"
+        },
+        "answer": "B",
+        "explanation": "The passage describes basketball as a game where 'no one cared who your parents were or how many friends you had,' emphasizing that success was based on skill and ability.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar words, especially when the passage provides examples or explanations."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about the author's coach based on the passage?",
+        "options": {
+          "A": "He was supportive and understanding",
+          "B": "He was unaware of the impact of his words",
+          "C": "He was intentionally trying to harm the author",
+          "D": "He was indifferent to the author's feelings"
+        },
+        "answer": "B",
+        "explanation": "The coach used a racial slur in a 'misguided attempt to fire [the author] up,' suggesting he did not fully understand the harm his words caused.",
+        "score_improvement_tip": "Look for subtle clues in the text that reveal a character's intentions or understanding, even if they are not explicitly stated."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage discussing the NCAA's ban on slam dunks?",
+        "options": {
+          "A": "To highlight the author's achievements",
+          "B": "To criticize the NCAA's decision as racially motivated",
+          "C": "To explain the rules of basketball",
+          "D": "To describe the history of the slam dunk"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that the ban was racially motivated, as it was implemented shortly after Black players dominated the sport.",
+        "score_improvement_tip": "Pay attention to the author's tone and the historical context provided to understand the purpose of a passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which piece of evidence best supports the claim that racism affected the celebration of Texas Western College's victory?",
+        "options": {
+          "A": "The team won the national championship",
+          "B": "No ladder was brought out to cut down the net",
+          "C": "The team defeated an all-white team",
+          "D": "The players were Black"
+        },
+        "answer": "B",
+        "explanation": "The absence of a ladder for the traditional net-cutting ceremony is cited as evidence of racial bias in the celebration.",
+        "score_improvement_tip": "Identify specific details in the text that directly support the author's claims or arguments."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the author use the Journal of Blacks in Higher Education to support his argument?",
+        "options": {
+          "A": "To prove that Black athletes are genetically superior",
+          "B": "To refute the idea of Black athletic superiority",
+          "C": "To highlight the achievements of Black athletes",
+          "D": "To criticize the lack of opportunities for Black athletes"
+        },
+        "answer": "B",
+        "explanation": "The journal's statement challenges the notion of Black athletic superiority by pointing out inconsistencies in the theory.",
+        "score_improvement_tip": "Analyze how the author uses external sources or evidence to strengthen their argument or refute opposing views."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What is the author's main point in discussing the impact of COVID-19 on Black and Latino communities?",
+        "options": {
+          "A": "To emphasize the progress made in racial equality",
+          "B": "To highlight ongoing racial disparities",
+          "C": "To criticize the government's response to COVID-19",
+          "D": "To advocate for healthcare reform"
+        },
+        "answer": "B",
+        "explanation": "The author uses the disproportionate impact of COVID-19 to illustrate that racial inequalities persist despite claims of progress.",
+        "score_improvement_tip": "Look for the broader message or argument the author is making, especially when discussing current events or statistics."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about the author's view of democracy based on the passage?",
+        "options": {
+          "A": "It is functioning as intended",
+          "B": "It is becoming more inclusive",
+          "C": "It is being undermined by exclusionary practices",
+          "D": "It is irrelevant to minority communities"
+        },
+        "answer": "C",
+        "explanation": "The author describes democracy as being 'rewritten to be exclusive rather than inclusive,' suggesting a negative view of current trends.",
+        "score_improvement_tip": "Pay attention to the author's tone and choice of words to infer their perspective on broader societal issues."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "As used in the passage, what does the word 'suspicious' most likely mean?",
+        "options": {
+          "A": "Famous",
+          "B": "Dangerous",
+          "C": "Unusual",
+          "D": "Trustworthy"
+        },
+        "answer": "C",
+        "explanation": "The security guard's use of 'suspicious' implies that Amanda Gorman's presence seemed unusual or out of place to him.",
+        "score_improvement_tip": "Use the context of the situation described in the passage to determine the meaning of a word."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What is the common theme in the examples provided in the passage?",
+        "options": {
+          "A": "The importance of following rules",
+          "B": "The prevalence of racial profiling",
+          "C": "The benefits of community policing",
+          "D": "The challenges of urban living"
+        },
+        "answer": "B",
+        "explanation": "The examples all involve Black individuals being unfairly targeted or questioned due to their race, highlighting the issue of racial profiling.",
+        "score_improvement_tip": "Identify recurring patterns or themes in the examples provided to determine the author's main point."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can infer complex meanings, analyze rhetorical strategies, and connect ideas across passages.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle inferences or connections."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or connect ideas across passages.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and rhetorical strategies.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as central ideas and word meanings."
+    }
+  }

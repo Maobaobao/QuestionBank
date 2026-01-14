@@ -1,0 +1,207 @@
+{
+  "article_title": "Talk to Me",
+  "article_author": "Elizabeth Kolbert",
+  "article_date": "2024",
+  "article_source": "The New Yorker",
+  "article_category": "Essay",
+  "article_tags": ["Whales", "Communication", "Artificial Intelligence", "Marine Biology"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "In 2017, Gruber received a fellowship to spend a year at the Radcliffe Institute for Advanced Study, in Cambridge, Massachusetts. While there, he came across a book by a free diver who had taken a plunge with some sperm whales. This piqued Gruber’s curiosity, so he started reading up on the animals.<br>The world’s largest predators, sperm whales spend most of their lives hunting. To find their prey—generally squid—in the darkness of the depths, they rely on echolocation. By means of a specialized organ in their heads, they generate streams of clicks that bounce off any solid (or semi-solid) object. Sperm whales also produce quick bursts of clicks, known as codas, which they exchange with one another. The exchanges seem to have the structure of conversation."
+    },
+    {
+      "passage_number": 2,
+      "text": "One day, Gruber was sitting in his office at the Radcliffe Institute, listening to a tape of sperm whales chatting, when another fellow at the institute, Shafi Goldwasser, happened by. Goldwasser, a Turing Award–winning computer scientist, was intrigued. At the time, she was organizing a seminar on machine learning, which was advancing in ways that would eventually lead to ChatGPT. Perhaps, Goldwasser mused, machine learning could be used to discover the meaning of the whales’ exchanges.<br>'It was not exactly a joke, but almost like a pipe dream,' Goldwasser recollected. 'But David really got into it.'<br>Gruber and Goldwasser took the idea of decoding the codas to a third Radcliffe fellow, Michael Bronstein. Bronstein, also a computer scientist, is now the DeepMind Professor of A.I. at Oxford.<br>'This sounded like probably the most crazy project that I had ever heard about,' Bronstein told me. 'But David has this kind of power, this ability to convince and drag people along. I thought that it would be nice to try.'"
+    },
+    {
+      "passage_number": 3,
+      "text": "Gruber kept pushing the idea. Among the experts who found it loopy and, at the same time, irresistible were Robert Wood, a roboticist at Harvard, and Daniela Rus, who runs M.I.T.’s Computer Science and Artificial Intelligence Laboratory. Thus was born the Cetacean Translation Initiative—Project CETI for short. (The acronym is pronounced 'setty,' and purposefully recalls SETI, the Search for Extraterrestrial Intelligence.) CETI represents the most ambitious, the most technologically sophisticated, and the most well-funded effort ever made to communicate with another species.<br>'I think it’s something that people get really excited about: Can we go from science fiction to science?' Rus told me. 'I mean, can we talk to whales?'"
+    },
+    {
+      "passage_number": 4,
+      "text": "Sperm whales are nomads. It is estimated that, in the course of a year, an individual whale swims at least twenty thousand miles. But scattered around the tropics, for reasons that are probably squid-related, there are a few places the whales tend to favor. One of these is a stretch of water off Dominica, a volcanic island in the Lesser Antilles.<br>CETI has its unofficial headquarters in a rental house above Roseau, the island’s capital. The group’s plan is to turn Dominica’s west coast into a giant whale-recording studio. This involves installing a network of underwater microphones to capture the codas of passing whales. It also involves planting recording devices on the whales themselves—cetacean bugs, as it were. The data thus collected can then be used to 'train' machine-learning algorithms."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary focus of the first passage?",
+      "options": {
+        "A": "Gruber’s background in marine biology",
+        "B": "The hunting behavior of sperm whales",
+        "C": "The use of echolocation by sperm whales",
+        "D": "The structure of whale conversations"
+      },
+      "answer": "C",
+      "explanation": "The passage primarily describes how sperm whales use echolocation to hunt and communicate, making C the correct answer.",
+      "score_improvement_tip": "Focus on the main subject and avoid being distracted by secondary details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "As used in the passage, 'codas' most nearly means:",
+      "options": {
+        "A": "Melodic whale songs",
+        "B": "Quick bursts of clicks",
+        "C": "Echolocation signals",
+        "D": "Underwater microphones"
+      },
+      "answer": "B",
+      "explanation": "The passage defines codas as 'quick bursts of clicks' exchanged by sperm whales, making B the correct answer.",
+      "score_improvement_tip": "Look for definitions or explanations provided in the text for technical terms."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What can be inferred about Gruber’s role in Project CETI?",
+      "options": {
+        "A": "He was initially skeptical about the project.",
+        "B": "He played a key role in convincing others to join.",
+        "C": "He lacked expertise in computer science.",
+        "D": "He was uninterested in machine learning."
+      },
+      "answer": "B",
+      "explanation": "The passage describes Gruber’s ability to 'convince and drag people along,' indicating his pivotal role in rallying support for the project.",
+      "score_improvement_tip": "Pay attention to descriptions of a character’s influence or actions to infer their role."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The reference to SETI in the passage primarily serves to:",
+      "options": {
+        "A": "Highlight the scientific ambition of Project CETI",
+        "B": "Compare whales to extraterrestrial life",
+        "C": "Criticize the funding of space exploration",
+        "D": "Explain the origins of machine learning"
+      },
+      "answer": "A",
+      "explanation": "The comparison to SETI underscores the ambitious and groundbreaking nature of Project CETI.",
+      "score_improvement_tip": "Analyze analogies to understand their rhetorical purpose."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Easy",
+      "passage": 4,
+      "question": "Which evidence best supports the idea that Dominica is a key location for Project CETI?",
+      "options": {
+        "A": "Sperm whales swim twenty thousand miles annually.",
+        "B": "Dominica’s west coast will host underwater microphones.",
+        "C": "CETI’s headquarters is in a rental house.",
+        "D": "Whales favor tropical regions for squid."
+      },
+      "answer": "B",
+      "explanation": "The installation of underwater microphones on Dominica’s west coast directly supports its importance to the project.",
+      "score_improvement_tip": "Choose evidence that directly relates to the main idea or claim."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "As used in the passage, 'cetacean bugs' most nearly means:",
+      "options": {
+        "A": "Underwater microphones",
+        "B": "Recording devices on whales",
+        "C": "Machine-learning algorithms",
+        "D": "Squid-tracking tools"
+      },
+      "answer": "B",
+      "explanation": "The term 'cetacean bugs' refers to recording devices planted on whales, as described in the passage.",
+      "score_improvement_tip": "Use contextual clues to decode metaphorical or technical terms."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "What does Rus’s statement imply about Project CETI?",
+      "options": {
+        "A": "It is more fiction than science.",
+        "B": "It has the potential to revolutionize communication studies.",
+        "C": "It is unlikely to succeed due to technological limitations.",
+        "D": "It is primarily focused on humpback whales."
+      },
+      "answer": "B",
+      "explanation": "Rus’s question about moving 'from science fiction to science' suggests the project’s transformative potential.",
+      "score_improvement_tip": "Interpret rhetorical questions to infer underlying implications."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The description of Gruber’s interaction with Goldwasser primarily serves to:",
+      "options": {
+        "A": "Highlight Gruber’s lack of expertise in computer science",
+        "B": "Illustrate the collaborative nature of scientific discovery",
+        "C": "Criticize the impracticality of machine learning",
+        "D": "Emphasize the simplicity of whale communication"
+      },
+      "answer": "B",
+      "explanation": "The interaction demonstrates how collaboration between experts from different fields can lead to innovative projects.",
+      "score_improvement_tip": "Analyze interactions between characters to understand their broader significance."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Which evidence best supports the idea that sperm whales use echolocation for hunting?",
+      "options": {
+        "A": "They are the world’s largest predators.",
+        "B": "They generate streams of clicks to locate prey.",
+        "C": "They exchange codas with one another.",
+        "D": "They spend most of their lives hunting."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that sperm whales use clicks to locate prey in the darkness of the depths.",
+      "score_improvement_tip": "Choose evidence that directly supports the specific claim being made."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "How does the description of Dominica’s role in Project CETI relate to the broader goals of the project?",
+      "options": {
+        "A": "It highlights the logistical challenges of studying whales.",
+        "B": "It underscores the importance of location for data collection.",
+        "C": "It emphasizes the role of machine learning in marine biology.",
+        "D": "It critiques the reliance on tropical regions for research."
+      },
+      "answer": "B",
+      "explanation": "The focus on Dominica as a recording site highlights the importance of strategic locations for gathering high-quality data.",
+      "score_improvement_tip": "Connect specific details to the overarching goals or themes of the text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery in synthesizing complex arguments, decoding nuanced vocabulary, and analyzing rhetorical structures across passages.",
+    "700_level_performance": "Students scoring 700 show strong comprehension of explicit ideas and moderate inferences but may miss subtle connections or layered meanings."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require analyzing rhetorical strategies, inferring author perspectives, and connecting themes across passages.",
+    "medium_questions": "Medium questions test comprehension of evidence-based claims and vocabulary in technical contexts.",
+    "easy_questions": "Easy questions assess identification of explicit details and central ideas."
+  }
+}

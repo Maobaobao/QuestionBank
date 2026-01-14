@@ -1,0 +1,219 @@
+{
+    "article_title": "Brain Wave",
+    "article_author": "Ferris Jabr",
+    "article_date": "2023",
+    "article_source": "The New York Times Magazine",
+    "article_category": "Essay",
+    "article_tags": ["Neuroscience", "Brain-Computer Interfaces", "Innovation"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "In another groundbreaking study published last year, Jaimie Henderson and several colleagues, including Francis Willett, a biomedical engineer, and Krishna Shenoy, an electrical engineer, reported an equally impressive yet entirely different approach to communication by neural interface. The scientists recorded neurons firing in Dennis DeGray’s brain as he visualized himself writing words with a pen on a notepad, trying to re-create the distinct hand movements required for each letter. He mentally wrote thousands of words in order for the system to reliably recognize the unique patterns of neural activity specific to each letter and output words on a screen. “You really learn to hate M’s after a while,” he told me with characteristic good humor. Ultimately, the method was extremely successful. DeGray was able to type up to ninety characters or eighteen words a minute—more than twice the speed of his previous efforts with a cursor and virtual keyboard. He is the world’s fastest mental typist. “Sometimes I get going so fast it’s just one big blur,” he said. “My concentration gets to a point where it’s not unusual for them to remind me to breathe.”"
+      },
+      {
+        "passage_number": 2,
+        "text": "Achievements in brain-computer interfaces to date have relied on a mix of invasive and noninvasive technologies. Many scientists in the field, including those who work with DeGray, rely on a surgically embedded array of spiky electrodes produced by a Utah-based company, Blackrock Neurotech. The Utah Array, as it’s known, can differentiate the signals of individual neurons, providing more refined control of connected devices, but the surgery it requires can result in infection, inflammation and scarring, which may contribute to eventual degradation of signal strength. Interfaces that reside outside the skull, like headsets that depend on EEG, are currently limited to eavesdropping on the collective firing of groups of neurons, sacrificing power and precision for safety. Further complicating the situation, most neural interfaces studied in labs require cumbersome hardware, cables and an entourage of computers, whereas most commercially available interfaces are essentially remote controls for rudimentary video games, toys, and apps. These commercial headsets don’t solve any real-world problems, and the more powerful systems in clinical studies are too impractical for everyday use."
+      },
+      {
+        "passage_number": 3,
+        "text": "With this problem in mind, Elon Musk’s company Neuralink has developed an array of flexible polymer threads studded with more than three thousand tiny electrodes connected to a bottlecap-size wireless radio and signal processor, as well as a robot that can surgically implant the threads in the brain, avoiding blood vessels to reduce inflammation. Neuralink has tested its system in animals and has said it would begin human trials this year."
+      },
+      {
+        "passage_number": 4,
+        "text": "Synchron, which is based in New York, has developed a device called a Stentrode that doesn’t require open-brain surgery. It is a four-centimeter, self-expanding tubular lattice of electrodes, which is inserted into one of the brain’s major blood vessels via the jugular vein. Once in place, a Stentrode detects local electric fields produced by nearby groups of neurons in the motor cortex and relays recorded signals to a wireless transmitter embedded in the chest, which passes them on to an external decoder. In 2021, Synchron became the first company to receive FDA approval to conduct human clinical trials of a permanently implantable brain-computer interface. So far, four people with varied levels of paralysis have received Stentrodes and used them, some in combination with eye-tracking and other assistive technologies, to control personal computers while unsupervised at home."
+      },
+      {
+        "passage_number": 5,
+        "text": "Philip O’Keefe, sixty-two, of Greendale, Australia, received a Stentrode in April 2020. Because of amyotrophic lateral sclerosis (ALS), O’Keefe can walk only short distances, cannot move his left arm, and is losing the ability to speak clearly. At first, he explained, he had to concentrate intensely on the imagined movements required to operate the system—in his case, thinking about moving his left ankle for different lengths of time. “But the more you use it, the more it’s like riding a bike,” he said. “You get to a stage where you don’t think so hard about the movement you need to make. You think about the function you need to execute, whether it’s opening an email, scrolling a web page, or typing some letters.” In December, O’Keefe became the first person in the world to post to Twitter using a neural interface: “No need for keystrokes or voices,” he wrote by mind. “I created this tweet just by thinking it. #helloworldbci”"
+      },
+      {
+        "passage_number": 6,
+        "text": "Thomas Oxley, a neurologist and the founding CEO of Synchron, thinks future brain-computer interfaces will fall somewhere between LASIK and cardiac pacemakers in terms of their cost and safety, helping people with disabilities recover the capacity to engage with their physical surroundings and a rapidly evolving digital environment. “Beyond that,” he says, “if this technology allows anyone to engage with the digital world better than with an ordinary human body, that is where it gets really interesting. To express emotion, to express ideas—everything you do to communicate what is happening in your brain has to happen through the control of muscles. Brain-computer interfaces are ultimately going to enable a passage of information that goes beyond the limitations of the human body. And from that perspective, I think the capacity of the human brain is actually going to increase.”"
+      },
+      {
+        "passage_number": 7,
+        "text": "There is no technology yet that can communicate human thoughts as fast as they occur. Fingers and thumbs will never move quickly enough. And there are many forms of information processing better suited to a computer than to a human brain. Oxley speculated about the possibility of using neural interfaces to enhance human memory, bolster innate navigational skills with a direct link to GPS, sharply increase the human brain’s computational abilities, and create a new form of communication in which emotions are wordlessly “thrown” from one mind to another. “It’s just the beginning of the dawn of this space,” Oxley said. “It’s really going to change the way we interact with one another as a species.”"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of Dennis DeGray’s neural interface study?",
+        "options": {
+          "A": "Typing words by visualizing hand movements",
+          "B": "Developing noninvasive brain-computer interfaces",
+          "C": "Creating a virtual keyboard for paralyzed individuals",
+          "D": "Studying the effects of neural inflammation"
+        },
+        "answer": "A",
+        "explanation": "The passage describes DeGray’s method of typing by visualizing hand movements, making A the correct answer.",
+        "score_improvement_tip": "Focus on the central subject of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, the word 'eavesdropping' most nearly means:",
+        "options": {
+          "A": "Listening secretly",
+          "B": "Recording accurately",
+          "C": "Interpreting incorrectly",
+          "D": "Transmitting wirelessly"
+        },
+        "answer": "A",
+        "explanation": "The word 'eavesdropping' refers to detecting neural activity without direct interaction, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about Neuralink’s approach to brain-computer interfaces?",
+        "options": {
+          "A": "It prioritizes noninvasive methods over surgical ones",
+          "B": "It aims to reduce inflammation and improve precision",
+          "C": "It relies on EEG technology for signal detection",
+          "D": "It is primarily designed for commercial gaming"
+        },
+        "answer": "B",
+        "explanation": "The passage highlights Neuralink’s focus on reducing inflammation and improving precision, making B the correct answer.",
+        "score_improvement_tip": "Look for evidence in the text that supports the inference."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which choice provides the best evidence for the advantages of the Stentrode?",
+        "options": {
+          "A": "It is a four-centimeter, self-expanding tubular lattice of electrodes",
+          "B": "It is inserted into one of the brain’s major blood vessels via the jugular vein",
+          "C": "It detects local electric fields produced by nearby groups of neurons",
+          "D": "It allows users to control personal computers while unsupervised at home"
+        },
+        "answer": "D",
+        "explanation": "The ability to control computers unsupervised directly supports the advantages of the Stentrode, making D the correct answer.",
+        "score_improvement_tip": "Identify specific evidence in the text that directly supports the claim."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "The author includes Philip O’Keefe’s experience primarily to:",
+        "options": {
+          "A": "Highlight the challenges of using neural interfaces",
+          "B": "Demonstrate the practical application of the Stentrode",
+          "C": "Criticize the limitations of current brain-computer interfaces",
+          "D": "Compare neural interfaces to traditional communication methods"
+        },
+        "answer": "B",
+        "explanation": "O’Keefe’s experience illustrates the practical use of the Stentrode, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to the author's purpose in including specific details."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Based on the passage, what can be inferred about Thomas Oxley’s vision for brain-computer interfaces?",
+        "options": {
+          "A": "They will primarily benefit individuals with disabilities",
+          "B": "They will replace traditional communication methods entirely",
+          "C": "They will enhance human interaction with the digital world",
+          "D": "They will focus on improving physical mobility"
+        },
+        "answer": "C",
+        "explanation": "Oxley’s vision emphasizes enhancing interaction with the digital world, making C the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inference."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "Which choice best describes Oxley’s speculation about the future of neural interfaces?",
+        "options": {
+          "A": "They will be limited to medical applications",
+          "B": "They will revolutionize human communication and cognition",
+          "C": "They will replace computers in information processing",
+          "D": "They will focus on improving physical strength"
+        },
+        "answer": "B",
+        "explanation": "Oxley’s speculation focuses on revolutionizing communication and cognition, making B the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to evaluate the author’s speculation."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "Which choice provides the best evidence for Oxley’s vision of neural interfaces enhancing human cognition?",
+        "options": {
+          "A": "Oxley speculated about the possibility of using neural interfaces to enhance human memory",
+          "B": "There is no technology yet that can communicate human thoughts as fast as they occur",
+          "C": "Fingers and thumbs will never move quickly enough",
+          "D": "It’s just the beginning of the dawn of this space"
+        },
+        "answer": "A",
+        "explanation": "Oxley’s speculation about enhancing memory directly supports the idea of improving cognition, making A the correct answer.",
+        "score_improvement_tip": "Identify specific evidence that directly supports the claim."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, the word 'cumbersome' most nearly means:",
+        "options": {
+          "A": "Lightweight",
+          "B": "Bulky",
+          "C": "Efficient",
+          "D": "Fragile"
+        },
+        "answer": "B",
+        "explanation": "The word 'cumbersome' refers to something that is bulky and difficult to manage, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of unfamiliar words."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Based on the passage, what can be inferred about the potential of brain-computer interfaces?",
+        "options": {
+          "A": "They will remain limited to medical applications",
+          "B": "They will enable communication beyond physical limitations",
+          "C": "They will replace traditional computers entirely",
+          "D": "They will primarily focus on enhancing physical abilities"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that brain-computer interfaces will enable communication beyond physical limitations, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inference."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

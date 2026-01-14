@@ -1,0 +1,119 @@
+{
+    "article_title": "And They Lived Happily Ever After",
+    "article_author": "Yuval Noah Harari",
+    "article_date": "2011",
+    "article_source": "Sapiens: A Brief History of Humankind",
+    "article_category": "Book",
+    "article_tags": ["History", "Human Development","Happiness"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "What would happen if serious research were to disprove these hypotheses? If economic growth and self-reliance do not make people happier, what’s the benefit of Capitalism? What if it turns out that the subjects of large empires are generally happier than the citizens of independent states and that, for example, Algerians were happier under French rule than under their own? What would that say about the process of decolonisation and the value of national self-determination?"
+      },
+      {
+        "passage_number": 2,
+        "text": "Though few have studied the long-term history of happiness, almost every scholar and layperson has some vague preconception about it. In one common view, human capabilities have increased throughout history. Since humans generally use their capabilities to alleviate miseries and fulfil aspirations, it follows that we must be happier than our medieval ancestors, and they must have been happier than Stone Age hunter-gatherers."
+      },
+      {
+        "passage_number": 3,
+        "text": "But this progressive account is unconvincing. As we have seen, new aptitudes, behaviours and skills do not necessarily make for a better life. When humans learned to farm in the Agricultural Revolution, their collective power to shape their environment increased, but the lot of many individual humans grew harsher. Peasants had to work harder than foragers to eke out less varied and nutritious food, and they were far more exposed to disease and exploitation."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What main question does the author raise in the passage?",
+        "options": {
+          "A": "How does capitalism influence national economies?",
+          "B": "Do economic growth and self-reliance truly lead to happiness?",
+          "C": "What are the long-term effects of decolonization?",
+          "D": "Why are large empires more beneficial than independent states?"
+        },
+        "answer": "B",
+        "explanation": "The passage questions whether economic growth and self-reliance contribute to human happiness, which is central to the author’s argument.",
+        "score_improvement_tip": "Focus on identifying the main question or purpose of a passage to better understand its core argument."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "In the context of the passage, what does the word \"hypotheses\" most nearly mean?",
+        "options": {
+          "A": "Theories proposed as explanations",
+          "B": "Scientific laws",
+          "C": "Economic policies",
+          "D": "Historical narratives"
+        },
+        "answer": "A",
+        "explanation": "The word \"hypotheses\" in this passage refers to suggested explanations, particularly about happiness and economic growth.",
+        "score_improvement_tip": "When answering vocabulary in context questions, replace the word with each option to determine the best fit."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "Which line best supports the idea that happiness may not align with traditional markers of societal progress?",
+        "options": {
+          "A": "If economic growth and self-reliance do not make people happier...",
+          "B": "What if it turns out that the subjects of large empires are generally happier...",
+          "C": "What would that say about the process of decolonisation...",
+          "D": "Historians have avoided raising these questions..."
+        },
+        "answer": "A",
+        "explanation": "The line \"If economic growth and self-reliance do not make people happier...\" directly challenges the traditional view of progress.",
+        "score_improvement_tip": "Pay attention to phrases that explicitly connect abstract ideas like happiness with tangible markers of progress."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Why does the author describe \"vague preconceptions\" about happiness?",
+        "options": {
+          "A": "To highlight the lack of historical research on happiness",
+          "B": "To argue that modern interpretations are superior",
+          "C": "To show that scholars consistently agree on human progress",
+          "D": "To dismiss common beliefs as irrelevant"
+        },
+        "answer": "A",
+        "explanation": "The mention of \"vague preconceptions\" emphasizes how limited formal investigation into the history of happiness has been.",
+        "score_improvement_tip": "Identify the author’s purpose in introducing concepts or examples to uncover the text’s structure and intent."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What inference can be made about the Agricultural Revolution based on the passage?",
+        "options": {
+          "A": "It solely benefitted humanity.",
+          "B": "It increased collective power but harmed many individuals.",
+          "C": "It was a universally negative development for human life.",
+          "D": "It provided a model for future societal progress."
+        },
+        "answer": "B",
+        "explanation": "The passage argues that while collective human power grew, individual lives often became harder due to labor, disease, and exploitation.",
+        "score_improvement_tip": "Analyze the contrast between collective and individual outcomes to draw accurate inferences from complex texts."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate advanced synthesis and inference skills, accurately identifying nuanced connections and key evidence in texts.",
+      "700_level_performance": "Students at this level show strong comprehension skills but may overlook subtle textual connections or struggle with advanced inference tasks."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions challenge students to draw inferences, analyze structures, and understand nuanced arguments.",
+      "medium_questions": "Medium questions assess comprehension of explicit ideas and vocabulary in context.",
+      "easy_questions": "Easy questions focus on identifying clear main ideas or directly stated details."
+    }
+  }
+  

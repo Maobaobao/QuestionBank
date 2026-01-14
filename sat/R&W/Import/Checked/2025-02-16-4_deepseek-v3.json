@@ -1,0 +1,223 @@
+{
+  "article_title": "A Good Prospect",
+  "article_author": "Nick Bowlin",
+  "article_date": "2024",
+  "article_source": "The Drift",
+  "article_category": "Essay",
+  "article_tags": ["Energy Transition", "Mining", "Global Politics", "Climate Change"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The phrase “energy transition” is a common shorthand for the elimination of fossil fuels. But, as the economic historian Adam Tooze argued in March, its suggestion of a smooth shift from one mode to another fails to adequately capture the radical nature of the challenge ahead—the total transformation of global energy production required to address the climate crisis. Coal, gas, and oil still account for more than 60 percent of humanity’s total electricity generation. These need to be phased out immediately; extant and planned fossil fuel projects are almost certain to push the globe past two degrees Celsius of warming. And new energy sources will need to meet surging global electricity demand, which is expected to double, at minimum, in the coming decades. “The wholesale displacement of fossil fuels across global electricity generation, with overall capacity expanded to twice its current size, in the space of a single generation, will be a truly staggering undertaking,” Tooze writes."
+    },
+    {
+      "passage_number": 2,
+      "text": "This monumental economic transformation will require a lot—and I mean a lot—of minerals and metals. As a result, Western governments and corporations are scrambling to secure their mineral supply, keen to enact the necessary changes while also meeting the quality-of-life expectations of first-world consumers. In the U.S., the Inflation Reduction Act (IRA) provides half a trillion dollars for clean-energy and climate policies, which includes tax breaks and incentives for electric cars and battery-metal supply chains. PDAC attendees approve, of course. As Hoffman, the McKinsey analyst, said, the IRA changed “everything.” But it also led to some jokes poking fun at the U.S. as a great consumer of metals with a longstanding aversion to doing the mining or refining itself. “In the U.S. they don’t want to mine,” Hoffman told the amused crowd, “but they want to buy from sources deemed acceptable to U.S. regulators. Canada, we love you.”"
+    },
+    {
+      "passage_number": 3,
+      "text": "All that cash, however, cannot hide the plain fact that the U.S. and other Western governments no longer call all the shots. To obtain battery metals, countries are forming and breaking partnerships, striking deals and making enemies, in ways that mirror the shifting alliances of our increasingly multipolar world. In the Anglophone sphere, governments have closed ranks against China, which refines more than half of the world’s lithium and controls some 85 percent of the processing capacity for rare-earth metals. In recent decades, this arrangement seemed to satisfy the scions of global mining, whose headquarters are in the industrial core: Canada, the U.K., Australia, Switzerland. Minerals are often extracted in the Global South, processed in China, and turned into capital back home on a few key stock exchanges. (Australia, London, and Toronto host the primary metal markets. PDAC’s location is no accident; most large mining firms are either based in Canada or have large offices there.)"
+    },
+    {
+      "passage_number": 4,
+      "text": "Chafing against its status as a mere stop on the supply chain, China has become a producer and consumer of metals and rare-earth minerals at levels rivaling those of the West. Several Chinese companies challenge the Western heavyweights in market capitalization, with huge operations in places like Tibet, Mongolia, and sub-Saharan Africa. In February, Nigeria’s government announced a large lithium deal with one of the major Chinese miners, months after rejecting a bid from Tesla. Fearing competition from the new superpower, Canada forced three Chinese companies to divest from lithium holdings last November. A few months later, Australia blocked an attempt by a Chinese firm to buy a greater share in a mining company. Both governments cited national security concerns."
+    },
+    {
+      "passage_number": 5,
+      "text": "Now that Western governments’ influence is on the wane, countries rich in deposits of battery minerals across the Global South have discovered that they have leverage. More than half of the world’s lithium reserves are concentrated in South America’s “Lithium Triangle”—Chile, Bolivia, and Argentina—and in the past few years, a wave of left-wing and socialist governments have come to power on the continent. This is not a coincidence. Most of the winning candidates promised some combination of a crackdown on mining pollution and increased respect for the rights and wishes of Indigenous communities, who have historically been forced to bear the costs of mineral extraction. For many of these countries, mineral wealth has meant impoverishment for the people who live on the richest land. Former Peruvian President Pedro Castillo and President Gabriel Boric of Chile were elected after campaigning on redistributing mining profits and stronger mining regulations. In February, Mexican President Andrés Manuel López Obrador signed a decree that placed all the country’s lithium under state control. And Gustavo Petro, Colombia’s furthest-left president in seventy-five years, has seized the assets of two gold companies, proposed huge taxes on the mining sector, and vowed to form a state-owned mining company. In April, The New Republic reported on attempts to undermine Petro, backed by right-wing military and business elites."
+    },
+    {
+      "passage_number": 6,
+      "text": "Naturally, this trend has left companies and investors anxious for friendlier sites to mine. In February, just before PDAC, a prominent mining podcast warned about escalating “jurisdiction risk,” noting that investors “hear all sorts of stories about South America, you know with Peru and protests, and all this sort of stuff.” This gave the episode’s guest, Argentina Lithium & Energy CEO Nikolaos Cacos, a chance to tout the stability and pro-mining governance in Argentina, where his company has several large lithium claims (which give a company the right to explore for minerals on a specific parcel of land). “There’s elections coming up,” he said, “and there’s projections for a pro-business government to win.” Other global players, it seems, are willing to submit to the new demands of South American governments. German Chancellor Olaf Scholz recently visited Chile, hoping to divert some of its lithium, which predominantly goes to China, to his country’s automakers. According to Bloomberg, Scholz pledged to invest in Chilean processing of raw materials, rather than exporting them."
+    },
+    {
+      "passage_number": 7,
+      "text": "Demands for greater domestic rewards from mineral exploitation can be heard far beyond South America. Indonesia banned nickel exports, which has helped promote a fast-growing battery industry, and is trying to organize an OPEC-like consortium for metal processing. In January, the Philippines proposed a 10 percent nickel ore export tax, prompting outcry from private-sector firms, which argued that the move would “kill” the industry, Reuters reported. And a government watchdog from the Democratic Republic of the Congo, home to large copper and cobalt deposits, which state-run Chinese companies have mined for over a decade, recently took the superpower to task for delivering less than a third of a promised three billion dollars for infrastructure improvements. It seems China, wary of losing those deposits, will play ball. According to Reuters, the two are negotiating an additional seventeen billion dollars and a larger stake for the DRC’s state-run mining company."
+    },
+    {
+      "passage_number": 8,
+      "text": "Political power and economics have always been entwined, free trade and international markets backstopped by military might and geopolitical muscle. Still, it seems that, in the frantic race for limited battery-metal supplies, governments are unwilling to leave things to the market, wielding their power in increasingly explicit ways. All the rapid shifts in the global mining industry’s geography introduced a current of doubt into PDAC’s party atmosphere. The green metals boom is indeed here. Beyond that, uncertainty abounds."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the first passage?",
+      "options": {
+        "A": "The challenges of the energy transition",
+        "B": "The benefits of fossil fuels",
+        "C": "The history of global energy production",
+        "D": "The role of coal in electricity generation"
+      },
+      "answer": "A",
+      "explanation": "The passage discusses the radical challenges of transitioning from fossil fuels to new energy sources, making A the correct answer.",
+      "score_improvement_tip": "Focus on the central subject of the passage and avoid being distracted by secondary details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "As used in the passage, 'scrambling' most likely means:",
+      "options": {
+        "A": "Running quickly",
+        "B": "Competing intensely",
+        "C": "Falling apart",
+        "D": "Moving clumsily"
+      },
+      "answer": "B",
+      "explanation": "The context suggests that 'scrambling' refers to Western governments and corporations competing intensely to secure mineral supplies, making B the correct answer.",
+      "score_improvement_tip": "Use the surrounding context to infer the meaning of unfamiliar words."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "What can be inferred about the global mining industry based on the passage?",
+      "options": {
+        "A": "It is dominated by Western countries",
+        "B": "It is increasingly influenced by China",
+        "C": "It is focused on environmental sustainability",
+        "D": "It is declining in importance"
+      },
+      "answer": "B",
+      "explanation": "The passage describes China's growing influence in the global mining industry, particularly in refining and processing minerals, making B the correct answer.",
+      "score_improvement_tip": "Look for evidence in the text that supports the inference."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "What is the primary purpose of the fourth passage?",
+      "options": {
+        "A": "To describe China's role in the global mining industry",
+        "B": "To criticize Western governments",
+        "C": "To explain the history of mining in Africa",
+        "D": "To highlight the benefits of mining"
+      },
+      "answer": "A",
+      "explanation": "The passage focuses on China's growing role as a producer and consumer of metals, making A the correct answer.",
+      "score_improvement_tip": "Identify the main focus and purpose of the passage."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which piece of evidence best supports the idea that South American governments are asserting greater control over their mineral resources?",
+      "options": {
+        "A": "More than half of the world’s lithium reserves are concentrated in South America’s “Lithium Triangle.”",
+        "B": "Former Peruvian President Pedro Castillo and President Gabriel Boric of Chile were elected after campaigning on redistributing mining profits.",
+        "C": "In February, Mexican President Andrés Manuel López Obrador signed a decree that placed all the country’s lithium under state control.",
+        "D": "Gustavo Petro, Colombia’s furthest-left president in seventy-five years, has seized the assets of two gold companies."
+      },
+      "answer": "C",
+      "explanation": "The decree signed by Mexico's president directly supports the idea of greater state control over mineral resources, making C the correct answer.",
+      "score_improvement_tip": "Look for direct evidence that supports the claim in question."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "How does the sixth passage relate to the fifth passage?",
+      "options": {
+        "A": "It provides a solution to the problem described in the fifth passage.",
+        "B": "It offers a contrasting perspective to the fifth passage.",
+        "C": "It expands on the political changes described in the fifth passage.",
+        "D": "It introduces a new problem unrelated to the fifth passage."
+      },
+      "answer": "C",
+      "explanation": "The sixth passage expands on the political changes in South America, particularly the shift toward pro-mining governance, making C the correct answer.",
+      "score_improvement_tip": "Look for connections between passages that expand on or support earlier ideas."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 7,
+      "question": "What does the author describe as a result of Indonesia's ban on nickel exports?",
+      "options": {
+        "A": "A decline in the mining industry",
+        "B": "A fast-growing battery industry",
+        "C": "Increased foreign investment",
+        "D": "A reduction in pollution"
+      },
+      "answer": "B",
+      "explanation": "The author states that Indonesia's ban on nickel exports helped promote a fast-growing battery industry, making B the correct answer.",
+      "score_improvement_tip": "Look for explicit descriptions of the author's observations."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "As used in the passage, 'entwined' most likely means:",
+      "options": {
+        "A": "Separated",
+        "B": "Interconnected",
+        "C": "Opposed",
+        "D": "Eliminated"
+      },
+      "answer": "B",
+      "explanation": "The context suggests that 'entwined' refers to the interconnected nature of political power and economics, making B the correct answer.",
+      "score_improvement_tip": "Use the surrounding context to infer the meaning of unfamiliar words."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 8,
+      "question": "What can be inferred about the future of the global mining industry based on the final passage?",
+      "options": {
+        "A": "It will become less important",
+        "B": "It will face increasing uncertainty",
+        "C": "It will be dominated by Western countries",
+        "D": "It will focus on environmental sustainability"
+      },
+      "answer": "B",
+      "explanation": "The passage suggests that the global mining industry faces uncertainty due to rapid shifts in power and alliances, making B the correct answer.",
+      "score_improvement_tip": "Consider the author's tone and descriptions to infer their attitude."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "Which choice best describes the author's overall argument in the final passage?",
+      "options": {
+        "A": "The global mining industry is stable and predictable",
+        "B": "Governments are increasingly intervening in the mining industry",
+        "C": "The market will solve the challenges of the mining industry",
+        "D": "The mining industry is no longer important"
+      },
+      "answer": "B",
+      "explanation": "The author argues that governments are increasingly intervening in the mining industry, making B the correct answer.",
+      "score_improvement_tip": "Synthesize the author's main points to understand their overall argument."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+  }
+}

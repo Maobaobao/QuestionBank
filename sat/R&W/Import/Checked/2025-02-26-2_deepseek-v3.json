@@ -1,0 +1,231 @@
+{
+    "article_title": "Death Sentence",
+    "article_author": "Nicholas Florko",
+    "article_date": "2023",
+    "article_source": "Stat",
+    "article_category": "Journalism",
+    "article_tags": ["Prison Deaths", "Hepatitis C", "Public Records"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "It’s virtually impossible to get information from states and correctional facilities about why people die in prison.<br><br>For more than two years, Stat endeavored to document the number of incarcerated people who died due to complications from hepatitis C, part of a broad investigation into prisons’ failures to prevent avoidable death and suffering related to the condition.<br><br>Prison systems fought our attempts at every turn."
+      },
+      {
+        "passage_number": 2,
+        "text": "This undertaking underscores how easy it is for prisons to hide the true reason why people die behind bars and how useless the existing data are for determining whether people in prison are dying from preventable conditions. The overwhelming difficulty of the task raises questions about whether and how family members or community advocates could ever use the information to sound the alarm about especially dangerous facilities, help families and friends figure out if a death was preventable, or pinpoint inadequate care for certain diseases."
+      },
+      {
+        "passage_number": 3,
+        "text": "By law, states are supposed to record the details of every death that occurs in prison. The Death in Custody Reporting Act, a federal law on the books for more than twenty years, requires states to fill out a four-page form that lays out basic information about every incarcerated person’s death, including the name, age, and ethnicity of each person who died and their cause of death."
+      },
+      {
+        "passage_number": 4,
+        "text": "The Department of Justice uses those data to compile high-level reports about deaths in prison, but the data are often reported at such a macro level that it’s not useful. Those reports, for example, only provide a tally of how many people die of 'liver disease,' which could have been caused by everything from hepatitis A, B, and C to liver damage from alcohol use."
+      },
+      {
+        "passage_number": 5,
+        "text": "When Stat filed public record requests seeking the information, states gave multiple reasons for hiding it. Arizona, for example, said it didn’t maintain death data in the format Stat requested. When Stat sent a follow-up request demanding the exact forms the state already submits to the federal government, the state then said it couldn’t provide those documents because they were owned by the Department of Justice. (Other states provided the exact same forms.)"
+      },
+      {
+        "passage_number": 6,
+        "text": "When Stat filed public record requests seeking the information, states gave multiple reasons for hiding it. Arizona, for example, said it didn’t maintain death data in the format Stat requested. When Stat sent a follow-up request demanding the exact forms the state already submits to the federal government, the state then said it couldn’t provide those documents because they were owned by the Department of Justice. (Other states provided the exact same forms.)<br><br>Arkansas is one of several states that declined to provide Stat with any data at all because the state’s records law doesn’t require it to provide data to out-of-state residents. (Arkansas governor Asa Hutchinson wrote the Death in Custody Reporting Act when he was in the U.S. House of Representatives.)<br><br>Other states, like Texas and Alaska, told Stat the forms they are required to submit to the federal government simply don’t exist. Texas added that it doesn’t have access to the forms because they’re submitted via a 'data upload.'"
+      },
+      {
+        "passage_number": 7,
+        "text": "Iowa said the information was confidential. Others, like Connecticut and Georgia, simply ignored Stat’s request altogether, in clear violation of public records laws.<br><br>Some states, like Indiana, shared data that were largely useless: The state only categorizes deaths as 'homicide,' 'use of force,' 'suicide,' 'accident,' or 'natural causes,' making it nearly impossible to assess the adequacy of the prison medical system there."
+      },
+      {
+        "passage_number": 8,
+        "text": "In fact, Stat was only able to document the number of people who died of hepatitis C after crafting an agreement with the federal government to analyze the death data submitted by state prisons pursuant to the federal Death In Custody Reporting Act. That data is housed at the University of Michigan and is typically only available to Ph.D. researchers who are approved by the Department of Justice—an option unavailable to the average American. For our research, the DOJ withheld names and other demographic information."
+      },
+      {
+        "passage_number": 9,
+        "text": "Even those data were highly imperfect. Often, they were not detailed enough to discern whether someone died of hepatitis C. We excluded any such death from our tally, meaning it is likely an undercount of the actual death toll from this disease.<br><br>Prisons are only required to submit one cause of death to the federal government. What that means in practice is that a person who died of a hemorrhage due to hepatitis C–induced bleeding is often listed as dying of a hemorrhage, making it impossible to know if that bleeding was caused by something like hepatitis C or a homicide."
+      },
+      {
+        "passage_number": 10,
+        "text": "The problem is especially acute when it comes to hepatitis C–induced liver cancer. The Centers for Disease Control and Prevention estimates that nearly 50 percent of liver cancer cases are attributable to hepatitis C, but prisons across the country only report when people die of liver cancer, not what actually caused the cancer. Stat counted 416 deaths since 2014 that listed liver cancer as the cause of death with no additional causes; those are not included in our count of 1,013 hepatitis C–related deaths in prison."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary focus of the passage?",
+        "options": {
+          "A": "The challenges of obtaining prison death data",
+          "B": "The causes of hepatitis C in prisons",
+          "C": "The role of the Department of Justice",
+          "D": "The history of prison reform"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the difficulty of obtaining information about prison deaths, making A the correct answer.",
+        "score_improvement_tip": "Identify the main idea by focusing on the overarching theme of the passage."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in the passage, the word 'undertaking' most likely refers to:",
+        "options": {
+          "A": "A legal case",
+          "B": "A research project",
+          "C": "A medical procedure",
+          "D": "A political campaign"
+        },
+        "answer": "B",
+        "explanation": "The context indicates that 'undertaking' refers to Stat's research project on prison deaths, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of specific terms."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What can be inferred about the Death in Custody Reporting Act?",
+        "options": {
+          "A": "It is strictly enforced by all states",
+          "B": "It provides detailed information about prison deaths",
+          "C": "It has been in effect for over two decades",
+          "D": "It is primarily focused on hepatitis C"
+        },
+        "answer": "C",
+        "explanation": "The passage mentions that the Act has been on the books for over twenty years, making C the correct answer.",
+        "score_improvement_tip": "Look for clues in the text that support inferences about the information provided."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Why does the author mention 'liver disease' in the passage?",
+        "options": {
+          "A": "To highlight the limitations of federal data",
+          "B": "To explain the causes of hepatitis C",
+          "C": "To criticize the Department of Justice",
+          "D": "To advocate for better medical care"
+        },
+        "answer": "A",
+        "explanation": "The mention of 'liver disease' illustrates the lack of specificity in federal data, making A the correct answer.",
+        "score_improvement_tip": "Consider the author's purpose in including specific details."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which piece of evidence supports the claim that states are reluctant to share prison death data?",
+        "options": {
+          "A": "Arizona's refusal to provide data in the requested format",
+          "B": "The existence of the Death in Custody Reporting Act",
+          "C": "The Department of Justice's use of data",
+          "D": "The high-level reports on prison deaths"
+        },
+        "answer": "A",
+        "explanation": "Arizona's refusal to provide data in the requested format supports the claim that states are reluctant to share information, making A the correct answer.",
+        "score_improvement_tip": "Identify specific textual evidence that supports claims made in the passage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the information in second passage relate to the information in the first passage?",
+        "options": {
+          "A": "It provides additional examples of states withholding data",
+          "B": "It contradicts the earlier claims about data availability",
+          "C": "It introduces a new perspective on prison deaths",
+          "D": "It summarizes the previous information"
+        },
+        "answer": "A",
+        "explanation": "The passage adds further examples of states withholding data, supporting the earlier claims, making A the correct answer.",
+        "score_improvement_tip": "Look for connections between different parts of the text to understand how they relate."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "What is the effect of including Indiana's categorization of deaths in the passage?",
+        "options": {
+          "A": "It highlights the inadequacy of the data",
+          "B": "It emphasizes the need for better medical care",
+          "C": "It provides a solution to the problem",
+          "D": "It criticizes the federal government"
+        },
+        "answer": "A",
+        "explanation": "Indiana's categorization of deaths illustrates the inadequacy of the data, making A the correct answer.",
+        "score_improvement_tip": "Consider how different elements of the text contribute to the overall message."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about the data housed at the University of Michigan?",
+        "options": {
+          "A": "It is easily accessible to the public",
+          "B": "It is primarily used by researchers",
+          "C": "It includes detailed demographic information",
+          "D": "It is not used by the Department of Justice"
+        },
+        "answer": "B",
+        "explanation": "The passage indicates that the data is typically only available to Ph.D. researchers, making B the correct answer.",
+        "score_improvement_tip": "Use context to infer the meaning behind statements made in the text."
+      },
+      {
+        "question_number": 9,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which choice best completes the sentence? 'Prisons are only required to submit one cause of death to the federal government. What that means in practice is that a person who died of a hemorrhage due to hepatitis C–induced bleeding is often listed as dying of a hemorrhage, making it impossible to know if that bleeding was caused by something like hepatitis C or a homicide.'",
+        "options": {
+          "A": "This lack of detail hinders efforts to improve prison healthcare.",
+          "B": "This practice is supported by medical professionals.",
+          "C": "This system ensures accurate reporting of deaths.",
+          "D": "This approach simplifies the reporting process."
+        },
+        "answer": "A",
+        "explanation": "The sentence logically concludes with the impact of the lack of detail, making A the correct choice.",
+        "score_improvement_tip": "Ensure that the completed sentence maintains logical coherence with the rest of the passage."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What does the mention of '416 deaths' and '1,013 hepatitis C–related deaths' suggest about the data?",
+        "options": {
+          "A": "The data undercounts the actual death toll",
+          "B": "The data is highly accurate",
+          "C": "The data is focused on liver cancer",
+          "D": "The data is easy to interpret"
+        },
+        "answer": "A",
+        "explanation": "The passage indicates that the data likely undercounts the actual death toll, making A the correct answer.",
+        "score_improvement_tip": "Use quantitative details in the text to draw conclusions about the data."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

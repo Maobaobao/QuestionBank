@@ -1,0 +1,75 @@
+{
+    "article_title": "",
+    "article_author": "",
+    "article_date": "",
+    "article_source": "",
+    "article_category": "",
+    "article_tags": ["", "", ""],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "text.\ntext1.\ntext2.\ntext3."
+      },
+      {
+        "passage_number": 2,
+        "text": "text.\ntext1.\ntext2.\ntext3."
+      },
+      {
+        "passage_number": 3,
+        "text": "text.\ntext1.\ntext2.\ntext3."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "",
+        "skill": "",
+        "difficulty": "",
+        "passage": 1,
+        "question": "",
+        "options": {
+            "A": "",
+           
+            "B": "",
+            
+            "C": "",
+            
+            "D": ""            
+          }
+        ,
+        "answer": "A",
+        "explanation": "",
+        "score_improvement_tip": ""
+      },
+      {
+        "question_number": 2,
+        "domain": "",
+        "skill": "",
+        "difficulty": "",
+        "passage": 1,
+        "question": "",
+        "options": {
+            "A": "",
+           
+            "B": "",
+            
+            "C": "",
+            
+            "D": ""            
+          }
+        ,
+        "answer": "A",
+        "explanation": "",
+        "score_improvement_tip": ""
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "",
+      "700_level_performance": ""
+    },
+    "explanation_summary": {
+      "hard_questions": "",
+      "medium_questions": "",
+      "easy_questions": ""
+    }
+  }

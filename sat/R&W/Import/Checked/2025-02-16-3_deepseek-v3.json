@@ -1,0 +1,231 @@
+{
+  "article_title": "Five Hours from Someplace Beautiful",
+  "article_author": "Brendan Egan",
+  "article_date": "2024",
+  "article_source": "Oxford American",
+  "article_category": "Essay",
+  "article_tags": ["Nature", "Urbanization", "West Texas", "Environment"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "One early morning, a few months after my daughter was born, I ducked out to my backyard to turn on the sprinkler and found a gray fox balancing on our wood fence. As agile as any house cat, it prowled the fence top, maybe thirsty for the wading pool that had previously slumped in the shade of our desert willow. I threw the door behind me closed—an instinct—and the fox paused to look me in the eye. It stood straight and still, its flared, black-streaked tail raised like a flag."
+    },
+    {
+      "passage_number": 2,
+      "text": "I’d heard the hoarse yelp of a fox once before: sunset, walking the dirt easement that extended beyond the end of the road behind our subdivision. It was total shit land out there. A chunk of it was irrigated for grazing a herd of maybe a dozen cattle, there were high tension powerlines, a submerged gas pipeline, and some lots slated to be fracked and drilled, but mostly it was mesquite, bunchgrass, and plastic bags."
+    },
+    {
+      "passage_number": 3,
+      "text": "In that feral space, the sound of a wild animal had felt fitting, but perched on my fence, the fox became an uncanny reminder of the fragile claims we lay on the land we occupy. Everyone in Midland knows something beautiful is just a five-hour drive away. Bumper stickers from the Texas Hill Country, Big Bend National Park, Carlsbad Caverns, and the mountains of New Mexico and Colorado tattoo our pickups and SUVs. But the lights on the local prospect are somewhat dimmer. In a community built upon extraction, the value of its land is foremost a calculation of the barrels it can provide. Aesthetic pleasures lie elsewhere."
+    },
+    {
+      "passage_number": 4,
+      "text": "Promotional photos for the city often feature the downtown skyline rising above duck ponds and verdant slopes of golf courses—belying the truth of an environment that receives less than fifteen inches of precipitation in an average year. Yet, our very livelihood depends on expanses of space where so many of us spend our working days digging through dust."
+    },
+    {
+      "passage_number": 5,
+      "text": "Our home was built in 2014, following the height of the oil boom that drove a severe housing shortage. Workers poured into town, lured by lucrative jobs in the surrounding Permian Basin. Rents were higher in our city of about 130,000 people than in Dallas or Austin. Man camps, where temporary oilfield workers are housed, were full. Motels were full. RV parks were full. People were moving here and living in the cabs of their pick-up trucks while making thousands of dollars a week."
+    },
+    {
+      "passage_number": 6,
+      "text": "Housing developments like ours have popped up in waves along the verges of the city: an HOA, a community pool, a half dozen preset floorplans, your choice of brick façade. They’re raised in a rush by corporate builders, sprawling out into former ranchland from a once compact city center to fill the nagging demand for housing."
+    },
+    {
+      "passage_number": 7,
+      "text": "Like most of the new middle-class neighborhoods of Midland, ours half-heartedly aspires to the slick charm of the suburban American dreamscape. Our front yards are made of gray river rock or squares of sod that never quite take to the soil. Pumpjacks teeter in quarter-acre lots set between cul-de-sacs. There always seems to be not quite enough trees and a few more trucks than anyone could need."
+    },
+    {
+      "passage_number": 8,
+      "text": "Our builder told us to expect some wildlife to appear our first year—scared out of hiding by the scrape of bulldozers and graders. We found scorpions on the bathroom tile. Our neighbors were freaked by a rattler curled into the corner of their garage. One afternoon, my wife spotted a barn owl roosting in the just-framed eaves of a two-story across the street. It felt as if the moon itself had been displaced. We stood at the bottom of the driveway, watching until it yawned its broad wings and circled toward the seemingly empty fields that lay beyond the subdivision."
+    },
+    {
+      "passage_number": 9,
+      "text": "The next Saturday morning, I went walking in the direction of the owl, past construction sites where roofers and masons were already blasting corridos from their boomboxes. I was looking for some sense of place—an assurance, however vague, that my life is connected to the natural world and the history of the people in it. I had an impression that neighborhoods like ours are not place itself, but a palimpsest upon it."
+    },
+    {
+      "passage_number": 10,
+      "text": "To find the here here, I had to walk past the end of the road. Following the owl beyond the subdivision, on the first of many walks, I found myself in an ill-defined space: ugly, post-agricultural, metamorphic. Not the oilfield proper, and not exactly town—not yet, anyway. A catchment basin, a transformer station, then a patch of about two square miles of scrub."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main focus of the first passage?",
+      "options": {
+        "A": "The author's daughter",
+        "B": "The appearance of a gray fox",
+        "C": "The construction of a fence",
+        "D": "The desert willow tree"
+      },
+      "answer": "B",
+      "explanation": "The passage primarily describes the author's encounter with a gray fox in his backyard, making B the correct answer.",
+      "score_improvement_tip": "Focus on the central subject of the passage and avoid being distracted by secondary details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "As used in the passage, 'shit land' most likely refers to:",
+      "options": {
+        "A": "A fertile agricultural area",
+        "B": "A neglected and abused landscape",
+        "C": "A densely populated urban area",
+        "D": "A protected wildlife reserve"
+      },
+      "answer": "B",
+      "explanation": "The context suggests that 'shit land' refers to a neglected and abused landscape, as described in the passage, making B the correct answer.",
+      "score_improvement_tip": "Use the surrounding context to infer the meaning of unfamiliar phrases."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "What can be inferred about the community of Midland based on the passage?",
+      "options": {
+        "A": "It prioritizes environmental conservation",
+        "B": "It values natural beauty over economic gain",
+        "C": "It is primarily focused on resource extraction",
+        "D": "It is a popular tourist destination"
+      },
+      "answer": "C",
+      "explanation": "The passage describes Midland as a community built upon extraction, where the value of land is calculated by the barrels it can provide, making C the correct answer.",
+      "score_improvement_tip": "Look for evidence in the text that supports the inference."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "What is the primary purpose of the fourth passage?",
+      "options": {
+        "A": "To describe the beauty of the city",
+        "B": "To highlight the contrast between promotional images and reality",
+        "C": "To explain the history of the city",
+        "D": "To criticize the city's residents"
+      },
+      "answer": "B",
+      "explanation": "The passage contrasts the promotional images of the city with the reality of its arid environment, making B the correct answer.",
+      "score_improvement_tip": "Identify the main focus and purpose of the passage."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which piece of evidence best supports the idea that the oil boom caused a housing shortage?",
+      "options": {
+        "A": "Workers poured into town, lured by lucrative jobs in the surrounding Permian Basin.",
+        "B": "Rents were higher in our city of about 130,000 people than in Dallas or Austin.",
+        "C": "Man camps, where temporary oilfield workers are housed, were full.",
+        "D": "People were moving here and living in the cabs of their pick-up trucks while making thousands of dollars a week."
+      },
+      "answer": "D",
+      "explanation": "The description of people living in the cabs of their pick-up trucks directly supports the idea of a housing shortage caused by the oil boom, making D the correct answer.",
+      "score_improvement_tip": "Look for direct evidence that supports the claim in question."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "How does the sixth passage relate to the fifth passage?",
+      "options": {
+        "A": "It provides a solution to the problem described in the fifth passage.",
+        "B": "It offers a more detailed example of the problem described in the fifth passage.",
+        "C": "It contradicts the claims made in the fifth passage.",
+        "D": "It introduces a new problem unrelated to the fifth passage."
+      },
+      "answer": "B",
+      "explanation": "The sixth passage provides a detailed example of how the housing shortage led to the rapid development of new neighborhoods, expanding on the problem described in the fifth passage, making B the correct answer.",
+      "score_improvement_tip": "Look for connections between passages that expand on or support earlier ideas."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 7,
+      "question": "What does the author describe as lacking in the new neighborhoods of Midland?",
+      "options": {
+        "A": "Trucks",
+        "B": "Trees",
+        "C": "Pumpjacks",
+        "D": "Sod"
+      },
+      "answer": "B",
+      "explanation": "The author mentions that there always seems to be 'not quite enough trees' in the new neighborhoods, making B the correct answer.",
+      "score_improvement_tip": "Look for explicit descriptions of the author's observations."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "As used in the passage, 'palimpsest' most likely refers to:",
+      "options": {
+        "A": "A type of wildlife",
+        "B": "A layered or rewritten landscape",
+        "C": "A construction material",
+        "D": "A historical artifact"
+      },
+      "answer": "B",
+      "explanation": "The context suggests that 'palimpsest' refers to a landscape that has been layered or rewritten over time, making B the correct answer.",
+      "score_improvement_tip": "Use the surrounding context to infer the meaning of unfamiliar words."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 9,
+      "question": "What can be inferred about the author's attitude toward the new neighborhoods?",
+      "options": {
+        "A": "He finds them charming and well-designed",
+        "B": "He feels disconnected from them",
+        "C": "He believes they are environmentally sustainable",
+        "D": "He thinks they are too expensive"
+      },
+      "answer": "B",
+      "explanation": "The author describes the neighborhoods as lacking a sense of place and feeling disconnected from the natural world, making B the correct answer.",
+      "score_improvement_tip": "Consider the author's tone and descriptions to infer their attitude."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 10,
+      "question": "Which choice best describes the author's overall argument in the final passage?",
+      "options": {
+        "A": "The new neighborhoods are a perfect example of urban planning",
+        "B": "The landscape beyond the subdivision is neglected but resilient",
+        "C": "The oil boom has had no impact on the environment",
+        "D": "The author prefers urban life to rural life"
+      },
+      "answer": "B",
+      "explanation": "The author describes the landscape beyond the subdivision as neglected but resilient, making B the correct answer.",
+      "score_improvement_tip": "Synthesize the author's main points to understand their overall argument."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+  }
+}

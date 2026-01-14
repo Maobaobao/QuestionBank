@@ -1,0 +1,211 @@
+{
+  "article_title": "How Women Can Win In The Workplace",
+  "article_author": "Kweilin Ellingrud",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Gender Equity", "Career Development", "Corporate Culture", "Diversity"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "That’s the good news for women. But as soon as they cross the graduation threshold, something strange happens: They immediately lose their advantage. In the United States women represent only 48% of employees entering the corporate workforce—and when the first promotions to manager come around, only 81 women are promoted for every 100 men. This means that over the course of five years one million women will fall behind right at the start of their careers, held back by a broken rung at the bottom of the corporate ladder."
+    },
+    {
+      "passage_number": 2,
+      "text": "One of the big reasons is that education and entry-level skills get you only halfway to your full earning potential. The rest is based on knowledge, skills, and wisdom gained on the job. We call this experience capital. Interestingly, our analysis shows that women move from role to role and learn new skills just as frequently as men do. However, men are more likely to move to growing occupations from shrinking ones. Their moves are also more likely to increase their pay than moves made by women, who often see a decrease in pay."
+    },
+    {
+      "passage_number": 3,
+      "text": "Experience capital can be gained through employer-provided learning and development programs, through job changes that challenge you to add new skills to your repertoire, and by observing how colleagues and bosses handle complex tasks or tricky situations. But building experience capital isn’t the only challenge; the other half of the equation is having it recognized in the form of new opportunities, promotions, and compensation increases."
+    },
+    {
+      "passage_number": 4,
+      "text": "To identify companies that will help you boost your experience capital, look for these traits.<br><br>A strong learning culture. Seek out companies in which all employees, new and long-tenured, are offered education and training—and are actively encouraged to take advantage of them by leaders who prioritize their growth.<br><br>High and cross-functional mobility. A company that actively helps employees move into new roles internally increases their experience capital. In such firms workers develop greater agility and feel that their organization invests in and values them, which increases engagement and retention."
+    },
+    {
+      "passage_number": 5,
+      "text": "The question, of course, is how to identify companies that actually possess these traits. The most obvious places to start are company websites and the information that companies’ HR departments make available. It’s always a good idea to talk to people who work in the organizations and to compare what they tell you with what you find out through external sources, such as media outlets or websites like Glassdoor and Indeed."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "The author most likely mentions 'a broken rung at the bottom of the corporate ladder' in order to",
+      "options": {
+        "A": "criticize the physical safety of corporate office buildings.",
+        "B": "provide a metaphorical explanation for the early-career promotion gap.",
+        "C": "suggest that women are less prepared for management roles than men.",
+        "D": "argue that corporate ladder structures are outdated and ineffective."
+      },
+      "answer": "B",
+      "explanation": "The phrase 'broken rung' is a metaphor. The passage details the statistical disparity in early promotions (81 women for every 100 men), which causes women to 'fall behind right at the start.' The metaphor vividly illustrates this specific structural barrier, not a literal, physical, or preparedness issue.",
+      "score_improvement_tip": "For hard inference questions, avoid literal interpretations of figurative language. Identify what the metaphor is being compared to in the context of the author's central argument."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "As used in the passage, the word 'repertoire' most nearly means",
+      "options": {
+        "A": "performance.",
+        "B": "collection.",
+        "C": "audition.",
+        "D": "reputation."
+      },
+      "answer": "B",
+      "explanation": "In the context of gaining skills 'on the job' and through 'job changes,' the word 'repertoire' refers to the accumulated set or collection of skills a person possesses. While often used in a performance context (option A), its meaning here is broader and synonymous with a 'collection' of abilities.",
+      "score_improvement_tip": "For 'Words in Context,' substitute each answer choice into the original sentence. Only 'add new skills to their collection' maintains the original meaning and grammatical correctness."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which choice best describes the relationship between the underlined sentences? 'Interestingly, our analysis shows that women move from role to role and learn new skills just as frequently as men do. However, men are more likely to move to growing occupations from shrinking ones.'",
+      "options": {
+        "A": "The second sentence presents a solution to a problem identified in the first.",
+        "B": "The second sentence introduces a contrast to a claim made in the first.",
+        "C": "The second sentence provides an example that illustrates the first.",
+        "D": "The second sentence states an effect of the situation described in the first."
+      },
+      "answer": "B",
+      "explanation": "The first sentence makes a claim about parity (women change roles and learn as often as men). The transition word 'However' signals a shift, and the second sentence introduces a contrasting point of difference (the *type* and *outcome* of moves differ). This contrast is central to the author's argument.",
+      "score_improvement_tip": "Pay close attention to transition words like 'however,' 'therefore,' 'for example,' and 'furthermore' as they explicitly define the logical relationship between sentences."
+    },
+    {
+      "question_number": 4,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Easy",
+      "passage": 5,
+      "question": "The writer wants to combine the underlined sentences. The most logical revision would be to join them with which of the following words?<br>'The most obvious places to start are company websites and the information that companies’ HR departments make available. It’s always a good idea to talk to people who work in the organizations...'",
+      "options": {
+        "A": "available, but it's",
+        "B": "available; however, it's",
+        "C": "available, and it's",
+        "D": "available, it's"
+      },
+      "answer": "C",
+      "explanation": "The two sentences present complementary strategies for research, not contrasting ideas. The correct transition should add information. 'And' is the most appropriate coordinating conjunction to join two related ideas smoothly. Option D creates a run-on sentence, and options A and B incorrectly imply a contrast.",
+      "score_improvement_tip": "To choose the correct transition, determine the relationship between the ideas: addition (+), contrast (-), or cause/effect (→). Here, the relationship is additive (+)."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 4,
+      "question": "According to the passage, a company with 'high and cross-functional mobility' is beneficial primarily because it helps employees",
+      "options": {
+        "A": "earn a higher salary immediately.",
+        "B": "avoid having to work with external recruiters.",
+        "C": "develop greater agility and feel valued.",
+        "D": "reduce the number of hours spent in training."
+      },
+      "answer": "C",
+      "explanation": "The passage states explicitly: 'In such firms workers develop greater agility and feel that their organization invests in and values them, which increases engagement and retention.' This is the stated primary benefit. The other options are not supported by the text.",
+      "score_improvement_tip": "For detail questions, locate the specific text that contains the answer. Do not rely on memory or assumptions; often the correct answer is a direct paraphrase of the passage."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The main purpose of the third passage is to",
+      "options": {
+        "A": "list the only methods available for gaining professional skills.",
+        "B": "describe a concept and then introduce a crucial nuance to it.",
+        "C": "argue that employer-provided programs are inferior to on-the-job learning.",
+        "D": "predict the future of corporate training and development."
+      },
+      "answer": "B",
+      "explanation": "The first sentence describes *how* 'experience capital' is gained (the methods). The second sentence, introduced by the contrastive 'But,' introduces a crucial nuance: gaining the capital is only half the battle; having it *recognized* is equally important. This structure defines the concept and then deepens the reader's understanding of its complexity.",
+      "score_improvement_tip": "To identify the purpose of a paragraph, examine its structure. Note how the opening sentence sets up an idea and how subsequent sentences develop, contrast, or exemplify that idea."
+    },
+    {
+      "question_number": 7,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>'This means that over the course of five years one million women will fall behind right at the start of their careers, _________ by a broken rung at the bottom of the corporate ladder.'",
+      "options": {
+        "A": "held back",
+        "B": "holding back",
+        "C": "to be held back",
+        "D": "and held back"
+      },
+      "answer": "A",
+      "explanation": "The phrase 'held back' is a past participle that correctly begins a participle phrase modifying 'one million women.' This phrase explains *how* they are caused to fall behind. The other options create grammatical errors: B changes the meaning (implying the women are doing the holding), C creates an infinitive fragment, and D requires a conjunction that isn't logically present.",
+      "score_improvement_tip": "Isolate the clause. The core sentence is 'one million women will fall behind.' The blank starts a descriptive phrase about the women. The women are *being acted upon* (held back), so the passive past participle 'held' is required."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The author's analysis of professional profiles suggests that which of the following is a significant factor in the gender pay gap?",
+      "options": {
+        "A": "Women are less interested than men in seeking higher pay.",
+        "B": "The strategic direction of job moves differs between men and women.",
+        "C": "Men possess inherently better negotiation skills than women.",
+        "D": "Women prioritize job satisfaction over financial compensation."
+      },
+      "answer": "B",
+      "explanation": "The passage states that while frequency of movement is equal, 'men are more likely to move to growing occupations from shrinking ones' and their moves 'are more likely to increase their pay.' This implies a difference in the *strategy* or *outcome* of job moves, not interest, inherent skill, or prioritization. The text provides no evidence for A, C, or D.",
+      "score_improvement_tip": "For inference questions, the correct answer must be directly supported by evidence in the text, even if not stated verbatim. Eliminate choices that introduce outside assumptions or stereotypes not present in the passage."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "A student is taking notes for a research paper on traits of effective companies. Which choice best synthesizes the information from the two bullet points in the passage?",
+      "options": {
+        "A": "Companies should force employees to change roles frequently to keep them engaged.",
+        "B": "Ideal companies are those that strategically foster continuous employee development through both training and internal opportunity.",
+        "C": "A strong learning culture is the only proven way to increase employee retention and agility.",
+        "D": "The primary goal of cross-functional mobility is to make the HR department more efficient."
+      },
+      "answer": "B",
+      "explanation": "Rhetorical synthesis requires combining ideas accurately. The first bullet point discusses a 'strong learning culture' (training encouraged by leaders). The second discusses 'high and cross-functional mobility' (internal moves that develop agility). Choice B effectively synthesizes these two ideas into a single, accurate statement. Choice A misrepresents the text ('force' vs. 'actively help'), C is an overstatement ('only proven way'), and D misstates the primary goal.",
+      "score_improvement_tip": "In synthesis questions, the correct answer will include key terms from all parts of the source text without distorting the original meaning or adding unsupported extremes like 'only' or 'most.'"
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Suppose another text argues that 'blindly trusting a company's official marketing materials is a common mistake job seekers make.' How would the author of this passage most likely respond to that claim?",
+      "options": {
+        "A": "With dismissal, because company websites are the most accurate source of information.",
+        "B": "With agreement, and would point to the advice to cross-reference with external sources and employee accounts.",
+        "C": "With concern, arguing that it discourages people from using any company resources at all.",
+        "D": "With skepticism, stating that HR departments are legally required to be truthful."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly advises job seekers to start with official sources but then crucially says, 'It’s always a good idea to talk to people... and to compare what they tell you with what you find out through external sources.' This directly aligns with the other text's warning against blind trust and emphasizes the need for verification, making agreement the most likely response.",
+      "score_improvement_tip": "For cross-text connection questions, find the specific portion of the original passage that addresses the core idea of the hypothetical second text. The author's stated position is the key to predicting their response."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate consistent mastery across all domains. They excel at complex inferences (Q1, Q8), nuanced analysis of text structure and purpose (Q6), and synthesizing information from multiple parts of a text (Q9, Q10). They rarely make errors on medium-difficulty questions concerning evidence and vocabulary.",
+    "700_level_performance": "Students scoring 700 show strong comprehension and can handle explicit detail (Q5) and standard grammar conventions (Q7). Their gap to an 800 is often defined by missed nuances in harder questions: misinterpreting figurative language (Q1), overlooking key transition words (Q3), or selecting an appealing but unsupported inference (Q8)."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (Q1, Q6, Q8, Q9, Q10) test advanced skills: inferring authorial intent behind metaphors, analyzing paragraph structure for purpose, drawing subtle inferences from data, synthesizing multiple ideas, and connecting ideas across texts. They require careful, critical reading beyond surface-level meaning.",
+    "medium_questions": "Medium questions (Q2, Q3, Q7) assess vocabulary in context, understanding logical relationships between sentences, and applying core grammar rules. They form the foundation for a high score.",
+    "easy_questions": "Easy questions (Q4, Q5) evaluate the ability to locate explicit information and make simple, logical edits for cohesion. Mastering these is essential for avoiding unnecessary point loss."
+  }
+}

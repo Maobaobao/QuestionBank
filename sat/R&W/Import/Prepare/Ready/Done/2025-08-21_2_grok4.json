@@ -1,0 +1,219 @@
+{
+    "article_title": "Adventures in the genetic time machine",
+    "article_author": "Antonio Regalado",
+    "article_date": "March-April,2025",
+    "article_source": "MIT Technology Review",
+    "article_category": "Essay",
+    "article_tags": ["Ancient DNA", "Human Evolution", "Genetics", "Archaeology", "Population Migration"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The scramble for old bones has produced a parade of headlines about the peopling of the planet, and especially of western Eurasia—from Iceland to Tehran, roughly. That’s where most ancient DNA samples originate, thanks to colder weather, centuries of archaeology, and active research programs. At the National Museum in Copenhagen, some skeletons on display to the public have missing teeth—teeth that ended up in the Globe Institute’s ancient-DNA lab as part of a project to analyze 5,000 sets of remains from Eurasia, touted as the largest single trove of old genomes yet."
+      },
+      {
+        "passage_number": 2,
+        "text": "What ancient DNA uncovered in Europe is a broad-brush story of three population waves of modern humans. First to come out of Africa were hunter-gatherers who dispersed around the continent, followed by farmers who spread out of Anatolia starting 11,000 years ago. That wave saw the establishment of agriculture and ceramics and brought new stone tools. Last came a sweeping incursion of people(and genes) from the plains of modern Ukraine and Russia—animal herders known as the Yamnaya, who surged into Western Europe spreading the roots of the Indo-European languages now spoken from Dublin to Bombay.<br><br>Archaeologists had already pieced together an outline of this history through material culture, examining shifts in pottery styles and burial methods, the switch from stone axes to metal ones. Some attributed those changes to cultural transmission of knowledge rather than population movements, a view encapsulated in the phrase “pots, not people.” However, ancient DNA showed that much of the change was, in fact, the result of large-scale migration, not all of which looks peaceful. Indeed, in Denmark, the hunter-gatherer DNA signature all but vanishes within just two generations after the arrival of farmers during the late Stone Age. To Willerslev, the rapid population replacement “looks like some kind of genocide, to be honest.” It’s a guess, of course, but how else to explain the “limited genetic contribution” to subsequent generations of the blue-eyed, dark-haired locals who’d fished and hunted around Denmark’s islands for nearly 5,000 years? Certainly, the bodies in Copenhagen’s museums suggest violence—some have head injuries, and one still has arrows in it. In other cases, it’s obvious that populations met and mixed; the average ethnic European today shares some genetic contribution from all three founding groups—hunter, farmer, and herder—and a little bit from Neanderthals, too."
+      },
+      {
+        "passage_number": 3,
+        "text": "Archaeologists had already pieced together an outline of this history through material culture, examining shifts in pottery styles and burial methods, the switch from stone axes to metal ones. Some attributed those changes to cultural transmission of knowledge rather than population movements, a view encapsulated in the phrase “pots, not people.” However, ancient DNA showed that much of the change was, in fact, the result of large-scale migration, not all of which looks peaceful. Indeed, in Denmark, the hunter-gatherer DNA signature all but vanishes within just two generations after the arrival of farmers during the late Stone Age. To Willerslev, the rapid population replacement “looks like some kind of genocide, to be honest.” It’s a guess, of course, but how else to explain the “limited genetic contribution” to subsequent generations of the blue-eyed, dark-haired locals who’d fished and hunted around Denmark’s islands for nearly 5,000 years? Certainly, the bodies in Copenhagen’s museums suggest violence—some have head injuries, and one still has arrows in it. In other cases, it’s obvious that populations met and mixed; the average ethnic European today shares some genetic contribution from all three founding groups—hunter, farmer, and herder—and a little bit from Neanderthals, too."
+      },
+      {
+        "passage_number": 4,
+        "text": "“We had the idea that people stay put, and if things change, it’s because people learned to do something new, through movements of ideas,” says Willerslev. “Ancient DNA showed that is not the case—that the transitions from hunter-gatherers to farming, from bronze to iron, from iron to Viking, ­are­ actually due to people coming and going, mixing up and bringing new knowledge.” It means the world that we observe today, with Poles in Poland and Greeks in Greece, “is very, very young.”"
+      },
+      {
+        "passage_number": 5,
+        "text": "With an increasing number of old bodies giving up their DNA secrets, researchers have started to search for evidence of genetic adaptation that has occurred in humans since the last ice age(which ended about 12,000 years ago), a period that the Copenhagen group noted, in a January 2024 report, “involved some of the most dramatic changes in diet, health, and social organization experienced during recent human evolution.” Every human gene typically comes in a few different possible versions, and by studying old bodies, it’s possible to see which of these versions became more common or less so with time—potentially an indicator that they’re “under selection,” meaning they influenced the odds that a person stayed alive to reproduce. These pressures are often closely tied to the environment. One clear signal that pops out of ancient European genes is a trend toward lighter skin—which makes it easier to produce vitamin D in the face of diminished sunlight and a diet based on grains."
+      },
+      {
+        "passage_number": 6,
+        "text": "New technology and changing life-styles —like agriculture and living in proximity to herd animals(and their diseases)—were also potent forces. Last fall, when Harvard University scientists scanned DNA from skeletons, they said they’d detected “rampant” evidence of evolutionary action. The shifts appeared especially in immune system genes and in a definite trend toward less body fat, the genetic markers of which they found had decreased significantly “over ten millennia.” That finding, they said, was consistent with the “thrifty gene” hypothesis, a feast-or-famine theory developed in the 1960s, which states that before the development of farming, people needed to store up more food energy, but doing so became less of an advantage as food became more abundant."
+      },
+      {
+        "passage_number": 7,
+        "text": "Such discoveries could start to explain some modern disease mysteries, such as why multiple sclerosis is unusually common in Nordic countries, a pattern that has perplexed doctors."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary reason most ancient DNA samples come from western Eurasia?",
+        "options": {
+          "A": "It has the oldest human settlements",
+          "B": "Colder weather, archaeology, and research programs",
+          "C": "The region has the most museums",
+          "D": "Headlines focus only on this area"
+        },
+        "answer": "B",
+        "explanation": "The text explicitly states that colder weather, centuries of archaeology, and active research programs are why most samples originate from western Eurasia.",
+        "score_improvement_tip": "Focus on locating explicit details in the text to answer straightforward questions accurately."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, 'broad-brush' most nearly means",
+        "options": {
+          "A": "Artistic",
+          "B": "General",
+          "C": "Detailed",
+          "D": "Colorful"
+        },
+        "answer": "B",
+        "explanation": "The term 'broad-brush story' refers to a general overview of population waves, not a detailed or artistic one.",
+        "score_improvement_tip": "Use surrounding context to determine the meaning of words, especially when they are used metaphorically."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which finding from ancient DNA challenges the 'pots, not people' view?",
+        "options": {
+          "A": "Shifts in pottery styles",
+          "B": "Evidence of large-scale migration",
+          "C": "Changes in burial methods",
+          "D": "The switch to metal tools"
+        },
+        "answer": "B",
+        "explanation": "The passage states that ancient DNA showed changes resulted from large-scale migration, contradicting the idea of cultural transmission without population movements.",
+        "score_improvement_tip": "Identify evidence that directly supports or challenges a stated idea to strengthen command of textual evidence."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "The primary purpose of the quotation from Willerslev is to",
+        "options": {
+          "A": "Introduce a new theory",
+          "B": "Contrast past ideas with DNA findings",
+          "C": "Describe modern populations",
+          "D": "Explain Viking transitions"
+        },
+        "answer": "B",
+        "explanation": "Willerslev's quote highlights the shift from believing in static populations to recognizing migrations based on ancient DNA evidence.",
+        "score_improvement_tip": "Analyze how quotes contribute to the overall argument or structure of the text."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Form, Structure, and Sense",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "In the sentence 'Every human gene typically comes in a few different possible versions, and by studying old bodies, it’s possible to see which of these versions became more common or less so with time—potentially an indicator that they’re “under selection,” meaning they influenced the odds that a person stayed alive to reproduce.', the most logical placement for the phrase 'under selection' is",
+        "options": {
+          "A": "Where it is now",
+          "B": "After 'versions'",
+          "C": "Before 'potentially'",
+          "D": "After 'reproduce'"
+        },
+        "answer": "A",
+        "explanation": "The phrase is correctly placed in quotes to define the concept of genetic versions becoming more or less common, maintaining logical sense.",
+        "score_improvement_tip": "Ensure phrases are placed to clearly define or modify the intended ideas without disrupting sentence flow."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, the author would most likely agree that the disappearance of hunter-gatherer DNA in Denmark was primarily due to",
+        "options": {
+          "A": "Peaceful integration with farmers",
+          "B": "Natural environmental changes",
+          "C": "Violent population replacement",
+          "D": "Gradual cultural assimilation"
+        },
+        "answer": "C",
+        "explanation": "The text infers violence through Willerslev's 'genocide' guess, limited genetic contribution, and evidence of injuries on bodies.",
+        "score_improvement_tip": "Draw inferences by connecting implicit details like evidence of violence to broader conclusions."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "If the author of first passage were to respond to the 'pots, not people' view in second passage, they would most likely",
+        "options": {
+          "A": "Support it with evidence of cultural transmission",
+          "B": "Challenge it by emphasizing migration waves",
+          "C": "Ignore it as irrelevant to DNA findings",
+          "D": "Combine it with genetic data"
+        },
+        "answer": "B",
+        "explanation": "First Passage describes population waves, which second passage uses to show DNA evidence of migration over mere cultural changes.",
+        "score_improvement_tip": "Make connections across passages by identifying how ideas in one contradict or build on another."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "To make the passage more effective, the author should add which detail about the 'thrifty gene' hypothesis?",
+        "options": {
+          "A": "A comparison to modern dieting trends",
+          "B": "Evidence from non-European populations",
+          "C": "An explanation of how decreased body fat markers support it",
+          "D": "The names of the 1960s developers"
+        },
+        "answer": "C",
+        "explanation": "Adding how the decrease in body fat markers aligns with the hypothesis would strengthen the rhetorical link to evolutionary changes.",
+        "score_improvement_tip": "Enhance synthesis by ensuring added details directly support the main rhetorical goal."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Suppose data showed no trend toward lighter skin in ancient European genes. This would most weaken the claim that genetic adaptations are",
+        "options": {
+          "A": "Tied to environmental pressures",
+          "B": "Studied through old bodies",
+          "C": "Related to diet changes",
+          "D": "Influenced by social organization"
+        },
+        "answer": "A",
+        "explanation": "The lighter skin trend is presented as evidence of adaptation to diminished sunlight, an environmental pressure.",
+        "score_improvement_tip": "Evaluate how hypothetical evidence impacts claims, focusing on quantitative trends like gene frequency changes."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "Which transition word or phrase would best connect the passage to the previous discussion of genetic adaptations?",
+        "options": {
+          "A": "However",
+          "B": "For example",
+          "C": "In contrast",
+          "D": "Nevertheless"
+        },
+        "answer": "B",
+        "explanation": "The passage provides a specific application of discoveries to modern diseases, exemplifying the broader adaptations discussed.",
+        "score_improvement_tip": "Choose transitions that logically link ideas, such as exemplification for specific instances."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students at this level excel in advanced inference, cross-text synthesis, and rhetorical analysis, consistently identifying subtle evidence and structural nuances.",
+      "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may miss deeper inferences or complex connections in harder questions."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions require inferring unspoken implications, synthesizing across texts, and evaluating rhetorical effectiveness or hypothetical evidence.",
+      "medium_questions": "Medium questions focus on identifying main purposes, contextual meanings, and ensuring logical sentence structure.",
+      "easy_questions": "Easy questions test basic detail retrieval and straightforward word meanings in context."
+    }
+  }

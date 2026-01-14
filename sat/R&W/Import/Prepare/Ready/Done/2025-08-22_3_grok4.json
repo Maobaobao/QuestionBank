@@ -1,0 +1,232 @@
+{
+  "article_title": "Are friends electric?",
+  "article_author": "Bryan Gardiner",
+  "article_date": "March-April, 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Voice Synthesis", "AI", "Automation", "Human Labor", "Technology History"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The talking-machine demonstrations, although highly choreographed, were a hit with visitors and the press­so much so that people seemed willing to attribute far more understanding and autonomy to the Voder than was warranted. Even though the Voderette was in full view during the entire demonstration, the press usually mentioned the woman responsible for making the sounds only in passing, if at all.<br>Instead, the Voder was anthropomorphized and granted a high degree of agency. “He hasn’t any mouth, lungs, or larynx­but he talks a blue streak,” wrote Popular Science."
+    },
+    {
+      "passage_number": 2,
+      "text": "From the Voder and Elektro the Moto-Man to Speak & Spell and Perfect Paul to Alexa and Siri, Vox ex Machina showcases both the products of voice synthesis and the underlying technologies that made them possible. It’s a fascinating tour, particularly when Bell focuses on the ways in which the public’s reaction to these “talking machines” presaged its reaction to the “thinking” ones that would emerge decades later. While the practice of describing humans with machine metaphors and machines with human metaphors dates back centuries, the ability of machines to simulate human speech (however poorly) “gave machinic personification a new inflection,” writes Bell."
+    },
+    {
+      "passage_number": 3,
+      "text": "In other words, the more machines could “speak” and “think,” the more we started to think of ourselves as machines. Indeed, one can’t help but see striking parallels to what’s happening with today’s artificial intelligence­specifically, our willingness to reduce or minimize what makes us human to better conform to whatever “intelligent” attribute a product may be demonstrating. Sam Altman’s response to the fact that LLMs are just really good word calculators? “i am a stochastic parrot, and so r u.”"
+    },
+    {
+      "passage_number": 4,
+      "text": "The Voder may have been one of the first crude attempts at speech synthesis, but the disconnect between the way it worked (with a lot of human training and labor) and the way the public and press perceived it (as a more or less autonomous machine with its own voice) foreshadowed a problem we still face today. In Waiting for Robots: The Hired Hands of Automation, Antonio A. Casilli argues that despite claims to the contrary, human input remains a crucial component of all modern automation and artificial-intelligence tools, regardless of their sophistication. The difference is that instead of this role being obvious­as was the case with the Voderettes­it’s now hidden, and usually on purpose."
+    },
+    {
+      "passage_number": 5,
+      "text": "Casilli is a sociology professor at the Polytechnic Institute of Paris who studies the unseen and unacknowledged “digital labor” that undergirds many of today’s social media platforms, microtask sites, and on-demand services. Rather than viewing automation and AI as destroyers of human jobs, he makes a convincing case that they merely result in the further atomization of work, fracturing it into smaller, more meaningless, more demeaning tasks for many of us. “Forget about losing jobs to automation,” he writes. “Remarkably, the reality is that humans steal the jobs of robots.”<br>Whether it’s Amazon’s Mechanical Turk, a service for recruiting hundreds of thousands of micro-taskers to perform video-filtering and image-tagging tasks that machines can’t do, or the perpetual human “supervision” and “reinforcement” required for automated learning and AI training, Casilli gives readers plenty of examples of how human labor much of it coming from Asian, Latin American, and African countries props up­or, in some cases, pretends to actually be­intelligent systems and products."
+    },
+    {
+      "passage_number": 6,
+      "text": "Ultimately, Casilli is less concerned that robots will replace white-collar workers, and more worried that thousands of lower-paid or unpaid digital workers will. As he points out, we are already unwittingly being recruited by companies to collectively perform millions of hours of free work every year. Take the aforementioned captchas: Google, which owns and deploys one of the most popular versions of the service ReCAPTCHA and No CAPTCHA, has been using this digital labor for more than a decade. The results help detect house numbers to improve Google Street View, digitize texts for Google Books, and train its computer vision algorithms to detect locations and reconstruct scenes, enhancing Google Images and improving the performance of Waymo’s self-driving cars. “The irony here is that a service that is supposed to distinguish humans from robots is actually making humans work to produce more robots,” Casilli writes.<br>While all the hype and hyperbole surrounding today’s AI tools can feel unprecedented, Casilli reminds readers that such rhetoric isn’t really new at all. Robots, automation, and various intelligent systems have been just on the verge of taking over all aspects of our work lives and cultural output for decades now. In the end, artificial intelligence is a technological process that isn’t actually artificial, he says. Peer behind the curtains of smooth and seamless efficiency, and it’s humans all the way down."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the passage, how did the press typically portray the Voder?",
+      "options": {
+        "A": "As a device requiring extensive human input",
+        "B": "As an autonomous machine with human-like qualities",
+        "C": "As a failed experiment in voice synthesis",
+        "D": "As a tool primarily used for entertainment"
+      },
+      "answer": "B",
+      "explanation": "The passage states that the Voder was anthropomorphized and granted a high degree of agency, with quotes like 'He hasn’t any mouth... but he talks a blue streak,' indicating it was portrayed as autonomous and human-like.",
+      "score_improvement_tip": "Focus on identifying explicit details that describe attitudes or portrayals in the text to avoid overgeneralizing."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "In the context of the passage, the word 'presaged' most nearly means",
+      "options": {
+        "A": "contradicted",
+        "B": "foreshadowed",
+        "C": "imitated",
+        "D": "amplified"
+      },
+      "answer": "B",
+      "explanation": "The passage discusses how public reactions to talking machines anticipated reactions to thinking machines, so 'presaged' means foreshadowed.",
+      "score_improvement_tip": "Use surrounding sentences to determine the meaning of unfamiliar words, ensuring the chosen synonym fits logically."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Based on the passage, the author suggests that Sam Altman's statement implies",
+      "options": {
+        "A": "humans are superior to machines in intelligence",
+        "B": "machines have surpassed human cognitive abilities",
+        "C": "both humans and AI operate on similar probabilistic principles",
+        "D": "AI development should prioritize ethical considerations"
+      },
+      "answer": "C",
+      "explanation": "Altman's quote 'i am a stochastic parrot, and so r u' equates humans to LLMs as 'word calculators,' implying shared mechanistic processes.",
+      "score_improvement_tip": "Draw logical inferences by connecting quoted statements to the broader argument, checking for consistency with the text's tone."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The primary purpose of mentioning the Voder in this passage is to",
+      "options": {
+        "A": "highlight a technological breakthrough in speech synthesis",
+        "B": "illustrate a historical example of hidden human labor in automation",
+        "C": "criticize the press for inaccurate reporting on machines",
+        "D": "compare early voice technology to modern AI assistants"
+      },
+      "answer": "B",
+      "explanation": "The passage uses the Voder to show the disconnect between perception and reality, foreshadowing hidden human input in modern AI, as argued by Casilli.",
+      "score_improvement_tip": "Identify the author's intent by examining how examples support the main thesis, rather than focusing on isolated details."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>Casilli argues that automation results in the atomization of work, ________ it into smaller, more demeaning tasks.",
+      "options": {
+        "A": "fracture",
+        "B": "fractures",
+        "C": "fractured",
+        "D": "fracturing"
+      },
+      "answer": "D",
+      "explanation": "The gerund 'fracturing' is needed to parallel 'atomization' and maintain grammatical consistency in the participial phrase.",
+      "score_improvement_tip": "Check for parallel structure in phrases describing processes to ensure grammatical agreement."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "The student wants to emphasize the underappreciation of human effort in the Voder demonstrations. Which choice most effectively uses relevant information from the passage to accomplish this goal?",
+      "options": {
+        "A": "NO CHANGE",
+        "B": "visitors praised the machine's autonomy, ignoring the Voderette's role",
+        "C": "the press focused on the technology's novelty",
+        "D": "demonstrations were popular among attendees"
+      },
+      "answer": "B",
+      "explanation": "This choice highlights the press's minimal mention of the Voderette, directly supporting the underappreciation of human labor.",
+      "score_improvement_tip": "Select options that precisely align with the rhetorical goal by synthesizing key details without introducing extraneous information."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Suppose a researcher found evidence that early machine metaphors influenced 20th-century psychology. This finding would most directly support which claim in the passage?",
+      "options": {
+        "A": "The practice of machine-human metaphors dates back centuries",
+        "B": "Voice synthesis gave new inflection to machinic personification",
+        "C": "Public reactions to talking machines presaged those to thinking ones",
+        "D": "Products like Alexa showcase underlying technologies"
+      },
+      "answer": "B",
+      "explanation": "The evidence would reinforce how simulating speech intensified the blending of human and machine metaphors, as Bell describes.",
+      "score_improvement_tip": "Connect hypothetical evidence to specific claims by analyzing how it extends or exemplifies the text's historical arguments."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which quotation from the passage most directly supports the idea that humans adapt their self-perception to match machine capabilities?",
+      "options": {
+        "A": "the more machines could “speak” and “think,” the more we started to think of ourselves as machines",
+        "B": "striking parallels to what’s happening with today’s artificial intelligence",
+        "C": "our willingness to reduce or minimize what makes us human",
+        "D": "“i am a stochastic parrot, and so r u.”"
+      },
+      "answer": "A",
+      "explanation": "This quote explicitly links increased machine abilities to humans viewing themselves mechanistically, providing direct textual evidence.",
+      "score_improvement_tip": "Choose evidence that precisely matches the idea by evaluating how closely quotes align with the inferred concept."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Which choice completes the text with the most logical transition?<br>The Voder required significant human labor, ________ modern AI hides this input deliberately.",
+      "options": {
+        "A": "likewise",
+        "B": "however",
+        "C": "therefore",
+        "D": "moreover"
+      },
+      "answer": "B",
+      "explanation": " 'However' indicates contrast between the obvious human role in the Voder and the hidden role in modern AI.",
+      "score_improvement_tip": "Select transitions that reflect relationships like contrast or causation by considering the logical flow between ideas."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>Casilli studies the unseen digital labor that undergirds platforms, sites, and services; ________ many of today’s technologies.",
+      "options": {
+        "A": "this labor props up",
+        "B": "propping up this labor",
+        "C": "labor that props up",
+        "D": "props up this labor"
+      },
+      "answer": "A",
+      "explanation": " 'This labor props up' maintains parallel structure and logical sense after the semicolon, ensuring subject-verb agreement.",
+      "score_improvement_tip": "Ensure clauses after semicolons are independent and maintain consistency in tense and structure with the preceding clause."
+    },
+    {
+      "question_number": 11,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The passage implies that the primary irony of captchas is that they",
+      "options": {
+        "A": "fail to accurately distinguish humans from robots",
+        "B": "require humans to perform tasks that advance robotic development",
+        "C": "are outdated compared to modern AI verification methods",
+        "D": "generate more hype than practical utility for companies"
+      },
+      "answer": "B",
+      "explanation": "Casilli notes that captchas, meant to separate humans from robots, make humans work to improve robot technologies like self-driving cars.",
+      "score_improvement_tip": "Infer ironies by identifying contradictions between intended purpose and actual outcomes described in the text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level exhibit exceptional mastery, accurately inferring nuanced implications, synthesizing rhetorical elements, and applying advanced grammatical conventions under complex contexts.",
+    "700_level_performance": "Students scoring at this level demonstrate solid comprehension and analytical skills but may falter on subtle inferences, cross-text connections, or precise rhetorical adjustments in harder questions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge advanced inference, rhetorical synthesis, and cross-text analysis, requiring deep evaluation of implications and structural nuances.",
+    "medium_questions": "Medium questions test comprehension of details, vocabulary in context, and basic inferences, focusing on logical connections within the text.",
+    "easy_questions": "Easy questions assess identification of central ideas and explicit meanings, emphasizing straightforward textual details."
+  }
+}

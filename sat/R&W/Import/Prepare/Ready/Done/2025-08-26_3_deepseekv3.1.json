@@ -1,0 +1,207 @@
+{
+  "article_title": "Shedding light on dark energy",
+  "article_author": "Murat Tarakci",
+  "article_date": "December 28, 2024",
+  "article_source": "New Scientist USA",
+  "article_category": "Essay",
+  "article_tags": ["Physics", "Cosmology", "Dark Energy", "DESI"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "WE THINK dark energy makes up most of the universe, but we have no idea what it actually is. In 2025, the Dark Energy Spectroscopic Instrument (DESI) in Arizona may offer clues, particularly in relation to how this strange force has changed as the universe matured.<br><br>“Either there is some new form of dark energy that we don’t know about yet or this could be a paradigm shift, maybe [the data will show] that there is something we don’t understand about space and time,” says Mustapha Ishak- Boushaki at the University of Texas at Dallas."
+    },
+    {
+      "passage_number": 2,
+      "text": "In March, the DESI researchers will share their analysis of three years of the instrument’s data. They will describe how around 31 million galaxies form clusters across the universe and how this cosmic structure has changed in the past 11 billion years, as far as DESI can see. An early look released in April 2024 suggests dark energy, which is thought to be making our universe expand ever faster, may have been stronger in the past.<br><br>The idea that dark energy could have changed over time came as a big surprise, says Nathalie Palanque-Delabrouille at Lawrence Berkeley National Laboratory in California. “This really has shaken the community,” she says."
+    },
+    {
+      "passage_number": 3,
+      "text": "In March, the DESI researchers will share their analysis of three years of the instrument’s data. They will describe how around 31 million galaxies form clusters across the universe and how this cosmic structure has changed in the past 11 billion years, as far as DESI can see. An early look released in April 2024 suggests dark energy, which is thought to be making our universe expand ever faster, may have been stronger in the past.<br><br>The idea that dark energy could have changed over time came as a big surprise, says Nathalie Palanque-Delabrouille at Lawrence Berkeley National Laboratory in California. “This really has shaken the community,” she says.<br><br>But these early results couldn’t fully rule out the more traditional cosmological model, where dark energy has a constant value, so more data is eagerly awaited, she says. “At this stage, it’s more of a hint than it is a discovery,” says Itamar Allali at Brown University in Rhode Island. “A lot of researchers said, ‘Well, I really would like to see year three data now.’ ”"
+    },
+    {
+      "passage_number": 4,
+      "text": "The same is true of several other cosmological questions that DESI may be able to address, says Allali. For one, it may show new shifts in the Hubble constant, which measures the rate at which the universe is expanding. The exact value of this number is controversial because different methods of determining it haven’t always agreed. Allali and his colleagues have previously suggested that part of the problem may be the presence of yet another mysterious entity, which they named dark radiation.<br><br>Another long-standing issue DESI could address is pinpointing the masses of ghostly particles called neutrinos. These barely interact with other particles, but we can still determine their properties by studying the cosmic structure that is being uncovered by DESI."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "The primary purpose of the first paragraph is to",
+      "options": {
+        "A": "introduce a scientific instrument that may resolve a major cosmological mystery.",
+        "B": "argue that dark energy is the most important component of the universe.",
+        "C": "dismiss previous theories about the nature of dark energy.",
+        "D": "explain the technical specifications of the DESI instrument."
+      },
+      "answer": "A",
+      "explanation": "The paragraph establishes a problem (we don't know what dark energy is) and immediately introduces DESI as a potential source for 'clues' to solve it. It does not argue for its importance (B), dismiss other theories (C), or provide technical specs (D).",
+      "score_improvement_tip": "For 'purpose' questions, focus on the paragraph's overall function: is it to introduce, contrast, explain, or define? The first sentence often sets the stage."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, “shaken” most nearly means",
+      "options": {
+        "A": "physically disturbed.",
+        "B": "weakened in resolve.",
+        "C": "profoundly surprised.",
+        "D": "caused to tremble."
+      },
+      "answer": "C",
+      "explanation": "In the context of the scientific community's reaction to a 'big surprise,' 'shaken' refers to a state of being profoundly surprised or having foundational beliefs challenged. The other options are too literal.",
+      "score_improvement_tip": "For 'Words in Context,' immediately eliminate literal definitions. The correct answer will be a figurative meaning that fits the tone and subject matter of the text."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Based on the passage, the April 2024 data release was significant because it",
+      "options": {
+        "A": "provided the final proof for a new cosmological model.",
+        "B": "contradicted all previous understandings of galaxy formation.",
+        "C": "offered preliminary evidence that challenged an existing assumption.",
+        "D": "was the first time DESI data had been shared with the public."
+      },
+      "answer": "C",
+      "explanation": "The passage states the early look 'suggests' dark energy 'may have been stronger in the past,' which challenges the 'traditional... model, where dark energy has a constant value.' It was not final proof (A), did not contradict all previous understandings (B), and the text does not indicate it was the first public release (D).",
+      "score_improvement_tip": "Inference questions require you to read between the lines. Find the answer that is strongly supported by the text, even if it is not directly stated. Watch for words like 'suggests' and 'may.'"
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "The seond passage serves primarily to",
+      "options": {
+        "A": "highlight the definitive conclusions drawn from the early data.",
+        "B": "temper the excitement from the previous passage with scientific caution.",
+        "C": "explain the methodology used by the DESI researchers.",
+        "D": "introduce a new scientist who disagrees with the initial findings."
+      },
+      "answer": "B",
+      "explanation": "The first passage ends with the surprising idea that 'shook the community.' The seond passage immediately contrasts this by stating the results 'couldn't fully rule out' the old model and that it's 'more of a hint than a discovery.' This provides balance and caution. It does the opposite of A, and it does not cover methodology (C) or introduce a disagreeing scientist (D)—Allali is reinforcing the need for caution, not disputing the hint.",
+      "score_improvement_tip": "To understand a passage's purpose in relation to another, look for transition words (e.g., 'But,' 'However') and note how the focus or tone shifts."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author wants to include the following sentence at the end of the passage:<br><br>'This precision would resolve a key unknown in the Standard Model of particle physics.'<br><br>Where should it be placed?",
+      "options": {
+        "A": "After the word 'address' (sentence 1)",
+        "B": "After the word 'dark radiation' (sentence 4)",
+        "C": "After the word 'neutrinos' (sentence 5)",
+        "D": "After the word 'DESI' (sentence 6)"
+      },
+      "answer": "D",
+      "explanation": "The pronoun 'This precision' refers directly to the act of 'pinpointing the masses' of neutrinos mentioned in the final sentence. Adding the sentence there logically explains the significance of achieving that pinpointing. It does not logically connect to the Hubble constant (A, B) or simply to the topic of neutrinos (C) without the context of measuring them.",
+      "score_improvement_tip": "For transition questions, the pronoun or demonstrative adjective (this, that, these, those) is your key. Identify what it refers to—the correct placement will be immediately after that referent."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Which choice best describes the relationship between the two quotations in the passage?",
+      "options": {
+        "A": "The second quotation provides a specific example of the general possibility raised in the first sentence.",
+        "B": "The second quotation contradicts the claim made in the first sentence.",
+        "C": "The second quotation minimizes the significance of the DESI instrument introduced in the first sentence.",
+        "D": "The second quotation explains the technical operation of the DESI instrument."
+      },
+      "answer": "A",
+      "explanation": "The first sentence states DESI 'may offer clues' about what dark energy is. The quotation from Ishak-Boushaki provides specific, hypothetical examples of what those clues might reveal ('some new form of dark energy' or a 'paradigm shift'). It does not contradict (B), minimize (C), or explain technical operations (D).",
+      "score_improvement_tip": "To analyze the relationship between parts of a text, ask: does one support, exemplify, contradict, or elaborate on the other? Here, the quote elaborates with specific examples."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The passage suggests that the “controversy” surrounding the Hubble constant is primarily due to",
+      "options": {
+        "A": "a lack of interest in resolving the issue among physicists.",
+        "B": "inconsistent findings produced by different measurement techniques.",
+        "C": "the recent discovery of dark radiation by Allali and his colleagues.",
+        "D": "the inability of the DESI instrument to measure cosmic expansion."
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states, 'The exact value of this number is controversial because different methods of determining it haven’t always agreed.' This is a clear cause-and-effect relationship. There is no evidence for A, C is an effect of the controversy (a proposed solution), not a cause, and D is incorrect as DESI's data may address the controversy.",
+      "score_improvement_tip": "For 'suggests' questions that have explicit text support, don't overcomplicate it. The correct answer is often a paraphrase of a direct statement."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Based on the passage, which potential finding would directly support Itamar Allali’s previous suggestion about dark radiation?",
+      "options": {
+        "A": "DESI data confirming dark energy has a constant value.",
+        "B": "DESI data showing a Hubble constant value that aligns with all existing methods.",
+        "C": "DESI data revealing a Hubble constant value that differs from established figures.",
+        "D": "DESI data precisely pinpointing the mass of a neutrino."
+      },
+      "answer": "C",
+      "explanation": "Allali suggested dark radiation might explain why different methods for determining the Hubble constant don't agree. Therefore, new data showing the constant is indeed 'different to what physicists previously thought' would provide evidence that his hypothesized entity (dark radiation) might be needed to explain the discrepancy. A and B would weaken his suggestion, and D is unrelated to the Hubble constant controversy.",
+      "score_improvement_tip": "Cross-text questions require synthesizing information from different parts of the passage. Connect the scientist's suggestion (dark radiation explains Hubble disagreement) to the potential evidence (new data showing a disagreement exists)."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which concept from the passage is best supported by the quotation from Itamar Allali?",
+      "options": {
+        "A": "The scientific community's eagerness for more conclusive data.",
+        "B": "The certainty that dark energy has a constant value.",
+        "C": "The superiority of the year three data over earlier data sets.",
+        "D": "The definitive discovery of changing dark energy."
+      },
+      "answer": "A",
+      "explanation": "Allali's quote—'A lot of researchers said, ‘Well, I really would like to see year three data now.’'—directly provides evidence for the eagerness of the scientific community, which is a concept stated in the passage ('more data is eagerly awaited'). His quote explicitly argues against B and D, and it does not make a claim about superiority (C), only about desire for more data.",
+      "score_improvement_tip": "Command of Evidence questions ask you to match a piece of text to the claim it proves. Read the claim in the question stem, then evaluate which quote provides the most direct support for it."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "As used in the context of neutrinos, the description “ghostly” primarily serves to emphasize their",
+      "options": {
+        "A": "frightening appearance.",
+        "B": "elusive and barely detectable nature.",
+        "C": "supernatural origin.",
+        "D": "potential danger to researchers."
+      },
+      "answer": "B",
+      "explanation": "The figurative use of 'ghostly' is immediately explained by the next clause: 'These barely interact with other particles.' This makes them elusive and difficult to detect, much like the common metaphor of a ghost being intangible. There is no support for A, C, or D in the text.",
+      "score_improvement_tip": "When a descriptive word is used figuratively, the very next sentence often provides the explanation. Use that immediate context to define the term's purpose."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 consistently demonstrate mastery over complex analytical tasks. They correctly answer hard questions by making precise inferences, synthesizing information from across the passage, understanding nuanced rhetorical purposes, and defining challenging vocabulary in context without being tricked by literal meanings. They rarely, if ever, make careless errors on easy and medium questions.",
+    "700_level_performance": "Students scoring 700 show strong comprehension and can handle straightforward inference and evidence questions. Their gap to 800 is often defined by missing 1-2 hard questions due to difficulty with synthesis (Cross-Text Connections), misinterpreting the purpose of a specific paragraph in the larger context, or selecting a tempting but incorrect literal definition for a figurative word."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test the limits of comprehension. They require students to synthesize ideas from different parts of the text (Questions 8, 9), analyze the precise function of evidence and quotations (6, 9), understand sophisticated vocabulary in a scientific context (10), and make logical connections that are implied but not directly stated (7, 8).",
+    "medium_questions": "Medium questions assess the ability to understand the structure of an argument (4), make supported inferences (3), and use context to define words beyond their literal meaning (2). They form the foundation for a high score.",
+    "easy_questions": "Easy questions evaluate basic reading comprehension, including identifying the main purpose of a paragraph (1) and finding explicit information in the text."
+  }
+}

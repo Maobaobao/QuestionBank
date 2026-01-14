@@ -1,0 +1,231 @@
+{
+    "article_title": "Beyond Britney",
+    "article_author": "Heidi Blake and Katie J. M. Baker",
+    "article_date": "2022",
+    "article_source": "BuzzFeed News",
+    "article_category": "Essay",
+    "article_tags": ["Guardianship", "Disability Rights", "Legal Reform", "Reproductive Rights"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The powers that guardians wield over their wards...drew comparisons with the forced sterilization of women with low incomes, people of color, and people who are incarcerated."
+      },
+      {
+        "passage_number": 2,
+        "text": "The powers that guardians wield over their wards extend into the most intimate areas of their lives. When Britney Spears spoke out against her guardianship in June, her testimony that she had been banned from removing an IUD even though she wanted to have more children sent shockwaves across America. Lawyers for her father denied the claim—but many commentators questioned whether the practice would be legal and drew comparisons with the forced sterilization of women with low incomes, people of color, and people who are incarcerated.<br><br>But guardians in many states can put people on long-term birth control without even seeking a court order first, since the decision can fall under their sweeping powers to make medical decisions on behalf of their wards. Guardians can also move to have wards permanently sterilized, and while some states require court approval, others have no clear law on the topic."
+      },
+      {
+        "passage_number": 3,
+        "text": "Without any requirement for court filings, there’s no way to track how often guardians have forced wards to get IUDs, Depo-Provera shots, or other contraceptive measures. But BuzzFeed News found cases in which wards said they were put on long-term contraception and even sterilized against their will."
+      },
+      {
+        "passage_number": 4,
+        "text": "One public guardian in Nevada, for example, forced a young woman to receive Depo-Provera shots, records show, on the basis that she had borderline personality disorder and wasn’t competent to make her own medical decisions. A few years later, the public guardian petitioned the court for permission to sterilize the woman permanently, arguing that it was what she now wanted. The court granted the request."
+      },
+      {
+        "passage_number": 5,
+        "text": "In Colorado, a woman with a developmental disability claimed in a lawsuit that her mother, who was her guardian, had convinced a hospital to sterilize her without her consent immediately after she gave birth to a son. She “wanted to have more children, and continues to want more children,” the lawsuit said, arguing that if it wasn’t for her intellectual disability, the hospital would not have sterilized her “upon the behest of a third party.” She did not win the case."
+      },
+      {
+        "passage_number": 6,
+        "text": "In Minnesota, a young man’s guardians “unconscionably and untruthfully” persuaded him to consent to a vasectomy by telling him it was the only way he could continue seeing his girlfriend, according to court documents filed by his attorney. The man, who has fetal alcohol syndrome and bipolar disorder, said he did not understand the consequences of the procedure—and his guardians did not seek approval beforehand, even though that’s the law in the state."
+      },
+      {
+        "passage_number": 7,
+        "text": "Advocates say there are clear fixes that could make the guardianship system fairer: more federal oversight, better data collection, stronger training for court clerks, higher education standards for guardians, caps on the number of wards someone can have under their care, mandatory legal representation for prospective wards, a ban on holding guardianship hearings without notifying the allegedly incapacitated person, increased use of alternatives to guardianship, and more effective checks on conflicts of interest among lawyers and expert witnesses."
+      },
+      {
+        "passage_number": 8,
+        "text": "Spurred by the Britney Spears case, lawmakers in both the House and Senate have been pushing for change. In July, Democratic Sens. Elizabeth Warren and Bob Casey Jr. urged the federal government to improve oversight by collecting national data related to guardianships, and a bipartisan bill was introduced in Congress that would establish more federal safeguards for wards."
+      },
+      {
+        "passage_number": 9,
+        "text": "States have enacted a number of reforms, too. A recent Minnesota statute, for example, mandates that people under the age of thirty cannot be put under guardianship for longer than six years. Florida has boosted funding to the Office of Public and Professional Guardians, the agency tasked with overseeing the conduct of professional guardians, and a new statewide task force has been established to recommend further improvements.<br><br>Thirteen states and DC have passed laws encouraging an alternative to guardianship known as “supported decision-making.” Under this system, people with disabilities form trusted networks to help them make choices, instead of submitting to a guardian who makes every decision for them. A growing number of people nationwide have been released from their guardianships after their lawyers argued that supported decision-making would work instead. Other states have established new programs to address guardianship abuse and fraud and have adopted a uniform law that could help standardize such changes."
+      },
+      {
+        "passage_number": 10,
+        "text": "The biggest challenge, however, lies in turning law into practice, experts say. For example, most states already require judges to consider less restrictive alternatives before ordering guardianship, yet in practice this often does not happen.<br><br>Ultimately, advocates say, until public attitudes change, people with disabilities and mental health conditions will remain vulnerable to overreach and abuse.<br><br>“People with disabilities in our society are treated as if they were children, sometimes as if they were villains, when really they are just people,” the disability rights lawyer Viviana Bonilla López said. “We all deserve to decide what happens with our own lives and our own bodies. That’s fundamental.”"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What primary concern does the passage raise about guardianship powers?",
+        "options": {
+          "A": "Financial mismanagement",
+          "B": "Reproductive coercion",
+          "C": "Educational neglect",
+          "D": "Housing discrimination"
+        },
+        "answer": "B",
+        "explanation": "The passage highlights guardians' ability to control reproductive choices through IUD bans and forced sterilization.",
+        "score_improvement_tip": "Focus on the specific rights violations emphasized in opening paragraphs."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "As used in the passage, 'incapacitated' most nearly means:",
+        "options": {
+          "A": "Financially unstable",
+          "B": "Legally incompetent",
+          "C": "Physically disabled",
+          "D": "Emotionally distressed"
+        },
+        "answer": "B",
+        "explanation": "The term refers to legal determinations of decision-making capacity within guardianship proceedings.",
+        "score_improvement_tip": "Analyze legal terminology through context of rights restrictions."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What does the Nevada case suggest about guardianship practices?",
+        "options": {
+          "A": "Medical decisions require multiple approvals",
+          "B": "Contraception use precedes sterilization requests",
+          "C": "Personality disorders justify permanent interventions",
+          "D": "Courts consistently protect reproductive rights"
+        },
+        "answer": "C",
+        "explanation": "The progression from Depo-Provera to sterilization shows how mental health labels enable escalating control.",
+        "score_improvement_tip": "Track procedural patterns across case examples."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "The Colorado lawsuit primarily serves to illustrate:",
+        "options": {
+          "A": "Medical malpractice trends",
+          "B": "Disability-based discrimination",
+          "C": "Family reconciliation efforts",
+          "D": "Parental rights expansion"
+        },
+        "answer": "B",
+        "explanation": "The case demonstrates how intellectual disabilities are used to override reproductive autonomy.",
+        "score_improvement_tip": "Analyze legal arguments for underlying bias patterns."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which evidence best supports claims of guardianship abuse?",
+        "options": {
+          "A": "Vasectomy consent through deception",
+          "B": "Fetal alcohol syndrome diagnosis",
+          "C": "Bipolar disorder management",
+          "D": "Minnesota legal requirements"
+        },
+        "answer": "A",
+        "explanation": "Coercive tactics to obtain consent demonstrate procedural violations.",
+        "score_improvement_tip": "Identify violations of informed consent principles."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "How does 'supported decision-making' contrast with traditional guardianship?",
+        "options": {
+          "A": "Prioritizes institutional oversight",
+          "B": "Enhances autonomous choice",
+          "C": "Expands medical authority",
+          "D": "Reduces legal accountability"
+        },
+        "answer": "B",
+        "explanation": "The alternative system emphasizes collaborative decision-making over paternalistic control.",
+        "score_improvement_tip": "Compare systems through their approach to individual agency."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "The reference to bipartisan legislation emphasizes:",
+        "options": {
+          "A": "Political consensus on reform urgency",
+          "B": "Partisan healthcare debates",
+          "C": "State vs federal authority conflicts",
+          "D": "Celebrity influence limitations"
+        },
+        "answer": "A",
+        "explanation": "Cross-party support underscores widespread recognition of systemic failures.",
+        "score_improvement_tip": "Analyze political references for consensus indicators."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Viviana Bonilla López's statement implies societal views often:",
+        "options": {
+          "A": "Overestimate disability capabilities",
+          "B": "Equate disability with criminality",
+          "C": "Recognize nuanced decision-making",
+          "D": "Prioritize institutional efficiency"
+        },
+        "answer": "B",
+        "explanation": "The 'villains' reference critiques criminalization of disability.",
+        "score_improvement_tip": "Interpret figurative language in advocacy statements."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, 'sweeping powers' refers to:",
+        "options": {
+          "A": "Limited medical authority",
+          "B": "Comprehensive decision rights",
+          "C": "Temporary guardianship terms",
+          "D": "Specialized judicial oversight"
+        },
+        "answer": "B",
+        "explanation": "The phrase describes guardians' broad control over medical choices.",
+        "score_improvement_tip": "Connect adjective-noun pairs to scope of authority."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What systemic issue does the lack of court filings highlight?",
+        "options": {
+          "A": "Transparency deficits",
+          "B": "Judicial overload",
+          "C": "Legal training gaps",
+          "D": "Medical privacy concerns"
+        },
+        "answer": "A",
+        "explanation": "Absence of documentation prevents accountability for guardianship abuses.",
+        "score_improvement_tip": "Identify systemic flaws through procedural omissions."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students demonstrate mastery in analyzing systemic legal patterns, connecting case studies to broader social issues, and interpreting advocacy rhetoric within constitutional frameworks.",
+      "700_level_performance": "Students show strong comprehension of individual cases and reforms but may struggle with synthesizing cross-text implications and latent power dynamics."
+    },
+    "explanation_summary": {
+      "hard_questions": "Assess ability to analyze legal systems through multiple case studies, interpret advocacy rhetoric, and identify systemic accountability failures.",
+      "medium_questions": "Test understanding of reform mechanisms, political context, and disability rights principles through textual evidence.",
+      "easy_questions": "Evaluate recognition of key rights violations and basic legal terminology."
+    }
+  }

@@ -1,0 +1,106 @@
+{
+    "article_title": "The Myth of the Frontier Won’t Die",
+    "article_author": "Noah Hawley",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Mythology", "Cultural Analysis", "Society", "Violence", "American Culture"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "I tell you the story of David and Doris Young not because it is remarkable—maybe it used to be, in the 1980s and ’90s, but not anymore. I tell it to you because this figure, the violent outsider driven by extremist views and hate-filled philosophies, is everywhere now. Incel spree-killers and race-war propagators. Young white men radicalized and weaponized. They are the children of the Unabomber, each with his own self-aggrandizing manifesto. They live not in Albany, Pittsburgh, or Spokane, but in the closed information loop of Internet America, a mirror universe that reflects their own grievances back at them."
+      },
+      {
+        "passage_number": 2,
+        "text": "Their actions may seem irrational, but they are the practical application of a political philosophy. A decades-long undertaking to remake America, to reverse what most would call progress—toward equal rights, better schools, curbs on fraud and pollution, everything our society has done to create a safer and more caring nation—and return it to the way it was in the 19th century. A savage frontier where the strong survive and the weak surrender."
+      },
+      {
+        "passage_number": 3,
+        "text": "In a hotel lobby in Big Spring, Texas, my daughter and son watch the police arrest a young man for strangling his girlfriend. She is carried out on a stretcher. It has been 36 hours since Roe v. Wade was overturned."
+      },
+      {
+        "passage_number": 4,
+        "text": "I think about the power of myth often. Though the series poses as 'a true story,' each season of Fargo is designed as a modern myth, a tall tale of midwestern crime. On-screen, myths are created not just through story action, but through everything from lens choice to costume. Picture the black suits and skinny ties of Reservoir Dogs. Or the Willy Loman raincoat worn by the criminal mastermind V. M. Varga, the antagonist of Fargo’s third season, a sad disguise he has chosen in order to make himself appear pathetic, easily overlooked in a crowd."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary concern discussed in the passage?",
+        "options": {
+          "A": "The radicalization of individuals in urban areas",
+          "B": "The increasing presence of extremist views in society",
+          "C": "The actions of David and Doris Young specifically",
+          "D": "The social implications of incel culture"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on how extremist views and actions are now commonplace, indicating option B as the correct answer.",
+        "score_improvement_tip": "Focus on the overarching themes rather than specific examples when identifying the central idea."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "In the context of the passage, what does the phrase 'a savage frontier' most closely mean?",
+        "options": {
+          "A": "An idealized version of progress",
+          "B": "A return to a lawless, survival-driven society",
+          "C": "The original vision of the American frontier",
+          "D": "A system promoting equality and fairness"
+        },
+        "answer": "B",
+        "explanation": "The phrase describes a society where the strong survive and the weak surrender, implying a lawless and brutal environment.",
+        "score_improvement_tip": "Look for clues in the surrounding text to understand figurative or contextual meanings of phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What is the purpose of juxtaposing the police arrest in Texas with the overturning of Roe v. Wade?",
+        "options": {
+          "A": "To illustrate how societal issues influence individual behavior",
+          "B": "To argue that legislative changes directly cause violence",
+          "C": "To compare historical and modern societal values",
+          "D": "To show that the myth of progress is deeply ingrained"
+        },
+        "answer": "A",
+        "explanation": "The juxtaposition highlights how larger societal changes can manifest in personal and violent ways, aligning with option A.",
+        "score_improvement_tip": "Consider how the author uses specific events to reinforce broader arguments or themes."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which statement best captures the author's perspective on the power of myths as described in the passage?",
+        "options": {
+          "A": "Myths obscure the reality of historical events.",
+          "B": "Myths are a powerful storytelling tool used to convey societal themes.",
+          "C": "Myths are only effective in modern crime dramas.",
+          "D": "Myths distort the achievements of progress and modernity."
+        },
+        "answer": "B",
+        "explanation": "The passage discusses how myths are deliberately crafted to represent larger societal themes, particularly in storytelling.",
+        "score_improvement_tip": "When analyzing rhetorical strategies, consider the broader themes supported by specific examples in the text."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students demonstrate an advanced ability to synthesize multiple details and interpret complex, nuanced arguments.",
+      "700_level_performance": "Students show strong comprehension but may struggle with integrating detailed textual evidence to support complex analysis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Test advanced reasoning and synthesis, often requiring detailed interpretation of nuanced arguments.",
+      "medium_questions": "Focus on comprehension of central ideas and vocabulary with some emphasis on textual details.",
+      "easy_questions": "Test basic understanding and identification of explicit content within the text."
+    }
+  }
+  

@@ -1,0 +1,231 @@
+{
+    "article_title": "Don’t Look Down",
+    "article_author": "Lois Parshley",
+    "article_date": "2023",
+    "article_source": "Grist",
+    "article_category": "Essay",
+    "article_tags": ["Climate Change", "Permafrost", "Arctic"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The scale of the problem is daunting, but there’s surprisingly little agreement on how much dealing with a thawing Arctic will cost. Over a dozen experts interviewed for this article admitted they weren’t sure how many Americans live on permafrost; a recent paper published in Population and Environment suggested a ballpark of around a hundred and seventy thousand people. Nor can anyone agree how much ice is where, much less how it might thaw."
+      },
+      {
+        "passage_number": 2,
+        "text": "Nearly a third of Arctic research is based on data from just two field stations: Abisko, Sweden, and Toolik Lake, Alaska. And researchers usually collect data during the Arctic’s short summer field season, even though winter conditions may look very different, making conclusions less accurate. For instance, recent studies have found that emissions of carbon and methane released by thawing permafrost have been drastically underestimated. There are 1.6 trillion metric tons of carbon currently stored in permafrost—twice what’s now in the atmosphere. New projections suggest that the amount of greenhouse gas emissions from permafrost could equal those emitted from the rest of the United States by the end of the century."
+      },
+      {
+        "passage_number": 3,
+        "text": "“It’s clear that the models are not capturing all the key pieces,” said Anna Liljedahl, a climate scientist at the Woodwell Climate Research Center, who is based in Homer, Alaska."
+      },
+      {
+        "passage_number": 4,
+        "text": "Research attempting to settle these questions generally falls into one of two camps. There’s top-down, like Liljedahl’s work with the Permafrost Discovery Gateway, which uses high-resolution satellite imagery to record thaw slumps and surface water changes. Machine learning and supercomputers have helped Liljedahl closely map visible ice wedges, creating a more comprehensive view of the Arctic, but can only infer what’s under the surface through identifying types of soil or vegetation."
+      },
+      {
+        "passage_number": 5,
+        "text": "The second approach is bottom-up: Romanovsky’s boreholes, for instance, deliver very detailed measurements from specific places, but researchers have to extrapolate to draw larger conclusions. Yet all permafrost is not equal. Take a type of permafrost called yedoma: frozen, silty muck from the Pleistocene era that releases ten times more greenhouse gases than other types of thawing ice. Additionally, research indicates yedoma-rich regions may be warming the most quickly. So knowing how much yedoma there is, and where, is critical."
+      },
+      {
+        "passage_number": 6,
+        "text": "Scientists like Hasson hope to advance a third approach using airborne imaging spectroscopy, essentially mounting a fancier version of the laser on his sled to planes, a more efficient research method. This technique can detect large methane emissions, and Hasson can then use very low radio frequencies to identify what’s happening below the surface, identifying methane hot spots and providing information on the scale that infrastructure planning requires."
+      },
+      {
+        "passage_number": 7,
+        "text": "“The question is, why aren’t we doing this method at scale?” Hasson said. “Why am I not in a plane right now flying over Alaska?” The Department of Energy considers permafrost thaw and its emissions a threat to national security, and is partly funding Hasson’s research, along with NASA and the National Science Foundation."
+      },
+      {
+        "passage_number": 8,
+        "text": "Much is at stake. Dmitry Streletskiy, a geographer at George Washington University, explained that long before ice begins to thaw, warming decreases permafrost’s ability to support structures. In the spring of 2020, the 800-mile Trans-Alaskan Pipeline reported its first instance of “slope creep,” as thawing permafrost jeopardized its structural integrity. That’s likely what happened in the Siberian city of Norilsk a few months later, where thawing ruptured a huge fuel reservoir, prompting a cataclysmic diesel spill that dyed the region’s rivers blood-red."
+      },
+      {
+        "passage_number": 9,
+        "text": "Streletskiy started his career focused on ecosystems, but realized that “unless you put monetary values to things, it doesn’t get much attention.” His most recent study found that 70 percent of major Arctic infrastructure is in areas that permafrost thaw could put at risk of damage within the next thirty years, increasing maintenance costs by $15.5 billion, as well as causing another $21.6 billion in damages. And those are the paper’s most conservative estimates."
+      },
+      {
+        "passage_number": 10,
+        "text": "While Russia likely has the lion’s share of the world’s population living on permafrost, alpine countries like France and Switzerland will also see mountain slopes start to lose their stability, resulting in hazardous landslides. A recent study published in Population and Environment found that 3.3 million people currently live in settlements where permafrost will degrade by 2050, forcing many to relocate."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The cost of dealing with a thawing Arctic is well understood.",
+          "B": "There is little agreement on the scale and impact of Arctic thawing.",
+          "C": "Most Americans live on permafrost.",
+          "D": "Scientists agree on how much ice is in the Arctic."
+        },
+        "answer": "B",
+        "explanation": "The passage discusses the lack of agreement on the cost, population, and extent of ice in the Arctic, making B the correct answer.",
+        "score_improvement_tip": "Focus on the overall theme of the passage rather than specific details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "Which piece of evidence supports the claim that permafrost emissions have been underestimated?",
+        "options": {
+          "A": "Data is collected during the Arctic’s short summer field season.",
+          "B": "There are 1.6 trillion metric tons of carbon stored in permafrost.",
+          "C": "New projections suggest permafrost emissions could equal those of the rest of the United States.",
+          "D": "Researchers use data from two field stations."
+        },
+        "answer": "C",
+        "explanation": "The passage mentions that new projections suggest permafrost emissions could equal those of the rest of the United States, indicating previous underestimations.",
+        "score_improvement_tip": "Look for direct evidence in the text that supports the claim."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "As used in the passage, what does 'capturing' most nearly mean?",
+        "options": {
+          "A": "Photographing",
+          "B": "Understanding",
+          "C": "Containing",
+          "D": "Recording"
+        },
+        "answer": "B",
+        "explanation": "In this context, 'capturing' refers to the models not fully understanding or accounting for all key pieces of data.",
+        "score_improvement_tip": "Consider the context in which the word is used to determine its meaning."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What can be inferred about the top-down approach to studying permafrost?",
+        "options": {
+          "A": "It provides detailed measurements from specific locations.",
+          "B": "It relies on satellite imagery and machine learning.",
+          "C": "It is less accurate than the bottom-up approach.",
+          "D": "It focuses on historical data."
+        },
+        "answer": "B",
+        "explanation": "The passage describes the top-down approach as using high-resolution satellite imagery and machine learning, making B the correct answer.",
+        "score_improvement_tip": "Use specific details from the passage to support your inference."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The differences between types of permafrost.",
+          "B": "The use of boreholes in permafrost research.",
+          "C": "The impact of yedoma on greenhouse gas emissions.",
+          "D": "The challenges of extrapolating data from specific locations."
+        },
+        "answer": "C",
+        "explanation": "The passage focuses on yedoma and its significant impact on greenhouse gas emissions, making C the correct answer.",
+        "score_improvement_tip": "Identify the primary subject and its significance in the passage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which choice best describes the purpose of the passage?",
+        "options": {
+          "A": "To explain the limitations of current research methods.",
+          "B": "To introduce a new research method for studying permafrost.",
+          "C": "To argue for increased funding for permafrost research.",
+          "D": "To compare different types of permafrost."
+        },
+        "answer": "B",
+        "explanation": "The passage introduces airborne imaging spectroscopy as a new method for studying permafrost, making B the correct answer.",
+        "score_improvement_tip": "Focus on the main idea and purpose of the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "What can be inferred about Hasson’s attitude towards current research methods?",
+        "options": {
+          "A": "He is satisfied with the progress being made.",
+          "B": "He believes current methods are insufficient.",
+          "C": "He thinks more funding is unnecessary.",
+          "D": "He prefers traditional methods over new ones."
+        },
+        "answer": "B",
+        "explanation": "Hasson’s rhetorical questions suggest frustration with the lack of progress in scaling up new research methods, indicating he believes current methods are insufficient.",
+        "score_improvement_tip": "Pay attention to tone and rhetorical questions to infer attitude."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Which evidence best supports the claim that permafrost thaw poses a significant risk to infrastructure?",
+        "options": {
+          "A": "The Trans-Alaskan Pipeline reported its first instance of 'slope creep.'",
+          "B": "Thawing ruptured a huge fuel reservoir in Norilsk.",
+          "C": "Permafrost’s ability to support structures decreases with warming.",
+          "D": "All of the above."
+        },
+        "answer": "D",
+        "explanation": "All the options provide evidence of the risks posed by permafrost thaw to infrastructure, making D the correct answer.",
+        "score_improvement_tip": "Look for multiple pieces of evidence that support the claim."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "Streletskiy’s career shift from ecosystems to monetary valuation.",
+          "B": "The financial impact of permafrost thaw on Arctic infrastructure.",
+          "C": "The conservative estimates of permafrost thaw damages.",
+          "D": "The importance of attention from policymakers."
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the financial impact of permafrost thaw on Arctic infrastructure, making B the correct answer.",
+        "score_improvement_tip": "Identify the primary focus and its implications in the passage."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What can be inferred about the impact of permafrost degradation by 2050?",
+        "options": {
+          "A": "Only Russia will be affected.",
+          "B": "Millions of people will need to relocate.",
+          "C": "Mountain slopes will remain stable.",
+          "D": "No infrastructure will be at risk."
+        },
+        "answer": "B",
+        "explanation": "The passage states that 3.3 million people currently live in settlements where permafrost will degrade by 2050, forcing many to relocate, making B the correct answer.",
+        "score_improvement_tip": "Use specific details from the passage to support your inference."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

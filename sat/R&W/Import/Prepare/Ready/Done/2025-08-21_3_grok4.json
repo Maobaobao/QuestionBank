@@ -1,0 +1,223 @@
+{
+    "article_title": "Your boss is watching",
+    "article_author": "Rebecca Ackermann",
+    "article_date": "March-April, 2025",
+    "article_source": "MIT Technology Review",
+    "article_category": "Essay",
+    "article_tags": ["Data in Work", "Employee Monitoring", "Labor History", "AI in Workplace", "Worker Surveillance"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Data has been part of the story of paid work and power since the late 19th century, when manufacturing was booming in the US and a rise in immigration meant cheap<br>and plentiful labor. The mechanical engineer Frederick Winslow Taylor, who would become one of the first management consultants, created a strategy called “scientific management” to optimize production by tracking and setting standards for worker performance. Soon after, Henry Ford broke down the auto manufacturing process into mechanized steps to minimize the role of individual skill and maximize the number of cars that could be produced each day. But the transformation of workers into numbers has a longer history. Some researchers see a direct line between Taylor’s and Ford’s unrelenting focus on efficiency and the dehumanizing<br>labor optimization practices carried out on slave-owning plantations.<br><br>More than a hundred years after Taylor published his seminal book, The Principles of Scientific Management, “efficiency” is still a business buzzword, and technological developments, including new uses of data, have brought work to another turning point. But the federal minimum wage and other worker protections haven’t kept up, leaving the power divide even starker. In 2023, CEO pay was 290 times average worker pay, a disparity that’s increased more than 1,000% since 1978. Data may play the same kind of intermediary role in the boss-worker relationship that it has since the turn of the 20th century, but the scale has exploded. And the stakes can be a matter of physical health."
+      },
+      {
+        "passage_number": 2,
+        "text": "As manufacturers adopted Taylorism and its successors, time was replaced by productivity as the measure of work, and the power divide between owners and workers in the United States widened. But other developments soon helped rebalance the scales. In 1914, Section 6 of the Clayton Act established the federal legal right for workers to unionize and stated that “the labor of a human being is not a commodity.” In the years that followed, union membership grew, and the 40-hour work week and the minimum wage were written into US law. Though the nature of work had changed with revolutions in technology and management strategy, new frameworks and guardrails stood up to meet that change."
+      },
+      {
+        "passage_number": 3,
+        "text": "More than a hundred years after Taylor published his seminal book, The Principles of Scientific Management, “efficiency” is still a business buzzword, and technological developments, including new uses of data, have brought work to another turning point. But the federal minimum wage and other worker protections haven’t kept up, leaving the power divide even starker. In 2023, CEO pay was 290 times average worker pay, a disparity that’s increased more than 1,000% since 1978. Data may play the same kind of intermediary role in the boss-worker relationship that it has since the turn of the 20th century, but the scale has exploded. And the stakes can be a matter of physical health."
+      },
+      {
+        "passage_number": 4,
+        "text": "In 2024, a report from a Senate committee led by Bernie Sanders, based on an 18-month investigation of Amazon’s warehouse practices, found that the company had been<br>setting the pace of work in those facilities with black-box algorithms, presumably calibrated with data collected by monitoring employees. In California, because of a 2021 bill, Amazon is required to at least reveal the quotas and standards workers are expected to comply with; elsewhere the bar can remain a mystery to the very people struggling to meet it. The report also found that in each of the previous seven years, Amazon workers had been almost twice as likely to be injured as other warehouse workers, with injuries ranging from concussions to torn rotator cuffs to long-term back pain."
+      },
+      {
+        "passage_number": 5,
+        "text": "The Sanders report found that between 2020 and 2022, two internal Amazon teams tasked with evaluating warehouse safety recommended reducing the required pace of work and giving workers more time off. Another found that letting robots set the pace for human labor was correlated with subsequent injuries. The company rejected all the recommendations for technical or productivity reasons. But the report goes on to reveal that in 2022, another team at Amazon, called Core AI, also evaluated warehouse safety and concluded that unrealistic pacing wasn’t the reason all those workers were getting hurt on the job. Core AI said that the cause, instead, was workers’ “frailty” and “intrinsic likelihood of injury.” The issue was the limitations of the human bodies the company was measuring, not the pressures it was subjecting those bodies to. Amazon stood by this reasoning during the congressional investigation. Amazon spokesperson Maureen Lynch Vogel told MIT Technology Review that the Sanders report is “wrong on the facts” and that the company continues to reduce incident rates for accidents. “The facts are,” she said, “our expectations for our employees are safe and reasonableand that was validated both by a judge in Washington after a thorough hearing and by the state’s Board of Industrial Insurance Appeals.”"
+      },
+      {
+        "passage_number": 6,
+        "text": "Yet this line of thinking is hardly unique to Amazon, although the company could be seen as a pioneer in the datafication of work. An investigation found that over one year between 2017 and 2018, the company fired hundreds of workers at a single facilityby means of automatically generated lettersfor not meeting roductivity quotas. An AI startup recently placed a series of billboards and bus signs in the Bay Area touting the benefits of its automated sales agents, which it calls “Artisans,” over human workers. “Artisans won’t complain about work-life balance,” one said. “Artisans won’t come into work hungover,” claimed another.<br>“Stop hiring humans,” one hammered home. The startup’s leader-ship took to the company blog to say that the marketing campaign was intentionally provocative and that Artisan believes in the potential of human labor. But the company also asserted that using one of its AI agents costs 96% less than hiring a human to do the same job. The campaign hit a nerve: When data is king, humanswhether warehouse laborers or knowledge workersmay not be able to outperform machines."
+      },
+      {
+        "passage_number": 7,
+        "text": "Companies that use electronic employee monitoring report that they are most often looking to the technologies not only to increase productivity but also to manage<br>risk. And software like Teramind offers tools and analysis to help with both priorities. While Teramind, a globally distributed company, keeps its list of over 10,000 client companies private, it provides resources for the financial, health-care, and customer service industries, among otherssome of which have strict<br>compliance requirements that can be tricky to keep on top of. The platform allows clients to set data-driven standards for productivity, establish thresholds for alerts about toxic communication tone or language, create tracking systems for sensitive file sharing, and more. With the increase in remote and hybrid work, says Teramind’s chief marketing officer, Maria Osipova, the company’s product strategy has shifted from tracking time spent on tasks to monitoring productivity and security more broadly, because that’s what clients want. “It’s a different set of challenges that the tools have had to evolve to address as we’re moving into fully hybrid work,” says Osipova. “It’s this transition from ‘Do people work?’ or ‘How long do they work?’ to ‘How do they work best?’ How do we as an organization understand where and how and under what conditions they work best? And also, how do I de-risk my company when I give that amount of trust?”"
+      },
+      {
+        "passage_number": 8,
+        "text": "The clients’ myriad use cases and risks demand a very robust platform that can monitor multiple types of input. “So think about what applications are being used. Think about being able to turn on the conversations that are happening on video or audio as needed, but also with a great amount of flexibility,” says Osipova. “It’s not that it’s a camera that’s always watching over you.” Selecting and tuning the appropriate combination of data is up to Teramind’s clients and depends on<br>the size, goals, and capabilities of the particular company. The companies are also the ones to decide, based on their legal and compliance requirements, what measures to take if thresholds for negative behavior or low performance are hit.<br><br>But however carefully it’s implemented, the very existence of electronic monitoring may make it difficult for employees to feel safe and perform well. Multiple studies have shown that monitoring greatly increases worker stress and can break down trust between an employer and its workforce. One 2022 poll of tech workers found that roughly half would rather quit than be monitored. And when algorithmic management comes into the picture, employees may have a harder time being successfuland understanding what success even means."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "What is the primary focus of the passage regarding historical developments in labor management?",
+        "options": {
+          "A": "The role of immigration in boosting manufacturing",
+          "B": "The evolution of worker treatment into quantifiable metrics",
+          "C": "The impact of mechanized steps on car production",
+          "D": "The differences between Taylor's and Ford's strategies"
+        },
+        "answer": "B",
+        "explanation": "The passage discusses how figures like Taylor and Ford transformed workers into numbers for efficiency, linking it to earlier practices, making B the central idea.",
+        "score_improvement_tip": "Identify the overarching theme by noting repeated concepts like 'efficiency' and 'transformation of workers into numbers' rather than isolated details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, 'rebalance the scales' most nearly means:",
+        "options": {
+          "A": "Restore equilibrium",
+          "B": "Increase weights",
+          "C": "Measure accurately",
+          "D": "Tip in favor"
+        },
+        "answer": "A",
+        "explanation": "The phrase refers to countering the widened power divide between owners and workers through legal protections, implying a restoration of balance.",
+        "score_improvement_tip": "Consider the surrounding context of power dynamics to determine the idiomatic meaning of phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which detail from the passage best supports the claim that worker protections have not evolved with technological changes?",
+        "options": {
+          "A": "Efficiency remains a business buzzword",
+          "B": "CEO pay was 290 times average worker pay in 2023",
+          "C": "Data's role in boss-worker relationships has exploded",
+          "D": "Stakes involve physical health"
+        },
+        "answer": "B",
+        "explanation": "The statistic on CEO pay disparity highlights the stark power divide, directly tying to the failure of protections like minimum wage to keep up.",
+        "score_improvement_tip": "Select evidence that directly links to the claim by evaluating how each option illustrates the gap between past and present protections."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "The author's purpose in mentioning the 2021 California bill is primarily to:",
+        "options": {
+          "A": "Highlight regional variations in transparency requirements",
+          "B": "Criticize Amazon's overall quota practices",
+          "C": "Provide evidence of improving worker rights",
+          "D": "Explain the source of injury data"
+        },
+        "answer": "A",
+        "explanation": "The bill is cited to contrast California's requirement for revealing quotas with other areas where they remain mysterious, emphasizing uneven protections.",
+        "score_improvement_tip": "Analyze the function of specific examples within the broader argument to discern the author's intent."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "The writer wants to add a phrase to the sentence 'The company rejected all the recommendations for technical or productivity reasons.' to clarify the contrast with Core AI's conclusion. Which version best achieves this goal?",
+        "options": {
+          "A": "The company rejected all the recommendations for technical or productivity reasons, despite internal evidence.",
+          "B": "The company rejected all the recommendations for technical or productivity reasons, however.",
+          "C": "The company rejected all the recommendations for technical or productivity reasons, yet the report reveals otherwise.",
+          "D": "The company rejected all the recommendations for technical or productivity reasons, but another team disagreed."
+        },
+        "answer": "D",
+        "explanation": "Option D introduces the contrast with Core AI's differing conclusion, using 'but' to set up the opposition effectively.",
+        "score_improvement_tip": "Choose transitions that explicitly signal contrasts while maintaining sentence coherence."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Based on the passage, it can most reasonably be inferred that the AI startup's campaign reflects a broader trend in which:",
+        "options": {
+          "A": "Human limitations are increasingly viewed as inefficiencies in data-driven workplaces",
+          "B": "Marketing strategies prioritize provocation over ethical considerations",
+          "C": "Cost savings from AI agents are exaggerated for publicity",
+          "D": "Warehouse workers face greater replacement risks than knowledge workers"
+        },
+        "answer": "A",
+        "explanation": "The billboards emphasize AI's advantages over human 'frailties' like complaining or hangovers, mirroring Amazon's view and suggesting a trend of prioritizing data over human factors.",
+        "score_improvement_tip": "Draw inferences by connecting specific examples to implied larger patterns, avoiding overgeneralizations."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "Suppose a historian argues that modern data-driven management echoes 19th-century practices primarily in dehumanization. How would the information in first Passage and second Passage most likely relate to this argument?",
+        "options": {
+          "A": "First Passage provides historical precedents, while second Passage shows their persistence and escalation",
+          "B": "First Passage details technological revolutions, while second Passage critiques wage stagnation",
+          "C": "Both passages refute the argument by emphasizing efficiency gains",
+          "D": "First Passage supports it through Ford's methods, but second Passage counters with health stakes"
+        },
+        "answer": "A",
+        "explanation": "First Passage links Taylorism to plantation practices, and second Passage notes data's exploded scale in similar roles, reinforcing the echo in dehumanization.",
+        "score_improvement_tip": "Synthesize connections across passages by identifying shared themes like efficiency and power divides."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "While revising an essay on workplace monitoring, a student claims that companies like Teramind prioritize client flexibility over employee well-being. Which choice most effectively uses relevant evidence from the passage to illustrate the claim?",
+        "options": {
+          "A": "Teramind shifts from time tracking to broader productivity monitoring, as Osipova notes the evolution to address hybrid work challenges",
+          "B": "Teramind offers tools for setting productivity standards and alerting on toxic language, catering to industries with strict compliance needs",
+          "C": "Teramind allows clients to decide on data combinations and responses to thresholds, based on their size and legal requirements",
+          "D": "Teramind provides resources for financial and health-care sectors, keeping its client list private"
+        },
+        "answer": "C",
+        "explanation": "This choice shows how decision-making power lies with companies, potentially sidelining employee concerns in favor of customized risk management.",
+        "score_improvement_tip": "Select evidence that directly exemplifies the claim's focus on priorities, ensuring it synthesizes multiple passage elements."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Assume a graph shows that from 2020 to 2022, employee quit rates in monitored tech firms rose by 50%. How would this data best relate to the passage's discussion of monitoring effects?",
+        "options": {
+          "A": "It would support the passage's reference to studies on stress and trust breakdown leading to quits",
+          "B": "It would contradict Osipova's claim about flexibility in monitoring inputs",
+          "C": "It would extend the passage's point on algorithmic management confusing success metrics",
+          "D": "It would undermine the emphasis on robust platforms for multiple use cases"
+        },
+        "answer": "A",
+        "explanation": "The graph's quit rate increase aligns with the 2022 poll where half of tech workers preferred quitting over monitoring, linking to stress and trust issues.",
+        "score_improvement_tip": "Integrate hypothetical quantitative data by inferring its implications on textual evidence like polls and studies."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "The writer wants to connect the sentence 'The company rejected all the recommendations for technical or productivity reasons.' with the following sentence about Core AI's evaluation. Which choice best achieves this?",
+        "options": {
+          "A": "Nevertheless,",
+          "B": "In addition,",
+          "C": "For example,",
+          "D": "Consequently,"
+        },
+        "answer": "A",
+        "explanation": " 'Nevertheless' signals contrast between the rejections and Core AI's alternative conclusion blaming worker frailty, maintaining logical flow.",
+        "score_improvement_tip": "Evaluate transition words for their ability to highlight oppositions in complex arguments."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students at this level excel in advanced inference, cross-text synthesis, and rhetorical analysis, accurately interpreting nuanced contexts and evidence across domains.",
+      "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter in deeper inferences, complex structures, or synthesizing ideas under pressure."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions challenge advanced skills like inferring implications, synthesizing cross-passage connections, and evaluating rhetorical effectiveness in dense texts.",
+      "medium_questions": "Medium questions test comprehension of details, contextual vocabulary, and structural purposes, requiring clear links between evidence and claims.",
+      "easy_questions": "Easy questions assess basic identification of central ideas and straightforward word meanings, focusing on explicit textual elements."
+    }
+  }

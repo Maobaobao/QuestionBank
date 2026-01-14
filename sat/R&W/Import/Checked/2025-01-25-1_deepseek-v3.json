@@ -1,0 +1,203 @@
+{
+  "article_title": "Keep Your AI Projects on Track",
+  "article_author": "Iavor Bojinov",
+  "article_date": "November-December, 2023",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["AI", "Data Science", "Project Management"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "WHEN I WORKED as a data scientist at LinkedIn in 2018 and 2019, AI was of interest only to a small team of people in the data science organization with advanced degrees in statistics or computer science. AI—and especially its newest star, generative AI—is now a central theme in corporate boardrooms, leadership discussions, and casual exchanges among employees eager to supercharge their productivity. The topic is so fundamental that “Data Science for Managers,” a course I helped create to teach MBA students how to develop, leverage, and manage AI, is now a first-year requirement at Harvard Business School."
+    },
+    {
+      "passage_number": 2,
+      "text": "Sadly, beneath the aspirational headlines and the tantalizing potential lies a sobering reality: Most AI projects fail. Some estimates place the failure rate as high as 80%—almost double the rate of corporate IT project failures a decade ago. There are ways, however, to increase the odds of success. Through my experience in industry and academia and my consulting work, I have found that companies can greatly reduce their risk of failure by carefully navigating five critical steps that every AI project traverses on its way to becoming a product: selection, development, evaluation, adoption, and management. This article isn’t just about preventing failure, however. It’s also about developing what I call “data science and AI operations” processes that can help companies compete and survive in an increasingly AI-driven business landscape."
+    },
+    {
+      "passage_number": 3,
+      "text": "Although effectively prioritizing and sequencing projects is a task most leaders are familiar with, AI projects have a few idiosyncrasies that require careful consideration when assessing their impact and feasibility. Begin by considering internal- and external-facing projects separately. Internal-facing projects are designed to help a company’s employees perform their jobs. For example, organizations now regularly rely on AI to provide their sales teams with insights on which customers to target and what products to offer; to enhance their supply chain management through predictive analytics; and to streamline HR functions using smart chatbots for employee queries, among many other things. External-facing projects develop and implement AI for end users who are the company’s customers. They are the most visible applications of AI and were pioneered by technology companies; examples include Netflix’s recommendation engine, Google’s search results, and Uber’s matching algorithm."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the first passage?",
+      "options": {
+        "A": "The history of AI at LinkedIn",
+        "B": "The growing importance of AI in business",
+        "C": "The role of data scientists in AI development",
+        "D": "The curriculum at Harvard Business School"
+      },
+      "answer": "B",
+      "explanation": "The passage discusses how AI has transitioned from being a niche interest to a central theme in corporate discussions, highlighting its growing importance in business.",
+      "score_improvement_tip": "Focus on the overarching theme of the passage rather than specific details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Which piece of evidence best supports the idea that AI has become a fundamental topic in business education?",
+      "options": {
+        "A": "AI was of interest only to a small team of people in the data science organization.",
+        "B": "The topic is so fundamental that 'Data Science for Managers' is now a first-year requirement at Harvard Business School.",
+        "C": "AI is now a central theme in corporate boardrooms.",
+        "D": "Employees are eager to supercharge their productivity."
+      },
+      "answer": "B",
+      "explanation": "The statement about 'Data Science for Managers' being a first-year requirement at Harvard Business School directly supports the idea that AI has become a fundamental topic in business education.",
+      "score_improvement_tip": "Look for direct evidence in the text that supports the main idea."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "As used in the passage, what does the term 'sobering reality' most likely mean?",
+      "options": {
+        "A": "An exciting opportunity",
+        "B": "A disappointing truth",
+        "C": "A challenging task",
+        "D": "A surprising discovery"
+      },
+      "answer": "B",
+      "explanation": "The phrase 'sobering reality' refers to the disappointing truth that most AI projects fail, despite the high expectations and potential.",
+      "score_improvement_tip": "Use context clues to infer the meaning of phrases that convey tone or attitude."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Based on the passage, what can be inferred about the author's view on AI project failure?",
+      "options": {
+        "A": "Failure is inevitable and cannot be avoided.",
+        "B": "Failure can be mitigated through careful planning and execution.",
+        "C": "Failure is primarily due to a lack of advanced degrees in statistics or computer science.",
+        "D": "Failure is less common in corporate IT projects than in AI projects."
+      },
+      "answer": "B",
+      "explanation": "The author suggests that companies can reduce the risk of failure by carefully navigating five critical steps, indicating that failure can be mitigated through proper planning and execution.",
+      "score_improvement_tip": "Infer the author's perspective by analyzing the solutions or suggestions provided in the text."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What is the primary purpose of the second passage?",
+      "options": {
+        "A": "To highlight the success of AI projects",
+        "B": "To explain the reasons behind AI project failures",
+        "C": "To provide a step-by-step guide for AI project management",
+        "D": "To discuss the history of AI in corporate settings"
+      },
+      "answer": "B",
+      "explanation": "The passage focuses on the high failure rate of AI projects and suggests ways to mitigate these failures, making B the correct answer.",
+      "score_improvement_tip": "Identify the main focus of the passage to determine its primary purpose."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which of the following best summarizes the distinction between internal- and external-facing AI projects?",
+      "options": {
+        "A": "Internal-facing projects are more complex than external-facing projects.",
+        "B": "Internal-facing projects are designed for employees, while external-facing projects are designed for customers.",
+        "C": "External-facing projects are less visible than internal-facing projects.",
+        "D": "External-facing projects are more likely to fail than internal-facing projects."
+      },
+      "answer": "B",
+      "explanation": "The passage clearly states that internal-facing projects help employees perform their jobs, while external-facing projects are designed for end users who are the company’s customers.",
+      "score_improvement_tip": "Synthesize information from the text to identify clear distinctions or comparisons."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which of the following is an example of an internal-facing AI project?",
+      "options": {
+        "A": "Netflix’s recommendation engine",
+        "B": "Google’s search results",
+        "C": "Smart chatbots for employee queries",
+        "D": "Uber’s matching algorithm"
+      },
+      "answer": "C",
+      "explanation": "The passage mentions that internal-facing projects include AI applications like smart chatbots for employee queries, making C the correct answer.",
+      "score_improvement_tip": "Use specific examples provided in the text to answer detail-oriented questions."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "How does the description of external-facing AI projects in this passage relate to the overall theme of the article?",
+      "options": {
+        "A": "It highlights the success of AI projects in technology companies.",
+        "B": "It emphasizes the importance of AI in customer-facing applications.",
+        "C": "It contrasts the visibility of external-facing projects with the failure rate of AI projects.",
+        "D": "It suggests that external-facing projects are more likely to succeed than internal-facing projects."
+      },
+      "answer": "B",
+      "explanation": "The description of external-facing projects underscores the importance of AI in customer-facing applications, aligning with the article's theme of managing AI projects effectively.",
+      "score_improvement_tip": "Connect specific details in the passage to the broader theme of the text."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "Which of the following sentences from the passage is grammatically correct?",
+      "options": {
+        "A": "Internal-facing projects is designed to help a company’s employees perform their jobs.",
+        "B": "External-facing projects develop and implement AI for end users who are the company’s customers.",
+        "C": "They are the most visible applications of AI and was pioneered by technology companies.",
+        "D": "Examples include Netflix’s recommendation engine, Google’s search results, and Uber’s matching algorithm."
+      },
+      "answer": "B",
+      "explanation": "Option B is grammatically correct, with proper subject-verb agreement and sentence structure.",
+      "score_improvement_tip": "Pay attention to subject-verb agreement and proper sentence construction."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which transition word or phrase best fits at the beginning of the following sentence? '______, organizations now regularly rely on AI to provide their sales teams with insights on which customers to target and what products to offer.'",
+      "options": {
+        "A": "However",
+        "B": "For example",
+        "C": "In contrast",
+        "D": "As a result"
+      },
+      "answer": "B",
+      "explanation": "The sentence provides an example of how organizations use AI, making 'For example' the most appropriate transition.",
+      "score_improvement_tip": "Choose transition words that logically connect ideas and maintain the flow of the text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, supporting details, and grammatical correctness.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and grammatical correctness."
+  }
+}

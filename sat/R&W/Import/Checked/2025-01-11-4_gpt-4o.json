@@ -1,0 +1,119 @@
+{
+    "article_title": "GOOD JOBS ARE GOOD BUSINESS",
+    "article_author": "Zeynep Ton",
+    "article_date": "July 3, 2023",
+    "article_source": "Time USA",
+    "article_category": "Essay",
+    "article_tags": ["Leadership", "Workplace Culture", "Business Strategy", "Productivity", "Employment"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "At most companies with which the Good Jobs Institute has worked, employers poured the equivalent of 10% to 25% of their labor budget into replacement costs—the costs to recruit, train, and reach baseline productivity, only to start all over again when employees leave. But those costs pale in comparison with costs from the inevitable poor operational execution that takes place when there is high turnover: lower sales from mistakes, slow service, and customer dissatisfaction; higher product costs from more errors, overtime, and reduced labor productivity.<br><br>High turnover also hurts company performance. Managers are always fighting fires, never having enough time to hire and train well. Inevitably, these companies don’t trust their frontliners to do a good job, and they design the jobs for interchangeable pairs of hands rather than humans with brains, wasting so much talent and potential along the way."
+      },
+      {
+        "passage_number": 2,
+        "text": "High turnover is not just expensive. It’s ruinous. And a system based on low pay and high turnover is a weak match for what’s coming. With more retirements, it’s not going to get any easier to hire and retain frontline workers. A leaked Amazon memo from 2022 revealed that the company had to change its expansion plans because, given its high turnover rate, it would simply run out of people within a few years. With frontline employees in high demand and new minimum-wage regulations, continuously rising wages are inevitable, and companies will face increasing costs for the same output."
+      },
+      {
+        "passage_number": 3,
+        "text": "The good news: companies can change. Walmart’s Sam’s Club, call centers at Quest Diagnostics, and petstore chain Mud Bay improved pay and schedules and redesigned their systems to improve productivity and service. In 2019, Sam’s Club increased pay by $5 to $7 an hour for several key roles and, from 2020 to 2022, further increased hourly pay for all employees by 18%. In 2016, Quest Diagnostics raised starting pay for its call-center workers from $13 to $14 and implemented tenure-based increases. Mud Bay, a chain with 2% profit margins, increased hourly pay 24% over three years. By 2022, it was able to pay all its employees a living wage, according to MIT’s living-wage calculator. These companies didn’t just raise pay; they made employees’ work more valuable, making the pay investment worthy."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the first passage?",
+        "options": {
+          "A": "Employee turnover is unavoidable for companies.",
+          "B": "High turnover creates significant operational challenges and costs.",
+          "C": "Companies can eliminate turnover by improving employee training.",
+          "D": "Labor budgets should prioritize recruiting over productivity."
+        },
+        "answer": "B",
+        "explanation": "The first passage emphasizes the various operational and financial costs associated with high employee turnover, making B the correct answer.",
+        "score_improvement_tip": "Focus on identifying the central argument of a passage, which is often supported by specific examples or data."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the second sentence of Passage 2, the word 'ruinous' most nearly means:",
+        "options": {
+          "A": "Destructive",
+          "B": "Profitable",
+          "C": "Complicated",
+          "D": "Expensive"
+        },
+        "answer": "A",
+        "explanation": "The word 'ruinous' describes the severe negative impact of high turnover on companies, aligning most closely with 'destructive.'",
+        "score_improvement_tip": "When tackling vocabulary questions, substitute the answer choices into the sentence to check for compatibility."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "Which statement from Passage 2 provides the best support for the claim that high turnover is unsustainable?",
+        "options": {
+          "A": "'High turnover is not just expensive.'",
+          "B": "'With more retirements, it’s not going to get any easier to hire and retain frontline workers.'",
+          "C": "'A leaked Amazon memo from 2022 revealed... it would simply run out of people within a few years.'",
+          "D": "'...companies will face increasing costs for the same output.'"
+        },
+        "answer": "C",
+        "explanation": "Option C provides concrete evidence from a real-world example, reinforcing the claim that high turnover rates can lead to unsustainable hiring challenges.",
+        "score_improvement_tip": "Identify supporting evidence by linking specific claims to examples or data provided in the text."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Why does the author mention Mud Bay’s profit margins?",
+        "options": {
+          "A": "To highlight the financial struggles of small businesses.",
+          "B": "To demonstrate that even low-margin companies can improve employee wages.",
+          "C": "To critique the living wage calculator used by MIT.",
+          "D": "To contrast Mud Bay’s methods with those of larger corporations."
+        },
+        "answer": "B",
+        "explanation": "The author emphasizes Mud Bay’s low profit margins to show that even companies with limited financial resources can invest in employee wages and see long-term benefits.",
+        "score_improvement_tip": "Look for clues in the surrounding context to determine why specific examples are included."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Which edit best corrects the sentence: 'By 2022, it was able to pay all its employees a living wage, according to MIT’s living-wage calculator.'?",
+        "options": {
+          "A": "By 2022, it paid all employees a living wage according to MIT’s living-wage calculator.",
+          "B": "By 2022, it was able to pay all its employees, according to MIT’s living-wage calculator, a living wage.",
+          "C": "By 2022, it could pay all its employees a living wage according to MIT’s living-wage calculator.",
+          "D": "No change"
+        },
+        "answer": "D",
+        "explanation": "The sentence is correct as written and clearly conveys the intended meaning.",
+        "score_improvement_tip": "Review the structure of sentences carefully, ensuring punctuation and phrasing do not introduce ambiguity or errors."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of advanced analytical and reasoning skills, often drawing sophisticated inferences and understanding nuanced arguments.",
+      "700_level_performance": "Students scoring at this level display strong comprehension and analytical skills but may falter on highly complex or abstract questions requiring multiple layers of reasoning."
+    },
+    "explanation_summary": {
+      "hard_questions": "Test advanced reasoning, inference, and understanding of nuanced contexts or implicit ideas.",
+      "medium_questions": "Evaluate comprehension of key ideas and application of context-based reasoning.",
+      "easy_questions": "Assess straightforward comprehension of central ideas and directly stated details."
+    }
+  }
+  

@@ -1,0 +1,140 @@
+{
+    "article_title": "Obituary for Dead Languages",
+    "article_author": "Heather Altfeld",
+    "article_date": "2019",
+    "article_source": "The Best American Essays",
+    "article_category": "Essay",
+    "article_tags": ["Language", "Culture", "History"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Exhibit C: It took six hundred thousand men working forty-three years to build the Tower of Babel. It is said in the Torah that those in charge behaved heartlessly toward the weak and sick who could not assist in its construction. They would not even allow a woman in travail to leave the work. When God smashed the tower to smithereens, many of its builders were changed into apes, evil spirits, demons, and ghosts. The rest wandered the earth, deaf to each other, confounded, babbling a thousand tongues, interpreters racing in the rain to explain the dreams of God. Babel is hence referred to in some texts as the mother of confusion. And 'barbarous,' then, or 'barbarian,' is Greek for 'one who babbles,' while 'jabber' pertains to seafowl, fools, Jews, monkeys, and the Flemish."
+      },
+      {
+        "passage_number": 2,
+        "text": "Goodbye, Thracian and Yana, Mesmes and Old Burmese, Mandan and Tukumanféd and Classical Nahuatl; farewell, Akkadian and Assyrian and Knaanic and Bidyara and Yiddish, the language Singer wrote in because he liked ghost stories. Also, I believe in the resurrection. What will all those Jews have to read when they come back to life if I don’t write in Yiddish? Farewell, Venetic and Mura and Old Norse, the languages of mint masters and tribesmen and hatters and engravers, the languages of servants and slaves and the architects of aqueducts."
+      },
+      {
+        "passage_number": 3,
+        "text": "It turns out that there was an ancient civilization that could speak Tree. They could understand the language of roots and the noise of the fungi, a highly developed tongue albeit difficult to translate. They refused to write down the sounds because they could hear the molecules of the papyrus crying. They also had one word that they learned from the wind that they only used with stones—and absolutely never with each other—that, if uttered, was a spell, a name you could carry with you that would open the gates to the city of forever. The word died with them, buried in the folds of old brains and skin, zippered into the earth beneath a tel somewhere between the Tigris and the Yellow River."
+      },
+      {
+        "passage_number": 4,
+        "text": "Greed defines us. Even when we try to call it love. It is still wanting, still inhalation, still one mouth sucking on and spitting out the world like bones; the planet’s marrow, one long banquet of planked sturgeons and roasted pheasants. Such continents to swallow, such rivers to burp. If not Mussolini, Stalin. If not Stalin, you."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main purpose of the description of the Tower of Babel in Passage 1?",
+        "options": {
+          "A": "To illustrate the architectural marvels of the past.",
+          "B": "To highlight human ambition and its consequences.",
+          "C": "To explain the origin of language diversity.",
+          "D": "To describe a historical event from a religious text."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes human ambition and the consequences of such pursuits, including the divine punishment leading to confusion and diversity of languages.",
+        "score_improvement_tip": "Focus on identifying overarching themes instead of getting caught in specific details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "As used in the context of Passage 1, the term 'babbling' most closely means:",
+        "options": {
+          "A": "Speaking incoherently.",
+          "B": "Communicating in multiple languages.",
+          "C": "Repeating nonsensical words.",
+          "D": "Conveying fragmented thoughts."
+        },
+        "answer": "A",
+        "explanation": "The text discusses confusion and the inability to communicate, suggesting that 'babbling' refers to incoherent speech.",
+        "score_improvement_tip": "Use context to determine the closest and most logical meaning of words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Why does the author include a list of languages in Passage 2?",
+        "options": {
+          "A": "To emphasize the sheer number of extinct languages.",
+          "B": "To demonstrate the cultural richness these languages represented.",
+          "C": "To argue against neglecting historical artifacts.",
+          "D": "To question the feasibility of language preservation."
+        },
+        "answer": "A",
+        "explanation": "The detailed list conveys the vastness of loss experienced due to the extinction of these languages.",
+        "score_improvement_tip": "Pay attention to structural elements, such as lists, and their contribution to the main idea."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What inference can be made about the civilization that could 'speak Tree' in Passage 3?",
+        "options": {
+          "A": "They valued the natural world deeply.",
+          "B": "They had advanced agricultural systems.",
+          "C": "They sought to communicate with deities.",
+          "D": "They struggled with intertribal conflicts."
+        },
+        "answer": "A",
+        "explanation": "The description highlights their sensitivity to nature, such as hearing the sounds of papyrus and the wind, indicating a deep connection with the environment.",
+        "score_improvement_tip": "Look for descriptive phrases that reflect values or priorities."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Tone and Style",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which best describes the tone of Passage 4?",
+        "options": {
+          "A": "Critical and reflective.",
+          "B": "Humorous and irreverent.",
+          "C": "Optimistic and hopeful.",
+          "D": "Despairing and morose."
+        },
+        "answer": "A",
+        "explanation": "The passage critiques human greed and its pervasive impact, delivering a reflective yet accusatory tone.",
+        "score_improvement_tip": "Evaluate the language for critical or appreciative elements that reveal the author's stance."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Supporting Evidence",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which detail from Passage 4 most supports the claim that greed is pervasive?",
+        "options": {
+          "A": "The comparison of greed to inhalation.",
+          "B": "The mention of 'planked sturgeons and roasted pheasants.'",
+          "C": "The reference to Mussolini and Stalin.",
+          "D": "The depiction of the world being 'sucked and spit out.'"
+        },
+        "answer": "D",
+        "explanation": "This detail metaphorically represents the all-consuming nature of greed and its effect on the world.",
+        "score_improvement_tip": "Look for the strongest connection between claims and supporting imagery."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level excel in all areas, including analyzing complex ideas and synthesizing multiple concepts effectively.",
+      "700_level_performance": "Students at this level show solid understanding and reasoning but may need further practice with nuanced analysis and complex structures."
+    },
+    "explanation_summary": {
+      "hard_questions": "These assess the ability to analyze context, synthesize information, and deduce nuanced meanings.",
+      "medium_questions": "These evaluate a student’s ability to infer and apply context while maintaining a focus on detail.",
+      "easy_questions": "These check basic comprehension and identification of explicit ideas or themes in the text."
+    }
+  }
+  

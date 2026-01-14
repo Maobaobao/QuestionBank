@@ -1,0 +1,211 @@
+{
+  "article_title": "How Fast Should Your Company Really Grow?",
+  "article_author": "Murat Tarakci",
+  "article_date": "March-April 2024",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Corporate Growth", "Business Strategy", "Leadership"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "While sustained profitable growth is a nearly universal goal, it is an elusive one for many companies. Empirical research that I and others have conducted on the long-term patterns of growth in U.S. corporations suggests that when inflation is taken into account, most companies barely grow. For instance, in an analysis of 10,897 publicly held U.S. companies from 1976 to 2019, my research associate Catherine Piner and I found that firms in the top quartile grew at an inflation-adjusted average of 11.8% per year, but those in the lower three quartiles experienced little or no growth (0.3%, 0.03%, and -0.5%, respectively). And the majority of firms in the top quartile were unable to sustain superior growth performance for more than a few years.<br><br>Although challenging to achieve, sustained profitable growth is not impossible, however. In our analysis, we found that only about 15% of the companies in the top growth quartile in 1985 were able to sustain their top-quartile performance for at least 30 years. Over the past two decades, I have tried to understand why some companies are more effective at sustaining growth and what senior leaders can do to navigate the organizational challenges it poses."
+    },
+    {
+      "passage_number": 2,
+      "text": "Although challenging to achieve, sustained profitable growth is not impossible, however. In our analysis, we found that only about 15% of the companies in the top growth quartile in 1985 were able to sustain their top-quartile performance for at least 30 years. Over the past two decades, I have tried to understand why some companies are more effective at sustaining growth and what senior leaders can do to navigate the organizational challenges it poses."
+    },
+    {
+      "passage_number": 3,
+      "text": "I have found that while the usual explanations for slow or minimal growth—market forces and technological changes such as disruptive innovation— play a role, many companies’ growth problems are self-inflicted. Specifically, firms approach growth in a highly reactive, opportunistic manner. When market demand is booming, they go on hiring binges, throw resources at developing new capacity, and build out organizational infrastructure without thinking through the implications."
+    },
+    {
+      "passage_number": 4,
+      "text": "In the process of chasing growth, companies can easily destroy the things that made them successful in the first place, such as their capacity for innovation, their agility, their great customer service, or their unique cultures. When demand slows, pressures to maintain historical growth rates can lead to quick-fix solutions such as costly acquisitions or drastic cuts in R&D, other capabilities, and training. The damage caused by these moves only exacerbates the growth problems."
+    },
+    {
+      "passage_number": 5,
+      "text": "Sustaining profitable growth requires a delicate balance between the pursuit of market opportunities (demand) and the creation of the capabilities and capacity needed to exploit those opportunities (supply). To proactively manage that balance, companies need a growth strategy that explicitly addresses three interrelated decisions: how fast to grow (the target rate of growth); where to seek new sources of demand (the direction of growth); and how to amass the financial, human, and organizational resources needed to grow (the method of growth)."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the data presented, what was the average annual growth rate for companies in the top quartile?",
+      "options": {
+        "A": "0.3%",
+        "B": "0.03%",
+        "C": "11.8%",
+        "D": "-0.5%"
+      },
+      "answer": "C",
+      "explanation": "The passage explicitly states: 'firms in the top quartile grew at an inflation-adjusted average of 11.8% per year.' The other options are the growth rates for the lower three quartiles.",
+      "score_improvement_tip": "For quantitative evidence questions, locate the specific numbers in the text and match them precisely to the question's query."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "Based on the information in the passage, the author's research over the past two decades was primarily motivated by a desire to:",
+      "options": {
+        "A": "Prove that sustained growth is impossible for most firms.",
+        "B": "Identify the factors that enable long-term superior growth.",
+        "C": "Criticize companies in the lower growth quartiles.",
+        "D": "Promote a specific consulting framework to businesses."
+      },
+      "answer": "B",
+      "explanation": "The passage states the author has tried 'to understand why some companies are more effective at sustaining growth,' which directly aligns with identifying the factors behind long-term superior growth. The author acknowledges growth is challenging but not impossible (contradicting A), and the tone is analytical, not critical (C) or promotional (D).",
+      "score_improvement_tip": "Inference questions require you to draw a logical conclusion based on evidence in the text, not on outside knowledge or assumptions."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "As used in the passage, 'reactive' most nearly means:",
+      "options": {
+        "A": "scientific",
+        "B": "responsive",
+        "C": "aggressive",
+        "D": "calculating"
+      },
+      "answer": "B",
+      "explanation": "The context contrasts a 'reactive, opportunistic manner' with the need for proactive management later in the article. A reactive approach is one that merely responds to external events (like booming demand) rather than planning for them. 'Responsive' is the best synonym in this context.",
+      "score_improvement_tip": "For 'Words in Context,' substitute each answer choice back into the original sentence. The correct choice will not alter the sentence's intended meaning."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author indicates that attempts to maintain growth during a slowdown are problematic because they often:",
+      "options": {
+        "A": "focus excessively on long-term research and development.",
+        "B": "involve actions that ultimately make the company's problems worse.",
+        "C": "are not drastic enough to have a meaningful impact on performance.",
+        "D": "receive strong support from senior leadership and the board."
+      },
+      "answer": "B",
+      "explanation": "The passage clearly states that 'quick-fix solutions' lead to 'damage' which 'only exacerbates the growth problems.' This directly supports choice B.",
+      "score_improvement_tip": "Focus on cause-and-effect relationships stated in the text. Keywords like 'exacerbates' signal that one action is worsening a problem."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "The main purpose of the passage is to:",
+      "options": {
+        "A": "describe a problem and propose a general solution for it.",
+        "B": "summarize the findings from a quantitative data analysis.",
+        "C": "refute a commonly held belief about corporate strategy.",
+        "D": "warn against the potential dangers of rapid expansion."
+      },
+      "answer": "A",
+      "explanation": "The passage first identifies the problem: growth requires a 'delicate balance.' It then proposes the solution: companies 'need a growth strategy' that addresses three key decisions. It does not summarize data (B), refute a belief (C), or solely issue a warning (D); it moves toward a solution.",
+      "score_improvement_tip": "To identify the purpose, ask yourself what the author is trying to accomplish in the paragraph (e.g., to introduce, explain, prove, solve, or conclude)."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "As used in the passage, the word 'exacerbates' most nearly means:",
+      "options": {
+        "A": "mitigates",
+        "B": "ignores",
+        "C": "worsens",
+        "D": "reveals"
+      },
+      "answer": "C",
+      "explanation": "The context describes 'damage' caused by certain moves. The logical effect of damage is to make a pre-existing problem (growth problems) more severe. Therefore, 'exacerbates' means 'worsens.' 'Mitigates' (A) is an antonym.",
+      "score_improvement_tip": "Tackle tough vocabulary questions by examining the sentence's logic. The word 'damage' is a strong contextual clue that the result will be negative and intensifying."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The author implies that a company successfully managing its growth would be LEAST likely to:",
+      "options": {
+        "A": "scale its operating systems in anticipation of future demand.",
+        "B": "hire a large number of new employees during a market boom without a long-term plan.",
+        "C": "consider how its corporate culture might be affected by expansion.",
+        "D": "assess its ability to attract the human capital needed for delivery."
+      },
+      "answer": "B",
+      "explanation": "The passage criticizes a 'reactive, opportunistic manner' and specifically cites going on 'hiring binges' without thinking through implications as a example of a problematic, self-inflicted approach. Therefore, a successful company would be least likely to do this. The other options (A, C, D) are all listed as implications companies *should* think through but fail to.",
+      "score_improvement_tip": "For complex inference questions, find the negative example in the text. The question 'LEAST likely' asks for the action that is most contrary to the author's recommended approach."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Which choice best describes the relationship between the data in the first passage and the claim in the second passage?",
+      "options": {
+        "A": "The data provides a counterexample that disproves the claim.",
+        "B": "The data establishes a general context that makes the claim notable.",
+        "C": "The data is unrelated to the central argument of the claim.",
+        "D": "The data offers a solution to the problem presented in the claim."
+      },
+      "answer": "B",
+      "explanation": "The first passage uses data to establish that sustained growth is 'elusive' for most companies. The second passage begins with 'Although challenging to achieve...' acknowledging this context, and then makes the notable claim that it is 'not impossible,' supported by the specific statistic about 15% of companies. The data sets up the problem that makes the subsequent claim meaningful.",
+      "score_improvement_tip": "For 'Cross-Text' questions, treat the passages as a conversation. Determine how the ideas in one passage support, contrast with, or refine the ideas in another."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The author uses the parenthetical phrases '(demand)' and '(supply)' primarily to:",
+      "options": {
+        "A": "introduce specialized economic terminology to the reader.",
+        "B": "clarify the specific concepts referred to by the preceding phrases.",
+        "C": "minimize the importance of the concepts they describe.",
+        "D": "contrast his framework with traditional economic models."
+      },
+      "answer": "B",
+      "explanation": "The phrases 'pursuit of market opportunities' and 'creation of the capabilities and capacity' are descriptive. The parentheticals '(demand)' and '(supply)' provide concise, clarifying labels for these concepts, making the subsequent discussion of 'balance' clearer for the reader.",
+      "score_improvement_tip": "In Rhetorical Synthesis questions, analyze the author's choices. Parentheticals are often used for clarification, definition, or providing brief examples—not to minimize importance."
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The author's reference to 'the things that made them successful in the first place' serves mainly to:",
+      "options": {
+        "A": "highlight the ironic and self-defeating nature of poorly managed growth.",
+        "B": "suggest that most companies are not truly successful to begin with.",
+        "C": "argue that innovation and agility are incompatible with large size.",
+        "D": "emphasize that customer service is the most important factor for growth."
+      },
+      "answer": "A",
+      "explanation": "The core of the author's argument is that companies' growth problems are 'self-inflicted.' The sentence points out the irony that in the very 'process of chasing growth,' companies can destroy their original strengths (like innovation and agility), which is a self-defeating outcome. This strengthens the author's main critique.",
+      "score_improvement_tip": "When a question asks about the function of a specific detail, connect it back to the author's larger point or argument. The correct answer will support the passage's central thesis."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They correctly answer hard questions that require inferring subtle authorial intent, analyzing complex text structures, and making nuanced connections between different parts of the text.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They typically master easy and medium questions but may miss hard questions that require discerning nuanced meanings, sophisticated rhetorical analysis, or synthesizing ideas across multiple paragraphs."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills. They require students to infer subtle authorial intent (Q7, Q10), analyze the rhetorical function of specific words or phrases (Q9), understand the relationship between different parts of the text (Q8), and comprehend sophisticated vocabulary in context (Q6).",
+    "medium_questions": "Medium questions assess a deeper level of comprehension and vocabulary. They focus on understanding the purpose of a paragraph (Q5), making straightforward inferences based on text evidence (Q4), and defining words using clear contextual clues (Q3).",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to locate explicit information in the text, both textual (Q2) and quantitative (Q1)."
+  }
+}

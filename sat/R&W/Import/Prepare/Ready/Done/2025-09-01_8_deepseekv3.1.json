@@ -1,0 +1,219 @@
+{
+  "article_title": "The Uniqueness Trap",
+  "article_author": "Bent Flyvbjerg",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Behavioral Economics", "Project Management", "Cognitive Bias"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "To quantify the effect of perceived uniqueness on projects, we asked the managers of each of the 219 projects in our sample to indicate, on a scale of one to 10, how much they agreed with the statement “This project is unique, and therefore it is difficult to compare with other projects.” Twenty-seven percent gave their project a score of seven or higher.<br><br>Next we tested the association between perceived uniqueness and performance, which we assessed by measuring the benefits delivered and cost and schedule overruns. The results supported our hypothesis that project leaders’ view of projects as unique was correlated with underperformance. We found that a one-point increase on the 10-point scale was associated, on average, with a five-percentage-point increase in cost overruns. That meant that in projects receiving the highest rating—a 10—cost overruns were 45 percentage points higher, on average, than overruns in projects receiving the lowest rating (a one). Worryingly, in 37% of the projects rated a 10, the cost overrun was extreme—exceeding the budget by more than 75%."
+    },
+    {
+      "passage_number": 2,
+      "text": "It should be noted that the above conclusions are based on perceived uniqueness. As we discovered, the perceptions didn’t necessarily match reality.<br><br>The short answer is no. In fact, whenever we came across a project we thought was unique, it turned out not to be."
+    },
+    {
+      "passage_number": 3,
+      "text": "Were the managers in our sample of IT projects similarly mistaken? We looked at the 59 projects with a perceived uniqueness score of seven or higher and compared their functional scope, descriptions, and start dates against those of 6,219 other projects in another, larger database. We found that with all 59 projects, including those rated a nine or a 10, a similar project had, in fact, previously been executed in the same organization or the same industry. In other words, none of the projects could be considered unique."
+    },
+    {
+      "passage_number": 4,
+      "text": "On that basis we concluded that many more projects are perceived as unique than actually are and that perceived and actual uniqueness are not correlated. We also found that perceived uniqueness is what matters to project performance, because when managers think there is nothing to learn from other endeavors, the lack of learning will hamper their projects."
+    },
+    {
+      "passage_number": 5,
+      "text": "Our study suggests that the bias is linked to certain project features. Perceived uniqueness was generally correlated with a project’s complexity, its political sensitivity, its number of unknown variables, and the extent to which its requirements shifted. But none of those characteristics had a statistically significant effect on their own, which implied that they could not by themselves explain extreme cost overruns. From a statistical perspective, the uniqueness bias was the cause of the overruns, and despite the correlations, it was not rooted in a project’s complexity, sensitivity, uncertainty, or requirements."
+    },
+    {
+      "passage_number": 6,
+      "text": "So where did the bias come from? One strong possibility is that it resulted from the tendency to assume that what’s unique to you will be unique to everyone. For instance, California has never built a high-speed rail line before, so in that sense, the recent efforts to construct one between Los Angeles and San Francisco may be considered unique. But there are plenty of precedents outside California: Dozens of similar rail projects have been built around the world, with data and lessons learned that would be highly valuable to California for assessing costs, schedules, contracting relationships, procurement, revenues, and environmental impact."
+    },
+    {
+      "passage_number": 7,
+      "text": "The uniqueness trap feeds into what the Nobel laureate Daniel Kahneman called the “inside view.” When managers fall into it, they will fail to gather data and proven insights that could help them and will build budgets and schedules based only on their own beliefs and personal experiences. That can be risky: Plenty of behavioral research shows that when decision-makers do this, they tend to underestimate not only average risk but also the probability of rare, catastrophic outcomes. Another Nobel laureate, Richard Feynman, famously found that this was precisely what happened in the Challenger space shuttle disaster: The inside view of flight risk at NASA, especially among its top managers, was so narrow that it caused the agency to wildly underestimate the chances of an explosion, resulting in the tragic loss of the shuttle with all seven astronauts aboard."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Based on the data presented, if a project received a perceived uniqueness score of 8, its cost overrun would most likely be approximately how many percentage points higher than a project with a score of 2?",
+      "options": {
+        "A": "10 percentage points",
+        "B": "30 percentage points",
+        "C": "40 percentage points",
+        "D": "45 percentage points"
+      },
+      "answer": "B",
+      "explanation": "The passage states that a one-point increase is associated with a five-percentage-point increase in cost overruns. The difference between a score of 8 and a score of 2 is 6 points. 6 points * 5 percentage points per point = 30 percentage points.",
+      "score_improvement_tip": "For quantitative inference questions, carefully extract the numerical relationship described in the text and apply it precisely to the new scenario presented in the question."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "The primary purpose of the passage is to",
+      "options": {
+        "A": "introduce a crucial limitation of the initial findings.",
+        "B": "provide a counterargument to the study's hypothesis.",
+        "C": "transition to a personal anecdote from the author.",
+        "D": "summarize the key conclusion of the research."
+      },
+      "answer": "A",
+      "explanation": "The passage begins with 'It should be noted that...' which signals a qualification or limitation. It clarifies that the strong correlation found is based on 'perceived uniqueness,' which the authors later reveal is often mistaken, making this a key limitation of the initial data.",
+      "score_improvement_tip": "Pay close attention to transitional phrases like 'It should be noted,' 'However,' or 'In contrast,' as they often signal a shift in purpose, such as introducing a limitation or counterpoint."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which finding, if true, would most directly WEAKEN the authors' conclusion that 'none of the projects could be considered unique'?",
+      "options": {
+        "A": "The larger database of 6,219 projects was missing data from the previous five years.",
+        "B": "Three of the 59 high-scoring projects involved pioneering a new software language.",
+        "C": "Project managers in the sample were not aware of the larger database's existence.",
+        "D": "Functional scope was a more reliable indicator of similarity than project descriptions."
+      },
+      "answer": "B",
+      "explanation": "The authors' conclusion of no uniqueness is based on finding a similar project in the database. If three projects used a 'new software language' that had never been used in any project before (pioneering), this would provide direct evidence of actual uniqueness, severely weakening the authors' sweeping conclusion.",
+      "score_improvement_tip": "To evaluate evidence that weakens an argument, look for new information that directly contradicts the argument's foundational premise or conclusion."
+    },
+    {
+      "question_number": 4,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "A project manager is about to initiate a project her company has never attempted before. Based on the passage, which approach would the authors most likely recommend to avoid the uniqueness trap?",
+      "options": {
+        "A": "Focus intensely on the project's internal complexity and political sensitivity.",
+        "B": "Assume the project is unique and add a 45% contingency to the budget.",
+        "C": "Research similar projects undertaken by other companies or in other industries.",
+        "D": "Delegate planning to a manager with extensive personal experience."
+      },
+      "answer": "C",
+      "explanation": "The core of the 'uniqueness trap' is the failure to learn from other endeavors. The authors state that 'perceived uniqueness is what matters... because when managers think there is nothing to learn from other endeavors, the lack of learning will hamper their projects.' Therefore, actively seeking out external precedents (option C) is the prescribed solution.",
+      "score_improvement_tip": "Rhetorical Synthesis questions require you to apply the text's ideas to a new situation. Identify the central argument or recommendation in the passage and find the choice that aligns with it."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "As used in the passage, 'rooted in' most nearly means",
+      "options": {
+        "A": "planted by",
+        "B": "caused by",
+        "C": "hidden in",
+        "D": "strengthened by"
+      },
+      "answer": "B",
+      "explanation": "The passage discusses causation. It states that while perceived uniqueness is correlated with certain features (complexity, etc.), the bias itself was not 'rooted in'—that is, not fundamentally caused by—those features. Instead, the bias was the independent cause of the overruns.",
+      "score_improvement_tip": "For vocabulary-in-context questions, replace the phrase in question with each answer choice and read the sentence. The correct choice will not alter the sentence's logical meaning."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The author mentions the California high-speed rail project primarily to",
+      "options": {
+        "A": "cite a famous example of a project that successfully avoided cost overruns.",
+        "B": "illustrate the parochialism that leads to the uniqueness bias.",
+        "C": "criticize the state government for its poor contracting relationships.",
+        "D": "contrast American project management with European approaches."
+      },
+      "answer": "B",
+      "explanation": "The example is introduced to explain the bias's origin: 'the tendency to assume that what’s unique to you will be unique to everyone.' California's view is parochial (limited in scope or outlook); it sees its own lack of experience but ignores a wealth of global experience. This illustrates the cognitive narrowness of the bias.",
+      "score_improvement_tip": "When asked about the function of an example, refer back to the topic sentence that the example is supporting. Here, the example follows the question 'So where did the bias come from?'"
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "The reference to the Challenger disaster serves primarily to",
+      "options": {
+        "A": "provide a tragic example of the consequences of taking the 'inside view.'",
+        "B": "contrast Daniel Kahneman's theories with those of Richard Feynman.",
+        "C": "shift the focus from business projects to government-sponsored projects.",
+        "D": "emphasize the importance of technical expertise over managerial experience."
+      },
+      "answer": "A",
+      "explanation": "The passage defines the 'inside view' as a narrow perspective based only on one's own beliefs and experiences. It then states this view can lead to underestimating catastrophic risks. The Challenger disaster is presented as the quintessential, tragic example of this exact failure, where NASA's narrow 'inside view' led to a fatal miscalculation.",
+      "score_improvement_tip": "Cross-Text Connections (or function) questions require you to see how different parts of a passage relate. Identify the concept being explained (inside view) and see how the example extends or proves that concept."
+    },
+    {
+      "question_number": 8,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br><br>The researchers assessed performance by measuring the benefits delivered, cost overruns, ______.",
+      "options": {
+        "A": "and schedule overruns",
+        "B": "schedule overruns",
+        "C": "also schedule overruns",
+        "D": "with schedule overruns"
+      },
+      "answer": "A",
+      "explanation": "The sentence presents a list of three items: 1) benefits delivered, 2) cost overruns, and 3) schedule overruns. In Standard English, items in a list must be parallel, and the last item should be preceded by the coordinating conjunction 'and.'",
+      "score_improvement_tip": "For sentence boundary questions involving lists, ensure all items are grammatically parallel (e.g., all nouns) and that a comma and 'and' are used before the final item."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice most effectively combines the sentences at the underlined portion?<br><br>We concluded that perceived and actual uniqueness are not correlated. We also found that perceived uniqueness is what matters to project performance.",
+      "options": {
+        "A": "are not correlated, we also found that",
+        "B": "are not correlated; also finding that",
+        "C": "are not correlated and also found that",
+        "D": "are not correlated; we also found that"
+      },
+      "answer": "D",
+      "explanation": "The two original sentences are closely related but independent clauses. The semicolon (;) is the correct punctuation to join them, and the pronoun 'we' must be repeated to maintain clarity and grammatical correctness. Option C uses a coordinating conjunction ('and') but incorrectly implies the two findings are a single thought, which is less precise than the semicolon.",
+      "score_improvement_tip": "When combining two independent clauses, a semicolon is often the most effective and precise punctuation. Ensure the subject of the second clause is clear."
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Based on the passage, which statement best describes the relationship between a project's inherent features (e.g., complexity) and its cost overruns?",
+      "options": {
+        "A": "The features are the primary cause of overruns, which are then amplified by the uniqueness bias.",
+        "B": "The features are correlated with overruns but are not their statistically significant cause.",
+        "C": "The features have no measurable relationship with the likelihood of a cost overrun.",
+        "D": "The features are significant only in projects with low perceived uniqueness."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states: 'Perceived uniqueness was generally correlated with a project’s complexity... But none of those characteristics had a statistically significant effect on their own, which implied that they could not by themselves explain extreme cost overruns.' This directly supports choice B. The cause is the uniqueness bias, not the features themselves.",
+      "score_improvement_tip": "For complex detail questions, slow down and match the wording of the answer choices precisely to the wording of the passage. Avoid answers that overstate or misinterpret the relationship described."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery in synthesizing complex information across long texts, making subtle inferences about authorial intent and argument structure, and editing for precise rhetorical impact and flawless conventions. They consistently identify the strongest evidence and navigate tricky quantitative and conceptual relationships within passages.",
+    "700_level_performance": "Students scoring 700 show strong competence in comprehending the main ideas and details of a text and in applying standard grammar rules. Their gap to an 800 is often due to missed nuances in inference questions, hasty selections on the most challenging text structure questions, and occasional errors in synthesizing information from different parts of the passage."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (5, 7, 3, 6, 10) test the ability to dissect complex arguments, evaluate evidence, understand nuanced vocabulary in dense academic contexts, and make subtle inferences about authorial purpose and conceptual relationships. They require seeing the 'why' behind the 'what'.",
+    "medium_questions": "Medium questions (1, 5, 9) assess the ability to perform precise textual analysis, such as applying quantitative logic, understanding moderate-difficulty words in context, and effectively combining sentences for clarity and style.",
+    "easy_questions": "Easy questions (2, 8) evaluate foundational comprehension skills, such as identifying the purpose of a paragraph, and core grammatical conventions, such as constructing a parallel list."
+  }
+}

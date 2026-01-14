@@ -1,0 +1,223 @@
+{
+  "article_title": "Strategy in An Era of Abundant Expertise",
+  "article_author": "Bobby Yerramilli-Rao",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Artificial Intelligence", "Digital Transformation", "Business Management"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Clearly the companies that are best at continually increasing their triple-product return will have the greatest chance of competitive success. But getting there is hard. It involves meeting digital transformation requirements, aligning teams around a new course of action, helping people across the company change their behavior to maximize the benefits of working with AI, and reallocating budgets. So how should companies proceed?"
+    },
+    {
+      "passage_number": 2,
+      "text": "Let’s start with the assumption that organizations should be far along on the digital transformation journey, especially with the digitization of data, the adoption of cloud computing, and the establishment of security and governance protocols. Digital transformation can be a long process; expecting to complete it before trying to realize any benefits from AI is unrealistic. It’s best to begin with a small number of business processes, maybe even just one, in which AI can be easily deployed and where it has already proved valuable for other companies."
+    },
+    {
+      "passage_number": 3,
+      "text": "AI safety and governance are foundational to success as well. Given the risks of bias, misinformation, deep fakes, and cyberattacks, companies have to establish clear guidelines and principles to safeguard their AI efforts. Again, these are hard to create in the abstract and much easier when a specific business process is the focus. Trust and safety should be among the top priorities for any organization exploring artificial intelligence."
+    },
+    {
+      "passage_number": 4,
+      "text": "As with any transformation, persuading people and achieving organizational change can be even more challenging than technical implementation. In addition to the tried-and-true principles of change management, an effective way to drive change in this case is to cultivate a group of employees who are early adopters of AI in select processes and empower them to become AI champions within the organization."
+    },
+    {
+      "passage_number": 5,
+      "text": "However, the imperative that all employees learn AI cannot be overstated. Moderna’s success in rapidly deploying gen AI across its enterprise was enabled by the creation of an “AI academy”—a mandatory internal course that included 20 hours of training on AI and its business impact. Research shows that AI can fail at the front lines, and employee training is an important way to avoid that outcome."
+    },
+    {
+      "passage_number": 6,
+      "text": "Finally, a budget should be allocated for even early activities. As companies realize a greater triple-product return, the cost of using AI will be more than offset by productivity gains. Organizations will begin to regard AI as a core element in the budgets of all divisions, be they lines of business, functions, or the corporate center."
+    },
+    {
+      "passage_number": 7,
+      "text": "Coursera provides a great example of a company that started with a specific process—in this case coding—and now innovates rapidly and broadly with AI across a range of activities. When ChatGPT was introduced, Coursera’s CEO, Jeff Maggioncalda, quickly recognized the potential of gen AI and started bringing it into his company. His company hired a firm that specialized in gen AI coding techniques to conduct training for its software developers. It also introduced an AI assistant that helped its engineers code more efficiently."
+    },
+    {
+      "passage_number": 8,
+      "text": "Let’s start with the assumption that organizations should be far along on the digital transformation journey, especially with the digitization of data, the adoption of cloud computing, and the establishment of security and governance protocols. Digital transformation can be a long process; expecting to complete it before trying to realize any benefits from AI is unrealistic. It’s best to begin with a small number of business processes, maybe even just one, in which AI can be easily deployed and where it has already proved valuable for other companies.<br><br>Equipped with knowledge and tools, the teams at Coursera were able within just a year to incorporate AI capabilities into several products, such as translation, personalized learning, and automated course creation. By learning and doing, Coursera’s employees have positioned themselves to continue innovating and to stay ahead of the competition as new AI capabilities become available."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the passage, the author most likely believes that the difficulty of increasing 'triple-product return' stems primarily from its:",
+      "options": {
+        "A": "financial cost and complexity.",
+        "B": "dependence on unpredictable market forces.",
+        "C": "requirement for extensive organizational change.",
+        "D": "reliance on unproven and emerging technologies."
+      },
+      "answer": "C",
+      "explanation": "The passage states that increasing triple-product return is hard because it involves 'aligning teams,' 'helping people... change their behavior,' and 'reallocating budgets.' These are all challenges related to managing people and organizational structure, not just technology or cost. The emphasis is on the human and procedural aspects of change.",
+      "score_improvement_tip": "For high-difficulty inference questions, look for the answer that synthesizes multiple details from the text rather than latching onto a single word. The correct answer is often a broader concept that encompasses several specific points."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "The second paragraph primarily serves to:",
+      "options": {
+        "A": "acknowledge a potential obstacle to AI adoption and then propose a practical solution.",
+        "B": "contrast the benefits of digital transformation with the risks of AI implementation.",
+        "C": "dismiss the importance of completing a full digital transformation before using AI.",
+        "D": "list the absolute prerequisites that all companies must meet before deploying AI."
+      },
+      "answer": "A",
+      "explanation": "The paragraph begins by acknowledging that digital transformation is a 'long process' and that waiting to complete it is 'unrealistic' (the obstacle). It then proposes the solution: to 'begin with a small number of business processes... in which AI can be easily deployed.'",
+      "score_improvement_tip": "To identify a paragraph's purpose, ask yourself how it functions within the author's larger argument. Is it introducing a problem, providing a solution, offering evidence, or making a counterargument?"
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "As used in the passage, 'foundational' most nearly means:",
+      "options": {
+        "A": "original.",
+        "B": "basic.",
+        "C": "structural.",
+        "D": "essential."
+      },
+      "answer": "D",
+      "explanation": "The context states that safety and governance are 'foundational to success.' This means they are of critical importance and form a necessary base upon which success is built. While 'basic' (B) is a synonym, 'essential' (D) is a more precise fit in this context, conveying indispensable importance rather than just simplicity. 'Original' (A) and 'structural' (C) do not fit the context as well.",
+      "score_improvement_tip": "For 'Words in Context' questions, plug each answer choice back into the original sentence. The best choice will not only be synonymous but will also maintain the precise tone and meaning of the author's argument."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice best describes the evidence offered in the passage for the claim that organizational change is challenging?",
+      "options": {
+        "A": "A comparison between technical and human factors.",
+        "B": "A recommendation for a specific strategy to overcome the challenge.",
+        "C": "A quotation from an expert in change management.",
+        "D": "Statistical data on transformation failure rates."
+      },
+      "answer": "B",
+      "explanation": "The passage does not provide data, quotes, or a direct comparison as evidence. Instead, it offers a strategy to address the challenge: 'cultivate a group of employees who are early adopters... and empower them to become AI champions.' The presentation of this solution implicitly validates the claim that the challenge exists and is significant.",
+      "score_improvement_tip": "Evidence can be presented in many forms, not just data or quotes. Often, an author's proposed solution or strategy itself serves as evidence for the existence and scale of a problem."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The author mentions that AI can 'fail at the front lines' primarily to:",
+      "options": {
+        "A": "highlight a limitation of current AI technology.",
+        "B": "emphasize the necessity of comprehensive training.",
+        "C": "warn companies against deploying AI too quickly.",
+        "D": "suggest that some business functions are unsuitable for AI."
+      },
+      "answer": "B",
+      "explanation": "The statement about AI failing at the front lines is immediately followed by the conclusion that 'employee training is an important way to avoid that outcome.' This indicates the author uses this potential failure not as a general warning, but specifically to justify and emphasize the critical need for the training mentioned in the previous sentence (Moderna's AI academy).",
+      "score_improvement_tip": "Pay close attention to the sentences immediately before and after a specific claim. Authors often state a problem to directly justify a solution, or state a solution to directly address a previously mentioned problem."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Easy",
+      "passage": 6,
+      "question": "The passage functions as a transitional element in the structure of the overall article by:",
+      "options": {
+        "A": "introducing a counterargument to the points made earlier.",
+        "B": "shifting the discussion from strategic principles to financial practicality.",
+        "C": "providing a concrete example that illustrates an abstract concept.",
+        "D": "summarizing the key recommendations presented in the preceding text."
+      },
+      "answer": "B",
+      "explanation": "The passages before it discuss strategic and operational principles (starting small, safety, change management, training). This passage begins with 'Finally,' and introduces the topic of budget and financial allocation, marking a shift to the practical financial considerations of the strategy.",
+      "score_improvement_tip": "Transition words like 'finally,' 'however,' 'therefore,' and 'for example' are strong clues to a passage's function within the text's overall structure."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 7,
+      "question": "According to the passage, Coursera's initial approach to implementing AI focused on:",
+      "options": {
+        "A": "automated course creation and translation.",
+        "B": "training software developers in AI coding techniques.",
+        "C": "establishing company-wide security protocols.",
+        "D": "personalized learning for its customers."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that Coursera 'started with a specific process—in this case coding' and that to do this, it 'hired a firm that specialized in gen AI coding techniques to conduct training for its software developers.'",
+      "score_improvement_tip": "For 'Central Ideas and Details' questions, the answer is directly stated in the text. Scan for keywords from the question and match them precisely to the text."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "The description of Coursera's success in the final passage most directly exemplifies which general recommendation made earlier in the article?",
+      "options": {
+        "A": "Reallocating budgets to fund early AI activities.",
+        "B": "Establishing clear guidelines for AI safety and governance.",
+        "C": "Beginning with a small number of specific business processes.",
+        "D": "Cultivating a group of early adopters to act as champions."
+      },
+      "answer": "C",
+      "explanation": "The earlier passage recommends to 'begin with a small number of business processes, maybe even just one.' The Coursera example is introduced as a 'great example of a company that started with a specific process—in this case coding,' which directly mirrors this earlier advice.",
+      "score_improvement_tip": "For 'Cross-Text Connections' questions, you must mentally connect an example in one part of the text to a broader idea or recommendation in another. actively look for these relationships as you read."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "The passage notes that Coursera's CEO 'quickly recognized the potential of gen AI.' Which subsequent detail best demonstrates the decisive action that resulted from this recognition?",
+      "options": {
+        "A": "He started bringing it into his company.",
+        "B": "His company hired a firm that specialized in gen AI coding techniques.",
+        "C": "It also introduced an AI assistant for its engineers.",
+        "D": "Coursera's employees have positioned themselves to continue innovating."
+      },
+      "answer": "B",
+      "explanation": "While 'started bringing it into his company' (A) is a general statement, 'hired a firm that specialized in gen AI coding techniques' (B) is a specific, concrete, and decisive action that was taken as a direct result of the CEO's recognition. It shows an immediate investment of resources to achieve a clear goal.",
+      "score_improvement_tip": "In Rhetorical Synthesis questions, you are often asked to find the *best* or *most relevant* piece of evidence. Choose the option that is most specific, direct, and actionable in support of the given claim."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br><br>'In addition to the tried-and-true principles of change management, an effective way to drive change in this case is to cultivate a group of employees who are early adopters of AI in select processes _______________ become AI champions within the organization.'",
+      "options": {
+        "A": "and empower them to",
+        "B": "by empowering them to",
+        "C": "and empowering them to",
+        "D": "they are empowered to"
+      },
+      "answer": "A",
+      "explanation": "The sentence requires a compound verb that maintains parallel structure. The core structure is 'to cultivate... and empower...' The infinitive 'to cultivate' is correctly followed by 'and empower' (without repeating 'to'). Option B creates a faulty modifier, Option C breaks parallelism by using a gerund ('empowering'), and Option D creates a run-on sentence.",
+      "score_improvement_tip": "For Boundaries questions, read the sentence aloud in your head. The correct answer will sound grammatically smooth and logical. Check for parallelism, modifier errors, and run-on sentences."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery over complex integrative reasoning. They seamlessly connect ideas across different passages (Cross-Text Connections), draw subtle and precise inferences, understand nuanced vocabulary in context, and edit for the most sophisticated grammatical boundaries and rhetorical effectiveness. They answer hard questions consistently correctly.",
+    "700_level_performance": "Students scoring 700 demonstrate strong comprehension of central ideas and details and can handle medium-difficulty questions on structure and conventions. The gap to 800 is often defined by missing 1-2 hard inference or cross-text questions and occasionally misapplying a subtle grammar rule or rhetorical concept."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (1, 3, 5, 8, 9) test advanced skills: drawing complex inferences about authorial purpose, discerning the most precise meaning of words in a sophisticated context, connecting examples to concepts across the text, and identifying the best evidence for a rhetorical purpose.",
+    "medium_questions": "Medium questions (2, 4, 10) assess the ability to analyze text structure and purpose, understand how evidence is presented, and apply standard English conventions to moderately complex sentences.",
+    "easy_questions": "Easy questions (6, 7) evaluate basic comprehension: identifying explicitly stated details and recognizing clear transitional elements."
+  }
+}

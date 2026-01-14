@@ -1,0 +1,162 @@
+{
+    "article_title": "The Myth of the Frontier Won’t Die",
+    "article_author": "Noah Hawley",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Mythology", "Cultural Analysis", "Society", "Violence", "American Culture"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "I tell you the story of David and Doris Young not because it is remarkable—maybe it used to be, in the 1980s and ’90s, but not anymore. I tell it to you because this figure, the violent outsider driven by extremist views and hate-filled philosophies, is everywhere now. Incel spree- killers and race-war propagators. Young white men radicalized and weaponized. They are the children of the Unabomber, each with his own selfaggrandizing manifesto. They live not in Albany, Pittsburgh, or Spokane, but in the closed information loop of Internet America, a mirror universe that reflects their own grievances back at them."
+      },
+      {
+        "passage_number": 2,
+        "text": "Their actions may seem irrational, but they are the practical application of a political philosophy. A decades-long undertaking to remake America, to reverse what most would call progress—toward equal rights, better schools, curbs on fraud and pollution, everything our society has done to create a safer and more caring nation— and return it to the way it was in the 19th century. A savage frontier where the strong survive and the weak surrender."
+      },
+      {
+        "passage_number": 3,
+        "text": "In a hotel lobby in Big Spring, Texas, my daughter and son watch the police arrest a young man for strangling his girlfriend. She is carried out on a stretcher. It has been 36 hours since Roe v. Wade was overturned."
+      },
+      {
+        "passage_number": 4,
+        "text": "I think about the power of myth often. Though the series poses as “a true story,” each season of Fargo is designed as a modern myth, a tall tale of midwestern crime. On-screen, myths are created not just through story action, but through everything from lens choice to costume. Picture the black suits and skinny ties of Reservoir Dogs. Or the Willy Loman raincoat worn by the criminal mastermind V. M. Varga, the antagonist of Fargo’s third season, a sad disguise he has chosen in order to make himself appear pathetic, easily overlooked in a crowd."
+      },
+      {
+        "passage_number": 5,
+        "text": "No myth has a greater hold over the American imagination than the Myth of the Reluctant Hero. He is John Wayne, Gary Cooper, Clint Eastwood. He is John Wick, Jack Reacher, Captain America. A man who tries to live a peaceful life until the world forces him into violence. He is John Dutton, the noble rancher in the show Yellowstone, who will murder just about anyone to preserve his way of life, to protect his family and his land. The violence is not his choice, you understand. It is thrust upon him by the demon-tongued forces of progress, modernity, and greed. But he is prepared. And in the end, he is capable of far greater brutality than his enemy."
+      }
+    ],
+    "questions": [
+      
+      
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about the author's perspective on the event described in the passage?",
+        "options": {
+          "A": "The author is indifferent to the event",
+          "B": "The author is critical of the legal system",
+          "C": "The author is sympathetic to the victim",
+          "D": "The author is supportive of the police"
+        },
+        "answer": "C",
+        "explanation": "The author's description of the event, particularly the detail of the victim being carried out on a stretcher, suggests sympathy for the victim, making C the correct answer.",
+        "score_improvement_tip": "Look for subtle cues in the author's language to infer their perspective."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best describes the rhetorical effect of the author's reference to 'John Wayne, Gary Cooper, Clint Eastwood'?",
+        "options": {
+          "A": "To emphasize the historical roots of the myth",
+          "B": "To contrast traditional heroes with modern ones",
+          "C": "To illustrate the universality of the myth",
+          "D": "To criticize the portrayal of violence in media"
+        },
+        "answer": "C",
+        "explanation": "The reference to these iconic figures serves to illustrate the enduring and universal nature of the myth of the reluctant hero, making C the correct answer.",
+        "score_improvement_tip": "Consider the broader implications of the author's references and examples."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which detail from the first passage best supports the idea that violent extremists are influenced by their environment?",
+        "options": {
+          "A": "They are the children of the Unabomber",
+          "B": "They live in the closed information loop of Internet America",
+          "C": "They have their own selfaggrandizing manifestos",
+          "D": "They are radicalized and weaponized"
+        },
+        "answer": "B",
+        "explanation": "The detail about living in a 'closed information loop' suggests that their environment plays a significant role in shaping their views, making B the correct answer.",
+        "score_improvement_tip": "Look for evidence that directly supports the main idea or argument."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "How does the author's description of the 'Myth of the Reluctant Hero' in the fifth passage relate to the earlier discussion of violent extremists?",
+        "options": {
+          "A": "It contrasts the motivations of heroes and extremists",
+          "B": "It suggests that both are products of societal myths",
+          "C": "It highlights the difference between fictional and real violence",
+          "D": "It implies that heroes are more justified in their actions"
+        },
+        "answer": "B",
+        "explanation": "The author suggests that both the myth of the reluctant hero and the actions of violent extremists are shaped by societal myths, making B the correct answer.",
+        "score_improvement_tip": "Consider how different parts of the text relate to each other and contribute to the overall argument."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "Which choice best completes the following sentence? 'The author describes a political philosophy that seeks to reverse progress, ______.'",
+        "options": {
+          "A": "and this philosophy is widely accepted",
+          "B": "but this philosophy is rarely implemented",
+          "C": "yet this philosophy is gaining traction",
+          "D": "so this philosophy is often criticized"
+        },
+        "answer": "C",
+        "explanation": "The passage suggests that this philosophy is being actively pursued, making C the correct answer.",
+        "score_improvement_tip": "Pay attention to the logical flow of ideas and choose the transition that best fits the context."
+      },
+      {
+        "question_number": 9,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best maintains the grammatical integrity of the following sentence? 'On-screen, myths are created not just through story action, but through everything from lens choice to costume.'",
+        "options": {
+          "A": "NO CHANGE",
+          "B": "myths are created not just through story action but through everything from lens choice to costume",
+          "C": "myths are created not just through story action, but through everything, from lens choice to costume",
+          "D": "myths are created not just through story action but through everything, from lens choice to costume"
+        },
+        "answer": "A",
+        "explanation": "The original sentence is grammatically correct, with proper use of commas to separate items in a list, making A the correct answer.",
+        "score_improvement_tip": "Ensure that sentences are grammatically correct and that punctuation is used appropriately."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "What can be inferred about the author's view of the 'Myth of the Reluctant Hero'?",
+        "options": {
+          "A": "The author believes it is a positive influence on society",
+          "B": "The author sees it as a dangerous justification for violence",
+          "C": "The author considers it an outdated concept",
+          "D": "The author thinks it is irrelevant to modern culture"
+        },
+        "answer": "B",
+        "explanation": "The author's description of the myth as justifying violence suggests a critical view, making B the correct answer.",
+        "score_improvement_tip": "Look for subtle indications of the author's attitude or perspective in their language and tone."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can infer complex meanings, analyze rhetorical strategies, and make cross-text connections with ease.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may find it challenging to infer subtle meanings or analyze complex text structures."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze rhetorical strategies, or make connections between different parts of the text.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and the author's purpose.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

@@ -1,0 +1,207 @@
+{
+  "article_title": "And They Lived Happily Ever After",
+  "article_author": "Yuval Noah Harari",
+  "article_date": "2011",
+  "article_source": "Sapiens: A Brief History of Humankind",
+  "article_category": "Book",
+  "article_tags": ["History", "Human Development","Happiness"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "What would happen if serious research were to disprove these hypotheses? If economic growth and self-reliance do not make people happier, what’s the benefit of Capitalism? What if it turns out that the subjects of large empires are generally happier than the citizens of independent states and that, for example, Algerians were happier under French rule than under their own? What would that say about the process of decolonisation and the value of national self-determination?"
+    },
+    {
+      "passage_number": 2,
+      "text": "These are all hypothetical possibilities, because so far historians have avoided raising these questions – not to mention answering them. They have researched the history of just about everything politics, society, economics, gender, diseases, sexuality, food, clothing – yet they have seldom stopped to ask how these influence human happiness."
+    },
+    {
+      "passage_number": 3,
+      "text": "Though few have studied the long-term history of happiness, almost every scholar and layperson has some vague preconception about it. In one common view, human capabilities have increased throughout history. Since humans generally use their capabilities to alleviate miseries and fulfil aspirations, it follows that we must be happier than our medieval ancestors, and they must have been happier than Stone Age hunter-gatherers."
+    },
+    {
+      "passage_number": 4,
+      "text": "But this progressive account is unconvincing. As we have seen, new aptitudes, behaviours and skills do not necessarily make for a better life. When humans learned to farm in the Agricultural Revolution, their collective power to shape their environment increased, but the lot of many individual humans grew harsher. Peasants had to work harder than foragers to eke out less varied and nutritious food, and they were far more exposed to disease and exploitation. Similarly, the spread of European empires greatly increased the collective power of humankind, by circulating ideas, technologies and crops, and opening new avenues of commerce. Yet this was hardly good news for millions of Africans, Native Americans and Aboriginal Australians. Given the proven human propensity for misusing power, it seems naïve to believe that the more clout people have, the happier they will be."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the first passage?",
+      "options": {
+        "A": "The benefits of Capitalism are unquestionable.",
+        "B": "Historical research could challenge assumptions about happiness and progress.",
+        "C": "Algerians were happier under French rule.",
+        "D": "National self-determination is the key to happiness."
+      },
+      "answer": "B",
+      "explanation": "The passage explores hypothetical scenarios where historical research might disprove common assumptions about happiness, making B the correct answer.",
+      "score_improvement_tip": "Focus on the overarching theme of the passage rather than specific examples."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What can be inferred about historians' approach to studying happiness?",
+      "options": {
+        "A": "They prioritize studying happiness over other topics.",
+        "B": "They have largely ignored the impact of historical events on happiness.",
+        "C": "They believe happiness is too subjective to study.",
+        "D": "They focus only on economic factors affecting happiness."
+      },
+      "answer": "B",
+      "explanation": "The passage states that historians have avoided raising questions about happiness, implying they have largely ignored its study, making B the correct answer.",
+      "score_improvement_tip": "Look for clues in the text that suggest what is not being done or studied."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "As used in line 3, 'alleviate miseries' most likely means:",
+      "options": {
+        "A": "Increase suffering",
+        "B": "Reduce hardships",
+        "C": "Ignore problems",
+        "D": "Create new challenges"
+      },
+      "answer": "B",
+      "explanation": "The phrase 'alleviate miseries' means to reduce hardships, making B the correct answer.",
+      "score_improvement_tip": "Use context clues to determine the meaning of unfamiliar phrases."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which statement best supports the idea that increased power does not necessarily lead to happiness?",
+      "options": {
+        "A": "Peasants had to work harder than foragers.",
+        "B": "The spread of European empires increased collective power.",
+        "C": "Millions of Africans, Native Americans, and Aboriginal Australians suffered under European rule.",
+        "D": "Humans have a propensity for misusing power."
+      },
+      "answer": "C",
+      "explanation": "The passage highlights the suffering of millions under European rule despite increased collective power, making C the correct answer.",
+      "score_improvement_tip": "Look for evidence that directly supports the main idea of the passage."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "What is the primary purpose of the fourth passage?",
+      "options": {
+        "A": "To argue that progress always leads to greater happiness.",
+        "B": "To challenge the assumption that increased power leads to happiness.",
+        "C": "To explain the benefits of the Agricultural Revolution.",
+        "D": "To describe the spread of European empires."
+      },
+      "answer": "B",
+      "explanation": "The passage critiques the idea that increased power and progress lead to greater happiness, making B the correct answer.",
+      "score_improvement_tip": "Consider the author's main argument or critique when answering purpose-based questions."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Which of the following best synthesizes the ideas in the fourth passage?",
+      "options": {
+        "A": "Increased power and progress often come at the cost of individual happiness.",
+        "B": "The Agricultural Revolution was a net positive for humanity.",
+        "C": "European empires spread happiness to colonized regions.",
+        "D": "Humans are inherently good at using power responsibly."
+      },
+      "answer": "A",
+      "explanation": "The passage argues that increased power and progress often led to harsher conditions for individuals, making A the correct answer.",
+      "score_improvement_tip": "Synthesis questions require combining multiple ideas from the passage to form a coherent conclusion."
+    },
+    {
+      "question_number": 7,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "What would happen if serious research were to disprove these hypotheses?",
+        "B": "What would happen if serious research was to disprove these hypotheses?",
+        "C": "What would happen if serious research disproved these hypotheses?",
+        "D": "What would happen if serious research disproves these hypotheses?"
+      },
+      "answer": "A",
+      "explanation": "Option A correctly uses the subjunctive mood ('were') to express a hypothetical situation.",
+      "score_improvement_tip": "Pay attention to the correct use of verb moods in hypothetical scenarios."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "What can be inferred about the author's view on the progressive account of happiness?",
+      "options": {
+        "A": "The author fully supports the progressive account.",
+        "B": "The author believes the progressive account is incomplete.",
+        "C": "The author rejects the progressive account entirely.",
+        "D": "The author is indifferent to the progressive account."
+      },
+      "answer": "B",
+      "explanation": "The author describes the progressive account as 'unconvincing,' suggesting they find it incomplete or flawed, making B the correct answer.",
+      "score_improvement_tip": "Inference questions often require understanding the author's implied stance."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "How does the fourth passage relate to the third passage?",
+      "options": {
+        "A": "It provides evidence to support the progressive account.",
+        "B": "It critiques the progressive account discussed in the third passage.",
+        "C": "It introduces a new theory about happiness.",
+        "D": "It contrasts the Agricultural Revolution with the Industrial Revolution."
+      },
+      "answer": "B",
+      "explanation": "The fourth passage critiques the progressive account of happiness introduced in the third passage, making B the correct answer.",
+      "score_improvement_tip": "Cross-text connection questions require understanding how different parts of the text relate to each other."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Which transition word best fits at the beginning of the second sentence in the fourth passage?",
+      "options": {
+        "A": "However",
+        "B": "Therefore",
+        "C": "Moreover",
+        "D": "Consequently"
+      },
+      "answer": "A",
+      "explanation": "The second sentence contrasts with the first, making 'However' the most appropriate transition, making A the correct answer.",
+      "score_improvement_tip": "Transition words should logically connect ideas within the text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+  }
+}

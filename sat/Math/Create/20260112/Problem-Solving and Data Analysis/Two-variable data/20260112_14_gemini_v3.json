@@ -1,0 +1,377 @@
+{
+  "test_metadata": {
+    "focus_domains": [
+      "Problem-Solving and Data Analysis"
+    ],
+    "focus_skills": [
+      "Two-variable data: models and scatter-plots"
+    ],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question": "The scatterplot shows the relationship between the time spent studying, <math><mi>x</mi></math>, in hours, and the score on a test, <math><mi>y</mi></math>, for 10 students. What is the test score for the student who studied for 4 hours?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>Hours</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>Score</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>25</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>4</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>50</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>6</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>75</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>8</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>100</text><circle cx='80.0' cy='172.0' r='3' fill='black' /><circle cx='120.0' cy='150.0' r='3' fill='black' /><circle cx='140.0' cy='139.0' r='3' fill='black' /><circle cx='160.0' cy='128.0' r='3' fill='black' /><circle cx='200.0' cy='95.0' r='3' fill='black' /><circle cx='220.0' cy='106.0' r='3' fill='black' /><circle cx='240.0' cy='73.0' r='3' fill='black' /><circle cx='280.0' cy='62.0' r='3' fill='black' /><circle cx='320.0' cy='51.0' r='3' fill='black' /></svg>",
+      "question_chart_description": "Scatterplot with points showing a positive trend. A point is located at x=4, y=75.",
+      "options": {
+        "A": "60",
+        "B": "70",
+        "C": "75",
+        "D": "80"
+      },
+      "answer": "C",
+      "explanation": "Locate <math><mi>x</mi><mo>=</mo><mn>4</mn></math> on the horizontal axis. Move vertically to find the data point. The corresponding value on the vertical axis is 75.",
+      "score_improvement_tip": "When reading a scatterplot, ensure you trace directly from the axis to the exact center of the point."
+    },
+    {
+      "question_number": 2,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question": "The scatterplot shows the relationship between <math><mi>x</mi></math> and <math><mi>y</mi></math>. A line of best fit is also shown. Which of the following is closest to the predicted value of <math><mi>y</mi></math> when <math><mi>x</mi><mo>=</mo><mn>6</mn></math>?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>x</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>y</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>7.5</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>4</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>15</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>6</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>22.5</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>8</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>30</text><circle cx='80.0' cy='172.0' r='3' fill='black' /><circle cx='120.0' cy='157.33333333333331' r='3' fill='black' /><circle cx='160.0' cy='150.0' r='3' fill='black' /><circle cx='200.0' cy='128.0' r='3' fill='black' /><circle cx='240.0' cy='106.0' r='3' fill='black' /><circle cx='320.0' cy='76.66666666666666' r='3' fill='black' /><line x1='40.0' y1='186.66666666666669' x2='360.0' y2='69.33333333333331' stroke='blue' stroke-width='2' /></svg>",
+      "question_chart_description": "Scatterplot with a line of best fit. The line passes through approximately (0, 10) and (5, 20). At x=6, the line is at y=22.",
+      "options": {
+        "A": "18",
+        "B": "22",
+        "C": "26",
+        "D": "30"
+      },
+      "answer": "B",
+      "explanation": "Find <math><mi>x</mi><mo>=</mo><mn>6</mn></math> on the x-axis, move up to the line of best fit, and read the corresponding y-value. The line passes through <math><mi>y</mi><mo>=</mo><mn>22</mn></math> at <math><mi>x</mi><mo>=</mo><mn>6</mn></math>.",
+      "score_improvement_tip": "Use the line of best fit for predictions, not the nearest data point."
+    },
+    {
+      "question_number": 3,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question": "Which of the following best describes the relationship between <math><mi>x</mi></math> and <math><mi>y</mi></math> as shown in the scatterplot?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>x</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>y</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>25</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>4</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>50</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>6</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>75</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>8</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>100</text><circle cx='80.0' cy='62.0' r='3' fill='black' /><circle cx='120.0' cy='73.0' r='3' fill='black' /><circle cx='160.0' cy='95.0' r='3' fill='black' /><circle cx='200.0' cy='106.0' r='3' fill='black' /><circle cx='240.0' cy='128.0' r='3' fill='black' /><circle cx='280.0' cy='139.0' r='3' fill='black' /><circle cx='320.0' cy='161.0' r='3' fill='black' /></svg>",
+      "question_chart_description": "Points trending downwards from left to right.",
+      "options": {
+        "A": "Strong positive linear association",
+        "B": "Weak positive linear association",
+        "C": "Strong negative linear association",
+        "D": "No association"
+      },
+      "answer": "C",
+      "explanation": "As <math><mi>x</mi></math> increases, <math><mi>y</mi></math> decreases consistently and the points are close to forming a straight line, indicating a strong negative linear association.",
+      "score_improvement_tip": "Negative slope means negative association; points clustered tightly means 'strong'."
+    },
+    {
+      "question_number": 4,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question": "A data set contains 10 points. Nine of the points follow a strong positive linear trend, but one point has a much lower <math><mi>y</mi></math>-value than expected for its <math><mi>x</mi></math>-value. Which point is the outlier?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>x</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>y</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2.5</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>5</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>5</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>10</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>7.5</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>15</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>10</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>20</text><circle cx='72.0' cy='238.0' r='3' fill='black' /><circle cx='104.0' cy='216.0' r='3' fill='black' /><circle cx='136.0' cy='194.0' r='3' fill='black' /><circle cx='168.0' cy='172.0' r='3' fill='black' /><circle cx='200.0' cy='150.0' r='3' fill='black' /><circle cx='232.0' cy='128.0' r='3' fill='black' /><circle cx='264.0' cy='249.0' r='3' fill='black' /><circle cx='296.0' cy='84.0' r='3' fill='black' /></svg>",
+      "question_chart_description": "Points following y=2x, except for one point at (7, 1) which is far below the trend.",
+      "options": {
+        "A": "(1, 2)",
+        "B": "(5, 10)",
+        "C": "(7, 1)",
+        "D": "(8, 16)"
+      },
+      "answer": "C",
+      "explanation": "The point <math><mo>(</mo><mn>7</mn><mo>,</mo><mn>1</mn><mo>)</mo></math> is far below the trend line formed by the other points, making it an outlier.",
+      "score_improvement_tip": "Outliers are data points that deviate significantly from the overall pattern of the data."
+    },
+    {
+      "question_number": 5,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question": "The equation <math><mi>y</mi><mo>=</mo><mn>25</mn><mi>x</mi><mo>+</mo><mn>100</mn></math> models the total cost, <math><mi>y</mi></math>, in dollars, to rent a car for <math><mi>x</mi></math> days. What does the number 25 represent in this context?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "The initial fee to rent the car",
+        "B": "The total cost to rent the car",
+        "C": "The cost per day to rent the car",
+        "D": "The number of days the car is rented"
+      },
+      "answer": "C",
+      "explanation": "In the linear equation <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, the slope <math><mi>m</mi></math> represents the rate of change. Here, 25 is the rate of change of cost with respect to days, which is the cost per day.",
+      "score_improvement_tip": "Slope = Rate of Change. Y-intercept = Initial Value."
+    },
+    {
+      "question_number": 6,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question": "The model <math><mi>d</mi><mo>=</mo><mn>50</mn><mo>−</mo><mn>2.5</mn><mi>t</mi></math> estimates the depth of water <math><mi>d</mi></math>, in inches, in a tank <math><mi>t</mi></math> minutes after a drain is opened. What is the best interpretation of 50 in this equation?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "The water level decreases by 50 inches per minute.",
+        "B": "The water level increases by 50 inches per minute.",
+        "C": "The initial depth of the water was 50 inches.",
+        "D": "It takes 50 minutes for the tank to empty."
+      },
+      "answer": "C",
+      "explanation": "The constant term (y-intercept) represents the value of the dependent variable when the independent variable is 0. At <math><mi>t</mi><mo>=</mo><mn>0</mn></math>, <math><mi>d</mi><mo>=</mo><mn>50</mn></math>.",
+      "score_improvement_tip": "Set the variable to 0 to interpret the constant term."
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question": "Which equation best represents the line of best fit shown in the scatterplot?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>x</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>y</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>1.25</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>3</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2.5</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>6</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>3.75</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>9</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>5</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>12</text><line x1='40.0' y1='76.66666666666666' x2='360.0' y2='260.0' stroke='blue' stroke-width='2' /></svg>",
+      "question_chart_description": "A line passing through (0, 10) and (5, 0).",
+      "options": {
+        "A": "<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+        "B": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+        "C": "<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>10</mn></math>",
+        "D": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>10</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "The y-intercept is positive (at 10), so <math><mi>b</mi><mo>=</mo><mn>10</mn></math>. The line goes down from left to right, so the slope is negative. It goes down 2 units for every 1 unit right, so <math><mi>m</mi><mo>=</mo><mo>-</mo><mn>2</mn></math>.",
+      "score_improvement_tip": "Check the sign of the slope and the y-intercept first to eliminate options."
+    },
+    {
+      "question_number": 8,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question": "A scientist uses the model <math><mi>y</mi><mo>=</mo><mn>1.6</mn><mi>x</mi><mo>+</mo><mn>4.2</mn></math> to predict the weight of a plant <math><mi>y</mi></math>, in grams, after <math><mi>x</mi></math> weeks. According to this model, what is the predicted weight, in grams, of the plant after 5 weeks?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": null,
+      "answer": "12.2",
+      "explanation": "Substitute <math><mi>x</mi><mo>=</mo><mn>5</mn></math> into the equation: <math><mi>y</mi><mo>=</mo><mn>1.6</mn><mo>(</mo><mn>5</mn><mo>)</mo><mo>+</mo><mn>4.2</mn><mo>=</mo><mn>8</mn><mo>+</mo><mn>4.2</mn><mo>=</mo><mn>12.2</mn></math>.",
+      "score_improvement_tip": "Carefully substitute the value and perform the arithmetic."
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question": "The line of best fit for a data set is <math><mi>y</mi><mo>=</mo><mn>0.8</mn><mi>x</mi><mo>+</mo><mn>5</mn></math>. For the data point where <math><mi>x</mi><mo>=</mo><mn>10</mn></math>, the actual value of <math><mi>y</mi></math> is 14. What is the residual for this data point?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": null,
+      "answer": "1",
+      "explanation": "Predicted <math><mi>y</mi><mo>=</mo><mn>0.8</mn><mo>(</mo><mn>10</mn><mo>)</mo><mo>+</mo><mn>5</mn><mo>=</mo><mn>8</mn><mo>+</mo><mn>5</mn><mo>=</mo><mn>13</mn></math>. Residual = Actual - Predicted = <math><mn>14</mn><mo>-</mo><mn>13</mn><mo>=</mo><mn>1</mn></math>.",
+      "score_improvement_tip": "Residual = Actual Value - Predicted Value. Remember 'A-P'."
+    },
+    {
+      "question_number": 10,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question": "A population of bacteria doubles every hour. Which type of model best describes the relationship between the number of hours passed and the population of bacteria?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "Linear growth",
+        "B": "Linear decay",
+        "C": "Exponential growth",
+        "D": "Exponential decay"
+      },
+      "answer": "C",
+      "explanation": "Since the population is multiplying by a fixed factor (doubling) over equal time intervals, it represents exponential growth.",
+      "score_improvement_tip": "Constant rate of change (adding) = Linear. Constant percent rate/factor (multiplying) = Exponential."
+    },
+    {
+      "question_number": 11,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "The value of a car is modeled by the equation <math><mi>V</mi><mo>=</mo><mn>25000</mn><msup><mrow><mo>(</mo><mn>0.85</mn><mo>)</mo></mrow><mi>t</mi></msup></math>, where <math><mi>t</mi></math> is the number of years since it was purchased. Which statement best describes the value of the car?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "The value decreases by $0.85 each year.",
+        "B": "The value decreases by 85% each year.",
+        "C": "The value decreases by 15% each year.",
+        "D": "The value is $25,000 after 0.85 years."
+      },
+      "answer": "C",
+      "explanation": "The base of the exponent is 0.85, which is <math><mn>1</mn><mo>-</mo><mn>0.15</mn></math>. This represents a decay rate of 0.15, or 15%.",
+      "score_improvement_tip": "In <math><mi>y</mi><mo>=</mo><mi>a</mi><msup><mrow><mo>(</mo><mn>1</mn><mo>±</mo><mi>r</mi><mo>)</mo></mrow><mi>t</mi></msup></math>, <math><mi>r</mi></math> is the percent rate of change."
+    },
+    {
+      "question_number": 12,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "Two distinct lines, <math><mi>l</mi></math> and <math><mi>k</mi></math>, are shown in a scatterplot. Line <math><mi>l</mi></math> has a slope of 2 and line <math><mi>k</mi></math> has a slope of 4. Which of the following statements must be true?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "Line k is steeper than line l.",
+        "B": "Line l is steeper than line k.",
+        "C": "Line k has a greater y-intercept than line l.",
+        "D": "For every 1 unit increase in x, y increases more for line l than for line k."
+      },
+      "answer": "A",
+      "explanation": "The absolute value of the slope determines steepness. Since <math><mo>|</mo><mn>4</mn><mo>|</mo><mo>></mo><mo>|</mo><mn>2</mn><mo>|</mo></math>, line <math><mi>k</mi></math> is steeper.",
+      "score_improvement_tip": "Higher absolute slope means a steeper line."
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "A scatterplot has a line of best fit with a positive slope. One data point has an x-value much larger than the others and a y-value much lower than predicted by the line. If this point is removed, how will the slope of the new line of best fit compare to the original?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "The slope will increase.",
+        "B": "The slope will decrease.",
+        "C": "The slope will remain the same.",
+        "D": "The slope will become negative."
+      },
+      "answer": "A",
+      "explanation": "The outlier is pulling the right side of the line down (low y for high x). Removing it allows the line to rise up to fit the main cluster better, increasing the slope.",
+      "score_improvement_tip": "Visualize the line 'snapping' back when the outlier anchor is cut."
+    },
+    {
+      "question_number": 14,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "Which equation is the most appropriate model for the data shown in the scatterplot?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='40' y1='260.0' x2='360' y2='260.0' stroke='black' stroke-width='2' /><line x1='40.0' y1='40' x2='40.0' y2='260' stroke='black' stroke-width='2' /><text x='360' y='280.0' font-family='Arial' font-size='12' text-anchor='middle'>x</text><text x='40.0' y='30' font-family='Arial' font-size='12' text-anchor='middle'>y</text><line x1='40.0' y1='260.0' x2='40.0' y2='265.0' stroke='black' /><text x='40.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>0</text><line x1='40.0' y1='260.0' x2='35.0' y2='260.0' stroke='black' /><line x1='120.0' y1='260.0' x2='120.0' y2='265.0' stroke='black' /><text x='120.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>1.25</text><line x1='40.0' y1='205.0' x2='35.0' y2='205.0' stroke='black' /><text x='30.0' y='209.0' font-family='Arial' font-size='10' text-anchor='end'>8.75</text><line x1='200.0' y1='260.0' x2='200.0' y2='265.0' stroke='black' /><text x='200.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>2.5</text><line x1='40.0' y1='150.0' x2='35.0' y2='150.0' stroke='black' /><text x='30.0' y='154.0' font-family='Arial' font-size='10' text-anchor='end'>17.5</text><line x1='280.0' y1='260.0' x2='280.0' y2='265.0' stroke='black' /><text x='280.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>3.75</text><line x1='40.0' y1='95.0' x2='35.0' y2='95.0' stroke='black' /><text x='30.0' y='99.0' font-family='Arial' font-size='10' text-anchor='end'>26.25</text><line x1='360.0' y1='260.0' x2='360.0' y2='265.0' stroke='black' /><text x='360.0' y='275.0' font-family='Arial' font-size='10' text-anchor='middle'>5</text><line x1='40.0' y1='40.0' x2='35.0' y2='40.0' stroke='black' /><text x='30.0' y='44.0' font-family='Arial' font-size='10' text-anchor='end'>35</text><circle cx='40.0' cy='247.42857142857142' r='3' fill='black' /><circle cx='104.0' cy='234.85714285714286' r='3' fill='black' /><circle cx='168.0' cy='209.71428571428572' r='3' fill='black' /><circle cx='232.0' cy='159.42857142857144' r='3' fill='black' /><circle cx='296.0' cy='71.42857142857144' r='3' fill='black' /></svg>",
+      "question_chart_description": "Points showing a curve that starts low and increases rapidly.",
+      "options": {
+        "A": "<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
+        "B": "<math><mi>y</mi><mo>=</mo><mn>2</mn><msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mi>x</mi></msup></math>",
+        "C": "<math><mi>y</mi><mo>=</mo><mn>2</mn><msup><mrow><mo>(</mo><mn>0.5</mn><mo>)</mo></mrow><mi>x</mi></msup></math>",
+        "D": "<math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "The data starts at (0,2) and approximately doubles for every unit increase in x (1,4), (2,8). This indicates exponential growth with base 2 and initial value 2.",
+      "score_improvement_tip": "Check the y-intercept (x=0) and the ratio between consecutive y-values."
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "Company A's revenue is modeled by <math><mi>A</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>1000</mn><mi>t</mi><mo>+</mo><mn>5000</mn></math>. Company B's revenue is modeled by <math><mi>B</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>2000</mn><mi>t</mi><mo>−</mo><mn>1000</mn></math>. For what value of <math><mi>t</mi></math> will the companies have the same revenue?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "10"
+      },
+      "answer": "C",
+      "explanation": "Set <math><mn>1000</mn><mi>t</mi><mo>+</mo><mn>5000</mn><mo>=</mo><mn>2000</mn><mi>t</mi><mo>−</mo><mn>1000</mn></math>. Solving for t: <math><mn>6000</mn><mo>=</mo><mn>1000</mn><mi>t</mi></math>, so <math><mi>t</mi><mo>=</mo><mn>6</mn></math>.",
+      "score_improvement_tip": "Equate the two expressions and solve for the variable."
+    },
+    {
+      "question_number": 16,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question": "A model estimates that the number of visitors <math><mi>v</mi></math> to a park is <math><mi>v</mi><mo>=</mo><mn>12.5</mn><mi>T</mi><mo>−</mo><mn>250</mn></math>, where <math><mi>T</mi></math> is the temperature in degrees Fahrenheit. If there were 500 visitors, what was the estimated temperature?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": null,
+      "answer": "60",
+      "explanation": "Set <math><mi>v</mi><mo>=</mo><mn>500</mn></math> and solve for <math><mi>T</mi></math>: <math><mn>500</mn><mo>=</mo><mn>12.5</mn><mi>T</mi><mo>−</mo><mn>250</mn></math>. <math><mn>750</mn><mo>=</mo><mn>12.5</mn><mi>T</mi></math>. <math><mi>T</mi><mo>=</mo><mn>750</mn><mo>/</mo><mn>12.5</mn><mo>=</mo><mn>60</mn></math>.",
+      "score_improvement_tip": "Rearrange the equation carefully to solve for the independent variable."
+    },
+    {
+      "question_number": 17,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question": "The number of users on a website increases by 20% every month. If there are initially 1000 users, how many users are predicted to be there after 3 months?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": null,
+      "answer": "1728",
+      "explanation": "Model: <math><mi>y</mi><mo>=</mo><mn>1000</mn><msup><mrow><mo>(</mo><mn>1.20</mn><mo>)</mo></mrow><mn>3</mn></msup></math>. <math><mn>1.2</mn><mo>×</mo><mn>1.2</mn><mo>×</mo><mn>1.2</mn><mo>=</mo><mn>1.728</mn></math>. <math><mn>1000</mn><mo>×</mo><mn>1.728</mn><mo>=</mo><mn>1728</mn></math>.",
+      "score_improvement_tip": "Remember that increasing by 20% means multiplying by 1.20."
+    },
+    {
+      "question_number": 18,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question": "A linear model passes through the points (2, 10) and (6, 22). If the equation is written as <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, what is the value of <math><mi>b</mi></math>?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": null,
+      "answer": "4",
+      "explanation": "Find slope <math><mi>m</mi><mo>=</mo><mfrac><mrow><mn>22</mn><mo>-</mo><mn>10</mn></mrow><mrow><mn>6</mn><mo>-</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>4</mn></mfrac><mo>=</mo><mn>3</mn></math>. Use <math><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mi>b</mi></math> and point (2,10): <math><mn>10</mn><mo>=</mo><mn>3</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>+</mo><mi>b</mi></math> => <math><mn>10</mn><mo>=</mo><mn>6</mn><mo>+</mo><mi>b</mi></math> => <math><mi>b</mi><mo>=</mo><mn>4</mn></math>.",
+      "score_improvement_tip": "First find the slope, then substitute one point to find the y-intercept."
+    },
+    {
+      "question_number": 19,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "A data set shows that for every 1 unit increase in <math><mi>x</mi></math>, the value of <math><mi>y</mi></math> increases by approximately 5. A second data set shows that for every 1 unit increase in <math><mi>x</mi></math>, the first differences of <math><mi>y</mi></math> are increasing. Which models are most appropriate for the two data sets respectively?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "Linear, Linear",
+        "B": "Linear, Quadratic",
+        "C": "Exponential, Linear",
+        "D": "Quadratic, Exponential"
+      },
+      "answer": "B",
+      "explanation": "Constant first differences imply a Linear model. Increasing first differences (specifically constant second differences) imply a Quadratic model (or exponential if ratio is constant, but increasing differences usually suggests curvature like quadratic).",
+      "score_improvement_tip": "Constant change = Linear. Changing rate of change = Non-linear."
+    },
+    {
+      "question_number": 20,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question": "A scatterplot shows a strong positive linear relationship between the number of hours spent training and marathon completion speed (in km/h). Which of the following is a valid conclusion?",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "options": {
+        "A": "Training causes faster speeds.",
+        "B": "There is a correlation between training and speed.",
+        "C": "Everyone who trains more runs faster.",
+        "D": "Training has no effect on speed."
+      },
+      "answer": "B",
+      "explanation": "Correlation does not imply causation. We can conclude there is a relationship (correlation), but not definitely that one causes the other without an experiment, nor that it applies to 'everyone' (outliers exist).",
+      "score_improvement_tip": "Avoid 'causation' language for observational data; stick to 'association' or 'correlation'."
+    }
+  ]
+}

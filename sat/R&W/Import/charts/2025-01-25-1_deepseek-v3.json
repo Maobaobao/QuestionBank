@@ -1,0 +1,189 @@
+{
+  "article_title": "How the Profiles Affect Performance",
+  "article_author": "Matthew Dixon",
+  "article_date": "November-December, 2023",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Business",
+  "article_tags": ["Performance", "Revenue", "Skills"],
+  "passage_list": [
+    {
+      "text": "This chart illustrates the effect on revenue when the average-performing partner leans harder into a particular profile. Moving from a weak to a strong demonstration of Activator skills results in a revenue-generation increase of up to 32%. The opposite is true for the other approaches, all of which are negatively correlated with performance. For example, a shift from weak to strong in the Expert profile results in a drop in revenue generation of up to 15%."
+    },
+    {
+      "Chart": 1,
+      "title": "Performance impact (revenue generation)",
+      "description": "The chart shows the impact on revenue generation based on the strength of different profiles, such as Activator and Expert."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "The importance of teamwork in revenue generation",
+        "B": "The impact of different skill profiles on revenue generation",
+        "C": "The history of revenue generation in businesses",
+        "D": "The role of technology in improving performance"
+      },
+      "answer": "B",
+      "explanation": "The passage discusses how different skill profiles, such as Activator and Expert, impact revenue generation.",
+      "score_improvement_tip": "Focus on the central theme of the passage, which is the effect of skill profiles on performance."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "question": "According to the chart, what is the revenue increase when moving from weak to strong Activator skills?",
+      "options": {
+        "A": "15%",
+        "B": "20%",
+        "C": "25%",
+        "D": "32%"
+      },
+      "answer": "D",
+      "explanation": "The chart indicates that moving from weak to strong Activator skills results in a revenue-generation increase of up to 32%.",
+      "score_improvement_tip": "Refer to the chart for specific data points to answer quantitative questions accurately."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "question": "As used in the passage, what does 'negatively correlated' most likely mean?",
+      "options": {
+        "A": "Positively related",
+        "B": "Inversely related",
+        "C": "Not related",
+        "D": "Strongly related"
+      },
+      "answer": "B",
+      "explanation": "The term 'negatively correlated' means that as one variable increases, the other decreases, indicating an inverse relationship.",
+      "score_improvement_tip": "Use context clues to infer the meaning of technical or specialized terms."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "question": "Based on the passage, what can be inferred about the Expert profile?",
+      "options": {
+        "A": "It is the most effective profile for revenue generation.",
+        "B": "It has a positive impact on performance.",
+        "C": "It is less effective for revenue generation compared to the Activator profile.",
+        "D": "It is unrelated to performance metrics."
+      },
+      "answer": "C",
+      "explanation": "The passage states that a shift from weak to strong in the Expert profile results in a drop in revenue generation, indicating it is less effective compared to the Activator profile.",
+      "score_improvement_tip": "Make inferences based on the comparative data provided in the passage."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "question": "What is the primary purpose of the chart?",
+      "options": {
+        "A": "To compare different business strategies",
+        "B": "To illustrate the impact of skill profiles on revenue generation",
+        "C": "To show the history of revenue generation",
+        "D": "To predict future revenue trends"
+      },
+      "answer": "B",
+      "explanation": "The chart is designed to show how different skill profiles, such as Activator and Expert, affect revenue generation.",
+      "score_improvement_tip": "Identify the main purpose of visual data by analyzing its content and context."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "question": "Which of the following best summarizes the relationship between profile strength and revenue generation as depicted in the chart?",
+      "options": {
+        "A": "Stronger profiles always lead to higher revenue.",
+        "B": "The Activator profile is the only one that positively impacts revenue.",
+        "C": "Profile strength has varying impacts on revenue depending on the profile type.",
+        "D": "Revenue generation is unaffected by profile strength."
+      },
+      "answer": "C",
+      "explanation": "The chart shows that while the Activator profile positively impacts revenue, other profiles like the Expert have a negative impact, indicating varying effects.",
+      "score_improvement_tip": "Synthesize information from both the text and the chart to draw conclusions."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "question": "Which evidence from the passage supports the idea that not all profiles positively impact revenue?",
+      "options": {
+        "A": "Moving from weak to strong in the Expert profile results in a drop in revenue generation.",
+        "B": "The Activator profile increases revenue by up to 32%.",
+        "C": "The chart illustrates the effect on revenue.",
+        "D": "All approaches are negatively correlated with performance."
+      },
+      "answer": "A",
+      "explanation": "The passage explicitly states that a shift from weak to strong in the Expert profile results in a drop in revenue generation, supporting the idea that not all profiles positively impact revenue.",
+      "score_improvement_tip": "Look for direct textual evidence that supports the main ideas."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "question": "How does the information in the chart complement the information in the passage?",
+      "options": {
+        "A": "The chart provides historical data, while the passage discusses future trends.",
+        "B": "The chart visually represents the data discussed in the passage.",
+        "C": "The chart contradicts the information in the passage.",
+        "D": "The chart introduces new profiles not mentioned in the passage."
+      },
+      "answer": "B",
+      "explanation": "The chart visually represents the impact of different profiles on revenue generation, which is discussed in the passage.",
+      "score_improvement_tip": "Connect visual data with textual information to understand how they complement each other."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Easy",
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Moving from weak to strong in the Activator skills results in a revenue-generation increase of up to 32%.",
+        "B": "Moving from weak to strong in the Activator skills result in a revenue-generation increase of up to 32%.",
+        "C": "Moving from weak to strong in the Activator skills resulting in a revenue-generation increase of up to 32%.",
+        "D": "Moving from weak to strong in the Activator skills resulted in a revenue-generation increase of up to 32%."
+      },
+      "answer": "A",
+      "explanation": "Option A is grammatically correct, with proper subject-verb agreement and tense usage.",
+      "score_improvement_tip": "Ensure subject-verb agreement and proper tense usage in sentences."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "question": "Which transition word or phrase best fits at the beginning of the following sentence? '______, the Expert profile shows a decrease in revenue generation when moving from weak to strong.'",
+      "options": {
+        "A": "However",
+        "B": "For example",
+        "C": "In contrast",
+        "D": "As a result"
+      },
+      "answer": "C",
+      "explanation": "The sentence contrasts the performance of the Expert profile with the Activator profile, making 'In contrast' the most appropriate transition.",
+      "score_improvement_tip": "Choose transition words that logically connect contrasting ideas."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and visual data, making nuanced inferences.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text and visual data."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages and visual data.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, supporting details, and grammatical correctness.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and grammatical correctness."
+  }
+}

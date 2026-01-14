@@ -1,0 +1,212 @@
+{
+  "article_title": "Getting Big Things Done",
+  "article_author": "Toby Lester",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": [
+    "Politics",
+    "Social Science",
+    "Civic Action",
+    "Problem-Solving"
+  ],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Reader, more than a quarter of a century has passed, and we still don’t have that bike path. Three new books help explain why that is—and why, so often in the United States, even when we have the political will, resources, and know-how, we just don’t seem to be able to get things done. High-speed rail? A transformed energy infrastructure? Affordable housing? We’ve been talking about those goals for decades. In the past century we managed to electrify rural America, create Social Security and Medicare, and construct the interstate highway system, each in less time than my town has spent trying to get its little bike path built. So where did we go wrong?"
+    },
+    {
+      "passage_number": 2,
+      "text": "Marc Dunkelman, a fellow at Brown University and the author of the eye-opening Why Nothing Works, argues that progressives— a group he identifies with— deserve much, though not all, of the blame. He points to a paradox at the heart of the movement: Progressives want to pull power up and concentrate it in a person or an agency that can solve problems from the top down (to respond to, say, climate change), but they also want to push power down to the people (to ensure that no central authority can, for example, tell women what they’re allowed to do with their bodies).<br><br>These competing approaches to governing have been the yin and yang of the American project since the days of Alexander Hamilton (who believed in centralized power) and Thomas Jefferson (who wanted to keep it in check). In the first half of the 20th century, the Hamiltonian impulse was ascendant, but in the second half the balance shifted toward the Jeffersonian, Dunkelman writes, after reformers began to realize that the establishment was responsible for such abuses of power as “‘slum clearance,’ the country’s disastrous reliance on foreign oil, the glut of pollution, and…rampant corruption.” In response, progressives instituted checks on government designed to give a greater say and more agency to the people, but in doing so they created a “vetocracy” that allows almost anybody to raise objections to and stall projects. And now we’re hamstrung: Many of the reforms introduced to keep public officials from doing bad are preventing them from doing good. Solving that problem, Dunkelman concludes, will require a change of mindset: “In a phrase, it will mean giving communities a voice but not a veto.”"
+    },
+    {
+      "passage_number": 3,
+      "text": "Yoni Appelbaum, a deputy executive editor at The Atlantic, comes to a related conclusion in his engagingly written Stuck. The secret to American success, he writes, has long been mobility, which has “produced an unprecedented degree of social fluidity.” Today, however, mobility in the United States is in steep decline: An alarming number of people simply can’t afford to relocate in search of better lives. They’re stuck—geographically, socially, professionally, and economically.<br><br>What changed? According to Appelbaum, much of the problem can be traced to the tangle of building codes, restrictive covenants, and zoning ordinances that reformers (again, mainly progressives) have implemented over the past several decades, ostensibly to push power down to the people. Whether enacted in good faith or designed with exclusionary intent, those policies have led to vetocracy. As Appelbaum puts it, “Almost all new construction in the United States now requires government approval, and anyone with sufficient time and resources and education can effectively veto that approval, or at least impose great expense and delay. The result is that, in the very places that need it most desperately, housing has become prohibitively difficult to build.”"
+    },
+    {
+      "passage_number": 4,
+      "text": "Because of this, Appelbaum argues, it’s not right to say that we have an affordable-housing shortage today. There are many places, especially in red states, where existing stock is plentiful and new construction is relatively cheap. But those locations aren’t where the jobs are, which has led to a terrible irony. “The places that today offer the greatest opportunities have grown exclusionary,” Appelbaum writes. “Progressive communities…which pride themselves on their openness and tolerance and diversity and commitment to social justice, are the worst offenders.”<br><br>Appelbaum offers many thoughts about how to address this problem, but ultimately his prescription is simple: We need to significantly relax and simplify our building codes and zoning restrictions so that construction projects can move forward according to a clear set of rules and without special permissions or time-consuming reviews—much as the Japanese have managed to do in Tokyo. And once we’ve done that, he writes, it will be time “to build such an abundant supply of housing that it reverts to being a consumer good and not an investment asset.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "The author's primary purpose in the first paragraph is to:",
+      "options": {
+        "A": "Criticize local governments for their slow pace on infrastructure projects.",
+        "B": "Highlight a national inability to complete large-scale projects despite having the necessary components.",
+        "C": "Compare the slow progress on a bike path to the quick construction of the interstate highway system.",
+        "D": "Argue that political will and resources are not sufficient for progress."
+      },
+      "answer": "B",
+      "explanation": "The author uses the bike path as a small-scale example to introduce a broader issue: the national inability to get major projects done. The paragraph mentions several large-scale goals and contrasts them with past successes, all to support the central point that something is wrong with how the US gets things done. Option A is too narrow, while C and D are supporting details or implications, not the main purpose.",
+      "score_improvement_tip": "Focus on the main argument or overall point the author is making. Details and examples, like the bike path, are there to support this central idea. Ask yourself, 'What's the big picture here?'"
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the second paragraph, the word 'ascendant' most nearly means:",
+      "options": {
+        "A": "rising in power or influence",
+        "B": "moving upward",
+        "C": "in decline",
+        "D": "a historical position"
+      },
+      "answer": "A",
+      "explanation": "In the context of 'the Hamiltonian impulse was ascendant,' the word refers to the increasing influence and dominance of the idea of centralized power. The paragraph then notes that 'the balance shifted' in the second half of the century, implying a change from that dominant position. Options B, C, and D do not fit this context of political philosophy and influence.",
+      "score_improvement_tip": "When a vocabulary question asks for the meaning of a word in context, read the sentence and the sentences around it. The surrounding words will give you clues to the word's meaning. In this case, the shift in the 'balance' is a key clue."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which choice provides the best evidence for the claim that 'vetocracy' was an unintended consequence of reforms meant to empower citizens?",
+      "options": {
+        "A": "“He points to a paradox at the heart of the movement: Progressives want to pull power up and concentrate it in a person or an agency that can solve problems from the top down...”",
+        "B": "“...in the second half the balance shifted toward the Jeffersonian, Dunkelman writes, after reformers began to realize that the establishment was responsible for such abuses of power...”",
+        "C": "“In response, progressives instituted checks on government designed to give a greater say and more agency to the people, but in doing so they created a 'vetocracy' that allows almost anybody to raise objections to and stall projects.”",
+        "D": "“Many of the reforms introduced to keep public officials from doing bad are preventing them from doing good.”"
+      },
+      "answer": "C",
+      "explanation": "This choice explicitly states the cause-and-effect relationship described in the question. It shows that the 'checks on government designed to give a greater say and more agency to the people' (the intent) resulted in the creation of a 'vetocracy' (the unintended consequence). Options A, B, and D provide background or related points but do not directly connect the reformers' intent with the negative outcome.",
+      "score_improvement_tip": "For Command of Evidence questions, look for the most direct and specific statement that proves the claim. The correct answer will often contain key phrases or ideas from the question itself, showing the exact relationship between the claim and the evidence."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Based on the passages, which of the following best describes the shared central idea of Marc Dunkelman's and Yoni Appelbaum's arguments?",
+      "options": {
+        "A": "Both authors believe that progressives are the primary reason for a lack of mobility in the United States.",
+        "B": "Both authors argue that the inability to get things done stems from a 'vetocracy' created by well-intentioned reforms.",
+        "C": "Both authors suggest that the solution is to increase government authority to overcome local opposition.",
+        "D": "Both authors conclude that a lack of political will is the main cause of stalled projects."
+      },
+      "answer": "B",
+      "explanation": "Both Dunkelman (in the second paragraph) and Appelbaum (in the third paragraph) trace the current inability to complete projects back to a 'vetocracy.' They both argue that this system, which gives too many people the power to object and stall projects, arose from reforms (often pushed by progressives) that were originally meant to empower communities and prevent abuses of power. This shared idea is the core of their arguments. Option A is too specific, as Appelbaum connects it to mobility, not a general lack of progress. Options C and D misrepresent the authors' conclusions; they point to reforms and mindsets, not a lack of will or an outright call for more centralized authority.",
+      "score_improvement_tip": "When you're asked to find a connection between two passages, identify the key argument of each and look for the overlapping concept. Don't be sidetracked by differences in the specific examples or topics they use (bike paths vs. housing); focus on the underlying theory."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which of the following transitions, if placed at the beginning of the fourth paragraph, would best link the idea of a 'tangle of building codes' with the following sentence, 'The result is that, in the very places that need it most desperately, housing has become prohibitively difficult to build.'?",
+      "options": {
+        "A": "However,",
+        "B": "In other words,",
+        "C": "Consequently,",
+        "D": "By contrast,"
+      },
+      "answer": "C",
+      "explanation": "The sentence 'The result is that...' indicates a cause-and-effect relationship. The 'tangle of building codes' is the cause, and housing becoming 'prohibitively difficult to build' is the effect. 'Consequently' is the best transition word to show this causal link. 'However' and 'By contrast' show opposition, and 'In other words' indicates a restatement, none of which fit the logical flow of the sentence.",
+      "score_improvement_tip": "Pay close attention to the relationship between the two ideas a transition is connecting. Is it a cause-and-effect, a contrast, a restatement, or an addition? Choosing the right transition word or phrase is essential for clear writing."
+    },
+    {
+      "question_number": 6,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which of the following is the most logical and effective way to combine the two sentences highlighted: 'The secret to American success, he writes, has long been mobility, which has “produced an unprecedented degree of social fluidity.” Today, however, mobility in the United States is in steep decline...'?",
+      "options": {
+        "A": "Although the secret to American success has long been mobility, which has produced an unprecedented degree of social fluidity, today, however, mobility in the United States is in steep decline.",
+        "B": "The secret to American success has long been mobility, which has produced an unprecedented degree of social fluidity, but today mobility in the United States is in steep decline.",
+        "C": "While the secret to American success has long been mobility, which has produced an unprecedented degree of social fluidity, mobility in the United States today, however, is in steep decline.",
+        "D": "The secret to American success has long been mobility, which has produced an unprecedented degree of social fluidity; today, however, mobility in the United States is in steep decline."
+      },
+      "answer": "D",
+      "explanation": "The two sentences are independent clauses that are closely related in thought, with the second sentence providing a contrast to the first. Using a semicolon followed by a transitional adverb like 'however' is a correct and effective way to join two independent clauses. This creates a concise and grammatically sound sentence structure. Options A, B, and C are either grammatically incorrect (Option A and C use 'however' redundantly after 'Although' or 'While') or less effective (Option B's comma-and-conjunction structure, while grammatically sound, is less elegant for showing a significant contrast between two related but complete ideas).",
+      "score_improvement_tip": "To master sentence structure, learn the rules for combining independent clauses. A semicolon is used to connect two independent clauses, often with a transitional word like 'however,' 'therefore,' or 'consequently.' This is a common test of your knowledge of punctuation and sentence combining."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Based on the fourth paragraph, the author's reference to 'red states' and 'progressive communities' serves to suggest that:",
+      "options": {
+        "A": "political affiliation is the sole determinant of housing affordability.",
+        "B": "red states are more effective at building affordable housing than progressive communities.",
+        "C": "ideological labels are not always consistent with real-world outcomes.",
+        "D": "housing shortages are a problem exclusive to progressive-leaning areas."
+      },
+      "answer": "C",
+      "explanation": "The author points out a 'terrible irony'—that progressive communities, which 'pride themselves on their openness and tolerance,' are 'the worst offenders' in making housing exclusionary. The comparison to 'red states,' where housing is plentiful, demonstrates that political identity doesn't align with the expected outcomes of those ideologies. This suggests that the problem transcends simple political labels and is rooted in a shared, systemic issue. Therefore, option C is the most accurate inference.",
+      "score_improvement_tip": "Inference questions require you to go beyond what is explicitly stated in the text. Look for clues, contrasts, or ironic statements that suggest a deeper meaning or conclusion. The author's use of 'terrible irony' is a clear signal that he wants you to think critically about the implications of the information provided."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The author's concluding statement, 'build such an abundant supply of housing that it reverts to being a consumer good and not an investment asset,' serves what primary rhetorical purpose?",
+      "options": {
+        "A": "To offer a simplistic solution that overlooks the complexities of real estate markets.",
+        "B": "To argue for a fundamental shift in the economic purpose and perception of housing.",
+        "C": "To suggest that all housing should be treated as a consumable item with no lasting value.",
+        "D": "To critique the current investment habits of homeowners and real estate developers."
+      },
+      "answer": "B",
+      "explanation": "The author uses a clear contrast between 'consumer good' and 'investment asset' to advocate for a complete change in how society views and manages housing. This is not a simplistic solution but a fundamental shift in mindset and policy. The phrase 'reverts to' suggests a return to a prior state where housing was more of a necessity than a financial tool. The purpose is to frame the solution in terms of a profound re-evaluation of housing's role in society. Options A, C, and D misinterpret this powerful rhetorical statement.",
+      "score_improvement_tip": "When asked about rhetorical purpose, analyze the author's choice of words, metaphors, and comparisons. What is the effect of the language? How does it serve the author's overall argument? In this case, the 'consumer good vs. investment asset' framework is a powerful rhetorical device."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "In the second paragraph, the author's comparison of centralized power to Alexander Hamilton and decentralized power to Thomas Jefferson primarily serves to:",
+      "options": {
+        "A": "illustrate that the current political stalemate is a recent development.",
+        "B": "provide a historical precedent for a paradox within the progressive movement.",
+        "C": "argue that the ideas of Hamilton and Jefferson are the root cause of vetocracy.",
+        "D": "demonstrate that progressives are more aligned with Jeffersonian ideals."
+      },
+      "answer": "B",
+      "explanation": "The passage introduces a 'paradox' in the progressive movement and then immediately uses the Hamilton/Jefferson comparison to show that this is not a new issue. The comparison provides a historical framework for the competing impulses of 'pulling power up' and 'pushing power down,' suggesting that this tension has existed since the founding of the US. This analogy helps the reader understand that the internal conflict within the progressive movement is a modern manifestation of a long-standing American political dynamic. Therefore, it provides a historical precedent for the contemporary paradox. Option C is too strong a claim, and A and D are inaccurate interpretations of the text.",
+      "score_improvement_tip": "When an author uses a historical or literary allusion, think about its function. It's often used to provide context, add weight to an argument, or create a parallel between a historical event and a current one. The key is to understand how the comparison illuminates the author's main point."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Which statement best synthesizes the arguments of both Dunkelman and Appelbaum presented in the passages?",
+      "options": {
+        "A": "Both authors attribute the failure to complete large-scale projects to a lack of funding and political support.",
+        "B": "Both authors conclude that historical shifts in political power have led to a system that unintentionally blocks necessary reforms.",
+        "C": "Both authors argue that a single, centralized authority is needed to overcome the current political and social gridlock.",
+        "D": "Both authors believe that the problem of 'vetocracy' is a new phenomenon resulting from recent progressive policies."
+      },
+      "answer": "B",
+      "explanation": "This option most accurately synthesizes the core arguments. Dunkelman describes a historical shift from the Hamiltonian to the Jeffersonian impulse, which created a 'vetocracy.' Appelbaum, while focusing on a specific issue (housing), also traces the problem to zoning laws and codes implemented by reformers that led to the same 'vetocracy.' Both authors see the current problem as the unintended result of a historical shift in how power is balanced in American governance. Options A and C misrepresent the authors' conclusions, while D incorrectly identifies the problem as 'new,' when both authors trace it back to a historical dynamic.",
+      "score_improvement_tip": "Synthesis questions, which are often the hardest on the SAT, require you to combine and analyze information from multiple parts of a text. Read each answer option and check it against the details of the passages. The correct answer will be a comprehensive statement that accurately reflects the main points of both authors' arguments, not just one or a small detail."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately identify the nuanced relationships between ideas across passages, understand complex rhetorical purposes, and make subtle inferences. They show a strong command of Standard English conventions, particularly in complex sentence structures.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can correctly identify central ideas and details and understand vocabulary in context but may have difficulty with questions that require cross-text connections, a deep understanding of rhetorical strategy, or the synthesis of complex arguments. They generally handle straightforward conventions questions but might struggle with more complex sentence revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, synthesize arguments across different passages, or analyze complex rhetorical strategies. These questions go beyond simple comprehension to assess a student's ability to think critically about the text.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, locating specific evidence, and analyzing the function of transitions. They require a solid grasp of the passage's content and structure.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text. They often focus on the author's main purpose or the straightforward definition of a word in a given context."
+  }
+}

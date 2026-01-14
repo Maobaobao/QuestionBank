@@ -1,0 +1,231 @@
+{
+    "article_title": "How Far Does Wildlife Roam? Ask the 'Internet of Animals'",
+    "article_author": "Sonia Shah",
+    "article_date": "2022",
+    "article_source": "The New York Times Magazine",
+    "article_category": "Essay",
+    "article_tags": ["Wildlife", "Ecology", "Technology", "Animal Behavior"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The ICARUS project challenges traditional paradigms whose tentacles run deep into science, politics, and culture. It isn’t just that scientists were long unable to observe complex and long-distance wildlife movements, the way they had been unable to observe, say, the passage of DNA from parent to child. The scientific establishment presumed that what they couldn’t see didn’t exist. The absence of evidence of wild mobility, in other words, was taken as evidence of absence."
+      },
+      {
+        "passage_number": 2,
+        "text": "This wasn’t a marginal notion with glancing significance. It was central to the way scientists, for decades, understood ecological processes, from climate change to how ecosystems established themselves and how diseases unfolded. When scientists predicted the impact of climate change, for example, many pictured immobile wild species marooned in newly inhospitable habitats, condemning them to extinction. When they considered the dispersal of seeds, which dictates the diversity and abundance of the plants that serve as the scaffolding of ecosystems, they dismissed the possibility that certain animals on the move played a role."
+      },
+      {
+        "passage_number": 3,
+        "text": "Wild creatures like orchid bees, for example, could not possibly pollinate plants across long distances, scientists presumed, because they could not tolerate the heat stress of flying under direct sunlight; fruit-eating guácharos, or oilbirds, couldn’t disperse seeds in the Venezuelan rainforest, because scientists thought the birds perched in their caves all day. The nineteenth-century naturalist Alexander von Humboldt dismissed the birds as parasites."
+      },
+      {
+        "passage_number": 4,
+        "text": "When scientists considered movements across barriers and borders, they characterized them as disruptive and outside the norm, even in the absence of direct evidence of either the movements themselves or the negative consequences they purportedly triggered. Popular hypotheses held that bats spread Ebola virus, for example, and gazelles foot-and-mouth disease. No one really knew where the bats or the gazelles went, though: The parallels between the intermittent and disruptive quality of epidemics and the presumed nature of wildlife movements spoke for themselves."
+      },
+      {
+        "passage_number": 5,
+        "text": "Influential subdisciplines of biological inquiry focused on the negative impact of long-distance translocations of wild species, presuming that the most significant of these occurred not through the agency of animals on the move but when human trade and travel inadvertently deposited creatures into novel places. The result, experts in invasion biology and restoration biology said, could be so catastrophic for already-resident species that the interlopers should be repelled or, if already present, eradicated, even before they could cause any detectable damage."
+      },
+      {
+        "passage_number": 6,
+        "text": "Discoveries enabled by ICARUS, while impossible to predict, could have diffuse and wide-ranging implications. Findings that shed light on the factors that drive animal movement, for example, could help transform ecology from a field that traditionally describes the natural world and its inhabitants to one that can make predictions. Every year, billions of dollars depend on the ways in which wild species move and are distributed across the landscape, migrations that affect the abundance of fish we pull from the sea, the virulence of the pathogens we encounter, the predators that stalk our livestock, and the birds and flowers that grace our landscapes."
+      },
+      {
+        "passage_number": 7,
+        "text": "But nobody knows precisely when the bats will arrive in any given forest, or why some butterflies shift into new ranges while others do not, or whether elephants that run shrieking in the forests have sensed an impending natural disaster, or why some martins return to their summer nests and others do not."
+      },
+      {
+        "passage_number": 8,
+        "text": "ICARUS could unlock that knowledge. It could enable scientists to unravel wild animals’ social dynamics as they move around the globe in flocks, swarms, and colonies; to study what influence animals’ conflicts and alliances with other species have on where they go and how they get there; and to chart the depth of their perceptions and the dynamism of their responses to the environmental phenomena they encounter on their journeys."
+      },
+      {
+        "passage_number": 9,
+        "text": "Scientists may be able to detect shared strategies across populations, species, and taxa by observing the way various species navigate obstacles like roads and highways and the way they capitalize on environmental factors like currents in the sea and thermals in the air. Overlaying tracking data with data on weather, climate, and vegetation could reveal how the fragmentation of habitats affects animals’ movement, which corridors they use to move, where they pause on their journeys, when they use environmental or atmospheric factors to facilitate their movement and how they might fare if those factors were to collapse or to change—drawing us closer to a future in which the movement of animals could be forecast, like the weather."
+      },
+      {
+        "passage_number": 10,
+        "text": "The potential applications could include preventing outbreaks of disease that can precipitate pandemics, managing landscapes, and conserving biodiversity.<br><br>Almost certainly, prospectively tracking wild animals will reveal more extensive movements than previously known. A handful of tracking studies in recent years have established that wild animals wander across expansive ranges, oblivious to the boundaries of parks and conservation areas drawn to contain them."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "ICARUS challenges traditional scientific assumptions",
+          "B": "Scientists have always understood wildlife movements",
+          "C": "DNA research is central to ICARUS",
+          "D": "Wildlife movements are easy to observe"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on how ICARUS challenges traditional scientific assumptions about wildlife movements, making A the correct answer.",
+        "score_improvement_tip": "Focus on the main subject and the author's primary point when identifying central ideas."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'marooned' most nearly means:",
+        "options": {
+          "A": "Trapped",
+          "B": "Freed",
+          "C": "Protected",
+          "D": "Observed"
+        },
+        "answer": "A",
+        "explanation": "The term 'marooned' is used to describe wild species trapped in inhospitable habitats, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of descriptive words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about scientists' assumptions regarding orchid bees?",
+        "options": {
+          "A": "They are effective pollinators over long distances",
+          "B": "They cannot tolerate heat stress",
+          "C": "They are parasites",
+          "D": "They are sedentary"
+        },
+        "answer": "B",
+        "explanation": "The passage states that scientists presumed orchid bees could not tolerate the heat stress of flying under direct sunlight, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inferences and avoid assumptions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the spread of diseases by animals",
+          "B": "To explain how scientists misunderstood wildlife movements",
+          "C": "To argue for the eradication of invasive species",
+          "D": "To compare bats and gazelles"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on how scientists misunderstood wildlife movements, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main purpose by analyzing the focus and tone of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which evidence supports the claim that long-distance translocations of wild species were seen as negative?",
+        "options": {
+          "A": "They were caused by human trade and travel",
+          "B": "They were beneficial to ecosystems",
+          "C": "They were rare and insignificant",
+          "D": "They were well understood by scientists"
+        },
+        "answer": "A",
+        "explanation": "The passage states that long-distance translocations were seen as negative when caused by human trade and travel, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to support claims and answer choices."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the passage connect ICARUS to the field of ecology?",
+        "options": {
+          "A": "ICARUS will make ecology obsolete",
+          "B": "ICARUS will enable ecology to make predictions",
+          "C": "ICARUS will focus only on animal behavior",
+          "D": "ICARUS will replace traditional ecological methods"
+        },
+        "answer": "B",
+        "explanation": "The passage states that ICARUS could transform ecology into a field that can make predictions, making B the correct answer.",
+        "score_improvement_tip": "Analyze how different parts of the text relate to each other to answer cross-text connection questions."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What is the primary function of the sentence 'But nobody knows precisely when the bats will arrive in any given forest'?",
+        "options": {
+          "A": "To introduce a new topic",
+          "B": "To emphasize the unpredictability of wildlife movements",
+          "C": "To argue for more research on bats",
+          "D": "To describe the behavior of bats"
+        },
+        "answer": "B",
+        "explanation": "The sentence emphasizes the unpredictability of wildlife movements, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to sentences that highlight the significance or unpredictability of a concept."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about ICARUS's potential impact on animal behavior studies?",
+        "options": {
+          "A": "It will only study social dynamics",
+          "B": "It will provide limited data on animal movements",
+          "C": "It will enable detailed studies of animal behavior",
+          "D": "It will focus only on birds and insects"
+        },
+        "answer": "C",
+        "explanation": "The passage suggests that ICARUS will enable detailed studies of animal behavior, making C the correct answer.",
+        "score_improvement_tip": "Use specific details from the text to make accurate inferences."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "As used in the passage, 'fragmentation' most nearly means:",
+        "options": {
+          "A": "Destruction",
+          "B": "Division",
+          "C": "Expansion",
+          "D": "Preservation"
+        },
+        "answer": "B",
+        "explanation": "The term 'fragmentation' refers to the division of habitats, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of technical terms."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 10,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The limitations of ICARUS",
+          "B": "The potential applications of ICARUS",
+          "C": "The history of wildlife tracking",
+          "D": "The behavior of bats"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the potential applications of ICARUS, making B the correct answer.",
+        "score_improvement_tip": "Identify the main focus by looking for repeated ideas or concepts in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or make connections between different parts of the text.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and the author's purpose.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and straightforward details."
+    }
+  }

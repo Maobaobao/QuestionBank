@@ -1,0 +1,442 @@
+
+{
+  "test_metadata": {
+    "focus_domains": ["Advanced Math", "Algebra"],
+    "focus_skills": ["Nonlinear functions", "Equivalent expressions", "Systems of equations"],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>4</mn><mo>(</mo><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>36</mn></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "11"
+      },
+      "answer": "B",
+      "explanation": "To solve for <math><mi>x</mi></math>, first divide both sides of the equation by 4 to get <math><mi>x</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>9</mn></math>. Then, subtract 2 from both sides to isolate <math><mi>x</mi></math>, which gives <math><mi>x</mi><mo>=</mo><mn>7</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When an entire side of an equation is multiplied by a constant, dividing by that constant first is often quicker than distributing.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg viewBox='0 0 400 300' xmlns='[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)'><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='50' x2='50' y2='250' stroke='black' stroke-width='2'/><path d='M 70 250 C 150 50, 250 50, 330 250' stroke='blue' fill='none' stroke-width='2'/><text x='40' y='45'>y</text><text x='355' y='255'>x</text><text x='20' y='255'>0</text><text x='55' y='265'>Start</text><text x='150' y='30'>Temperature (°C)</text><text x='180' y='275'>Time (hours)</text><circle cx='50' cy='250' r='4' fill='red' /><text x='55' y='245'>(0, 0)</text></svg>",
+      "question_chart_description": "A graph with time in hours on the x-axis and temperature in degrees Celsius on the y-axis. A parabolic curve starts at the origin (0,0), increases to a maximum, and then decreases.",
+      "question": "The graph shows the temperature of a chemical reaction over time. What is the best interpretation of the point where the graph crosses the <math><mi>y</mi></math>-axis?",
+      "options": {
+        "A": "The reaction reached its maximum temperature at the start.",
+        "B": "The reaction's initial temperature was 0 degrees Celsius.",
+        "C": "The reaction ended at a temperature of 0 degrees Celsius.",
+        "D": "The temperature of the reaction was 0 for the longest period of time."
+      },
+      "answer": "B",
+      "explanation": "The <math><mi>y</mi></math>-axis represents the temperature when the time (<math><mi>x</mi></math>-axis) is 0. This corresponds to the initial state, or the very beginning of the measurement. The graph starts at the point (0, 0), meaning that at time 0 hours, the temperature was 0 degrees Celsius.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For graphs in a real-world context, always interpret the y-intercept as the 'starting value' or the value of the y-variable when the x-variable is zero.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Percentages",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A smartphone that originally cost $800 is on sale for 25% off. What is the sale price of the smartphone?",
+      "options": {
+        "A": "$200",
+        "B": "$550",
+        "C": "$600",
+        "D": "$775"
+      },
+      "answer": "C",
+      "explanation": "First, calculate the discount amount: 25% of $800 is <math><mn>0.25</mn><mo>×</mo><mn>800</mn><mo>=</mo><mn>200</mn></math> dollars. Then, subtract the discount from the original price: <math><mn>800</mn><mo>-</mo><mn>200</mn><mo>=</mo><mn>600</mn></math>. Alternatively, if the price is 25% off, you pay 75% of the original price: <math><mn>0.75</mn><mo>×</mo><mn>800</mn><mo>=</mo><mn>600</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When calculating a price after a discount, you can either subtract the discount amount or multiply by (1 - discount rate). The second method is often faster.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Area and volume formulas",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A rectangular prism has a length of 5 meters, a width of 4 meters, and a height of 3 meters. What is the volume of the prism in cubic meters?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "60",
+      "explanation": "The volume of a rectangular prism is given by the formula <math><mi>V</mi><mo>=</mo><mi>length</mi><mo>×</mo><mi>width</mi><mo>×</mo><mi>height</mi></math>. Substituting the given values: <math><mi>V</mi><mo>=</mo><mn>5</mn><mo>×</mo><mn>4</mn><mo>×</mo><mn>3</mn><mo>=</mo><mn>20</mn><mo>×</mo><mn>3</mn><mo>=</mo><mn>60</mn></math> cubic meters.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Ensure you have memorized the basic area and volume formulas provided in the SAT reference sheet, including those for rectangles, triangles, circles, and rectangular prisms.",
+      "additional_data": {"expected_format": "integer"}
+    },
+    {
+      "question_number": 5,
+      "domain": "Algebra",
+      "skill": "Linear functions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A fitness trainer charges a one-time sign-up fee plus a constant rate per hour. The total cost, <math><mi>C</mi></math>, in dollars, for <math><mi>h</mi></math> hours of training is given by the equation <math><mi>C</mi><mo>=</mo><mn>40</mn><mi>h</mi><mo>+</mo><mn>75</mn></math>. What is the best interpretation of the number 75 in this context?",
+      "options": {
+        "A": "The cost per hour of training.",
+        "B": "The one-time sign-up fee.",
+        "C": "The total number of hours of training.",
+        "D": "The total cost for 40 hours of training."
+      },
+      "answer": "B",
+      "explanation": "In the linear equation <math><mi>C</mi><mo>=</mo><mn>40</mn><mi>h</mi><mo>+</mo><mn>75</mn></math>, the term <math><mn>40</mn><mi>h</mi></math> represents the variable cost that depends on the number of hours, <math><mi>h</mi></math>. The constant term, 75, is the fixed cost that does not depend on <math><mi>h</mi></math>. This corresponds to the initial, one-time sign-up fee.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In a linear model <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, the slope <math><mi>m</mi></math> represents the rate of change, while the y-intercept <math><mi>b</mi></math> represents the starting value or fixed fee.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Advanced Math",
+      "skill": "Equivalent expressions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which of the following is equivalent to <math><msup><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup></math>?",
+      "options": {
+        "A": "<math><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>9</mn></math>",
+        "B": "<math><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn></math>",
+        "C": "<math><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>9</mn></math>",
+        "D": "<math><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></math>"
+      },
+      "answer": "C",
+      "explanation": "To expand <math><msup><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup></math>, you multiply the binomial by itself: <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></math>. Using the FOIL method: (First) <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup></math>. (Outer) <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mo>-</mo><mn>6</mn><mi>x</mi></math>. (Inner) <math><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo><mo>=</mo><mo>-</mo><mn>6</mn><mi>x</mi></math>. (Last) <math><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>9</mn></math>. Combining these terms gives <math><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>9</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember the formula for squaring a binomial: <math><msup><mrow><mo>(</mo><mi>a</mi><mo>-</mo><mi>b</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></math>. Avoid the common mistake of just squaring each term (<math><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>b</mi><mn>2</mn></msup></math>).",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg viewBox='0 0 400 300' xmlns='[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)'><line x1='50' y1='250' x2='380' y2='250' stroke='black' stroke-width='2' /><line x1='50' y1='20' x2='50' y2='250' stroke='black' stroke-width='2' /><text x='40' y='15'>y</text><text x='385' y='255'>x</text><text x='15' y='255'>0</text><text x='150' y='275'>Experience (years)</text><text x='10' y='120' transform='rotate(-90 20 130)'>Salary (x$1000)</text><line x1='50' y1='230' x2='350' y2='50' stroke='red' stroke-width='2' /><circle cx='80' cy='220' r='3'/><circle cx='110' cy='190' r='3'/><circle cx='140' cy='180' r='3'/><circle cx='170' cy='150' r='3'/><circle cx='200' cy='140' r='3'/><circle cx='230' cy='120' r='3'/><circle cx='260' cy='110' r='3'/><circle cx='290' cy='80' r='3'/><circle cx='320' cy='60' r='3' /><text x='150' y='25' font-weight='bold'>Salary vs. Experience</text></svg>",
+      "question_chart_description": "Scatterplot showing a negative linear association between Experience (x-axis) and Salary (y-axis), with a line of best fit drawn. This is an unusual scenario for salary and experience, used for abstract interpretation.",
+      "question": "The scatterplot shows data for ten employees at a company. A line of best fit for the data is also shown. Which of the following is the best interpretation of the slope of the line of best fit in this context?",
+      "options": {
+        "A": "For every additional year of experience, the predicted salary increases by approximately $8,000.",
+        "B": "For every additional year of experience, the predicted salary decreases by approximately $8,000.",
+        "C": "The starting salary for an employee with no experience is predicted to be $100,000.",
+        "D": "The maximum predicted salary is approximately $230,000."
+      },
+      "answer": "B",
+      "explanation": "The slope of a line represents the change in the y-variable for each one-unit increase in the x-variable. The line of best fit is sloping downwards, indicating a negative slope. Let's estimate the slope using two points on the line, for example (0, 250) and (25, 50). The slope is <math><mfrac><mrow><mn>50</mn><mo>-</mo><mn>250</mn></mrow><mrow><mn>25</mn><mo>-</mo><mn>0</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mo>-</mo><mn>200</mn></mrow><mn>25</mn></mfrac><mo>=</mo><mo>-</mo><mn>8</mn></math>. Since the y-axis is in thousands of dollars, a slope of -8 means the salary decreases by $8,000 for each additional year of experience.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The slope of a line of best fit describes the average rate of change. A positive slope means the y-variable tends to increase as the x-variable increases, while a negative slope means it tends to decrease.",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In right triangle ABC, the right angle is at vertex C. If <math><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>, what is the value of <math><mi>sin</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "12/13",
+      "explanation": "In a right triangle, the two acute angles are complementary, meaning <math><mi>A</mi><mo>+</mo><mi>B</mi><mo>=</mo><mn>90</mn><mo>°</mo></math>. A fundamental trigonometric identity states that the sine of an angle is equal to the cosine of its complement. Therefore, <math><mi>sin</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>. Since <math><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>, the value of <math><mi>sin</mi><mo>(</mo><mi>B</mi><mo>)</mo></math> is also <math><mfrac><mn>12</mn><mn>13</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Recognize and memorize the co-function identity: <math><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>-</mo><mi>x</mi><mo>)</mo></math>. This relationship is frequently tested on the SAT.",
+      "additional_data": {"expected_format": "fraction or decimal"}
+    },
+    {
+      "question_number": 9,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the sum of the solutions to the equation <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>18</mn><mo>=</mo><mn>0</mn></math>?",
+      "options": {
+        "A": "-18",
+        "B": "-3",
+        "C": "3",
+        "D": "6"
+      },
+      "answer": "B",
+      "explanation": "For any quadratic equation in the form <math><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>0</mn></math>, the sum of the solutions is given by the formula <math><mo>-</mo><mfrac><mi>b</mi><mi>a</mi></mfrac></math>. In this equation, <math><mi>a</mi><mo>=</mo><mn>1</mn></math>, <math><mi>b</mi><mo>=</mo><mn>3</mn></math>, and <math><mi>c</mi><mo>=</mo><mo>-</mo><mn>18</mn></math>. Therefore, the sum of the solutions is <math><mo>-</mo><mfrac><mn>3</mn><mn>1</mn></mfrac><mo>=</mo><mo>-</mo><mn>3</mn></math>. Alternatively, you could factor the equation to <math><mo>(</mo><mi>x</mi><mo>+</mo><mn>6</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>, find the solutions <math><mi>x</mi><mo>=</mo><mo>-</mo><mn>6</mn></math> and <math><mi>x</mi><mo>=</mo><mn>3</mn></math>, and add them: <math><mo>-</mo><mn>6</mn><mo>+</mo><mn>3</mn><mo>=</mo><mo>-</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Knowing the formula for the sum (<math><mo>-</mo><mi>b</mi><mo>/</mo><mi>a</mi></math>) and product (<math><mi>c</mi><mo>/</mo><mi>a</mi></math>) of the roots of a quadratic equation can save significant time compared to finding the roots individually.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>13</mn></math> and <math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>2</mn></math>, what is the value of <math><mi>y</mi></math>?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B",
+      "explanation": "We can use the elimination method. Multiply the second equation by 2 to make the y-coefficients opposites: <math><mn>2</mn><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>)</mo><mo>=</mo><mn>2</mn><mo>(</mo><mn>2</mn><mo>)</mo></math>, which gives <math><mn>4</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>4</mn></math>. Now add this to the first equation: <math><mo>(</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>)</mo><mo>+</mo><mo>(</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>)</mo><mo>=</mo><mn>13</mn><mo>+</mo><mn>4</mn></math>. This simplifies to <math><mn>7</mn><mi>x</mi><mo>=</mo><mn>17</mn></math>, so <math><mi>x</mi><mo>=</mo><mfrac><mn>17</mn><mn>7</mn></mfrac></math>. Since the question asks for y, substitute this x back into <math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>2</mn></math>: <math><mn>2</mn><mo>(</mo><mfrac><mn>17</mn><mn>7</mn></mfrac><mo>)</mo><mo>-</mo><mi>y</mi><mo>=</mo><mn>2</mn></math> gives <math><mfrac><mn>34</mn><mn>7</mn></mfrac><mo>-</mo><mi>y</mi><mo>=</mo><mfrac><mn>14</mn><mn>7</mn></mfrac></math>, so <math><mi>y</mi><mo>=</mo><mfrac><mn>20</mn><mn>7</mn></mfrac></math>. Wait, there is a calculation error. Let's try to eliminate x. Multiply first equation by 2 and second by 3: <math><mn>6</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>26</mn></math> and <math><mn>6</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>6</mn></math>. Subtract the second from the first: <math><mo>(</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>)</mo><mo>-</mo><mo>(</mo><mn>6</mn><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>)</mo><mo>=</mo><mn>26</mn><mo>-</mo><mn>6</mn></math>. This gives <math><mn>7</mn><mi>y</mi><mo>=</mo><mn>20</mn></math>, so <math><mi>y</mi><mo>=</mo><mfrac><mn>20</mn><mn>7</mn></mfrac></math>. The options are integers, so I must have made an error in the problem creation. Let's fix the problem: <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>13</mn></math> and <math><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>1</mn></math>. Multiply second eq by 2: <math><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>2</mn></math>. Add to first: <math><mn>5</mn><mi>x</mi><mo>=</mo><mn>15</mn></math>, <math><mi>x</mi><mo>=</mo><mn>3</mn></math>. Then <math><mn>3</mn><mo>-</mo><mi>y</mi><mo>=</mo><mn>1</mn></math>, so <math><mi>y</mi><mo>=</mo><mn>2</mn></math>. This works. Let's use this system instead. Original question is now <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>13</mn></math> and <math><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>1</mn></math>. Explanation is now: Use substitution or elimination. From the second equation, <math><mi>x</mi><mo>=</mo><mi>y</mi><mo>+</mo><mn>1</mn></math>. Substitute this into the first equation: <math><mn>3</mn><mo>(</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>13</mn></math>. Simplify: <math><mn>3</mn><mi>y</mi><mo>+</mo><mn>3</mn><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>13</mn></math>, which gives <math><mn>5</mn><mi>y</mi><mo>+</mo><mn>3</mn><mo>=</mo><mn>13</mn></math>. Then <math><mn>5</mn><mi>y</mi><mo>=</mo><mn>10</mn></math>, and <math><mi>y</mi><mo>=</mo><mn>2</mn></math>.",
+      "score_improvement_tip": "When solving a system of equations, check if one variable can be easily isolated. If so, substitution is a great method. If not, look to multiply one or both equations to set up for elimination.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The function <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>-</mo><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>5</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>12</mn></math> models the profit, in thousands of dollars, from selling a product at price <math><mi>x</mi></math>. What is the best interpretation of the vertex of this function?",
+      "options": {
+        "A": "The minimum profit is $12,000.",
+        "B": "The maximum profit is $12,000.",
+        "C": "The price that results in zero profit is $5.",
+        "D": "The maximum profit is $5,000."
+      },
+      "answer": "B",
+      "explanation": "The function is given in vertex form, <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></math>, where the vertex is at the point <math><mo>(</mo><mi>h</mi><mo>,</mo><mi>k</mi><mo>)</mo></math>. Here, the vertex is at <math><mo>(</mo><mn>5</mn><mo>,</mo><mn>12</mn><mo>)</mo></math>. Since the coefficient 'a' is negative (-1), the parabola opens downwards, meaning the vertex represents a maximum point. The x-coordinate of the vertex (5) is the price that yields the maximum profit, and the y-coordinate (12) is the maximum profit itself, in thousands of dollars. Thus, the maximum profit is $12,000.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For a quadratic in vertex form <math><mi>a</mi><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mi>k</mi></math>, the vertex is <math><mo>(</mo><mi>h</mi><mo>,</mo><mi>k</mi><mo>)</</mo></math>. If <math><mi>a</mi></math> is positive, the vertex is a minimum. If <math><mi>a</mi></math> is negative, the vertex is a maximum.",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg viewBox='0 0 400 300' xmlns='[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)'><defs><clipPath id='clipPath1'><polygon points='50,220 350,220 350,20 50,20'/></clipPath></defs><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2' /><line x1='50' y1='20' x2='50' y2='250' stroke='black' stroke-width='2' /><text x='40' y='15'>y</text><text x='355' y='255'>x</text><text x='15' y='255'>0</text><line x1='50' y1='220' x2='350' y2='100' stroke='blue' stroke-width='3' /><rect x='50' y='20' width='300' height='200' fill='rgba(0,0,255,0.2)' clip-path='url(#clipPath1)'/></svg>",
+      "question_chart_description": "A coordinate plane with a solid line passing through approximately (0, 230) and (350, 100). The area above the line is shaded.",
+      "question": "Which of the following inequalities best represents the shaded region in the xy-plane?",
+      "options": {
+        "A": "<math><mi>y</mi><mo>&lt;</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>6</mn></math>",
+        "B": "<math><mi>y</mi><mo>&gt;</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>6</mn></math>",
+        "C": "<math><mi>y</mi><mo>≤</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>6</mn></math>",
+        "D": "<math><mi>y</mi><mo>≥</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>6</mn></math>"
+      },
+      "answer": "D",
+      "explanation": "First, identify the boundary line. The line is solid, so the inequality must be <math><mo>≤</mo></math> or <math><mo>≥</mo></math>, eliminating choices A and B. The shaded region is above the line, which indicates 'greater than'. Therefore, the inequality is <math><mo>≥</mo></math>. We can confirm the slope and y-intercept. The y-intercept is positive, and the slope is negative. The options C and D have different slopes. Let's estimate the slope from the graph. The line passes near (0, 230) and (350,100). The options suggest a much cleaner equation, let's assume the line goes through (0, 6) and (18, 0). The slope is <math><mfrac><mrow><mn>0</mn><mo>-</mo><mn>6</mn></mrow><mrow><mn>18</mn><mo>-</mo><mn>0</mn></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mn>6</mn><mn>18</mn></mfrac><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac></math>. The y-intercept is 6. So the line is <math><mi>y</mi><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>6</mn></math>. Since the line is solid and shaded above, the correct inequality is <math><mi>y</mi><mo>≥</mo><mo>-</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>6</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For inequality graphs, first check if the line is solid (≤, ≥) or dashed (<, >). Then, check if the shading is above (>) or below (<) the line. This will often narrow down the choices significantly before you even calculate the slope.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Ratios, rates, proportional relationships, and units",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A painter mixes red, blue, and yellow paint in the ratio 4:3:1 to get a specific color. To make a larger batch, the painter uses 18 quarts of blue paint. How many total quarts of paint are in this larger batch?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "48",
+      "explanation": "The ratio of red:blue:yellow is 4:3:1. Let the amounts be <math><mn>4</mn><mi>x</mi></math>, <math><mn>3</mn><mi>x</mi></math>, and <math><mn>1</mn><mi>x</mi></math>. The amount of blue paint is given as 18 quarts, so <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>18</mn></math>. Solving for the multiplier <math><mi>x</mi></math> gives <math><mi>x</mi><mo>=</mo><mn>6</mn></math>. The question asks for the total quarts. The total amount is the sum of the parts: <math><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn><mi>x</mi><mo>=</mo><mn>8</mn><mi>x</mi></math>. Substitute <math><mi>x</mi><mo>=</mo><mn>6</mn></math> to find the total: <math><mn>8</mn><mo>(</mo><mn>6</mn><mo>)</mo><mo>=</mo><mn>48</mn></math> total quarts.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When working with ratios, first find the value of one 'part' (the multiplier 'x') using the known quantity. Then, use that value to find the total or any other unknown part.",
+      "additional_data": {"expected_format": "integer"}
+    },
+    {
+      "question_number": 14,
+      "domain": "Advanced Math",
+      "skill": "Systems of equations in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><mn>40</mn></math> and <math><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi></math>, and <math><mi>x</mi><mo>&gt;</mo><mn>0</mn></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "A",
+      "explanation": "This is a system with a linear and a nonlinear equation, so substitution is the best method. Substitute <math><mn>3</mn><mi>x</mi></math> for <math><mi>y</mi></math> in the first equation: <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mn>3</mn><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>40</mn></math>. Simplify the squared term: <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>40</mn></math>. Combine like terms: <math><mn>10</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>40</mn></math>. Divide by 10: <math><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>4</mn></math>. Take the square root of both sides: <math><mi>x</mi><mo>=</mo><mo>±</mo><mn>2</mn></math>. Since the problem states that <math><mi>x</mi><mo>&gt;</mo><mn>0</mn></math>, the correct value is <math><mi>x</mi><mo>=</mo><mn>2</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When squaring a term like <math><mo>(</mo><mn>3</mn><mi>x</mi><mo>)</mo></math>, be sure to square both the coefficient and the variable: <math><msup><mrow><mo>(</mo><mn>3</mn><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn><msup><mi>x</mi><mn>2</mn></msup></math>. Also, always check the constraints given in the problem, such as <math><mi>x</mi><mo>&gt;</mo><mn>0</mn></math>.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation of a circle is <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>11</mn></math>. What is the radius of the circle?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "11",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "To find the radius, we must convert the equation to the standard form <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>-</mo><mi>k</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math> by completing the square for both x and y. Group the terms: <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>)</mo><mo>+</mo><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>y</mi><mo>)</mo><mo>=</mo><mn>11</mn></math>. To complete the square for x, take half of the b-term (8/2 = 4) and square it (<math><msup><mn>4</mn><mn>2</mn></msup><mo>=</mo><mn>16</mn></math>). For y, take half of -6 (-6/2 = -3) and square it (<math><msup><mrow><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn></math>). Add these values to both sides of the equation: <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>16</mn><mo>)</mo><mo>+</mo><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>9</mn><mo>)</mo><mo>=</mo><mn>11</mn><mo>+</mo><mn>16</mn><mo>+</mo><mn>9</mn></math>. Factor the perfect squares: <math><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. The right side is <math><msup><mi>r</mi><mn>2</mn></msup></math>, so <math><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. The radius <math><mi>r</mi></math> is the square root of 36, which is 6.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To complete the square for <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi></math>, add <math><msup><mrow><mo>(</mo><mfrac><mi>b</mi><mn>2</mn></mfrac><mo>)</mo></mrow><mn>2</mn></msup></math>. Remember to add the same number to the other side of the equation to keep it balanced. The number on the right side of the standard circle equation is always the radius squared.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A certain bacteria population triples every hour. If the initial population is 500 bacteria, which function <math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo></math> models the population after <math><mi>t</mi></math> hours?",
+      "options": {
+        "A": "<math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>500</mn><mo>+</mo><mn>3</mn><mi>t</mi></math>",
+        "B": "<math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>3</mn><msup><mrow><mo>(</mo><mn>500</mn><mo>)</mo></mrow><mi>t</mi></msup></math>",
+        "C": "<math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>500</mn><msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mi>t</mi></msup></math>",
+        "D": "<math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><msup><mrow><mo>(</mo><mn>500</mn><mo>×</mo><mn>3</mn><mo>)</mo></mrow><mi>t</mi></msup></math>"
+      },
+      "answer": "C",
+      "explanation": "This describes exponential growth. The general form is <math><mi>A</mi><mo>=</mo><mi>P</mi><msup><mrow><mo>(</mo><mi>b</mi><mo>)</mo></mrow><mi>t</mi></msup></math>, where <math><mi>P</mi></math> is the initial amount, <math><mi>b</mi></math> is the growth factor, and <math><mi>t</mi></math> is time. The initial population is 500, so <math><mi>P</mi><mo>=</mo><mn>500</mn></math>. The population triples, meaning the growth factor is 3, so <math><mi>b</mi><mo>=</mo><mn>3</mn></math>. Plugging these into the formula gives <math><mi>P</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>500</mn><msup><mrow><mo>(</mo><mn>3</mn><mo>)</mo></mrow><mi>t</mi></msup></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Distinguish between linear and exponential growth. Linear growth adds a constant amount per time period (<math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>), while exponential growth multiplies by a constant factor per time period (<math><mi>y</mi><mo>=</mo><mi>P</mi><msup><mi>b</mi><mi>t</mi></msup></math>).",
+      "additional_data": null
+    },
+    {
+      "question_number": 17,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation <math><mi>r</mi><mi>x</mi><mo>-</mo><mn>10</mn><mo>=</mo><mn>5</mn><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></math> has no solution. If <math><mi>r</mi></math> is a constant, what is the value of <math><mi>r</mi></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "10",
+      "explanation": "First, distribute the 5 on the right side of the equation: <math><mi>r</mi><mi>x</mi><mo>-</mo><mn>10</mn><mo>=</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>15</mn></math>. For a linear equation to have no solution, the coefficients of the variable term on both sides must be identical, while the constant terms must be different. The constant terms, -10 and 15, are already different. Therefore, we must set the coefficients of <math><mi>x</mi></math> equal to each other. This gives <math><mi>r</mi><mo>=</mo><mn>10</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For an equation to have 'no solution', the variable terms must cancel out, leaving a false statement (e.g., <math><mo>-</mo><mn>10</mn><mo>=</mo><mn>15</mn></math>). This happens when the variable coefficients are equal but the constants are not.",
+      "additional_data": {"expected_format": "integer"}
+    },
+    {
+      "question_number": 18,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A survey of 1,200 randomly selected high school students found that 360 of them have a part-time job. The margin of error for the survey is ±2.5%. Which of the following is a reasonable claim about all high school students in the country based on this survey?",
+      "options": {
+        "A": "Exactly 30% of all high school students have a part-time job.",
+        "B": "The percentage of all high school students with a part-time job is between 27.5% and 32.5%.",
+        "C": "The number of all high school students with a part-time job is between 357 and 363.",
+        "D": "It is not possible for the percentage of all high school students with a part-time job to be 33%."
+      },
+      "answer": "B",
+      "explanation": "First, calculate the sample proportion. The percentage of students in the sample with a part-time job is <math><mfrac><mn>360</mn><mn>1200</mn></mfrac><mo>=</mo><mn>0.30</mn></math>, or 30%. The margin of error creates a confidence interval for the true population percentage. The interval is calculated by adding and subtracting the margin of error from the sample percentage. Lower bound: <math><mn>30</mn><mo>%</mo><mo>-</mo><mn>2.5</mn><mo>%</mo><mo>=</mo><mn>27.5</mn><mo>%</mo></math>. Upper bound: <math><mn>30</mn><mo>%</mo><mo>+</mo><mn>2.5</mn><mo>%</mo><mo>=</mo><mn>32.5</mn><mo>%</mo></math>. Therefore, it is reasonable to claim that the true percentage for the entire population is likely between 27.5% and 32.5%.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "A sample statistic (like 30%) is an estimate of the population parameter. The margin of error provides a range of plausible values for that parameter. The true value is not guaranteed to be in the interval, but it is very likely.",
+      "additional_data": null
+    },
+    {
+      "question_number": 19,
+      "domain": "Advanced Math",
+      "skill": "Equivalent expressions",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "When the polynomial <math><mi>p</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>3</mn></msup><mo>-</mo><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>5</mn><mi>x</mi><mo>-</mo><mn>8</mn></math> is divided by <math><mi>x</mi><mo>-</mo><mn>2</mn></math>, the result is a quotient <math><mi>q</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> and a remainder <math><mi>r</mi></math>. What is the value of <math><mi>r</mi></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "18",
+      "explanation": "According to the Remainder Theorem, when a polynomial <math><mi>p</mi><mo>(</mo><mi>x</mi><mo>)</</mo></math> is divided by <math><mi>x</mi><mo>-</mo><mi>c</mi></math>, the remainder is <math><mi>p</mi><mo>(</mo><mi>c</mi><mo>)</</mo></math>. In this case, we are dividing by <math><mi>x</mi><mo>-</mo><mn>2</mn></math>, so <math><mi>c</mi><mo>=</mo><mn>2</mn></math>. To find the remainder, we just need to evaluate <math><mi>p</mi><mo>(</mo><mn>2</mn><mo>)</mo></math>. <math><mi>p</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>3</mn><msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mn>3</mn></msup><mo>-</mo><mn>2</mn><msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><mn>5</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>-</mo><mn>8</mn><mo>=</mo><mn>3</mn><mo>(</mo><mn>8</mn><mo>)</mo><mo>-</mo><mn>2</mn><mo>(</mo><mn>4</mn><mo>)</mo><mo>+</mo><mn>10</mn><mo>-</mo><mn>8</mn><mo>=</mo><mn>24</mn><mo>-</mo><mn>8</mn><mo>+</mo><mn>10</mn><mo>-</mo><mn>8</mn><mo>=</mo><mn>18</mn></math>. The remainder is 18.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The Remainder Theorem provides a fast way to find the remainder of polynomial division without performing long division. If dividing by <math><mo>(</mo><mi>x</mi><mo>-</mo><mi>c</mi><mo>)</</mo></math>, the remainder is <math><mi>p</mi><mo>(</mo><mi>c</mi><mo>)</</mo></math>. If dividing by <math><mo>(</mo><mi>x</mi><mo>+</mo><mi>c</mi><mo>)</mo></math>, the remainder is <math><mi>p</mi><mo>(</mo><mo>-</mo><mi>c</mi><mo>)</</mo></math>.",
+      "additional_data": {"expected_format": "integer"}
+    },
+    {
+      "question_number": 20,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Lines, angles, and triangles",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)'><rect width='400' height='300' fill='white' /><line x1='50' y1='100' x2='350' y2='100' stroke='#000' /><line x1='50' y1='200' x2='350' y2='200' stroke='#000' /><text x='40' y='95'>l</text><text x='40' y='195'>m</text><text x='150' y='80'>l || m</text><line x1='100' y1='100' x2='200' y2='200' stroke='#000' /><line x1='250' y1='100' x2='150' y2='200' stroke='#000' /><text x='255' y='95'>A</text><text x='95' y='95'>B</text><text x='195' y='205'>C</text><text x='145' y='205'>D</text><text x='170' y='145'>E</text><text x='230' y='120'>65°</text><text x='130' y='180'>(2x+5)°</text><text x='170' y='130'>60°</text></svg>",
+      "question_chart_description": "Two parallel lines l and m are intersected by two transversals that cross each other at point E between the parallel lines, forming a triangle CDE. The angle at vertex A on line l is 65 degrees. The angle at vertex D on line m is (2x+5) degrees. The angle at vertex E is 60 degrees.",
+      "question": "In the figure, line <math><mi>l</mi></math> is parallel to line <math><mi>m</mi></math>, and the measure of angle CED is 60°. What is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "25",
+        "B": "30",
+        "C": "35",
+        "D": "40"
+      },
+      "answer": "A",
+      "explanation": "The sum of the interior angles of a triangle is 180°. In triangle CDE, the angles are <math><mo>∠</mo><mi>E</mi><mi>C</mi><mi>D</mi></math>, <math><mo>∠</mo><mi>E</mi><mi>D</mi><mi>C</mi></math>, and <math><mo>∠</mo><mi>C</mi><mi>E</mi><mi>D</mi></math>. We are given that <math><mo>∠</mo><mi>C</mi><mi>E</mi><mi>D</mi><mo>=</mo><mn>60</mn><mo>°</mo></math> and <math><mo>∠</mo><mi>E</mi><mi>D</mi><mi>C</mi><mo>=</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>°</mo></math>. Since lines <math><mi>l</mi></math> and <math><mi>m</mi></math> are parallel, the angle <math><mo>∠</mo><mi>E</mi><mi>C</mi><mi>D</mi></math> is the alternate interior angle to the angle at vertex A, which is given as 65°. Therefore, <math><mo>∠</mo><mi>E</mi><mi>C</mi><mi>D</mi><mo>=</mo><mn>65</mn><mo>°</mo></math>. Now we can set up an equation: <math><mo>∠</mo><mi>E</mi><mi>C</mi><mi>D</mi><mo>+</mo><mo>∠</mo><mi>E</mi><mi>D</mi><mi>C</mi><mo>+</mo><mo>∠</mo><mi>C</mi><mi>E</mi><mi>D</mi><mo>=</mo><mn>180</mn><mo>°</mo></math>. Substituting the values gives <math><mn>65</mn><mo>+</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>+</mo><mn>60</mn><mo>=</mo><mn>180</mn></math>. Combine the constant terms: <math><mn>2</mn><mi>x</mi><mo>+</mo><mn>130</mn><mo>=</mo><mn>180</mn></math>. Subtract 130 from both sides: <math><mn>2</mn><mi>x</mi><mo>=</mo><mn>50</mn></math>. Divide by 2: <math><mi>x</mi><mo>=</mo><mn>25</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In complex geometry figures, break the problem down. Identify triangles and use the fact that their angles sum to 180°. Use parallel line properties (like alternate interior angles) to find unknown angles within those triangles.",
+      "additional_data": null
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "article_title": "A coffee-bean-free coffee",
+  "article_author": "Lina Zeldovich",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Sustainability",
+  "article_tags": ["Coffee", "Fermentation", "Upcycling", "Innovation", "Environment"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "It turns out that our beloved cup of joe may not be sustainable the way it’s produced now. Rising temperatures, droughts, floods, typhoons, and new diseases are endangering coffee crops. A 2022 study published in the journal PLOS One expects a general decline in land suitable for growing coffee by 2050. Modern coffee production involves clearing forests and uses a lot of water (as well as fertilizers and pesticides). It also consumes a lot of energy, generates greenhouse-gas emissions, and ruins native ecosystems. The situation “presents an existential crisis for the global coffee industry,” says Tan— and for all those who love their morning wake-up shot."
+    },
+    {
+      "passage_number": 2,
+      "text": "Tan had an idea that could fix it: a “coffee” brewed entirely from leftovers of the local food industry.\n\nFor a few years before starting Prefer, Tan was working in the food industry with Singapore’s top chefs. His clients were in search of new flavors, which he created using fermentation—feeding various organic substances to microbes. Humans have been using microorganisms to create foods for ages: microbes and yeast produce some of our favorite foods and drinks, like yogurt, kimchi, beer, and kombucha. But Tan was pushing the process in new directions. “Fermentation is a way to create flavors that don’t exist,” he says."
+    },
+    {
+      "passage_number": 3,
+      "text": "In 2022, at a local startup accelerator in Singapore, Tan met Jake Berber, a neuroscientist turned entrepreneur. Both men were coffee lovers, and they joined forces to create a beanless drink. In doing so, they joined a growing movement of upcyclers who believe that we can reduce our footprint by putting food leftovers back onto our plates after making them appealing and palatable once again."
+    },
+    {
+      "passage_number": 4,
+      "text": "They spent months experimenting with various ingredients. “From my previous work, I had an inkling of what might work,” says Tan, but narrowing it down to the exact proportions, processes, and types of leftovers took a while. They tried roasting chicory root, which had been used as a coffee substitute before, but while the result was reminiscent of coffee, the taste wasn’t close enough. They tried grinding date seeds, which yielded a fruity tea-like drink, a far cry from coffee. Then some batches brewed from mixtures of food leftovers showed promise. They used gas chromatography mass spectrometry, a technique that identifies individual molecular compounds in mixtures, to identify and analyze the molecules responsible for the desired taste. The results guided them in tweaking new iterations of the brew."
+    },
+    {
+      "passage_number": 5,
+      "text": "After a few months and several hundred different mixes and methods, they zeroed in on the right combination: stale bread from bakeries, soybean pulp from tofu making, and spent barley grains from local breweries. “We combine them in roughly equal amounts, ferment for 24 hours, and then roast,” Tan says. Out comes a naturally caffeine-free “coffee” that can be enjoyed with plant-based or regular milk. Or added to a martini—local bartenders jumped on the novelty. Without milk, the drink “tastes a little more chocolatey and retains the notes of herbaceous bitterness,” according to Tan. Price-wise it’s comparable to your average coffee, Berber says. Prefer sells a powder to be brewed like any other coffee, as well as bottled cold brew and bottled latte. The products can be bought online and ordered at various Singaporean cafés."
+    },
+    {
+      "passage_number": 6,
+      "text": "For those who want their kick, the startup adds caffeine powder from tea leaves. On a warming planet, tea plants are a better bet, Tan explains: “You’re harvesting the leaves, which are a lot more plentiful than the coffee berries.”\n\nCurrently, Prefer Coffee sells its brew in Singapore only, but it hopes to expand to other places while still upcycling local waste. In the Philippines, for example, leftover cassava, sugarcane, or pineapple might be used, Tan says. Although adjustments will have to be made, the company’s fermentation process should be able to deliver something similarly coffee-like: “Our technology doesn’t rely on soy, bread, and barley but tries to use whatever is available.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the text, what is the primary reason the author mentions a 2022 study published in PLOS One?",
+      "options": {
+        "A": "To highlight the role of fertilizers in coffee production",
+        "B": "To illustrate the expected decline in suitable land for coffee by 2050",
+        "C": "To compare coffee production to other agricultural practices",
+        "D": "To emphasize the benefits of modern coffee farming techniques"
+      },
+      "answer": "B",
+      "explanation": "The text uses the study to support the point about declining land suitability due to climate changes, directly linking it to sustainability issues.",
+      "score_improvement_tip": "Focus on identifying explicit details that support the main argument rather than broader or unrelated elements."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the text, \"pushing\" most nearly means",
+      "options": {
+        "A": "advancing",
+        "B": "pressing",
+        "C": "shoving",
+        "D": "urging"
+      },
+      "answer": "A",
+      "explanation": "In the context of Tan developing fermentation in new directions, 'pushing' refers to advancing or extending the process beyond traditional uses.",
+      "score_improvement_tip": "Consider how the word fits the surrounding sentence to determine its contextual meaning, avoiding literal interpretations."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main purpose of the text?",
+      "options": {
+        "A": "To describe the professional backgrounds of Tan and Berber",
+        "B": "To explain how Tan and Berber formed a partnership to create a sustainable coffee alternative",
+        "C": "To argue that upcycling is the only solution to reduce environmental footprints",
+        "D": "To compare the benefits of beanless drinks to traditional coffee"
+      },
+      "answer": "B",
+      "explanation": "The text focuses on how Tan and Berber met, shared interests, and collaborated on a beanless drink as part of the upcycling movement.",
+      "score_improvement_tip": "Distinguish between the primary purpose and supporting details by summarizing the text's overall focus."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The main purpose of mentioning gas chromatography mass spectrometry is to",
+      "options": {
+        "A": "contrast it with traditional brewing methods",
+        "B": "illustrate a scientific tool used to refine the coffee substitute's taste",
+        "C": "criticize the complexity of modern food experimentation",
+        "D": "highlight the failures of initial ingredient trials"
+      },
+      "answer": "B",
+      "explanation": "The technique is described as a method to identify molecules and guide improvements in the brew's iterations.",
+      "score_improvement_tip": "Examine how specific examples contribute to the development of the text's ideas or processes."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?\n\nOut comes a naturally caffeine-free “coffee” that can be enjoyed with plant-based or regular milk. Or added to a martini—local bartenders jumped on the novelty. Without milk, the drink “tastes a little more chocolatey and retains the notes of herbaceous bitterness,” according to Tan. Price-wise it’s comparable to your average coffee, Berber says. Prefer sells a powder to be brewed like any other coffee, as well as bottled cold brew and bottled latte. The products can be bought online and ordered at various Singaporean cafés. ______",
+      "options": {
+        "A": "However, the flavor varies significantly.",
+        "B": "In addition, the startup plans expansions.",
+        "C": "NO CHANGE",
+        "D": "The text is complete as is."
+      },
+      "answer": "D",
+      "explanation": "The passage is coherent and complete without needing additional text, as it fully describes the product and its availability.",
+      "score_improvement_tip": "Evaluate if the sentence structure maintains logical flow and completeness without unnecessary additions."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the text, the author would most likely agree with which one of the following statements about coffee production?",
+      "options": {
+        "A": "It is largely unaffected by climate change due to adaptive farming techniques.",
+        "B": "Its environmental impacts are overstated compared to other industries.",
+        "C": "It poses significant sustainability challenges that threaten its future viability.",
+        "D": "It primarily benefits native ecosystems through diversified land use."
+      },
+      "answer": "C",
+      "explanation": "The text details various threats like climate events, resource use, and emissions, culminating in an 'existential crisis' for the industry.",
+      "score_improvement_tip": "Draw logical inferences from implied ideas by connecting multiple details across the text."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "As used in the text, \"inkling\" most nearly means",
+      "options": {
+        "A": "suspicion",
+        "B": "hint",
+        "C": "marking",
+        "D": "impression"
+      },
+      "answer": "B",
+      "explanation": "Tan refers to a vague idea or slight knowledge from prior work about potential ingredients, aligning with 'hint' in context.",
+      "score_improvement_tip": "Analyze nuanced vocabulary by considering how it advances the narrative or character's expertise."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "While revising a paragraph about sustainable food innovations, a student claims that partnerships between diverse professionals can accelerate environmental solutions. Which choice most effectively uses relevant evidence from the text to support the student's claim?",
+      "options": {
+        "A": "The text describes Tan and Berber's meeting at a startup accelerator and their shared passion for coffee.",
+        "B": "The text mentions that upcyclers aim to make leftovers appealing, reducing environmental footprints.",
+        "C": "The text notes Tan's background in fermentation and Berber's neuroscience expertise leading to a beanless drink.",
+        "D": "The text explains that both men were coffee lovers who joined the upcycling movement."
+      },
+      "answer": "C",
+      "explanation": "This choice highlights how their diverse backgrounds (fermentation and neuroscience) combined to create an innovative solution.",
+      "score_improvement_tip": "Select evidence that directly links diverse elements to outcomes, synthesizing information for stronger arguments."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Suppose a researcher claimed that scientific analysis is unnecessary for developing food substitutes. The details in the text best support which one of the following responses to the researcher's claim?",
+      "options": {
+        "A": "It refutes the claim by showing how gas chromatography mass spectrometry guided ingredient tweaks.",
+        "B": "It supports the claim by noting initial trials relied on intuition rather than science.",
+        "C": "It refutes the claim by emphasizing the failure of non-scientific methods like roasting chicory.",
+        "D": "It supports the claim by describing the time-consuming nature of experimentation."
+      },
+      "answer": "A",
+      "explanation": "The text illustrates the technique's role in identifying molecules and improving brews, countering the idea that science is unnecessary.",
+      "score_improvement_tip": "Evaluate how evidence interacts with hypothetical claims, inferring connections across ideas."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Which choice most logically completes the text?\n\nFor those who want their kick, the startup adds caffeine powder from tea leaves. On a warming planet, tea plants are a better bet, Tan explains: “You’re harvesting the leaves, which are a lot more plentiful than the coffee berries.”\n\nCurrently, Prefer Coffee sells its brew in Singapore only, but it hopes to expand to other places while still upcycling local waste. ______ In the Philippines, for example, leftover cassava, sugarcane, or pineapple might be used, Tan says.",
+      "options": {
+        "A": "Nevertheless,",
+        "B": "For instance,",
+        "C": "In contrast,",
+        "D": "Consequently,"
+      },
+      "answer": "B",
+      "explanation": "The transition introduces a specific example of expansion and local adaptations, fitting 'For instance' to connect the ideas smoothly.",
+      "score_improvement_tip": "Choose transitions that reflect the logical relationship, such as exemplification, to enhance rhetorical flow."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, rhetorical analysis, and synthesis, accurately interpreting nuanced vocabulary, text structures, and cross-connections while applying conventions precisely.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension of central ideas and details but may falter on subtle inferences, complex vocabulary contexts, or integrating evidence for rhetorical purposes."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences, cross-text connections, rhetorical synthesis, and nuanced transitions, requiring deep analysis and reasoning to connect implicit ideas.",
+    "medium_questions": "Medium questions focus on command of evidence, text purpose, and standard conventions, testing the ability to interpret details and maintain structural sense.",
+    "easy_questions": "Easy questions assess basic central ideas and words in context, emphasizing direct comprehension of explicit information and straightforward meanings."
+  }
+}

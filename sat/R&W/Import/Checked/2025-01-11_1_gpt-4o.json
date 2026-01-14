@@ -1,0 +1,123 @@
+{
+    "article_title": "The Case for Strategic Modesty",
+    "article_author": "Shalena Srna, Alixandra Barasch, and Deborah A.",
+    "article_date": "November-December 2023",
+    "article_source": "Harvard Business Review",
+    "article_category": "Essay",
+    "article_tags": ["Psychology", "Cooperation", "Social Media", "Consumption"],
+    "passage_list": [
+        {
+            "passage_number": 1,
+            "text": "In 1899 the economist and sociologist Thorstein Veblen introduced the concept of conspicuous consumption, or the flaunting of one’s wealth to gain status and recognition. New research finds a context in which people are better off holding back: when cooperation is at a premium."
+          },
+          {
+            "passage_number": 2,
+            "text": "In the first of several online experiments, 303 participants from all over the world were recruited to play a variation of the Prisoner’s Dilemma— a game in which people can cooperate for mutual benefit or betray their partner for personal gain. Each was first shown an avatar supposedly designed by his or her partner. Half the avatars wore a shirt with a prominent logo of a luxury brand; the other half had shirts that were plain but otherwise identical. Just 45% of the participants whose partners had a status-signaling avatar played the game cooperatively, compared with 57% of those whose partners had a modestly dressed avatar."
+          },
+          {
+            "passage_number": 3,
+            "text": "The next experiment found the same pattern even when participants were allowed to dress an avatar of their own from a slate of outfits and chose clothing with a luxury brand. And when people were asked to evaluate 'John Thompson' for a cooperative social-media community, they were more likely to give him a thumbs-up when he had a modest profile than when he posted about luxury items or experiences."
+          },
+          {
+            "passage_number": 4,
+            "text": "Other experiments in the series suggest that people recognize the strategic value of modesty when they need to appear cooperative. For example, when asked to imagine that they wanted to join an online group and had to choose a profile picture that either included or omitted a luxury logo, just 27% of participants who were told that the group emphasized cooperation included the logo, compared with 43% of participants who weren’t told of that priority. 'Even though conspicuous consumption is a strategic behavior with assumed positive signal value… it also conveys a boastful self-interest, which is incompatible, in people’s minds, with prosociality,' the researchers write. 'Because prosociality is critical for cooperation, the signal value of conspicuous consumption flips from positive to negative in this situation.' These insights are especially important in the era of social media, they note, given how widely people can broadcast their consumption choices."
+          }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary focus of the first passage?",
+        "options": {
+          "A": "The historical roots of economic theory",
+          "B": "The benefits of flaunting wealth",
+          "C": "The relationship between cooperation and modesty",
+          "D": "The impact of conspicuous consumption on social media"
+        },
+        "answer": "C",
+        "explanation": "The passage discusses Veblen’s concept of conspicuous consumption and introduces the research context, which focuses on how modesty is beneficial in situations requiring cooperation.",
+        "score_improvement_tip": "Pay attention to overarching themes and connections presented in the opening statements of a text."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "In the context of the second passage, what does the term \"status-signaling\" most likely mean?",
+        "options": {
+          "A": "Demonstrating social skills",
+          "B": "Indicating a desire for luxury",
+          "C": "Highlighting wealth and prestige",
+          "D": "Avoiding cooperative behavior"
+        },
+        "answer": "C",
+        "explanation": "The term \"status-signaling\" refers to showcasing one’s status, as seen in the use of luxury brand logos in the experiment described.",
+        "score_improvement_tip": "Consider the surrounding text and examples to understand unfamiliar terms."
+      },
+      {
+        "question_number": 3,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which transition phrase would best connect the ideas in this passage?",
+        "options": {
+          "A": "On the contrary",
+          "B": "Similarly",
+          "C": "Meanwhile",
+          "D": "For example"
+        },
+        "answer": "B",
+        "explanation": "The passage extends the results of earlier experiments, making \"Similarly\" the most appropriate choice to maintain the logical flow.",
+        "score_improvement_tip": "Evaluate whether the transition reinforces, contrasts, or expands on the ideas presented."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What evidence does the passage provide to support the claim that modesty is strategically valuable for cooperation?",
+        "options": {
+          "A": "Participants avoided luxury logos when cooperation was prioritized.",
+          "B": "Conspicuous consumption signals boastful self-interest.",
+          "C": "Social media amplifies consumption signals widely.",
+          "D": "27% of participants preferred to display modesty regardless of context."
+        },
+        "answer": "A",
+        "explanation": "The passage explicitly mentions that fewer participants included a luxury logo when cooperation was emphasized, supporting the idea that modesty aids cooperation.",
+        "score_improvement_tip": "Locate specific evidence within the text that directly supports the stated claim."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Form, Structure, and Sense",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which revision would best improve the clarity of the final sentence?",
+        "options": {
+          "A": "These insights matter because social media amplifies consumption choices widely.",
+          "B": "Given social media’s reach, these insights are especially important.",
+          "C": "Social media makes these insights critical due to its wide broadcast range.",
+          "D": "The wide reach of social media makes these insights crucial today."
+        },
+        "answer": "B",
+        "explanation": "Option B is concise and maintains clarity without altering the meaning, aligning with formal writing standards.",
+        "score_improvement_tip": "Strive for revisions that eliminate redundancy while preserving meaning and readability."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }
+  

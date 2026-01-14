@@ -1,0 +1,227 @@
+{
+  "article_title": "The new hotness",
+  "article_author": "Elissaveta M. Brandon",
+  "article_date": "May-June,2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Volcanoes", "Architecture", "Sustainability", "Iceland", "Lavaforming"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Arnhildur Pálmadóttir was around three years old when she saw a red sky from her living room window. A volcano was erupting about 25 miles away from where she lived on the northeastern coast of Iceland. Though it posed no immediate threat, its ominous presence seeped into her subconscious, populating her dreams with streaks of light in the night sky. Fifty years later, these “gloomy, strange dreams,” as Pálmadóttir now describes them, have led to a career as an architect with an extraordinary mission: to harness molten lava and build cities out of it.<br><br>Pálmadóttir today lives in Reykjavik, where she runs her own architecture studio, S.AP Arkitektar, and the Icelandic branch of the Danish architecture company Lendager, which specializes in reusing building materials."
+    },
+    {
+      "passage_number": 2,
+      "text": "The architect believes the lava that flows from a single eruption could yield enough building material to lay the foundations of an entire city. She has been researching this possibility for more than five years as part of a project she calls Lavaforming. Together with her son and colleague Arnar Skarphéðinsson, she has identified three potential techniques: drill straight into magma pockets and extract the lava; channel molten lava into pre-dug trenches that could form a city’s foundations; or 3D-print bricks from molten lava in a technique similar to the way objects can be printed out of molten glass."
+    },
+    {
+      "passage_number": 3,
+      "text": "Pálmadóttir and Skarphéðinsson first presented the concept during a talk at Reykjavik’s DesignMarch festival in 2022. This year they are producing a speculative film set in 2150, in an imaginary city called Eldborg. Their film, titled Lavaforming, follows the lives of Eldborg’s residents and looks back on how they learned to use molten lava as a building material. It will be presented at the Venice Biennale, a leading architecture festival, in May."
+    },
+    {
+      "passage_number": 4,
+      "text": "Buildings and construction materials like concrete and steel currently contribute a staggering 37% of the world’s annual carbon dioxide emissions. Many architects are advocating for the use of natural or preexisting materials, but mixing earth and water into a mold is one thing; tinkering with 2,000 °F lava is another."
+    },
+    {
+      "passage_number": 5,
+      "text": "Still, Pálmadóttir is piggybacking on research already being done in Iceland, which has 30 active volcanoes. Since 2021, eruptions have intensified in the Reykjanes Peninsula, which is close to the capital and to tourist hot spots like the Blue Lagoon. In 2024 alone, there were six volcanic eruptions in that area. This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast,” says Gro Birkefeldt M. Pedersen, a volcanologist at the Icelandic Meteorological Office (IMO), who has consulted with Pálmadóttir on a few occasions. “There is so much going on, and we’re just trying to catch up and be prepared.”"
+    },
+    {
+      "passage_number": 6,
+      "text": "Pálmadóttir’s concept assumes that many years from now, volcanologists will be able to forecast lava flow accurately enough for cities to plan on using it in building. They will know when and where to dig trenches so that when a volcano erupts, the lava will flow into them and solidify into either walls or foundations.<br><br>Today, forecasting lava flows is a complex science that requires remote sensing technology and tremendous amounts of computational power to run simulations on supercomputers. The IMO typically runs two simulations for every new eruption¡one based on data from previous eruptions, and another based on additional data acquired shortly after the eruption (from various sources like specially outfitted planes). With every event, the team accumulates more data, which makes the simulations of lava flow more accurate. Pedersen says there is much research yet to be done, but she expects “a lot of advancement” in the next 10 years or so."
+    },
+    {
+      "passage_number": 7,
+      "text": "To design the speculative city of Eldborg for their film, Pálmadóttir and Skarphéðinsson used 3D-modeling software similar to what Pedersen uses for her simulations. The city is primarily built on a network of trenches that were filled with lava over the course of several eruptions, while buildings are constructed out of lava bricks. “We’re going to let nature design the buildings that will pop up,” says Pálmadóttir."
+    },
+    {
+      "passage_number": 8,
+      "text": "The aesthetic of the city they envision will be less modernist and more fantastical¡a bit “like ¢Gaudi’s£ Sagrada Familia,” says Pálmadóttir. But the aesthetic output is not really the point; the architects’ goal is to galvanize architects today and spark an urgent discussion about the impact of climate change on our cities. She stresses the value of what can only be described as moonshot thinking. “I think it is important for architects not to be only in the present,” she told me. “Because if we are only in the present, working inside the system, we won’t change anything.”"
+    },
+    {
+      "passage_number": 9,
+      "text": "Pálmadóttir was born in 1972 in Húsavik, a town known as the whale-watching capital of Iceland. But she was more interested in space and technology and spent a lot of time flying with her father, a construction engineer who owned a small plane. She credits his job for the curiosity she developed about science and “how things were put together”¡an inclination that proved useful later, when she started researching volcanoes. So was the fact that Icelanders “learn to live with volcanoes from birth.” At 21, she moved to Norway, where she spent seven years working in 3D visualization before returning to Reykjavik and enrolling in an architecture program at the Iceland University of the Arts. But things didn’t click until she moved to Barcelona for a master’s degree at the Institute for Advanced Architecture of Catalonia. “I remember being there and feeling, finally, like I was in the exact right place,” she says."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What primarily influenced Arnhildur Pálmadóttir's career as an architect focused on using molten lava?",
+      "options": {
+        "A": "Her father's profession in construction engineering",
+        "B": "Her childhood dreams inspired by a volcanic eruption",
+        "C": "Her education in Barcelona",
+        "D": "Her work in 3D visualization in Norway"
+      },
+      "answer": "B",
+      "explanation": "The passage describes how Pálmadóttir's childhood experience with a volcano led to dreams that inspired her mission to build cities from lava.",
+      "score_improvement_tip": "Identify the key event or influence directly stated in the text to pinpoint central ideas without overcomplicating secondary details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'yield' most nearly means",
+      "options": {
+        "A": "produce",
+        "B": "surrender",
+        "C": "bend",
+        "D": "admit"
+      },
+      "answer": "A",
+      "explanation": "In the context of lava providing building material, 'yield' refers to producing or supplying enough material for foundations.",
+      "score_improvement_tip": "Consider how the word fits the sentence's meaning by substituting options and checking for logical consistency."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main purpose of the film titled Lavaforming?",
+      "options": {
+        "A": "To document real volcanic eruptions in Iceland",
+        "B": "To explore the daily lives in a future city built from lava",
+        "C": "To critique modern architecture festivals",
+        "D": "To promote Reykjavik’s DesignMarch festival"
+      },
+      "answer": "B",
+      "explanation": "The passage explains the film follows residents of Eldborg and reflects on learning to use lava as building material.",
+      "score_improvement_tip": "Focus on explicit descriptions of purpose and distinguish between primary goals and incidental details."
+    },
+    {
+      "question_number": 4,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The writer wants to add a transition at the beginning of the second sentence to link it to the first. Which choice best achieves this goal?",
+      "options": {
+        "A": "In fact,",
+        "B": "However,",
+        "C": "For example,",
+        "D": "Therefore,"
+      },
+      "answer": "B",
+      "explanation": "The second sentence contrasts simple natural materials with the complexity of using lava, making 'However,' the appropriate transition.",
+      "score_improvement_tip": "Evaluate how transitions signal relationships like contrast or addition to ensure smooth logical flow."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts “We try to follow this beast,” says Gro Birkefeldt M. Pedersen",
+        "B": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast,” says Gro Birkefeldt M. Pedersen",
+        "C": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts “We try to follow this beast” says Gro Birkefeldt M. Pedersen",
+        "D": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts, “We try to follow this beast,” says Gro Birkefeldt M. Pedersen"
+      },
+      "answer": "B",
+      "explanation": "The quote requires a period after 'erupts' to separate the sentences properly.",
+      "score_improvement_tip": "Check punctuation around quotes and sentence boundaries to maintain clarity and grammatical accuracy."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the passage, the reader can most reasonably infer that accurate lava flow forecasting in the future would primarily enable",
+      "options": {
+        "A": "complete prevention of volcanic eruptions",
+        "B": "strategic planning for utilizing lava in urban development",
+        "C": "reduction in the need for remote sensing technology",
+        "D": "elimination of data accumulation from past events"
+      },
+      "answer": "B",
+      "explanation": "The passage implies that forecasting would allow cities to dig trenches in advance for lava to form structures, supporting strategic use in building.",
+      "score_improvement_tip": "Draw logical conclusions from implied ideas by connecting assumptions to stated outcomes."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "The main purpose of the quoted statement “We’re going to let nature design the buildings that will pop up” is to",
+      "options": {
+        "A": "emphasize the unpredictable role of lava in shaping architecture",
+        "B": "criticize traditional 3D-modeling software",
+        "C": "highlight the superiority of human-designed structures",
+        "D": "describe the process of filling trenches with lava"
+      },
+      "answer": "A",
+      "explanation": "The quote underscores allowing natural lava flows to determine building forms, illustrating a hands-off approach to design.",
+      "score_improvement_tip": "Analyze how quotes contribute to the overall rhetorical structure by revealing author intent or emphasis."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "While researching a topic, a student has taken the following notes:<br>• The envisioned city has a fantastical aesthetic similar to Sagrada Familia.<br>• Aesthetic is secondary to the project's goal.<br>• Goal: Galvanize architects and discuss climate change impacts.<br>• Emphasizes moonshot thinking beyond the present.<br>The student wants to emphasize the project's broader objective over its visual aspects. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": {
+        "A": "While the city resembles Sagrada Familia, its true aim is to inspire discussion on climate change through innovative thinking.",
+        "B": "The aesthetic draws from Sagrada Familia, focusing on moonshot ideas.",
+        "C": "Moonshot thinking is key, as the city looks fantastical like Sagrada Familia.",
+        "D": "Architects are galvanized by the Sagrada Familia-like design and climate discussions."
+      },
+      "answer": "A",
+      "explanation": "Choice A contrasts aesthetics with the primary goal of sparking climate discussions via innovative thinking.",
+      "score_improvement_tip": "Synthesize notes to prioritize key objectives, ensuring the response aligns with the rhetorical goal."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 9,
+      "question": "Suppose a researcher claims that early life experiences minimally influence career paths in architecture. How would the information in the passage most directly respond to this claim?",
+      "options": {
+        "A": "It would contradict the claim by showing Pálmadóttir's volcanic exposure and family influences shaped her research interests.",
+        "B": "It would support the claim by noting her education in Barcelona was the turning point.",
+        "C": "It would contradict the claim by emphasizing her move to Norway for 3D work.",
+        "D": "It would support the claim by highlighting her birth in a whale-watching town."
+      },
+      "answer": "A",
+      "explanation": "The passage links her childhood volcano experiences and father's influence to her curiosity in science and volcanoes, directly shaping her career.",
+      "score_improvement_tip": "Compare hypothetical claims to text evidence to determine agreement or contradiction through key connections."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical and precise word or phrase?",
+      "options": {
+        "A": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast,” says Gro Birkefeldt M. Pedersen, a volcanologist at the Icelandic Meteorological Office (IMO), who has consulted with Pálmadóttir on a few occasions. “There is so much going on, and we’re just trying to catch up and be prepared.”",
+        "B": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast,” says Gro Birkefeldt M. Pedersen, a volcanologist at the Icelandic Meteorological Office (IMO), who has consulted with Pálmadóttir on a few occasions, “There is so much going on, and we’re just trying to catch up and be prepared.”",
+        "C": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast,” says Gro Birkefeldt M. Pedersen, a volcanologist at the Icelandic Meteorological Office (IMO), who has consulted with Pálmadóttir on a few occasions “There is so much going on, and we’re just trying to catch up and be prepared.”",
+        "D": "This frequency has given volcanologists opportunities to study how lava behaves after a volcano erupts. “We try to follow this beast” says Gro Birkefeldt M. Pedersen, a volcanologist at the Icelandic Meteorological Office (IMO), who has consulted with Pálmadóttir on a few occasions. “There is so much going on, and we’re just trying to catch up and be prepared.”"
+      },
+      "answer": "A",
+      "explanation": "The quotes are separate statements, requiring proper punctuation to maintain logical sentence structure and sense.",
+      "score_improvement_tip": "Ensure word choice and structure preserve precise meaning and logical flow in complex sentences."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, synthesis, and analysis across domains, accurately interpreting nuanced text structures and rhetorical elements while applying conventions flawlessly.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on subtle inferences, cross-text connections, or sophisticated rhetorical revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge advanced reasoning, such as making inferences, synthesizing information rhetorically, and analyzing cross-text connections or complex structures.",
+    "medium_questions": "Medium questions test comprehension of purposes, transitions, and conventions, requiring attention to details and logical relationships.",
+    "easy_questions": "Easy questions assess basic identification of central ideas and word meanings in context, focusing on explicit information."
+  }
+}

@@ -1,0 +1,207 @@
+{
+    "article_title": "The UN’s urgent climate to-do list",
+    "article_author": "Casey Crownhart",
+    "article_date": "May-June, 2023",
+    "article_source": "MIT Technology Review",
+    "article_category": "Essay",
+    "article_tags": ["Renewable Energy", "Methane Emissions", "Biodiversity", "Climate Action"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Cutting emissions in the near term will require shifting away from polluting fossil fuels for energy production and toward renewable energy sources like wind and solar power. The scale of wind and solar deployment already underway is staggering: the world is set to build as much wind and solar capacity in the five years between 2022 and 2027 as it did in the past two decades, according to the International Energy Agency.<br>Plummeting costs have helped this growth: between 2010 and 2019, the cost of solar energy fell by about 85%, the report says. Wind energy costs dropped by about half during the same time frame. Now, wind and solar are among the cheapest energy sources available—deploying new solar and wind farms can be even cheaper than just maintaining existing coal power plants in the US. But as inexpensive as wind and solar are, they can still represent a significant financial investment. That’s why the new report emphasizes that improved access to financing, especially for developing nations, would help speed climate action."
+      },
+      {
+        "passage_number": 2,
+        "text": "Cutting methane emissions this decade will be key to reaching climate goals and limiting peak warming levels: hitting the 1.5 °C target will require methane emissions to fall by a third between 2019 and 2030, according to the IPCC report. Some of the top targets for emissions cuts include oil and gas production and food waste.<br>Investments in new infrastructure to cut methane emissions from oil and gas could end up breaking even: according to the IEA, an annual investment of $11 billion would be needed to clean up the sector, but the value of the captured methane could be more than enough to cover the cost."
+      },
+      {
+        "passage_number": 3,
+        "text": "The impacts of human-caused climate change 'threaten our life support system, nature itself,' said Lee. Conserving and restoring natural ecosystems will not only be key for preserving biodiversity—it’ll have emissions benefits too. Natural ecosystems can trap and store carbon, and tropical rain forests are among the planet’s largest carbon sinks. Preserving these and other ecosystems could be a low-cost, high-value way to slow climate change.<br>Policies around the world are already helping to cut deforestation, according to the IPCC report. And in December 2022, over 190 nations signed a UN biodiversity pledge to protect 30% of the natural world by 2030."
+      },
+      {
+        "passage_number": 4,
+        "text": "Shifting to public transportation and biking for some travel needs is an inexpensive way to limit near-term emissions. And boosting efficiency in everything from vehicles to appliances could shave off emissions too. Public policies have already been effective at boosting efficiency measures in particular, according to the report. Efficiency gains can also help make climate progress in sectors like aviation and shipping, which will be much more difficult to clean up in the long term. Many of these solutions are the same ones that the IPCC and others have been talking about for decades.<br>Now, there’s only one clear path forward. 'We must move from climate procrastination to climate action,' Andersen said, 'and we must begin this today.'"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "The first passage primarily emphasizes:",
+        "options": {
+          "A": "The environmental risks of coal power",
+          "B": "The cost-effectiveness and growth of wind/solar energy",
+          "C": "The challenges of financing nuclear power",
+          "D": "The role of developing nations in coal production"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the rapid deployment and declining costs of wind/solar energy, supported by data from the IEA.",
+        "score_improvement_tip": "Identify repeated keywords like 'cheapest' and 'growth' to pinpoint the central idea."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in line 2, 'breaking even' most nearly means:",
+        "options": {
+          "A": "Causing financial losses",
+          "B": "Achieving cost recovery",
+          "C": "Increasing methane production",
+          "D": "Reducing investment risks"
+        },
+        "answer": "B",
+        "explanation": "The context states the captured methane’s value could 'cover the cost,' indicating financial balance (breaking even).",
+        "score_improvement_tip": "Use surrounding phrases like 'cover the cost' to decode idiomatic expressions."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "The author implies that tropical rainforests are particularly valuable because they:",
+        "options": {
+          "A": "Host unique wildlife species",
+          "B": "Serve as major carbon storage systems",
+          "C": "Require minimal conservation funding",
+          "D": "Attract international tourism"
+        },
+        "answer": "B",
+        "explanation": "The passage explicitly labels tropical rainforests as 'carbon sinks,' linking their value to emissions reduction.",
+        "score_improvement_tip": "Connect explicit details (e.g., 'carbon sinks') to broader implications."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "The quotation from Andersen ('We must move... today') primarily serves to:",
+        "options": {
+          "A": "Criticize past inaction",
+          "B": "Urge immediate policy changes",
+          "C": "Highlight technological barriers",
+          "D": "Compare climate strategies"
+        },
+        "answer": "B",
+        "explanation": "The call to 'begin today' underscores urgency, aligning with the passage’s focus on actionable solutions.",
+        "score_improvement_tip": "Analyze quotes for their motivational or conclusive role in the argument."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "Which choice best combines the underlined sentences? 'Plummeting costs have helped this growth. Between 2010 and 2019, the cost of solar energy fell by about 85%.'",
+        "options": {
+          "A": "Plummeting costs have helped this growth; between 2010 and 2019, the cost of solar energy fell by about 85%.",
+          "B": "Plummeting costs have helped this growth, between 2010 and 2019, the cost of solar energy fell by about 85%.",
+          "C": "Plummeting costs have helped this growth: between 2010 and 2019, the cost of solar energy fell by about 85%.",
+          "D": "Plummeting costs have helped this growth, but between 2010 and 2019, the cost of solar energy fell by about 85%."
+        },
+        "answer": "C",
+        "explanation": "A colon correctly introduces the explanatory data about solar cost reductions.",
+        "score_improvement_tip": "Use punctuation to clarify relationships between clauses (e.g., explanation vs. contrast)."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "The methane investment example in Passage 2 is most analogous to which strategy in Passage 1?",
+        "options": {
+          "A": "Building wind farms to replace coal plants",
+          "B": "Securing funding for developing nations",
+          "C": "Signing the UN biodiversity pledge",
+          "D": "Promoting public transportation"
+        },
+        "answer": "B",
+        "explanation": "Both examples focus on financial mechanisms (investment returns vs. financing access) to enable climate solutions.",
+        "score_improvement_tip": "Look for thematic parallels in funding or economic incentives across passages."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which detail best supports the claim that efficiency measures are effective?",
+        "options": {
+          "A": "'Shifting to public transportation... limit near-term emissions.'",
+          "B": "'Public policies have already been effective at boosting efficiency measures.'",
+          "C": "'Efficiency gains can also help... aviation and shipping.'",
+          "D": "'Many of these solutions... talking about for decades.'"
+        },
+        "answer": "B",
+        "explanation": "This sentence directly cites policy success in improving efficiency.",
+        "score_improvement_tip": "Prioritize evidence that explicitly mentions outcomes or results."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Which transition best completes the sentence? 'Preserving ecosystems benefits biodiversity, ______ it also aids carbon sequestration.'",
+        "options": {
+          "A": "however",
+          "B": "furthermore",
+          "C": "because",
+          "D": "although"
+        },
+        "answer": "B",
+        "explanation": "'Furthermore' correctly adds a parallel benefit without introducing contrast or causation.",
+        "score_improvement_tip": "Match transition words to the relationship between ideas (addition vs. contrast)."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 3,
+        "question": "According to the passage, what percentage of the natural world does the UN biodiversity pledge aim to protect by 2030?",
+        "options": {
+          "A": "20%",
+          "B": "25%",
+          "C": "30%",
+          "D": "35%"
+        },
+        "answer": "C",
+        "explanation": "The passage explicitly states 'protect 30% of the natural world by 2030.'",
+        "score_improvement_tip": "Scan for numerical data when answering detail-oriented questions."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "The author references 'aviation and shipping' primarily to:",
+        "options": {
+          "A": "Identify sectors resistant to policy changes",
+          "B": "Contrast them with easier-to-decarbonize industries",
+          "C": "Highlight the limits of efficiency measures",
+          "D": "Emphasize the need for long-term solutions"
+        },
+        "answer": "D",
+        "explanation": "These sectors are mentioned to show efficiency’s role in addressing hard-to-decarbonize areas, stressing long-term planning.",
+        "score_improvement_tip": "Analyze examples for their role in reinforcing the passage’s broader argument."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring 800 demonstrate advanced synthesis of cross-text themes, nuanced analysis of rhetorical strategies, and mastery of complex grammatical structures. They excel at connecting technical details (e.g., cost data) to global implications.",
+      "700_level_performance": "Students scoring 700 show strong comprehension of explicit ideas and vocabulary but may struggle with high-level inference, rhetorical purpose, and integrating evidence across passages."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test the ability to infer implicit connections (e.g., methane investments vs. renewable financing), analyze rhetorical purpose, and apply advanced punctuation rules.",
+      "medium_questions": "Medium questions focus on vocabulary in technical contexts, combining sentences grammatically, and identifying explicit evidence.",
+      "easy_questions": "Easy questions assess direct recall of numerical data and central ideas explicitly stated in the text."
+    }
+  }

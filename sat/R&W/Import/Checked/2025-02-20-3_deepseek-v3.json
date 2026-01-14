@@ -1,0 +1,231 @@
+{
+    "article_title": "An Invisible Epidemic",
+    "article_author": "Elizabeth Svoboda",
+    "article_date": "2022",
+    "article_source": "Scientific American",
+    "article_category": "Essay",
+    "article_tags": ["Moral Injury", "Mental Health", "Therapy", "PTSD"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Those words would surely resonate with McGowan. During an increase in COVID cases, as we approach a hospital where she works regular shifts, an ambulance pulls out of the parking lot, lights flashing, underneath looming clouds. “That’s probably another transfer,” McGowan says. Someone, in other words, has claimed one of the few available COVID beds in the region, meaning someone else—someone just as sick—may have to do without. Inside the ER, a bare-bones suite of rooms and hallways, glove boxes and black cords dangle from the walls. As we walk around, we spot warning signs of other moral compromises ahead. A scrawled note on a hallway whiteboard reads, “Critical shortage of green top tubes, 0-day supply of blue tops.” When these tubes run out, McGowan explains, she may not be able to order blood tests patients need—and, as a result, may have a hard time figuring out what’s wrong with them."
+      },
+      {
+        "passage_number": 2,
+        "text": "On many days during the pandemic, McGowan has struggled with the dislocation of shuttling between the ER—a personal hell of COVID deniers, irate family members and dying patients and the outside world, which feels disturbingly normal. How, she wonders, can people nonchalantly chat and sip coffee when, minutes before, she sent someone home who could barely breathe? How can her own moral world be knocked so profoundly off-axis while the larger world continues to spin with scarcely a wobble?"
+      },
+      {
+        "passage_number": 3,
+        "text": "McGowan sees a therapist to help her process the situations she’s faced, which she says has been helpful. Yet she continues to grapple with the fallout of moral dilemmas, reflecting a growing consensus that traditional therapy may not always be enough to help morally injured people get past lingering demons. Those who seek help sometimes make headway with basic cognitive-behavioral therapy (CBT), the current gold standard among insurers. Some researchers think CBT approaches are sufficient to treat moral injury."
+      },
+      {
+        "passage_number": 4,
+        "text": "But one sticking point with CBT is that it focuses on correcting clients’ distorted thought patterns. For people with moral injury who’ve experienced wrenching events that upend their entire value system, ethical distress is genuine, not the product of distorted thinking, Harwood-Gross says. If people with moral injury simply try to retrain their thoughts, they may be left unsatisfied and unhealed."
+      },
+      {
+        "passage_number": 5,
+        "text": "Therapies for PTSD can likewise fall short for morally injured patients, in Harwood-Gross’s experience. PTSD-focused approaches teach clients to adapt to traumatic triggers, such as fireworks that sound like gunshots, but this exposure approach doesn’t really help them resolve deep ethical conflicts. Effective moral injury counseling is “more about the processing,” Harwood-Gross says. “There has to be that movement: ‘How do I see it for what it is and, from there, develop something more meaningful?’ It’s a more spiritual approach.”"
+      },
+      {
+        "passage_number": 6,
+        "text": "Recognizing moral injury’s unique challenges, psychologists such as Litz have been creating therapies that more directly address clients’ needs. Litz and other providers have pioneered a moral injury treatment called adaptive disclosure. Researchers at Australia’s La Trobe University and University of Queensland have developed a similar approach called pastoral narrative disclosure. The latter involves discussing moral issues with a chaplain or other spiritual adviser rather than a doctor."
+      },
+      {
+        "passage_number": 7,
+        "text": "These therapies stress the importance of moral reckoning. They encourage clients to accept uncomfortable truths: “I led that attack on Iraqi civilians”; “I sent that suffering patient home without treatment.” Then, with clients’ input, counselors can help them develop strategies for making amends or pursuing closure say, apologizing to a family whose child they injured."
+      },
+      {
+        "passage_number": 8,
+        "text": "Early evidence suggests these approaches make headway where others can’t. In Litz’s initial trial of adaptive disclosure on forty-four marines, participants’ negative beliefs about both themselves and the world diminished. Most also said the therapy helped to resolve their moral dilemmas."
+      },
+      {
+        "passage_number": 9,
+        "text": "Earlier this year Litz wrapped up a 173-person clinical trial of adaptive disclosure at VA sites in Boston, Minneapolis, San Diego, San Francisco, and central Texas. The trial’s results have not yet been published, but Litz found that, in general, adaptive disclosure boosted participants’ level of functioning over time. Litz says his goal is not to wipe people’s moral slates clean but to restore their ability to thrive. “You’ll never not feel awful when you think about what happened,” Litz adds. “That’s going to be the new normal. The question is ‘How do you rehabilitate and live a good-enough life?’”"
+      },
+      {
+        "passage_number": 10,
+        "text": "For Brock’s VOA team, moral injury rehabilitation also involves a suite of peer-support programs. The Shay Moral Injury Center’s core group offering, Resilience Strength Training (RST), is a sixty-hour, in-person program where people with moral injury share stories about events that caused it, engage in talks about forgiveness (for themselves or others), and do exercises to help them define their value system and purpose going forward In a survey study at two VOA program sites, participants scored an average of 46 percent higher on a scale of post-traumatic growth and 19 percent higher on a scale of perceived meaning in life than they had before starting the program. Although the in-person program paused during the pandemic, plans to restart it are currently underway."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The challenges faced by McGowan in the ER during the pandemic",
+          "B": "The shortage of medical supplies in the hospital",
+          "C": "The emotional toll of COVID-19 on healthcare workers",
+          "D": "The impact of COVID-19 on hospital infrastructure"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the challenges McGowan faces in the ER, including resource shortages and moral dilemmas, during the pandemic.",
+        "score_improvement_tip": "Identify the central subject of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the passage, what does the word 'dislocation' most nearly mean?",
+        "options": {
+          "A": "Separation",
+          "B": "Confusion",
+          "C": "Disruption",
+          "D": "Isolation"
+        },
+        "answer": "C",
+        "explanation": "In this context, 'dislocation' refers to the disruption McGowan feels between her experiences in the ER and the normalcy of the outside world.",
+        "score_improvement_tip": "Use context clues to infer the meaning of words that describe emotional or psychological states."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What can be inferred about traditional therapy’s effectiveness for moral injury?",
+        "options": {
+          "A": "It is universally effective for all patients.",
+          "B": "It may not fully address the needs of morally injured individuals.",
+          "C": "It is the only treatment option available for moral injury.",
+          "D": "It is more effective than newer therapies like adaptive disclosure."
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that traditional therapy, while helpful, may not fully address the unique challenges of moral injury, as it focuses on distorted thought patterns rather than ethical distress.",
+        "score_improvement_tip": "Look for implicit information that is not directly stated but can be logically inferred from the text."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the discussion about CBT in the passage?",
+        "options": {
+          "A": "To highlight the limitations of CBT for treating moral injury",
+          "B": "To promote CBT as the best treatment for moral injury",
+          "C": "To compare CBT with other forms of therapy",
+          "D": "To explain the history of CBT in treating mental health issues"
+        },
+        "answer": "A",
+        "explanation": "The passage discusses how CBT may fall short in addressing the genuine ethical distress experienced by those with moral injury, highlighting its limitations.",
+        "score_improvement_tip": "Pay attention to the author's or character's intent when analyzing statements or reflections in the text."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which choice best describes the approach to moral injury counseling advocated by Harwood-Gross?",
+        "options": {
+          "A": "Focusing on correcting distorted thought patterns",
+          "B": "Encouraging clients to adapt to traumatic triggers",
+          "C": "Helping clients process and find meaning in their experiences",
+          "D": "Providing exposure therapy to reduce anxiety"
+        },
+        "answer": "C",
+        "explanation": "Harwood-Gross advocates for a more spiritual approach that involves processing experiences and finding meaning, rather than simply correcting thoughts or adapting to triggers.",
+        "score_improvement_tip": "Analyze the character's or expert's perspective to understand their approach or recommendations."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which piece of evidence best supports the idea that adaptive disclosure is effective for treating moral injury?",
+        "options": {
+          "A": "Therapies for PTSD can fall short for morally injured patients.",
+          "B": "Adaptive disclosure involves discussing moral issues with a chaplain.",
+          "C": "Participants in Litz’s trial reported diminished negative beliefs.",
+          "D": "CBT focuses on correcting distorted thought patterns."
+        },
+        "answer": "C",
+        "explanation": "The passage states that participants in Litz’s trial of adaptive disclosure reported diminished negative beliefs, providing evidence of its effectiveness.",
+        "score_improvement_tip": "Identify direct textual evidence that supports the main idea or specific claims in the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "How does the concept of moral reckoning in adaptive disclosure relate to the overall theme of the article?",
+        "options": {
+          "A": "It emphasizes the importance of addressing ethical distress directly.",
+          "B": "It suggests that moral injury can only be treated with medication.",
+          "C": "It highlights the role of chaplains in traditional therapy.",
+          "D": "It shows that CBT is the most effective treatment for moral injury."
+        },
+        "answer": "A",
+        "explanation": "Moral reckoning in adaptive disclosure aligns with the article’s theme by emphasizing the need to directly address ethical distress and find meaning in traumatic experiences.",
+        "score_improvement_tip": "Analyze how different parts of the text connect to support or explain a central theme or idea."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about the participants in Litz’s trial of adaptive disclosure?",
+        "options": {
+          "A": "They experienced no improvement in their condition.",
+          "B": "They reported a reduction in negative beliefs about themselves.",
+          "C": "They found CBT more effective than adaptive disclosure.",
+          "D": "They were primarily treated by chaplains."
+        },
+        "answer": "B",
+        "explanation": "The passage states that participants in Litz’s trial reported diminished negative beliefs, indicating an improvement in their condition.",
+        "score_improvement_tip": "Use descriptive language and specific details in the text to infer outcomes or results."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the primary purpose of Litz’s statement about the “new normal”?",
+        "options": {
+          "A": "To emphasize the permanence of emotional pain from moral injury",
+          "B": "To suggest that moral injury can be completely cured",
+          "C": "To promote the use of CBT for treating moral injury",
+          "D": "To criticize the effectiveness of adaptive disclosure"
+        },
+        "answer": "A",
+        "explanation": "Litz’s statement highlights that while emotional pain from moral injury may persist, the goal is to help individuals rehabilitate and live a meaningful life.",
+        "score_improvement_tip": "Consider the broader context and implications of specific statements or quotes in the text."
+      },
+      {
+        "question_number": 10,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Which choice best maintains the grammatical and logical coherence of the following sentence? “In a survey study at two VOA program sites, participants scored an average of 46 percent higher on a scale of post-traumatic growth and 19 percent higher on a scale of perceived meaning in life than they had before starting the program.”",
+        "options": {
+          "A": "NO CHANGE",
+          "B": "In a survey study at two VOA program sites, participants scored an average of 46 percent higher on a scale of post-traumatic growth, and 19 percent higher on a scale of perceived meaning in life than they had before starting the program.",
+          "C": "In a survey study at two VOA program sites, participants scored an average of 46 percent higher on a scale of post-traumatic growth and 19 percent higher on a scale of perceived meaning in life, than they had before starting the program.",
+          "D": "In a survey study at two VOA program sites, participants scored an average of 46 percent higher on a scale of post-traumatic growth and 19 percent higher on a scale of perceived meaning in life than they had before starting the program"
+        },
+        "answer": "A",
+        "explanation": "The original sentence is grammatically correct and logically coherent, with proper punctuation and structure.",
+        "score_improvement_tip": "Ensure that sentences maintain proper grammatical structure and logical flow, especially when dealing with complex ideas."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

@@ -1,0 +1,103 @@
+{
+    "article_title": "The Anabasis of Godspeed",
+    "article_author": "Ishion Hutchinson",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Poetry",
+    "article_tags": ["Journey", "War", "Imagery", "Reflection"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Bivouacking the night at PELUSIUM. Some nights from his hole at BARRACKS LANE<br>As the sugar factory purred to sleep and the canes curled their tails like fields of kittens<br>Godspeed polished the moon to see better Rosalie’s face and proceeded to ROMANI<br>In the morning. Moved to MAGDHABA by rail. And 2 platoons formed escort<br>To prisoners of war passing through the immemorial shade of the staffroom after<br>the successful action at RAFA."
+      },
+      {
+        "passage_number": 2,
+        "text": "Then men proceeded to TAHPANHES where weeping was ceaseless.<br><br>Proceeded through the reeds and hawks of UPPER EGYPT to the tamarisks and hornets of<br>LOWER EGYPT and from there to JERUSALEM where No. 9265 Pte. J. Floras<br>“A” boy died from dysentery. In the Quaker chapel alone Godspeed looked at<br>the white angels and the luxe hair Christ painted above the baptismal pool. He thought<br>Of the nub of magnet like a single black eye still whirling on the stalled fan."
+      },
+      {
+        "passage_number": 3,
+        "text": "The battalion halted the following night at SUFAIR-ES-SHARKIYEH. A pillar of fire some saw<br>When the stars went out. Godspeed trembled to the riddim like the curtains of MIDIAN<br>Trembling to the wind."
+      }
+    ],
+    "questions": [
+     
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the phrase 'weeping was ceaseless,' the word 'weeping' most likely refers to:",
+        "options": {
+          "A": "Continuous rainfall",
+          "B": "Persistent sorrow",
+          "C": "Sound of trees in the wind",
+          "D": "Symbolic mourning"
+        },
+        "answer": "B",
+        "explanation": "Given the somber tone and context of Tahpanhes, 'weeping' metaphorically represents persistent sorrow.",
+        "score_improvement_tip": "Consider both the literal and figurative meanings of words based on the passage's tone and context."
+      },
+      {
+        "question_number": 3,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Which sentence best connects the events at Sufair-es-Sharkiyeh to the overall mood of the poem?",
+        "options": {
+          "A": "A pillar of fire some saw when the stars went out.",
+          "B": "Godspeed trembled to the riddim like the curtains of Midian trembling to the wind.",
+          "C": "The battalion halted the following night.",
+          "D": "The stars went out as night deepened over the battlefield."
+        },
+        "answer": "B",
+        "explanation": "This sentence encapsulates the sensory and symbolic imagery central to the poem, tying Godspeed’s emotions to the broader mood of the setting.",
+        "score_improvement_tip": "Evaluate which sentence encapsulates the key themes or emotions described in the passage."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "How does the description of Pelusium at night contribute to the poem’s overall structure?",
+        "options": {
+          "A": "It provides a backdrop for contrasting themes of war and peace.",
+          "B": "It introduces the journey’s initial hardships.",
+          "C": "It highlights the monotonous nature of Godspeed’s life.",
+          "D": "It foreshadows the later reflections of loss."
+        },
+        "answer": "A",
+        "explanation": "The serene imagery contrasts with the harsh realities of war depicted elsewhere, enriching the poem’s structural juxtaposition.",
+        "score_improvement_tip": "Look for how specific scenes set tone or create contrast within the broader narrative."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "Which of the following best corrects any boundary issues in the sentence: 'In the Quaker chapel alone Godspeed looked at the white angels and the luxe hair Christ painted above the baptismal pool.'?",
+        "options": {
+          "A": "In the Quaker chapel, alone, Godspeed looked at the white angels and the luxe hair Christ painted above the baptismal pool.",
+          "B": "In the Quaker chapel, Godspeed looked alone at the white angels and the luxe hair Christ painted above the baptismal pool.",
+          "C": "In the Quaker chapel, Godspeed looked at the white angels and the luxe hair of Christ painted above the baptismal pool.",
+          "D": "In the Quaker chapel alone, Godspeed looked at the white angels and the luxe hair Christ painted above the baptismal pool."
+        },
+        "answer": "A",
+        "explanation": "Placing commas around 'alone' clarifies its role as a parenthetical element, maintaining sentence clarity and flow.",
+        "score_improvement_tip": "Identify and adjust elements that can disrupt sentence clarity due to misplaced modifiers or punctuations."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }
+  

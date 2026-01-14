@@ -1,0 +1,431 @@
+{
+  "test_metadata": {
+    "focus_domains": ["Problem-Solving and Data Analysis"],
+    "focus_skills": ["Evaluating statistical claims: observational studies and experiments"],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A researcher wants to determine whether a new stretching routine causes faster 100-meter sprint times. Which study design would best support a cause-and-effect conclusion?",
+      "options": {
+        "A": "Randomly assign runners to use the routine or not, and compare times",
+        "B": "Survey runners about whether they stretch and compare their times",
+        "C": "Compare sprint times of runners from two different schools",
+        "D": "Track sprint times of runners who choose to use the routine over a season"
+      },
+      "answer": "A",
+      "explanation": "Random assignment to treatment and control groups in an experiment helps balance confounding variables, so differences in sprint times can be attributed more credibly to the stretching routine.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For causation, look for random assignment to groups, not just random sampling."
+    },
+    {
+      "question_number": 2,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In an observational study, students who sleep at least 8 hours on school nights have higher average math grades than students who sleep less. Which conclusion is best supported by this result?",
+      "options": {
+        "A": "Sleeping at least 8 hours causes higher math grades",
+        "B": "Students who sleep at least 8 hours tend to have higher math grades",
+        "C": "If every student slept 8 hours, every student’s math grade would increase",
+        "D": "The difference in grades must be due to the amount of sleep"
+      },
+      "answer": "B",
+      "explanation": "Because the study is observational, it shows an association, not causation. Other factors (such as study time, course level, or home environment) could explain the difference.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When there is no random assignment, avoid causal wording like “causes” or “leads to.”"
+    },
+    {
+      "question_number": 3,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A city wants to estimate the proportion of residents who support building a new park. Which sampling method is most likely to produce a representative sample of all city residents?",
+      "options": {
+        "A": "Randomly select residents from a list of all city households",
+        "B": "Survey people who visit the city’s parks on weekends",
+        "C": "Post an online poll on the city’s social media page",
+        "D": "Survey residents who attend a city council meeting about the park"
+      },
+      "answer": "A",
+      "explanation": "A random sample from a complete list of households is most likely to represent the entire city. The other methods are likely to overrepresent groups with strong interest or easy access.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Check whether the sampling method could systematically exclude certain groups (selection bias)."
+    },
+    {
+      "question_number": 4,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A school compares test scores for students who choose to attend after-school tutoring with students who do not. The tutoring group has a higher average score. Which factor is a potential confounding variable?",
+      "options": {
+        "A": "Students’ motivation to improve their scores",
+        "B": "The school building’s age",
+        "C": "The day of the week the test was given",
+        "D": "The number of desks in each classroom"
+      },
+      "answer": "A",
+      "explanation": "Motivation could influence both the choice to attend tutoring and test performance, so it can confound the relationship between tutoring and score.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "A confounder is a variable related to both the explanatory variable and the outcome."
+    },
+    {
+      "question_number": 5,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "To test whether a new study app improves quiz scores, a teacher randomly assigns 60 students to use the app (Group A) and 60 students not to use the app (Group B). Group A has a higher average score. Which statement best describes what can be concluded?",
+      "options": {
+        "A": "The app causes higher quiz scores for students similar to those in the study",
+        "B": "The app causes higher quiz scores for all students everywhere",
+        "C": "Students with higher quiz scores are more likely to use the app",
+        "D": "The results show only a correlation because students were not randomly assigned"
+      },
+      "answer": "A",
+      "explanation": "Random assignment supports a causal conclusion for the study participants (and similar students). It does not automatically justify a claim about all students everywhere.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Separate two ideas: random assignment supports causation; random sampling supports generalization."
+    },
+    {
+      "question_number": 6,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A researcher wants to know whether drinking caffeinated tea increases alertness. Participants are randomly assigned to receive either caffeinated tea or decaffeinated tea in identical cups. Participants then complete an attention task. What feature of this design helps reduce bias due to expectations?",
+      "options": {
+        "A": "Using identical cups so participants do not know which tea they received",
+        "B": "Allowing participants to choose which tea they prefer",
+        "C": "Measuring alertness using a task instead of a survey",
+        "D": "Conducting the study at the same time of day for everyone"
+      },
+      "answer": "A",
+      "explanation": "If participants do not know which treatment they received (blinding), the placebo effect and expectation-related bias are reduced.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Blinding aims to reduce changes in behavior or reporting caused by knowing group assignment."
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A hospital reviews past records and finds that patients who participated in a fitness program had a lower rate of readmission than patients who did not. Which is the best reason the hospital should be cautious about concluding the program caused lower readmission rates?",
+      "options": {
+        "A": "Patients were not randomly assigned to participate in the program",
+        "B": "The study used too many participants",
+        "C": "The outcome variable was categorical rather than numerical",
+        "D": "The study compared two groups rather than one group"
+      },
+      "answer": "A",
+      "explanation": "Without random assignment, differences between groups (health status, motivation, access to care) could explain the lower readmission rate rather than the program itself.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Observational studies can suggest an association but cannot rule out confounding variables."
+    },
+    {
+      "question_number": 8,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A company tests a new website layout by showing Layout 1 to visitors during the first week of the month and Layout 2 to visitors during the second week. Layout 2 yields higher average purchases per visitor. Which issue most threatens a cause-and-effect conclusion?",
+      "options": {
+        "A": "Time-related confounding, since different weeks may have different shopping patterns",
+        "B": "Using purchases per visitor instead of total purchases",
+        "C": "Collecting too much data across two weeks",
+        "D": "Comparing purchases rather than page views"
+      },
+      "answer": "A",
+      "explanation": "Because layouts were not assigned at random to visitors at the same time, differences between weeks (promotions, paydays, holidays) could explain the results.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For experiments, randomize which participants get which treatment at the same time to avoid time confounding."
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A student claims, “Because two variables are strongly correlated, one must cause the other.” Which statement best evaluates this claim?",
+      "options": {
+        "A": "The claim is not necessarily true; correlation does not prove causation",
+        "B": "The claim is always true when the correlation is positive",
+        "C": "The claim is always true when the correlation is negative",
+        "D": "The claim is true only when the sample size is large"
+      },
+      "answer": "A",
+      "explanation": "A strong correlation could occur due to confounding variables or because the causation runs in the opposite direction. Only a well-designed experiment can strongly support a causal conclusion.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When you see correlation language, ask whether there was random assignment; if not, avoid causal conclusions."
+    },
+    {
+      "question_number": 10,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A researcher randomly samples 500 adults from a city and finds that 62% support a new public transit plan. The researcher did not assign any treatment. Which conclusion is best supported?",
+      "options": {
+        "A": "About 62% of adults in the city support the plan",
+        "B": "Supporting the plan causes adults to use public transit more often",
+        "C": "Public transit causes adults to support the plan",
+        "D": "Adults who support the plan will all vote for it"
+      },
+      "answer": "A",
+      "explanation": "Random sampling supports generalizing the estimate (about 62%) to the city’s adult population. Without random assignment, causal conclusions are not supported.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Random sampling helps you generalize a percentage; it does not establish causation."
+    },
+    {
+      "question_number": 11,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A headline states: “Eating breakfast increases students’ GPAs.” The article describes a study that surveyed students about how often they eat breakfast and recorded their GPAs. Which critique most directly challenges the headline’s conclusion?",
+      "options": {
+        "A": "The study is observational, so confounding variables could explain the association",
+        "B": "The study measured GPAs, which are numerical",
+        "C": "The sample size could be reduced without changing results",
+        "D": "The study included both students who eat breakfast and students who do not"
+      },
+      "answer": "A",
+      "explanation": "Surveying breakfast habits and comparing GPAs is observational. Factors like time management, course load, or family routines may influence both breakfast habits and GPA, so causation is not established.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When an article claims “X increases Y,” check whether X was assigned randomly."
+    },
+    {
+      "question_number": 12,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A district wants to test whether a new textbook improves algebra scores. The district randomly assigns 10 schools to use the new textbook and 10 schools to keep the old textbook. Scores are measured at the end of the year. Which statement describes a potential limitation of this study design?",
+      "options": {
+        "A": "Students within the same school may be more similar than students across schools",
+        "B": "Random assignment guarantees the results apply to all districts",
+        "C": "An experiment cannot be used to compare two textbooks",
+        "D": "The study should avoid measuring scores because scores are numerical"
+      },
+      "answer": "A",
+      "explanation": "Because assignment is at the school level, students are clustered within schools. Differences among schools (teachers, scheduling, resources) could still affect results and must be considered when interpreting the outcome.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When treatments are assigned to groups (like schools), consider group-level differences that could affect results."
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a study about a nutrition program, participants are randomly assigned to either receive weekly nutrition coaching or receive no coaching. The coaches also encourage participants in the coaching group to exercise more, but the no-coaching group receives no exercise advice. At the end, the coaching group has lower average weight. Why is it difficult to attribute the weight difference specifically to nutrition coaching?",
+      "options": {
+        "A": "Two changes (nutrition advice and exercise encouragement) occurred together in the coaching group",
+        "B": "Random assignment was used, so there is no issue",
+        "C": "The outcome variable is numerical, so it cannot show causation",
+        "D": "The study should have used an observational design instead"
+      },
+      "answer": "A",
+      "explanation": "Because the treatment condition combined nutrition coaching with extra exercise encouragement, the study does not isolate the effect of nutrition coaching alone.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To test one factor’s effect, keep other conditions the same across groups."
+    },
+    {
+      "question_number": 14,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A researcher recruits volunteers by posting a sign-up link on a fitness influencer’s page. The researcher then compares the average resting heart rate of these volunteers to a national average and concludes, “Adults have lower resting heart rates than the national average.” Which issue most weakens the conclusion?",
+      "options": {
+        "A": "The sample is likely not representative of all adults",
+        "B": "The national average is a number, not a category",
+        "C": "The study compared volunteers to a benchmark",
+        "D": "The study used a large sample"
+      },
+      "answer": "A",
+      "explanation": "People who follow a fitness influencer and volunteer for a fitness-related study are likely more health-conscious than average, so the sample may be biased and not represent all adults.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Look for volunteer or convenience samples; they often overrepresent certain characteristics."
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A company claims its energy bar “improves concentration.” In a test, employees who chose to eat the bar during work hours scored higher on a concentration game than employees who did not. Which additional step would best strengthen a cause-and-effect conclusion?",
+      "options": {
+        "A": "Randomly assign employees to eat either the energy bar or a similar-looking placebo bar",
+        "B": "Ask employees whether they like the taste of the bar",
+        "C": "Allow employees to eat the bar whenever they want",
+        "D": "Compare the bar’s ingredients to other bars’ ingredients"
+      },
+      "answer": "A",
+      "explanation": "Random assignment and a placebo control reduce self-selection effects and expectation bias, strengthening a causal interpretation.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Placebo + random assignment is a strong combination for causal claims about a treatment."
+    },
+    {
+      "question_number": 16,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A randomized experiment tests whether a new reminder system reduces late homework submissions. In the control group, 18 of 120 students submit at least one assignment late. In the reminder group, 9 of 120 students submit at least one assignment late. The school claims the reminder system reduced the late-submission rate by 50%. What is the percent reduction in the late-submission rate? Give your answer as a whole number percent.",
+      "options": null,
+      "answer": "50",
+      "explanation": "Control rate: <math><mfrac><mn>18</mn><mn>120</mn></mfrac></math>. Reminder rate: <math><mfrac><mn>9</mn><mn>120</mn></mfrac></math>. The reduction is <math><mfrac><mrow><mfrac><mn>18</mn><mn>120</mn></mfrac><mo>-</mo><mfrac><mn>9</mn><mn>120</mn></mfrac></mrow><mfrac><mn>18</mn><mn>120</mn></mfrac></mfrac></math> = <math><mfrac><mrow><mfrac><mn>9</mn><mn>120</mn></mfrac></mrow><mfrac><mn>18</mn><mn>120</mn></mfrac></mfrac></math> = <math><mfrac><mn>9</mn><mn>18</mn></mfrac></math> = <math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>, which is 50%.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Percent reduction compares the change to the original (control) rate, not to 100%.",
+      "additional_data": {
+        "expected_answer_format": "integer percent"
+      }
+    },
+    {
+      "question_number": 17,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In an experiment, 80 participants are randomly assigned to either use a noise-reducing headset (40 participants) or not (40 participants) while completing a reading task. The average reading score is 86 for the headset group and 80 for the no-headset group. A manager claims, “The headset increases reading scores by 7.5%.” What is the percent increase from 80 to 86? Give your answer as a decimal to the nearest thousandth.",
+      "options": null,
+      "answer": "0.075",
+      "explanation": "Percent increase is <math><mfrac><mrow><mn>86</mn><mo>-</mo><mn>80</mn></mrow><mn>80</mn></mfrac></math> = <math><mfrac><mn>6</mn><mn>80</mn></mfrac></math> = <math><mn>0.075</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Use <math><mfrac><mrow><mtext>new</mtext><mo>-</mo><mtext>old</mtext></mrow><mtext>old</mtext></mfrac></math> for percent increase and keep track of the reference value.",
+      "additional_data": {
+        "expected_answer_format": "decimal to nearest thousandth"
+      }
+    },
+    {
+      "question_number": 18,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A randomized experiment compares two study schedules. In Schedule A, 34 of 50 students report feeling prepared for a test. In Schedule B, 28 of 50 students report feeling prepared. What is the difference in the sample proportions <math><mfrac><mn>34</mn><mn>50</mn></mfrac><mo>-</mo><mfrac><mn>28</mn><mn>50</mn></mfrac></math>? Give your answer as a decimal.",
+      "options": null,
+      "answer": "0.12",
+      "explanation": "Compute each proportion: <math><mfrac><mn>34</mn><mn>50</mn></mfrac></math> = <math><mn>0.68</mn></math> and <math><mfrac><mn>28</mn><mn>50</mn></mfrac></math> = <math><mn>0.56</mn></math>. The difference is <math><mn>0.68</mn><mo>-</mo><mn>0.56</mn></math> = <math><mn>0.12</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When comparing proportions, convert fractions to decimals carefully and subtract in the correct order.",
+      "additional_data": {
+        "expected_answer_format": "decimal"
+      }
+    },
+    {
+      "question_number": 19,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a randomized trial of a new sunscreen, 6 of 150 participants in the sunscreen group get a sunburn, while 15 of 150 participants in the no-sunscreen group get a sunburn. The company claims the sunscreen reduces the sunburn rate by at least 60%. What is the percent reduction in sunburn rate? Give your answer as a whole number percent.",
+      "options": null,
+      "answer": "60",
+      "explanation": "No-sunscreen rate: <math><mfrac><mn>15</mn><mn>150</mn></mfrac></math>. Sunscreen rate: <math><mfrac><mn>6</mn><mn>150</mn></mfrac></math>. Percent reduction: <math><mfrac><mrow><mfrac><mn>15</mn><mn>150</mn></mfrac><mo>-</mo><mfrac><mn>6</mn><mn>150</mn></mfrac></mrow><mfrac><mn>15</mn><mn>150</mn></mfrac></mfrac></math> = <math><mfrac><mrow><mfrac><mn>9</mn><mn>150</mn></mfrac></mrow><mfrac><mn>15</mn><mn>150</mn></mfrac></mfrac></math> = <math><mfrac><mn>9</mn><mn>15</mn></mfrac></math> = <math><mn>0.6</mn></math> = 60%. The claim “at least 60%” is met exactly.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For rate reductions, always divide by the original (comparison) group’s rate.",
+      "additional_data": {
+        "expected_answer_format": "integer percent"
+      }
+    },
+    {
+      "question_number": 20,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A study reports that students who participate in music lessons have higher average reading scores than students who do not. The researchers matched students by grade level but did not match on any other variables. Which additional factor would be most important to consider as a possible confounder?",
+      "options": {
+        "A": "Family income or access to paid lessons",
+        "B": "The number of letters in each student’s first name",
+        "C": "The color of the instruments used in lessons",
+        "D": "Whether the reading test was given on paper or on a computer"
+      },
+      "answer": "A",
+      "explanation": "Family income could affect both the likelihood of taking music lessons and educational resources that influence reading scores, so it is a plausible confounding variable.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When groups are not randomly assigned, look for background variables that could influence both participation and outcomes.",
+      "additional_data": null
+    }
+  ]
+}

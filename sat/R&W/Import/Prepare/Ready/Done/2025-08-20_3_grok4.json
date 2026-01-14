@@ -1,0 +1,219 @@
+{
+  "article_title": "Do liberals need to learn how to build?",
+  "article_author": "Benjamin Wallace-Wells",
+  "article_date": "March 10, 2025",
+  "article_source": "The New Yorker",
+  "article_category": "Politics",
+  "article_tags": ["Urbanism", "Liberalism", "Development", "Stagnation", "Policy"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "For some liberal journalists and researchers of my generation, the stagnation of American cities has become a fixation. The progressive metropolises we love the most, and where the highest-paying jobs are increasingly found, seem to be having the most trouble growing, perhaps because they have the most trouble building. In 2023, seventy thousand housing permits were issued in red-state metro Houston, and just forty thousand in metro New York, which has three times as many people. (In the San Francisco and Boston metro areas, there were even fewer.) When urbanists looked into why that was, they tended to find not a single cause but a constellation."
+    },
+    {
+      "passage_number": 2,
+      "text": "The idealistic progressive laws of the seventies—those mandating environmental review, safety and anti-corruption standards, historic preservation, prevailing wages, and, most important, local power over zoning—had meant to protect small communities against moneyed interests. But they had been manipulated by homeowners and businesses, and used to block all kinds of new construction. Good intentions had paved the way to what the political scientist Francis Fukuyama termed a “vetocracy.” As the Times’ Ezra Klein and The Atlantic’s Derek Thompson write of this regulatory pattern in their book “Abundance” (Avid Reader), “Each individual decision is rational. The collective consequences are maddening.”"
+    },
+    {
+      "passage_number": 3,
+      "text": "Sometimes even the individual decisions are maddening. In San Francisco, anti-abortion activists stopped a clinic from being built by arguing that it would violate local standards for noise and traffic—because of the protests they themselves intended to organize. Residents also managed to obtain historic-preservation status for a laundromat in an effort to prevent its demolition. (Twenty-seven per cent of Manhattan is shielded from developers because of various preservation covenants.) A Los Angeles project to convert a polluted aircraft factory into apartments and shops was sued twenty times in twenty years, under the same law. In Maryland, homeowners organized a petition to stall construction on an apartment building in order to develop a parking lot."
+    },
+    {
+      "passage_number": 4,
+      "text": "Even public projects tend to get snarled in the same vetocracy. Adding a kilometre of subway track in the United States now costs twice what it does in Japan or Canada, and six times what it does in Portugal; in the past fifty years, the inflation-adjusted cost of a mile of interstate highway has tripled. A forthcoming academic paper detailing the long-arc history of urban development and its opponents, by the law professors Roderick M.Hills, Jr., of N.Y.U., and David Schleicher, of Yale, is titled “How the Gentry Won.”"
+    },
+    {
+      "passage_number": 5,
+      "text": "These urbanists have been inching toward the political center, seeing the logic in development and turning against some progressive icons. In “Stuck” (Random House), by Yoni Appelbaum, of The Atlantic, a chief villain is Jane Jacobs, the standard-bearer of Greenwich Village and a left-wing theorist of neighborhood living. But the need to build remained a niche obsession until the Biden Administration, when some of the same intellectuals noticed that efforts to construct a green-energy infrastructure were foundering on the same opposition."
+    },
+    {
+      "passage_number": 6,
+      "text": "Three years after Congress authorized $7.5 billion to create a nationwide E.V. charging network, only two hundred and fourteen individual chargers were ready. In the mid-aughts, an entrepreneur named Michael Skelly conceived a plan to build a vast wind farm in the barren Oklahoma panhandle and sell the energy to the federal government’s Tennessee Valley Authority. Skelly secured the Obama Administration’s commitment to buy his energy, but in the course of a decade the project slowly collapsed, as state powers dawdled and eventually refused to issue the necessary permits. Anyone who had been politically invested in the attempts to build high-rises in West Harlem would have noticed a familiar pattern. “We are at a moment of history,” Skelly is quoted as saying in “Why Nothing Works: Who Killed Progress—and How to Bring It Back” (Public Affairs), by Marc J. Dunkelman, a research fellow at Brown. “Robert Moses could come back from the dead and he wouldn’t be able to do shit.”"
+    },
+    {
+      "passage_number": 7,
+      "text": "These three new books explore such decelerations, and seek to move from urbanism toward a more general political philosophy. Klein and Thompson are perhaps the most ambitious. “For decades, American liberalism has measured its success in how close it could come to the social welfare system of Denmark,” they write, but those efforts have been complicated by the difficulty of supplying enough housing, enough solar panels, enough of what people need. They’re aiming for a “change in political culture” through which liberalism, which has long acted to pump the brakes on building things, now works to “speed up the system.” Klein and Thompson want a “liberalism that builds,” not just in housing and green energy but in artificial intelligence and in drug development, too, areas where they see similar patterns of stagnation. Their goals are broad. This group of policies, which they call the abundance agenda, offers, Klein and Thompson believe, “a path out of the morass we’re in. A new political order.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary reason the author suggests progressive metropolises are struggling to grow?",
+      "options": {
+        "A": "They have fewer high-paying jobs",
+        "B": "They issue more housing permits than red-state areas",
+        "C": "They have trouble building new structures",
+        "D": "They attract fewer people overall"
+      },
+      "answer": "C",
+      "explanation": "The passage explicitly states that progressive metropolises 'seem to be having the most trouble growing, perhaps because they have the most trouble building,' making C the correct answer.",
+      "score_improvement_tip": "Focus on identifying the main claim by scanning for key phrases that summarize the author's argument."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'manipulated' most nearly means",
+      "options": {
+        "A": "handled skillfully",
+        "B": "misused strategically",
+        "C": "created originally",
+        "D": "ignored completely"
+      },
+      "answer": "B",
+      "explanation": "The context describes how progressive laws 'had been manipulated by homeowners and businesses, and used to block all kinds of new construction,' indicating misuse for personal gain.",
+      "score_improvement_tip": "Consider how the word fits the surrounding sentence to determine its contextual meaning, rather than its most common definition."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best supports the idea that individual decisions can be 'maddening' as described in the passage?",
+      "options": {
+        "A": "Anti-abortion activists using protests to argue against a clinic's noise standards",
+        "B": "Homeowners organizing a petition for a parking lot",
+        "C": "A Los Angeles project being sued multiple times",
+        "D": "Manhattan's preservation covenants shielding land from developers"
+      },
+      "answer": "A",
+      "explanation": "The passage highlights the irony in anti-abortion activists stopping a clinic by citing noise from their own planned protests, exemplifying a maddening individual decision.",
+      "score_improvement_tip": "Select evidence that directly illustrates the key descriptor, such as 'maddening,' by evaluating the irony or absurdity in the examples."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The primary purpose of mentioning the costs of subway and highway construction is to",
+      "options": {
+        "A": "compare international building efficiencies",
+        "B": "illustrate how vetocracy affects public projects",
+        "C": "advocate for adopting Portuguese methods",
+        "D": "highlight inflation's impact on infrastructure"
+      },
+      "answer": "B",
+      "explanation": "The passage uses these examples to show that 'even public projects tend to get snarled in the same vetocracy,' emphasizing the broader issue.",
+      "score_improvement_tip": "Determine purpose by connecting the details to the preceding sentence or main idea of the paragraph."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "However",
+        "B": "Moreover",
+        "C": "For example",
+        "D": "Until"
+      },
+      "answer": "D",
+      "explanation": "The passage shifts from the niche status of the building issue to its broader recognition during the Biden Administration, making 'until' the logical temporal transition.",
+      "score_improvement_tip": "Choose transitions that reflect the relationship between ideas, such as time, contrast, or addition."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the passage, the author implies that Michael Skelly's wind farm project failed primarily due to",
+      "options": {
+        "A": "lack of federal commitment",
+        "B": "environmental opposition from locals",
+        "C": "bureaucratic delays and permit refusals",
+        "D": "insufficient funding for construction"
+      },
+      "answer": "C",
+      "explanation": "The passage states the project 'slowly collapsed, as state powers dawdled and eventually refused to issue the necessary permits,' implying bureaucratic hurdles as the main cause.",
+      "score_improvement_tip": "Draw inferences by identifying implied causes from descriptive language, avoiding assumptions not supported by text."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "How does the discussion of Klein and Thompson's book connect to the broader theme introduced in earlier passages?",
+      "options": {
+        "A": "It contrasts Denmark's welfare system with American urban stagnation",
+        "B": "It proposes shifting liberalism from restraint to acceleration in building",
+        "C": "It criticizes the abundance agenda as overly ambitious",
+        "D": "It focuses solely on artificial intelligence and drug development"
+      },
+      "answer": "B",
+      "explanation": "The book advocates for a 'liberalism that builds' to address stagnation patterns seen in housing and energy, linking to the vetocracy and building issues in prior passages.",
+      "score_improvement_tip": "Make connections by tracing recurring themes across passages, such as policy shifts in response to described problems."
+    },
+    {
+      "question_number": 8,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Which version of the underlined portion provides the most effective punctuation?",
+      "options": {
+        "A": "people. (In the San Francisco",
+        "B": "people (In the San Francisco",
+        "C": "people; (In the San Francisco",
+        "D": "people, (In the San Francisco"
+      },
+      "answer": "A",
+      "explanation": "The period after 'people' correctly separates the main sentence from the parenthetical aside, maintaining clarity and grammatical boundaries.",
+      "score_improvement_tip": "Evaluate punctuation by ensuring it properly delineates parenthetical information without creating fragments."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "To make the passage more concise while retaining its rhetorical impact, which sentence could best be deleted?",
+      "options": {
+        "A": "Sometimes even the individual decisions are maddening.",
+        "B": "Residents also managed to obtain historic-preservation status for a laundromat in an effort to prevent its demolition.",
+        "C": "(Twenty-seven per cent of Manhattan is shielded from developers because of various preservation covenants.)",
+        "D": "In Maryland, homeowners organized a petition to stall construction on an apartment building in order to develop a parking lot."
+      },
+      "answer": "C",
+      "explanation": "The parenthetical statistic, while informative, is not essential to the examples of maddening decisions and can be removed without losing the passage's core rhetorical force.",
+      "score_improvement_tip": "Prioritize sentences that exemplify the main point; remove supplementary details for conciseness."
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Quantitative)",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The quantitative data on construction costs most strongly supports which conclusion?",
+      "options": {
+        "A": "U.S. infrastructure costs have risen disproportionately compared to other countries",
+        "B": "Japan and Canada have similar subway costs to Portugal",
+        "C": "Highway costs have remained stable after inflation adjustment",
+        "D": "Vetocracy only affects private projects, not public ones"
+      },
+      "answer": "A",
+      "explanation": "The data shows U.S. subway costs are twice those in Japan/Canada and six times Portugal's, with highway costs tripling, indicating disproportionate rises.",
+      "score_improvement_tip": "Interpret quantitative evidence by comparing figures to draw broader conclusions aligned with the text's argument."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in inferring complex implications, synthesizing ideas across passages, and applying advanced rhetorical and conventional skills with precision.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension of main ideas and evidence but may falter on nuanced inferences, cross-connections, and sophisticated revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences, cross-text synthesis, rhetorical revisions, and boundary conventions, requiring deep analysis and implicit understanding.",
+    "medium_questions": "Medium questions focus on textual evidence, structural purpose, and logical transitions, testing the ability to connect details to broader ideas.",
+    "easy_questions": "Easy questions assess basic central ideas and word meanings in context, emphasizing direct comprehension of explicit information."
+  }
+}

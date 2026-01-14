@@ -1,0 +1,190 @@
+{
+  "article_title": "Calibrating the Classroom",
+  "article_author": "Arian Khameneh",
+  "article_date": "May-June, 2023",
+  "article_source": "MIT Technology Review",
+  "article_category": "Education Technology",
+  "article_tags": ["Education", "Mental Health", "Technology", "Data Tracking", "School Safety"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Woof isn’t the only well-being platform making inroads in Danish schools. Platforms like Bloomsights, Moods, and Klassetrivsel (Danish for 'classroom well-being') are also getting traction. Each takes a more data-intensive and less anonymous approach than Woof, tracking and identifying schoolchildren individually. Bloomsights and Klassetrivsel even go as far as generating 'sociograms'—network diagrams that display the children’s relationships with each other in detail."
+    },
+    {
+      "passage_number": 2,
+      "text": "Bloomsights turns self-reported data from the same individuals over time into indicators including 'signs of loneliness,' 'academic mindset,' and 'signs of bullying.' Bloomsights is also used in the US, where some school districts are including it as part of an 'early warning system' for identifying potential school shooters. The company’s US operations are based in Colorado. Cofounder Adam Rockenbach says the hope in bringing Bloomsights to the US was to spread the Scandinavian values of well-being and community. He asserts that the app is not meant to be a dystopian 'Big Brother' but an extension of what teachers already do."
+    },
+    {
+      "passage_number": 3,
+      "text": "Citing his experiences as a teacher in inner-city schools in Los Angeles for six years, Rockenbach says it can be a challenge to know what is really going on with children who struggle in an environment that might be marked by gang violence and poverty. He says Bloomsights can help in situations where the signals are not so clear. Rockenbach believes that anonymous data only makes early intervention more difficult, since it creates more work for teachers and educators in trying to identify who has problems and needs help. For this reason, he thinks collecting individual data is a necessity."
+    },
+    {
+      "passage_number": 4,
+      "text": "The program, which operates through a web app, takes self-reporting measurements similar to Woof’s: monthly surveys of students, measuring various indicators of mental and physical well-being and students’ evaluation of their learning environment."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "As used in the passage, the term 'sociograms' most likely refers to:",
+      "options": {
+        "A": "Graphs showing academic performance",
+        "B": "Diagrams displaying social relationships",
+        "C": "Charts tracking physical health",
+        "D": "Maps of school facilities"
+      },
+      "answer": "B",
+      "explanation": "The passage describes sociograms as 'network diagrams that display the children’s relationships with each other in detail,' making B the correct answer.",
+      "score_improvement_tip": "Use contextual clues to infer the meaning of specialized terms."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which piece of evidence best supports the idea that Bloomsights is used for early intervention?",
+      "options": {
+        "A": "Bloomsights is used in the US as part of an 'early warning system.'",
+        "B": "Bloomsights measures indicators like 'signs of loneliness' and 'academic mindset.'",
+        "C": "The company’s US operations are based in Colorado.",
+        "D": "Bloomsights spreads Scandinavian values of well-being."
+      },
+      "answer": "A",
+      "explanation": "The mention of Bloomsights being used as an 'early warning system' directly supports its role in early intervention.",
+      "score_improvement_tip": "Look for direct evidence in the text that aligns with the question’s focus."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What is the primary purpose of the second passage?",
+      "options": {
+        "A": "To criticize the use of data tracking in schools",
+        "B": "To explain how Bloomsights functions and its goals",
+        "C": "To compare Bloomsights with other platforms",
+        "D": "To highlight the challenges of teaching in inner-city schools"
+      },
+      "answer": "B",
+      "explanation": "The passage explains how Bloomsights works, its indicators, and its purpose of spreading well-being values, making B the correct answer.",
+      "score_improvement_tip": "Identify the main idea and purpose of the passage by focusing on its overall message."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Based on the passage, what can be inferred about Rockenbach’s view on anonymous data?",
+      "options": {
+        "A": "It is more effective for identifying students in need.",
+        "B": "It complicates the process of early intervention.",
+        "C": "It is less accurate than self-reported data.",
+        "D": "It is essential for maintaining student privacy."
+      },
+      "answer": "B",
+      "explanation": "Rockenbach argues that anonymous data makes early intervention harder because it requires more effort to identify students who need help.",
+      "score_improvement_tip": "Use logical reasoning to draw conclusions based on the author’s statements."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "How does Rockenbach’s experience as a teacher influence his perspective on Bloomsights?",
+      "options": {
+        "A": "It makes him skeptical of data-driven approaches.",
+        "B": "It highlights the need for tools to identify struggling students.",
+        "C": "It leads him to prioritize academic performance over well-being.",
+        "D": "It causes him to advocate for anonymous data collection."
+      },
+      "answer": "B",
+      "explanation": "Rockenbach’s teaching experience in challenging environments underscores the importance of tools like Bloomsights to identify students who need help.",
+      "score_improvement_tip": "Connect the author’s background to their perspective on the topic."
+    },
+    {
+      "question_number": 7,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which choice best summarizes Rockenbach’s argument about Bloomsights?",
+      "options": {
+        "A": "Bloomsights is a dystopian tool that invades student privacy.",
+        "B": "Bloomsights is a practical extension of teachers’ observational skills.",
+        "C": "Bloomsights is primarily designed to improve academic performance.",
+        "D": "Bloomsights is ineffective in identifying students in need."
+      },
+      "answer": "B",
+      "explanation": "Rockenbach describes Bloomsights as an extension of what teachers already do, emphasizing its practical role in supporting student well-being.",
+      "score_improvement_tip": "Focus on the author’s main argument and how they support it."
+    },
+    {
+      "question_number": 8,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice best completes the sentence? 'The program, which operates through a web app, takes self-reporting measurements similar to Woof’s: monthly surveys of students, measuring various indicators of mental and physical well-being ______ students’ evaluation of their learning environment.'",
+      "options": {
+        "A": "and",
+        "B": "but",
+        "C": "or",
+        "D": "yet"
+      },
+      "answer": "A",
+      "explanation": "The sentence lists two related ideas (mental and physical well-being and students’ evaluation of their learning environment), so 'and' is the appropriate conjunction.",
+      "score_improvement_tip": "Ensure the conjunction matches the relationship between the ideas in the sentence."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Quantitative)",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Based on the passage, what is the primary method Bloomsights uses to collect data?",
+      "options": {
+        "A": "Anonymous surveys",
+        "B": "Teacher observations",
+        "C": "Monthly student surveys",
+        "D": "Parent feedback"
+      },
+      "answer": "C",
+      "explanation": "The passage states that Bloomsights takes 'monthly surveys of students' to measure well-being indicators.",
+      "score_improvement_tip": "Look for specific details in the text that directly answer the question."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "What is the primary purpose of the third passage?",
+      "options": {
+        "A": "To criticize the use of technology in schools",
+        "B": "To explain the challenges of teaching in difficult environments",
+        "C": "To justify the need for individual data collection",
+        "D": "To compare Bloomsights with other well-being platforms"
+      },
+      "answer": "C",
+      "explanation": "The passage focuses on Rockenbach’s argument that individual data collection is necessary for effective early intervention.",
+      "score_improvement_tip": "Identify the main argument or purpose of the passage by analyzing its content and tone."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and text structure.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+  }
+}

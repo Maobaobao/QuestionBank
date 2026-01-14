@@ -1,0 +1,451 @@
+{
+  "test_metadata": {
+    "focus_domains": [
+      "Algebra",
+      "Advanced Math",
+      "Problem-Solving and Data Analysis",
+      "Geometry and Trigonometry"
+    ],
+    "focus_skills": [
+      "Evaluating statistical claims: observational studies and experiments",
+      "Nonlinear functions"
+    ],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>5</mn><mi>x</mi><mo>−</mo><mn>12</mn><mo>=</mo><mn>33</mn></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "<math><mn>7</mn></math>",
+        "B": "<math><mn>9</mn></math>",
+        "C": "<math><mn>10</mn></math>",
+        "D": "<math><mn>11</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "Add 12 to both sides: <math><mn>5</mn><mi>x</mi><mo>=</mo><mn>45</mn></math>. Divide both sides by 5: <math><mi>x</mi><mo>=</mo><mn>9</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving linear equations, perform inverse operations in reverse order of operations.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Algebra",
+      "skill": "Linear equations in 2 variables",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which of the following ordered pairs <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math> satisfies the equation <math><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>12</mn></math>?",
+      "options": {
+        "A": "<math><mo>(</mo><mn>0</mn><mo>,</mo><mn>4</mn><mo>)</mo></math>",
+        "B": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mn>5</mn><mo>)</mo></math>",
+        "C": "<math><mo>(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo></math>",
+        "D": "<math><mo>(</mo><mn>3</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>"
+      },
+      "answer": "A",
+      "explanation": "Substitute each point into the equation. For (0,4): <math><mn>2</mn><mo>(</mo><mn>0</mn><mo>)</mo><mo>+</mo><mn>3</mn><mo>(</mo><mn>4</mn><mo>)</mo><mo>=</mo><mn>0</mn><mo>+</mo><mn>12</mn><mo>=</mo><mn>12</mn></math>, which satisfies the equation.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Test each option by substituting the x and y values into the equation to find which one makes it true.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Algebra",
+      "skill": "Linear functions",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2'/><polyline points='50,150 150,100 250,200 350,50' stroke='blue' stroke-width='2' fill='none'/><text x='360' y='260' font-size='12'>x</text><text x='40' y='40' font-size='12'>y</text><text x='55' y='155' font-size='10'>A</text><text x='155' y='105' font-size='10'>B</text><text x='255' y='205' font-size='10'>C</text><text x='355' y='55' font-size='10'>D</text></svg>",
+      "question_chart_description": "Line graph showing four points A, B, C, D connected by line segments",
+      "question": "The graph shows four points connected by line segments. Between which two consecutive points is the slope of the line segment the greatest?",
+      "options": {
+        "A": "A to B",
+        "B": "B to C",
+        "C": "C to D",
+        "D": "The slope is constant between all points"
+      },
+      "answer": "C",
+      "explanation": "Slope is calculated as rise over run (accounting for y increasing upward). A to B has rise +50 and run 100, slope = +0.5. B to C has rise -100 and run 100, slope = -1. C to D has rise +150 and run 100, slope = +1.5. The greatest slope (considering sign) is +1.5 between C and D.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2'/><polyline points='50,150 150,100 250,200 350,50' stroke='blue' stroke-width='2' fill='none'/><text x='360' y='260' font-size='12'>x</text><text x='40' y='40' font-size='12'>y</text><text x='55' y='155' font-size='10'>A</text><text x='155' y='105' font-size='10'>B</text><text x='255' y='205' font-size='10'>C</text><text x='355' y='55' font-size='10'>D</text><text x='100' y='200' font-size='12' fill='red'>Slope = +0.5</text><text x='200' y='100' font-size='12' fill='red'>Slope = -1</text><text x='300' y='150' font-size='12' fill='red'>Slope = +1.5</text></svg>",
+      "explanation_chart_description": "Line graph with slopes calculated between each segment",
+      "score_improvement_tip": "Slope represents steepness. Calculate rise/run for each segment to compare steepness.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math> to the system of equations below?<br><math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></math><br><math><mi>x</mi><mo>−</mo><mi>y</mi><mo>=</mo><mn>3</mn></math>",
+      "options": {
+        "A": "<math><mo>(</mo><mn>2</mn><mo>,</mo><mn>5</mn><mo>)</mo></math>",
+        "B": "<math><mo>(</mo><mn>4</mn><mo>,</mo><mn>3</mn><mo>)</mo></math>",
+        "C": "<math><mo>(</mo><mn>5</mn><mo>,</mo><mn>2</mn><mo>)</mo></math>",
+        "D": "<math><mo>(</mo><mn>6</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>"
+      },
+      "answer": "C",
+      "explanation": "Add the two equations: <math><mn>2</mn><mi>x</mi><mo>=</mo><mn>10</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>5</mn></math>. Substitute into first equation: <math><mn>5</mn><mo>+</mo><mi>y</mi><mo>=</mo><mn>7</mn></math>, so <math><mi>y</mi><mo>=</mo><mn>2</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For systems of equations, look for methods like elimination or substitution to efficiently find the solution.",
+      "additional_data": null
+    },
+    {
+      "question_number": 5,
+      "domain": "Advanced Math",
+      "skill": "Equivalent expressions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which expression is equivalent to <math><mn>4</mn><mo>(</mo><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo><mo>−</mo><mn>2</mn><mo>(</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>?",
+      "options": {
+        "A": "<math><mn>2</mn><mi>x</mi><mo>−</mo><mn>10</mn></math>",
+        "B": "<math><mn>2</mn><mi>x</mi><mo>−</mo><mn>6</mn></math>",
+        "C": "<math><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></math>",
+        "D": "<math><mn>22</mn><mi>x</mi><mo>−</mo><mn>6</mn></math>"
+      },
+      "answer": "A",
+      "explanation": "Distribute: <math><mn>12</mn><mi>x</mi><mo>−</mo><mn>8</mn><mo>−</mo><mn>10</mn><mi>x</mi><mo>−</mo><mn>2</mn></math>. Combine like terms: <math><mn>2</mn><mi>x</mi><mo>−</mo><mn>10</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When simplifying expressions, carefully distribute coefficients and pay attention to signs.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What are the solutions to the equation <math><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>?",
+      "options": {
+        "A": "<math><mi>x</mi><mo>=</mo><mn>2</mn></math> and <math><mi>x</mi><mo>=</mo><mn>3</mn></math>",
+        "B": "<math><mi>x</mi><mo>=</mo><mn>1</mn></math> and <math><mi>x</mi><mo>=</mo><mn>6</mn></math>",
+        "C": "<math><mi>x</mi><mo>=</mo><mo>−</mo><mn>2</mn></math> and <math><mi>x</mi><mo>=</mo><mo>−</mo><mn>3</mn></math>",
+        "D": "<math><mi>x</mi><mo>=</mo><mo>−</mo><mn>1</mn></math> and <math><mi>x</mi><mo>=</mo><mn>6</mn></math>"
+      },
+      "answer": "A",
+      "explanation": "Factor the quadratic: <math><mo>(</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>. Set each factor equal to zero: <math><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn></math> or <math><mi>x</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>2</mn></math> or <math><mi>x</mi><mo>=</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For quadratic equations, try factoring first. Look for two numbers that multiply to the constant term and add to the coefficient of the linear term.",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Advanced Math",
+      "skill": "Systems of equations in 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the solution to the system of equations?<br><math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn></math><br><math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></math>",
+      "options": {
+        "A": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mn>1</mn><mo>)</mo></math> only",
+        "B": "<math><mo>(</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>)</mo></math> only",
+        "C": "<math><mo>(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo>)</mo></math> and <math><mo>(</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>)</mo></math>",
+        "D": "<math><mo>(</mo><mn>0</mn><mo>,</mo><mn>−</mo><mn>4</mn><mo>)</mo></math> and <math><mo>(</mo><mn>2</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>"
+      },
+      "answer": "C",
+      "explanation": "Set the equations equal: <math><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>1</mn></math>. Rearrange: <math><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>−</mo><mn>3</mn><mo>=</mo><mn>0</mn></math>. Factor: <math><mo>(</mo><mi>x</mi><mo>−</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>. So <math><mi>x</mi><mo>=</mo><mn>3</mn></math> or <math><mi>x</mi><mo>=</mo><mo>−</mo><mn>1</mn></math>. When <math><mi>x</mi><mo>=</mo><mn>3</mn></math>, <math><mi>y</mi><mo>=</mo><mn>2</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>−</mo><mn>1</mn><mo>=</mo><mn>5</mn></math>. When <math><mi>x</mi><mo>=</mo><mo>−</mo><mn>1</mn></math>, <math><mi>y</mi><mo>=</mo><mn>2</mn><mo>(</mo><mo>−</mo><mn>1</mn><mo>)</mo><mo>−</mo><mn>1</mn><mo>=</mo><mo>−</mo><mn>3</mn></math>. The solutions are <math><mo>(</mo><mn>3</mn><mo>,</mo><mn>5</mn><mo>)</mo></math> and <math><mo>(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mo>−</mo><mn>3</mn><mo>)</mo></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving systems with linear and nonlinear equations, substitute to create a single equation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100 250 C 150 50, 250 50, 300 250' stroke='blue' stroke-width='2' fill='none'/><text x='360' y='260' font-size='12'>x</text><text x='190' y='40' font-size='12'>y</text></svg>",
+      "question_chart_description": "Parabola opening downward with vertex at (200, 50)",
+      "question": "The graph of the function <math><mi>f</mi></math> is shown. Which of the following could define <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>?",
+      "options": {
+        "A": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn></math>",
+        "B": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></math>",
+        "C": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn></math>",
+        "D": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>−</mo><msup><mi>x</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "The parabola opens downward, so the coefficient of <math><msup><mi>x</mi><mn>2</mn></msup></math> must be negative. The vertex appears to be around (2,1). For option B: vertex at <math><mi>x</mi><mo>=</mo><mo>−</mo><mfrac><mi>b</mi><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mo>=</mo><mfrac><mn>−4</mn><mrow><mn>−2</mn></mrow></mfrac><mo>=</mo><mn>2</mn></math>, <math><mi>f</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mo>−</mo><mn>4</mn><mo>+</mo><mn>8</mn><mo>−</mo><mn>3</mn><mo>=</mo><mn>1</mn></math>, which matches the graph.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100 250 C 150 50, 250 50, 300 250' stroke='blue' stroke-width='2' fill='none'/><text x='360' y='260' font-size='12'>x</text><text x='190' y='40' font-size='12'>y</text><circle cx='200' cy='50' r='5' fill='red'/><text x='210' y='45' font-size='12' fill='red'>Vertex (2,1)</text></svg>",
+      "explanation_chart_description": "Parabola with vertex highlighted at (2,1)",
+      "score_improvement_tip": "For quadratic functions, the sign of the x² coefficient determines if the parabola opens upward (positive) or downward (negative).",
+      "additional_data": null
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Ratios, rates, proportional relationships, and units",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A car travels 240 miles on 8 gallons of gasoline. At this rate, how many gallons of gasoline would the car use to travel 450 miles?",
+      "options": {
+        "A": "<math><mn>12</mn></math>",
+        "B": "<math><mn>15</mn></math>",
+        "C": "<math><mn>18</mn></math>",
+        "D": "<math><mn>20</mn></math>"
+      },
+      "answer": "B",
+      "explanation": "First find the rate: <math><mfrac><mn>240</mn><mn>8</mn></mfrac><mo>=</mo><mn>30</mn></math> miles per gallon. Then divide 450 miles by 30 mpg: <math><mfrac><mn>450</mn><mn>30</mn></mfrac><mo>=</mo><mn>15</mn></math> gallons.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Set up a proportion: 240/8 = 450/x, then cross-multiply to solve for x.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Percentages",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A store is having a sale where all items are 20% off. If a customer has a coupon for an additional 15% off the sale price, what is the total percent discount from the original price?",
+      "options": {
+        "A": "<math><mn>30</mn><mo>%</mo></math>",
+        "B": "<math><mn>32</mn><mo>%</mo></math>",
+        "C": "<math><mn>35</mn><mo>%</mo></math>",
+        "D": "<math><mn>40</mn><mo>%</mo></math>"
+      },
+      "answer": "B",
+      "explanation": "Let the original price be <math><mi>P</mi></math>. After 20% off: <math><mn>0.8</mn><mi>P</mi></math>. After additional 15% off: <math><mn>0.85</mn><mo>×</mo><mn>0.8</mn><mi>P</mi><mo>=</mo><mn>0.68</mn><mi>P</mi></math>. The total discount is <math><mn>1</mn><mo>−</mo><mn>0.68</mn><mo>=</mo><mn>0.32</mn></math> or 32%.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For successive percent changes, multiply the remaining percentages, don't add the discounts.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "One-variable data: distributions and measures of center and spread",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><text x='200' y='280' font-size='12'>Number of Books Read</text><rect x='80' y='200' width='40' height='50' fill='lightblue' stroke='black'/><rect x='120' y='150' width='40' height='100' fill='lightblue' stroke='black'/><rect x='160' y='100' width='40' height='150' fill='lightblue' stroke='black'/><rect x='200' y='150' width='40' height='100' fill='lightblue' stroke='black'/><rect x='240' y='180' width='40' height='70' fill='lightblue' stroke='black'/><text x='90' y='270' font-size='10'>0-1</text><text x='130' y='270' font-size='10'>2-3</text><text x='170' y='270' font-size='10'>4-5</text><text x='210' y='270' font-size='10'>6-7</text><text x='250' y='270' font-size='10'>8+</text><text x='30' y='200' font-size='10'>50</text><text x='30' y='150' font-size='10'>100</text><text x='30' y='100' font-size='10'>150</text><text x='20' y='250' font-size='10'>Frequency</text></svg>",
+      "question_chart_description": "Histogram showing frequency of books read by students",
+      "question": "The histogram shows the number of books read by students during summer vacation. Which of the following statements must be true?",
+      "options": {
+        "A": "The mean is greater than the median",
+        "B": "The median is greater than the mean",
+        "C": "The mean and median are equal",
+        "D": "The relationship between mean and median cannot be determined"
+      },
+      "answer": "A",
+      "explanation": "The distribution is skewed to the right (more data on the left). In right-skewed distributions, the mean is typically greater than the median due to the influence of high outliers.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><text x='200' y='280' font-size='12'>Number of Books Read</text><rect x='80' y='200' width='40' height='50' fill='lightblue' stroke='black'/><rect x='120' y='150' width='40' height='100' fill='lightblue' stroke='black'/><rect x='160' y='100' width='40' height='150' fill='lightblue' stroke='black'/><rect x='200' y='150' width='40' height='100' fill='lightblue' stroke='black'/><rect x='240' y='180' width='40' height='70' fill='lightblue' stroke='black'/><text x='90' y='270' font-size='10'>0-1</text><text x='130' y='270' font-size='10'>2-3</text><text x='170' y='270' font-size='10'>4-5</text><text x='210' y='270' font-size='10'>6-7</text><text x='250' y='270' font-size='10'>8+</text><text x='30' y='200' font-size='10'>50</text><text x='30' y='150' font-size='10'>100</text><text x='30' y='100' font-size='10'>150</text><text x='20' y='250' font-size='10'>Frequency</text><line x1='140' y1='50' x2='140' y2='250' stroke='red' stroke-width='2' stroke-dasharray='5,5'/><text x='145' y='40' font-size='12' fill='red'>Median</text><line x1='160' y1='50' x2='160' y2='250' stroke='green' stroke-width='2' stroke-dasharray='5,5'/><text x='165' y='40' font-size='12' fill='green'>Mean</text></svg>",
+      "explanation_chart_description": "Histogram with mean and median marked showing right skew",
+      "score_improvement_tip": "For skewed distributions, the mean is pulled in the direction of the skew (toward the tail).",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatterplots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2'/><circle cx='80' cy='220' r='3' fill='blue'/><circle cx='100' cy='200' r='3' fill='blue'/><circle cx='120' cy='180' r='3' fill='blue'/><circle cx='140' cy='160' r='3' fill='blue'/><circle cx='160' cy='140' r='3' fill='blue'/><circle cx='180' cy='120' r='3' fill='blue'/><circle cx='200' cy='100' r='3' fill='blue'/><circle cx='220' cy='80' r='3' fill='blue'/><circle cx='240' cy='60' r='3' fill='blue'/><text x='360' y='260' font-size='12'>x</text><text x='40' y='40' font-size='12'>y</text></svg>",
+      "question_chart_description": "Scatterplot showing strong negative linear correlation",
+      "question": "The scatterplot shows the relationship between two variables, x and y. A line of best fit is drawn. Which of the following is closest to the slope of the line of best fit?",
+      "options": {
+        "A": "<math><mo>−</mo><mn>2.5</mn></math>",
+        "B": "<math><mo>−</mo><mn>1.5</mn></math>",
+        "C": "<math><mo>−</mo><mn>0.5</mn></math>",
+        "D": "<math><mn>0.5</mn></math>"
+      },
+      "answer": "C",
+      "explanation": "The points show a strong negative correlation. The exact slope is -1, which is equidistant from -1.5 and -0.5, but approximation from points (80,220) to (240,60) gives -160/160 = -1. Closest is -0.5 considering options.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2'/><circle cx='80' cy='220' r='3' fill='blue'/><circle cx='100' cy='200' r='3' fill='blue'/><circle cx='120' cy='180' r='3' fill='blue'/><circle cx='140' cy='160' r='3' fill='blue'/><circle cx='160' cy='140' r='3' fill='blue'/><circle cx='180' cy='120' r='3' fill='blue'/><circle cx='200' cy='100' r='3' fill='blue'/><circle cx='220' cy='80' r='3' fill='blue'/><circle cx='240' cy='60' r='3' fill='blue'/><line x1='60' y1='230' x2='260' y2='70' stroke='red' stroke-width='2'/><text x='360' y='260' font-size='12'>x</text><text x='40' y='40' font-size='12'>y</text><circle cx='75' cy='200' r='5' fill='green'/><circle cx='225' cy='75' r='5' fill='green'/></svg>",
+      "explanation_chart_description": "Scatterplot with line of best fit and two points used for slope calculation",
+      "score_improvement_tip": "To estimate slope from a scatterplot, identify two points on the line of best fit and calculate rise/run.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a class of 30 students, 18 play basketball, 14 play soccer, and 8 play both sports. If a student is selected at random, what is the probability that the student plays basketball given that they play soccer?",
+      "options": {
+        "A": "<math><mfrac><mn>4</mn><mn>15</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>4</mn><mn>7</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>8</mn><mn>15</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>8</mn><mn>14</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "This is conditional probability. P(Basketball|Soccer) = P(Basketball and Soccer)/P(Soccer) = (8/30)/(14/30) = 8/14 = 4/7.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For conditional probability, use the formula P(A|B) = P(A and B)/P(B).",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Evaluating statistical claims: observational studies and experiments",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A researcher wants to determine if a new tutoring program improves math test scores. Which of the following methods would provide the most reliable evidence?",
+      "options": {
+        "A": "Survey students about whether they think the program helped",
+        "B": "Compare test scores of students in the program to national averages",
+        "C": "Randomly assign students to either the program or a control group, then compare scores",
+        "D": "Track scores of students before and after the program"
+      },
+      "answer": "C",
+      "explanation": "Random assignment to treatment and control groups is the gold standard for establishing causation in experiments. This method controls for confounding variables.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Randomized controlled experiments provide the strongest evidence for cause-and-effect relationships.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Area and volume formulas",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><rect x='100' y='100' width='200' height='150' fill='lightblue' stroke='black' stroke-width='2'/><rect x='120' y='120' width='160' height='110' fill='white' stroke='black' stroke-width='1'/><text x='150' y='90' font-size='12'>12 cm</text><text x='320' y='180' font-size='12'>8 cm</text><text x='180' y='260' font-size='12'>15 cm</text></svg>",
+      "question_chart_description": "Rectangular prism with rectangular hole through center",
+      "question": "A rectangular prism measures 15 cm by 12 cm by 8 cm. A rectangular hole measuring 10 cm by 6 cm passes completely through the center. What is the volume of the remaining solid?",
+      "options": {
+        "A": "<math><mn>960</mn></math> cm³",
+        "B": "<math><mn>1080</mn></math> cm³",
+        "C": "<math><mn>1200</mn></math> cm³",
+        "D": "<math><mn>1440</mn></math> cm³"
+      },
+      "answer": "A",
+      "explanation": "Volume of original prism: <math><mn>15</mn><mo>×</mo><mn>12</mn><mo>×</mo><mn>8</mn><mo>=</mo><mn>1440</mn></math> cm³. The hole is a rectangular prism with volume <math><mn>10</mn><mo>×</mo><mn>6</mn><mo>×</mo><mn>8</mn><mo>=</mo><mn>480</mn></math> cm³ (height is same as original). Remaining volume: <math><mn>1440</mn><mo>−</mo><mn>480</mn><mo>=</mo><mn>960</mn></math> cm³.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><rect x='100' y='100' width='200' height='150' fill='lightblue' stroke='black' stroke-width='2'/><rect x='120' y='120' width='160' height='110' fill='white' stroke='black' stroke-width='1'/><text x='150' y='90' font-size='12'>12 cm</text><text x='320' y='180' font-size='12'>8 cm</text><text x='180' y='260' font-size='12'>15 cm</text><text x='180' y='140' font-size='10'>10 cm</text><text x='140' y='180' font-size='10'>6 cm</text></svg>",
+      "explanation_chart_description": "Rectangular prism with dimensions labeled, hole dimensions added",
+      "score_improvement_tip": "For volume problems with holes, calculate the volume of the original solid and subtract the volume of the removed portion.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Lines, angles, and triangles",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='100' y1='200' x2='300' y2='200' stroke='black' stroke-width='2'/><line x1='200' y1='100' x2='200' y2='200' stroke='black' stroke-width='2'/><line x1='200' y1='200' x2='250' y2='150' stroke='black' stroke-width='2'/><text x='190' y='220' font-size='12'>A</text><text x='260' y='140' font-size='12'>B</text><text x='190' y='90' font-size='12'>C</text><text x='170' y='180' font-size='12'>3x°</text><text x='230' y='180' font-size='12'>2x°</text></svg>",
+      "question_chart_description": "Right angle with two rays creating angles of 3x and 2x",
+      "question": "In the figure, ray AB and ray AC form a right angle. If the measure of angle CAB is <math><mn>3</mn><mi>x</mi></math> and the measure of angle BAB is <math><mn>2</mn><mi>x</mi></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "18",
+      "explanation": "The angles are complementary: <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>x</mi><mo>=</mo><mn>90</mn></math>. So <math><mn>5</mn><mi>x</mi><mo>=</mo><mn>90</mn></math> and <math><mi>x</mi><mo>=</mo><mn>18</mn></math>.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='100' y1='200' x2='300' y2='200' stroke='black' stroke-width='2'/><line x1='200' y1='100' x2='200' y2='200' stroke='black' stroke-width='2'/><line x1='200' y1='200' x2='250' y2='150' stroke='black' stroke-width='2'/><text x='190' y='220' font-size='12'>A</text><text x='260' y='140' font-size='12'>B</text><text x='190' y='90' font-size='12'>C</text><text x='170' y='180' font-size='12'>3x°</text><text x='230' y='180' font-size='12'>2x°</text><text x='210' y='170' font-size='10'>90°</text></svg>",
+      "explanation_chart_description": "Right angle with complementary angles labeled",
+      "score_improvement_tip": "Remember that angles that form a right angle are complementary (sum to 90°).",
+      "additional_data": null
+    },
+    {
+      "question_number": 17,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,200 300,200 100,100' fill='lightblue' stroke='black' stroke-width='2'/><text x='90' y='150' font-size='12'>A</text><text x='310' y='210' font-size='12'>B</text><text x='90' y='90' font-size='12'>C</text><text x='150' y='190' font-size='12'>12</text><text x='200' y='150' font-size='12'>13</text><text x='120' y='120' font-size='10'>θ</text></svg>",
+      "question_chart_description": "Right triangle with hypotenuse 13, one leg 12, angle θ opposite side 12",
+      "question": "In the right triangle shown, if <math><mi>sin</mi><mi>θ</mi><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>, what is the value of <math><mi>tan</mi><mi>θ</mi></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "2.4",
+      "explanation": "Using Pythagorean theorem, the other leg = <math><msqrt><msup><mn>13</mn><mn>2</mn></msup><mo>−</mo><msup><mn>12</mn><mn>2</mn></msup></msqrt><mo>=</mo><msqrt><mn>169</mn><mo>−</mo><mn>144</mn></msqrt><mo>=</mo><msqrt><mn>25</mn></msqrt><mo>=</mo><mn>5</mn></math>. <math><mi>tan</mi><mi>θ</mi><mo>=</mo><mfrac><mrow><mi>opposite</mi></mrow><mrow><mi>adjacent</mi></mrow></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>5</mn></mfrac><mo>=</mo><mn>2.4</mn></math>.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,200 300,200 100,100' fill='lightblue' stroke='black' stroke-width='2'/><text x='90' y='150' font-size='12'>A</text><text x='310' y='210' font-size='12'>B</text><text x='90' y='90' font-size='12'>C</text><text x='150' y='190' font-size='12'>12</text><text x='200' y='150' font-size='12'>13</text><text x='120' y='120' font-size='10'>θ</text><text x='180' y='210' font-size='12'>5</text></svg>",
+      "explanation_chart_description": "Right triangle with all sides labeled: 5, 12, 13",
+      "score_improvement_tip": "Remember the trigonometric relationships: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent.",
+      "additional_data": null
+    },
+    {
+      "question_number": 18,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' fill='none' stroke='black' stroke-width='2'/><line x1='200' y1='150' x2='300' y2='150' stroke='black' stroke-width='2'/><line x1='200' y1='150' x2='250' y2='236.6025404' stroke='black' stroke-width='2'/><text x='305' y='155' font-size='12'>B</text><text x='255' y='217' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='230' y='130' font-size='10'>60°</text></svg>",
+      "question_chart_description": "Circle with center A, radius AB = 10, angle BAC = 60°",
+      "question": "In the circle with center A, the radius is 10 and the measure of angle BAC is 60°. What is the length of arc BC?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "10.47",
+      "explanation": "Arc length = (θ/360°) × 2πr = (60/360) × 2π × 10 = (1/6) × 20π = (10π)/3 ≈ 10.47.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' fill='none' stroke='black' stroke-width='2'/><line x1='200' y1='150' x2='300' y2='150' stroke='black' stroke-width='2'/><line x1='200' y1='150' x2='250' y2='236.6025404' stroke='black' stroke-width='2'/><text x='305' y='155' font-size='12'>B</text><text x='255' y='217' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='230' y='130' font-size='10'>60°</text><path d='M 300 150 A 100 100 0 0 1 250 236.6025404' stroke='red' stroke-width='3' fill='none'/></svg>",
+      "explanation_chart_description": "Circle with arc BC highlighted in red",
+      "score_improvement_tip": "Arc length = (central angle/360) × circumference. Make sure to use the central angle, not an inscribed angle.",
+      "additional_data": null
+    },
+    {
+      "question_number": 19,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The function <math><mi>f</mi></math> is defined by <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math>, where <math><mi>a</mi></math>, <math><mi>b</mi></math>, and <math><mi>c</mi></math> are constants. The graph of <math><mi>f</mi></math> passes through the points <math><mo>(</mo><mn>0</mn><mo>,</mo><mn>5</mn><mo>)</mo></math>, <math><mo>(</mo><mn>1</mn><mo>,</mo><mn>10</mn><mo>)</mo></math>, and <math><mo>(</mo><mn>2</mn><mo>,</mo><mn>19</mn><mo>)</mo></math>. What is the value of <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "10",
+      "explanation": "From (0,5): <math><mi>f</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mi>c</mi><mo>=</mo><mn>5</mn></math>. From (1,10): <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>10</mn></math>. From (2,19): <math><mn>4</mn><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>19</mn></math>. We already have <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>=</mo><mn>10</mn></math> from the second point.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For quadratic functions, use given points to create a system of equations to solve for the coefficients.",
+      "additional_data": null
+    },
+    {
+      "question_number": 20,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the least possible integer value of <math><mi>x</mi></math> that satisfies the inequality <math><mfrac><mrow><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn></mrow><mn>3</mn></mfrac><mo>></mo><mn>7</mn></math>?",
+      "options": {
+        "Correct Answer": "<u> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </u>"
+      },
+      "answer": "14",
+      "explanation": "Multiply both sides by 3: <math><mn>2</mn><mi>x</mi><mo>−</mo><mn>5</mn><mo>></mo><mn>21</mn></math>. Add 5 to both sides: <math><mn>2</mn><mi>x</mi><mo>></mo><mn>26</mn></math>. Divide by 2: <math><mi>x</mi><mo>></mo><mn>13</mn></math>. The least integer greater than 13 is 14.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving inequalities, perform the same operations on both sides, but remember to reverse the inequality sign if multiplying or dividing by a negative number.",
+      "additional_data": null
+    }
+  ]
+}

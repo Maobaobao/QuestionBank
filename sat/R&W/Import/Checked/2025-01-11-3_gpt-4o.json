@@ -1,0 +1,119 @@
+{
+    "article_title": "Obituary for Dead Languages",
+    "article_author": "Heather Altfeld",
+    "article_date": "2019",
+    "article_source": "The Best American Essays",
+    "article_category": "Essay",
+    "article_tags": ["Language", "Cultural", "History"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "One language to rule them all, one language unites them. Chief among misguided policies is the mandate of a multilingual government, says a certain congressional representative in California. By discouraging immigrants and their children from using the English language, this policy has erected a linguistic barrier that keeps many immigrants from becoming full participants in the society they have chosen to join. Ten days from now the blastocyst inside you will affix to the uterine wall."
+      },
+      {
+        "passage_number": 2,
+        "text": "Water mama papa brrr, says the baby in the bathtub, an impeccable host to the newly minted mother tongue of the world. Mama water papa brrr. Doggie donkey me. Me go. Me go bye-bye. Who needs a world without a word for indigo or plop, without vowels or numbers after five? What use are those thirty-seven tiny fish taxonomies or the compound words for castrated reindeer? Who needs words like abubu for mythical creatures that no longer exist?"
+      },
+      {
+        "passage_number": 3,
+        "text": "Goodbye, Livonian and Yurok and Old Avar and Salish, Aka-Kora and Aka-Jeru and Aka-Bo and Aka-Cari and Aka-Kede; goodbye, Natchez and Bohemian Romani and Carpathian Romani and Tasmanian; and goodbye, old women eating hooligans with their tea, goodbye to the Kaua‘i ‘o‘o, whose love song cooed the Hawaiians to sleep and whose wails could be heard when their young fell from their nest."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the first passage?",
+        "options": {
+          "A": "The diversity of world languages",
+          "B": "The challenges posed by multilingualism in society",
+          "C": "The importance of teaching immigrants English",
+          "D": "The inevitability of cultural assimilation"
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes how a multilingual policy creates barriers for immigrants, making option B the correct choice.",
+        "score_improvement_tip": "Focus on identifying the main idea by summarizing the passage in a single sentence."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, what does the phrase 'impeccable host to the newly minted mother tongue' suggest about the baby?",
+        "options": {
+          "A": "The baby adopts language effortlessly.",
+          "B": "The baby struggles with learning language.",
+          "C": "The baby is resistant to learning new words.",
+          "D": "The baby lacks exposure to multiple languages."
+        },
+        "answer": "A",
+        "explanation": "The phrase indicates that the baby is adept at absorbing and utilizing the 'mother tongue,' supporting option A.",
+        "score_improvement_tip": "Pay attention to metaphors and descriptive language to infer the intended meaning."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "What does the author imply by questioning the usefulness of 'thirty-seven tiny fish taxonomies' or 'compound words for castrated reindeer'?",
+        "options": {
+          "A": "Certain languages focus excessively on specific concepts.",
+          "B": "Languages evolve to include unnecessary vocabulary.",
+          "C": "Preserving languages is an impractical task.",
+          "D": "All languages are equally valuable."
+        },
+        "answer": "A",
+        "explanation": "The rhetorical question suggests that certain languages dedicate intricate vocabulary to specific, possibly esoteric concepts, making A correct.",
+        "score_improvement_tip": "Look for the broader implication of examples provided in the text to answer inference questions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What is the author’s purpose in listing languages like Livonian, Yurok, and Aka-Bo?",
+        "options": {
+          "A": "To celebrate the diversity of human culture",
+          "B": "To underscore the disappearance of languages",
+          "C": "To question the preservation of endangered languages",
+          "D": "To highlight how certain languages have influenced English"
+        },
+        "answer": "B",
+        "explanation": "The listing of languages highlights their extinction, aligning with the theme of language loss, making B correct.",
+        "score_improvement_tip": "Recognize patterns in how the author organizes information to convey their purpose."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "How does the transition between 'Goodbye, Livonian' and 'Goodbye, tiny black disappearing dots on the map' affect the tone of the passage?",
+        "options": {
+          "A": "It shifts from factual to nostalgic.",
+          "B": "It introduces a humorous perspective.",
+          "C": "It maintains a consistent elegiac tone.",
+          "D": "It adds urgency to the discussion of language loss."
+        },
+        "answer": "C",
+        "explanation": "The consistent use of 'Goodbye' and the listing sustains an elegiac tone, reflecting loss and melancholy, making C correct.",
+        "score_improvement_tip": "Analyze transitions to see how they shape tone and flow in a passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }
+  

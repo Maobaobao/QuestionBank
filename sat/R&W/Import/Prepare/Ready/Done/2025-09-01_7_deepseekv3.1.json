@@ -1,0 +1,223 @@
+{
+  "article_title": "How Salespeople Game the System",
+  "article_author": "Timothy M. Gardner",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Ethics", "Sales", "Incentives", "Gaming the System"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "This typology of tactics can help sales leaders and incentive plan managers think like gamers when looking for signs of cheating in existing incentive plans and when designing and rolling out new ones. The effectiveness of this process will vary according to managers’ ability to anticipate all the ways sales incentive plans can be twisted for self-serving purposes—what management scholars Mark Seabright and Marshall Schminke call “immoral imagination.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "Incentive managers with limited immoral imagination should ask trusted sales leaders and professionals to look over drafts of incentive plans to identify ways in which people might game them. Reviewing the list of common tactics can spur everyone’s thinking to identify loopholes and opportunities for rule-breaking or outright cheating. Managers can use those insights to clarify rules, develop gaming safeguards, and design monitoring protocols."
+    },
+    {
+      "passage_number": 3,
+      "text": "Plan managers can also use the typology to detect cheating in existing plans. When incentive teams conduct audits of sales data, the typology can help them look for signs of wrongdoing or flaws in the plan design. Generally, this means examining data in the sales management systems for irregularities in salespeople’s behavior, deal closing, revenue measurement and recording, and the data flow and calculations that determine incentive payouts."
+    },
+    {
+      "passage_number": 4,
+      "text": "The incentive manager at a large U.S. financial institution noticed that the account-opening performance of one retail branch exceeded the performance of comparable branches in the region. Given this irregularity, the team suspected that a small group of bankers were using the faux-customer tactic. It initiated an audit of all deposit accounts opened in the previous 12 months and flagged those that had been closed in less than 90 days."
+    },
+    {
+      "passage_number": 5,
+      "text": "And recall our call center example of lost-in-segmentation behavior. After a week of intensive monitoring, the incentive plan team determined that 15% of the reps were ignoring a large share of their incoming calls, forcing other team members to pick them up, so that these reps could focus on commission-paying outbound calls. Team leaders corrected the behavior with one-on-one discussions, and the incentive team instituted a process for flagging similar behavior in the future."
+    },
+    {
+      "passage_number": 6,
+      "text": "Some of these practices may seem to be victimless crimes or relatively insignificant. Submitting a customer order on the first day of the month rather than the last day of the previous month, for instance, might annoy the budget team but have minimal impact on financial performance. But misleading customers, submitting false data, or creating phony customers can jeopardize customer relationships, pose serious risks, and ultimately result in catastrophic financial consequences."
+    },
+    {
+      "passage_number": 7,
+      "text": "Incentive managers with limited immoral imagination should ask trusted sales leaders and professionals to look over drafts of incentive plans to identify ways in which people might game them. Reviewing the list of common tactics can spur everyone’s thinking to identify loopholes and opportunities for rule-breaking or outright cheating. Managers can use those insights to clarify rules, develop gaming safeguards, and design monitoring protocols.<br><br>Consider the situation faced by security systems provider Vivint Smart Home. According to the Federal Trade Commission, in 2021 some 130 of the company’s commissioned sales reps regularly engaged in identity theft to approve customers for loans. If a customer didn’t qualify for a loan, the reps would illegally use the credit rec ord of an unrelated person with the same name. Falsifying data in this way—often called “white paging”—is a violation of several laws. The company admitted wrongdoing and agreed to pay a $15 million civil fine and a $5 million fine to affected customers."
+    },
+    {
+      "passage_number": 8,
+      "text": "Given that a sizable number of sales reps had regularly engaged in the behavior, and given the significant reputational damage and legal fines incurred, we would place that gaming activity in the top-right “widespread disruptive” quadrant. Companies that find themselves in that quadrant should immediately alert leaders from sales, legal, and compliance functions and risk management."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "As used in the passage, the phrase “immoral imagination” most nearly means the ability to:",
+      "options": {
+        "A": "create beautiful works of art.",
+        "B": "envision creative but unethical actions.",
+        "C": "remember past mistakes accurately.",
+        "D": "solve complex mathematical problems."
+      },
+      "answer": "B",
+      "explanation": "The context defines 'immoral imagination' as the ability 'to anticipate all the ways sales incentive plans can be twisted for self-serving purposes.' This involves envisioning creative but unethical ways to exploit the system.",
+      "score_improvement_tip": "For 'Words in Context' questions, treat the phrase as an unknown variable and solve for its meaning using the surrounding text. The definition is almost always provided nearby."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "The author implies that a manager with “limited immoral imagination” is someone who:",
+      "options": {
+        "A": "is highly ethical and refuses to consider cheating.",
+        "B": "struggles to foresee how others might cheat the system.",
+        "C": "has a poor memory for company rules and protocols.",
+        "D": "is new to the sales industry and lacks experience."
+      },
+      "answer": "B",
+      "explanation": "The passage states that these managers should ask others to 'identify ways in which people might game them' because they cannot do it themselves. This implies they struggle to foresee these unethical actions.",
+      "score_improvement_tip": "Inference questions ask you to identify what is suggested or implied, not directly stated. Look for the logical conclusion that must be true based on the evidence in the text."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best describes the function of the passage in the overall structure of the article?",
+      "options": {
+        "A": "It provides a specific, real-world example of a cheating tactic.",
+        "B": "It transitions from discussing prevention to discussing detection.",
+        "C": "It explains the practical application of the typology for auditing.",
+        "D": "It outlines the severe consequences faced by companies that fail to act."
+      },
+      "answer": "C",
+      "explanation": "The passage begins with 'Plan managers can also use the typology to detect cheating...' and then details *how* it is used in audits, specifically by examining data for 'irregularities.' This describes its practical application for detection.",
+      "score_improvement_tip": "To answer 'function' or 'purpose' questions, identify the passage's main action (e.g., 'explains,' 'provides an example,' 'introduces a problem') and how it relates to the passages before and after it."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The description of the financial institution's audit primarily serves to:",
+      "options": {
+        "A": "highlight the technical complexity of banking software.",
+        "B": "illustrate a successful application of the detection process.",
+        "C": "argue for higher salaries for incentive managers.",
+        "D": "criticize the ethical standards of all retail bankers."
+      },
+      "answer": "B",
+      "explanation": "The passage provides a concrete example of how a manager noticed an 'irregularity,' used a hypothesis ('suspected...faux-customer tactic'), and initiated a targeted audit that uncovered the cheating. It serves as an illustration of the detection process in action.",
+      "score_improvement_tip": "When a question asks what a detail or example 'serves to' do, think about the author's reason for including it. Examples are almost always used to illustrate a broader point or concept."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Based on the passage, what was the direct consequence for the call center reps who engaged in 'lost-in-segmentation' behavior?",
+      "options": {
+        "A": "They were immediately terminated.",
+        "B": "They were required to pay back their commissions.",
+        "C": "They were corrected by team leaders in one-on-one discussions.",
+        "D": "They were transferred to a different department without commissions."
+      },
+      "answer": "C",
+      "explanation": "The text explicitly states: 'Team leaders corrected the behavior with one-on-one discussions...' This was the direct corrective action taken for this specific instance, which was deemed less severe than the fraud in other examples.",
+      "score_improvement_tip": "For 'Central Ideas and Details' questions, the answer will be stated directly in the text. Practice scanning efficiently to find the exact sentence that contains the information."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "As used in the passage, “victimless” most nearly means:",
+      "options": {
+        "A": "causing no harm to any party.",
+        "B": "lacking a clear perpetrator.",
+        "C": "difficult to prove in court.",
+        "D": "targeting anonymous individuals."
+      },
+      "answer": "A",
+      "explanation": "The author contrasts so-called 'victimless crimes' (like shifting order dates) with actions that 'jeopardize customer relationships' and 'pose serious risks.' The word 'victimless' is used ironically to describe acts that are perceived as harmless, even if they are technically against the rules.",
+      "score_improvement_tip": "For high-difficulty vocabulary questions, the common definition of the word might be a trap. You must determine the meaning *in context*, which often involves nuance or contrast with other ideas in the passage."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The author’s statement that “all sales-cheating methods are not equal” (from a later part of the article) suggests that managers should:",
+      "options": {
+        "A": "ignore minor infractions to focus on major ones.",
+        "B": "develop a proportional response based on the severity of the cheating.",
+        "C": "standardize punishments for all types of rule-breaking.",
+        "D": "focus exclusively on financial impacts when evaluating cheating."
+      },
+      "answer": "B",
+      "explanation": "The inference is supported by the author's earlier contrast between 'victimless' actions and those with 'catastrophic financial consequences.' The Vivint example (severe) versus the call center example (less severe) further demonstrates that responses must be tailored to the scale and impact of the cheating.",
+      "score_improvement_tip": "Strong inferences are built by synthesizing information from multiple parts of the text. Connect related ideas even if they are in different paragraphs to understand the author's full argument."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "How does the Vivint Smart Home example relate to the concept of “immoral imagination” introduced earlier in the article?",
+      "options": {
+        "A": "It shows that a lack of immoral imagination can lead to honest mistakes.",
+        "B": "It provides a case study of immoral imagination being used to design a better incentive plan.",
+        "C": "It illustrates the extreme and dangerous real-world consequences of immoral imagination put into practice.",
+        "D": "It argues that immoral imagination is only a problem in the home security industry."
+      },
+      "answer": "C",
+      "explanation": "The 'immoral imagination' is the capacity to conceive of ways to game the system. The Vivint example is a stark realization of that imagination: reps conceived of and executed an elaborate scheme ('white paging') that had extreme consequences ('identity theft,' '$20 million in fines').",
+      "score_improvement_tip": "'Cross-Text' questions require you to mentally link concepts from different sections of the passage. Identify the key term or idea in the question and then find an example or elaboration of it elsewhere in the text."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "Which choice best supports the answer to the previous question?",
+      "options": {
+        "A": "“some 130 of the company’s commissioned sales reps regularly engaged in identity theft”",
+        "B": "“falsifying data in this way...is a violation of several laws”",
+        "C": "“the company admitted wrongdoing and agreed to pay a...fine”",
+        "D": "“Given that a sizable number of sales reps had regularly engaged in the behavior, and given the significant reputational damage and legal fines incurred”"
+      },
+      "answer": "D",
+      "explanation": "This evidence directly connects the reps' actions (the product of their 'immoral imagination') to the 'significant reputational damage and legal fines' that represent the extreme consequences. It best supports the idea that this was a severe instance of the concept in practice.",
+      "score_improvement_tip": "For 'Command of Evidence' questions that follow another question, treat them as a pair. Your answer to the first question must be logically supported by the quote you choose in the second. The best evidence will be the most direct and comprehensive."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "The passage serves which of the following functions in the overall argument?",
+      "options": {
+        "A": "It introduces a new and unrelated problem for sales managers to consider.",
+        "B": "It provides a concluding summary of the entire article's main points.",
+        "C": "It uses the Vivint case to transition into discussing the appropriate response to severe, widespread cheating.",
+        "D": "It acknowledges a potential counterargument to the author's central thesis."
+      },
+      "answer": "C",
+      "explanation": "The passage begins by categorizing the Vivint example ('widespread disruptive quadrant') and then immediately shifts to prescribing the necessary response for companies in that situation ('should immediately alert leaders...', 'develop a remediation plan'). It uses the example to launch into a discussion of response protocols.",
+      "score_improvement_tip": "To understand the structure of an argument, pay close attention to transitional words and phrases (e.g., 'Given that...') that signal a shift from describing a problem to proposing a solution or making a recommendation."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery over complex integrative reasoning. They effortlessly make cross-text connections, infer nuanced authorial intent, and analyze how evidence and examples serve the author's overarching argument. They navigate dense, formal texts with a precise understanding of words in context, even when meanings are subtle or ironic.",
+    "700_level_performance": "Students scoring 700 show strong comprehension of central ideas and details. They can make straightforward inferences and understand the purpose of individual paragraphs. Their primary challenges are with higher-order synthesis—connecting ideas across the entire text—and analyzing the precise function of evidence and examples within a complex argument."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require synthesizing information from multiple passages to understand the author's complete argument, analyzing the nuanced function of evidence and examples, and making sophisticated inferences about authorial intent and perspective.",
+    "medium_questions": "Medium questions assess the ability to identify the purpose of a passage within the text's structure, understand how examples illustrate broader concepts, and locate specific details that support the main ideas.",
+    "easy_questions": "Easy questions evaluate foundational skills: defining a phrase based on immediate context clues and making a simple, direct inference based on information stated in a single paragraph."
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "article_title": "The AI is Present",
+  "article_author": "Rebecca Ackermann",
+  "article_date": "May-June, 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Criticism",
+  "article_tags": ["Artificial Intelligence", "Art", "Storytelling", "Neuroscience"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Hajdu seems to be curious and optimistic about this line of inquiry. “Machines of many kinds have been communicating things for ages, playing invaluable roles in our communication through art,” he says. “Growing in intelligence, machines may still have more to communicate, if we let them.” But the question that The Uncanny Muse raises at the end is: Why should we art-making humans be so quick to hand over the paint to the paintbrush? Why do we care how the paintbrush sees the world? Are we truly finished telling our own stories ourselves?"
+    },
+    {
+      "passage_number": 2,
+      "text": "Pria Anand might say no. In The Mind Electric, she writes: “Narrative is universally, spectacularly human; it is as unconscious as breathing, as essential as sleep, as comforting as familiarity. It has the capacity to bind us, but also to other, to lay bare, but also obscure.” The electricity in The Mind Electric belongs entirely to the human brain-no metaphor necessary. Instead, the book explores a number of neurological afflictions and the stories patients and doctors tell to better understand them. “The truth of our bodies and minds is as strange as fiction,” Anand writes-and the language she uses throughout the book is as evocative as that in any novel."
+    },
+    {
+      "passage_number": 3,
+      "text": "In personal and deeply researched vignettes in the tradition of Oliver Sacks, Anand shows that any comparison between brains and machines will inevitably fall flat. She tells of patients who see clear images when they’re functionally blind, invent entire backstories when they’ve lost a memory, break along seams that few can find, and-yes-see and hear ghosts. In fact, Anand cites one study of 375 college students in which researchers found that nearly three-quarters “had heard a voice that no one else could hear.” These were not diagnosed schizophrenics or sufferers of brain tumors-just people listening to their own uncanny muses."
+    },
+    {
+      "passage_number": 4,
+      "text": "Many heard their name, others heard God, and some could make out the voice of a loved one who’d passed on. Anand suggests that writers throughout history have harnessed organic exchanges with these internal apparitions to make art. “I see myself taking the breath of these voices in my sails,” Virginia Woolf wrote of her own experiences with ghostly sounds. “I am a porous vessel afloat on sensation.” The mind in The Mind Electric is vast, mysterious, and populated. The narratives people construct to traverse it are just as full of wonder."
+    },
+    {
+      "passage_number": 5,
+      "text": "Humans are not going to stop using technology to help us create anytime soon-and there’s no reason we should. Machines make for wonderful tools, as they always have. But when we turn the tools themselves into artists and storytellers, brains and bodies, magicians and ghosts, we bypass truth for wish fulfillment. Maybe what’s worse, we rob ourselves of the opportunity to contribute our own voices to the lively and loud chorus of human experience. And we keep others from the human pleasure of hearing them too."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "As used in the passage, the phrase 'hand over the paint to the paintbrush' primarily serves to",
+      "options": {
+        "A": "describe a literal artistic technique.",
+        "B": "argue for the superiority of human painters.",
+        "C": "metaphorically represent ceding artistic creation to AI.",
+        "D": "explain how tools have evolved over time."
+      },
+      "answer": "C",
+      "explanation": "The phrase is a metaphor. The 'paintbrush' represents the AI tool. 'Handing over the paint' means giving the AI the primary creative agency, which is the central concern of the passage.",
+      "score_improvement_tip": "For figurative language, identify the two things being compared. The literal meaning is rarely correct; focus on the symbolic or metaphorical relationship."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Easy",
+      "passage": 5,
+      "question": "Based on the passage, the author most likely believes that the primary value of human-created art lies in its",
+      "options": {
+        "A": "technical perfection and efficiency.",
+        "B": "ability to function as a useful tool for society.",
+        "C": "role as a unique and authentic expression of human experience.",
+        "D": "potential to be improved through advanced technology."
+      },
+      "answer": "C",
+      "explanation": "The passage states that using AI as the artist 'rob[s] ourselves of the opportunity to contribute our own voices' and denies others the 'human pleasure of hearing them.' This emphasizes the value of authentic human expression and connection.",
+      "score_improvement_tip": "When asked what an author 'most likely believes,' find the statement in the text that most directly supports the inference. Avoid answers that contradict the author's tone or central argument."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "The author's description of Anand's book in the passage primarily serves to",
+      "options": {
+        "A": "provide a counterpoint to Hajdu's optimism about machine creativity.",
+        "B": "summarize the scientific findings of a neurological study.",
+        "C": "critique the use of metaphor in scientific writing.",
+        "D": "prove that all artistic inspiration has a neurological basis."
+      },
+      "answer": "A",
+      "explanation": "The passage begins by stating 'Pria Anand might say no' in response to the question from passage one about handing over creation to machines. It then elaborates on Anand's view that narrative is 'spectacularly human,' establishing her work as a contrasting perspective to Hajdu's more optimistic view on AI.",
+      "score_improvement_tip": "Pay close attention to transitional phrases at the beginning of paragraphs (e.g., 'might say no'). They often signal how the new paragraph connects to or contrasts with the previous one."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best describes the function of the study cited in the passage?",
+      "options": {
+        "A": "It provides statistical proof for a common neurological condition.",
+        "B": "It offers quantitative support for the claim that human mental experiences are complex and common.",
+        "C": "It defines the difference between diagnosed schizophrenics and healthy individuals.",
+        "D": "It introduces a new scientific theory about the origin of creativity."
+      },
+      "answer": "B",
+      "explanation": "The study is used as evidence to support the passage's main claim: that the human brain is incredibly complex and mysterious ('any comparison between brains and machines will inevitably fall flat'). The high number of healthy students reporting unusual experiences demonstrates that such mystifying phenomena are widespread, not just limited to the ill.",
+      "score_improvement_tip": "When a text cites a study or statistic, ask yourself: 'What broader point is this evidence being used to prove?' The correct answer will align with the author's central argument in that section."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "As used in the passage, “populated” most nearly means",
+      "options": {
+        "A": "heavily settled.",
+        "B": "scientifically mapped.",
+        "C": "filled with inhabitants.",
+        "D": "statistically measured."
+      },
+      "answer": "C",
+      "explanation": "The context describes the mind as 'vast, mysterious, and populated.' This follows a discussion about internal 'apparitions,' 'ghostly sounds,' and 'voices.' Therefore, 'populated' means filled with these internal, conscious or subconscious inhabitants, not literal people.",
+      "score_improvement_tip": "For vocabulary-in-context questions, read the surrounding sentences to establish the tone and subject matter. Plug each answer choice back into the original sentence to see which one fits best conceptually."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "The series of questions at the end of the passage implies that the author believes",
+      "options": {
+        "A": "AI art is inherently inferior to human art.",
+        "B": "the motivation for using AI in art deserves deeper scrutiny.",
+        "C": "Hajdu's curiosity is misplaced and naive.",
+        "D": "paintbrushes are a metaphor that has been overused."
+      },
+      "answer": "B",
+      "explanation": "The author does not outright dismiss AI art but uses rhetorical questions to probe the underlying reasons for pursuing it ('Why should we...?', 'Why do we care...?', 'Are we truly finished...?'). This implies a skepticism that calls for deeper examination of our motivations, not a simple rejection. The tone is questioning and critical, not dismissive.",
+      "score_improvement_tip": "Analyze rhetorical questions to understand the author's implied perspective. They often express doubt or criticism about the opposing view and suggest the author's position lies in the opposite direction."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The reference to Virginia Woolf in the passage primarily serves to",
+      "options": {
+        "A": "contrast a historical literary style with modern scientific understanding.",
+        "B": "provide an example of a writer who was likely suffering from a neurological affliction.",
+        "C": "illustrate Anand's claim that artists have drawn inspiration from internal experiences.",
+        "D": "prove that all great art is inspired by auditory hallucinations."
+      },
+      "answer": "C",
+      "explanation": "The sentence immediately before the quote states that Anand suggests writers 'have harnessed organic exchanges with these internal apparitions to make art.' The Woolf quote is then introduced as a specific, firsthand example of this phenomenon, illustrating how an artist described her interaction with these internal 'voices.'",
+      "score_improvement_tip": "When an author uses a specific example, identify the general claim that immediately precedes it. The example is almost always used to illustrate or prove that preceding point."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice best states the main purpose of the passage?",
+      "options": {
+        "A": "To propose a compromise between the use of AI tools and human artistry.",
+        "B": "To warn against a specific consequence of conflating technological tools with creative agents.",
+        "C": "To predict the eventual obsolescence of human artists.",
+        "D": "To celebrate the historical role of machines in the creative process."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly approves of technology as 'wonderful tools.' Its main purpose is to draw a line at the point where tools become seen as artists themselves, arguing that this shift causes us to 'bypass truth for wish fulfillment' and lose the authentic human connection inherent in art. It is a warning against this specific conflation.",
+      "score_improvement_tip": "To identify the main purpose, look for the author's argumentative thesis, often found in the second half of a paragraph. Distinguish between what the author accepts (using tools) and what they are arguing against (treating tools as artists)."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "How does the passage's discussion of 'patients who see clear images when they’re functionally blind' contribute to the development of the author’s overall argument in the article?",
+      "options": {
+        "A": "It provides a pathological counterexample to the experiences of the healthy college students.",
+        "B": "It emphasizes the complexity and inexplicable nature of human consciousness that AI cannot replicate.",
+        "C": "It suggests that AI could be used to diagnose these mysterious neurological conditions.",
+        "D": "It argues that human perception is too flawed to be the basis for true art."
+      },
+      "answer": "B",
+      "explanation": "The author's overall argument is that human cognition and creativity are profound, mysterious, and fundamentally different from machine operation. The vignettes about patients (and later the study on healthy students) are used to build this case by showcasing the bizarre, non-mechanical, and awe-inspiring capabilities—and malfunctions—of the human brain, which contrasts with the predictable nature of AI.",
+      "score_improvement_tip": "To see how a part contributes to the whole, synthesize information across passages. Ask: 'What is the author's main point, and how does this specific detail help prove that point?'"
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The author uses the phrase 'wish fulfillment' in the passage to imply that treating AI as storytellers is motivated by a desire to",
+      "options": {
+        "A": "fulfill the wishes of audiences for new and exciting stories.",
+        "B": "believe that technology can solve all human problems, including creativity.",
+        "C": "create art that is more truthful than human-made art.",
+        "D": "allow machines to achieve their dream of becoming artists."
+      },
+      "answer": "B",
+      "explanation": "'Wish fulfillment' refers to the human desire for a simple, technological solution to the hard work of creation. The author contrasts this with 'truth,' implying that the reality of art is messy, human, and authentic. The 'wish' is for technology to effortlessly replace the complex, often difficult, human creative process.",
+      "score_improvement_tip": "Analyze phrases in contrast to their surrounding text. The author sets up 'wish fulfillment' in opposition to 'truth,' framing it as an appealing but ultimately false or simplistic alternative to a more complex reality."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills. They can synthesize ideas across multiple paragraphs, understand nuanced authorial intent, make complex inferences about tone and purpose, and analyze how specific details and examples contribute to the development of a central argument. They precisely define high-utility vocabulary in context.",
+    "700_level_performance": "Students scoring at this level show strong comprehension of explicit ideas and details. They can make straightforward inferences and understand the purpose of individual paragraphs. Their primary challenges are with cross-text analysis, understanding subtle authorial claims, and parsing the function of sophisticated rhetorical devices within a complex argument."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills. They require synthesizing ideas across the entire text, understanding nuanced authorial intent and tone, and analyzing how specific rhetorical choices (like examples, quotes, or metaphors) function to develop the author's overall argument. They often have tempting answer choices that contain elements of truth but misrepresent the author's purpose or the detail's function.",
+    "medium_questions": "Medium questions assess the ability to understand the purpose of a paragraph within the larger text, use context to define vocabulary, and interpret the function of evidence provided. They require moving beyond basic comprehension to a clearer analysis of structure and support.",
+    "easy_questions": "Easy questions evaluate basic comprehension skills, including identifying the main purpose of a metaphor and making a direct inference based on a clear textual statement."
+  }
+}

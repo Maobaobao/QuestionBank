@@ -1,0 +1,211 @@
+{
+  "article_title": "How AI can help supercharge creativity",
+  "article_author": "WILL DOUGLAS HEAVEN",
+  "article_date": "May-June,2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["AI", "Creativity", "Generative AI", "Co-creativity", "Human-AI Collaboration"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Wilson is a live coder. Instead of using purpose-built software like most electronic music producers, live coders create music by writing the code to generate it on the fly. It’s an improvised performance art known as algorave.<br><br>“It’s kind of boring when you go to watch a show and someone’s just sitting there on their laptop,” she says. “You can enjoy the music, but there’s a performative aspect that’s missing. With live coding, everyone can see what it is that I’m typing. And when I’ve had my laptop crash, people really like that. They start cheering.”<br><br>Taking risks is part of the vibe. And so Wilson likes to dial up her performances one more notch by riffing off what she calls a live-coding agent, a generative AI model that comes up with its own beats and loops to add to the mix. Often the model suggests sound combinations that Wilson hadn’t thought of. “You get these elements of surprise,” she says. “You just have to go for it.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "Wilson, a researcher at the Creative Computing Institute at the University of the Arts London, is just one of many working on what’s known as co-creativity or more-than-human creativity. The idea is that AI can be used to inspire or critique creative projects, helping people make things that they would not have made by themselves. She and her colleagues built the live-coding agent to explore how artificial intelligence can be used to support human artistic endeavors-in Wilson’s case, musical improvisation. It’s a vision that goes beyond the promise of existing generative tools put out by companies like OpenAI and Google DeepMind. Those can automate a striking range of creative tasks and offer near-instant gratification-but at what cost? Some artists and researchers fear that such technology could turn us into passive consumers of yet more AI slop."
+    },
+    {
+      "passage_number": 3,
+      "text": "And so they are looking for ways to inject human creativity back into the process. The aim is to develop AI tools that augment our creativity rather than strip it from us-pushing us to be better at composing music, developing games, designing toys, and much more-and lay the groundwork for a future in which humans and machines create things together.<br><br>Ultimately, generative models could offer artists and designers a whole new medium, pushing them to make things that couldn’t have been made before, and give everyone creative superpowers."
+    },
+    {
+      "passage_number": 4,
+      "text": "There’s no one way to be creative, but we all do it. We make everything from memes to masterpieces, infant doodles to industrial designs. There’s a mistaken belief, typically among adults, that creativity is something you grow out of. But being creative-whether cooking, singing in the shower, or putting together super-weird TikToks- is still something that most of us do just for the fun of it. It doesn’t have to be high art or a world-changing idea and yet it can be. Creativity is basic human behavior; it should be celebrated and encouraged."
+    },
+    {
+      "passage_number": 5,
+      "text": "When generative text-to-image models like Midjourney, OpenAI’s DALL-E, and the popular opensource Stable Diffusion arrived, they sparked an explosion of what looked a lot like creativity. Millions of people were now able to create remarkable images of pretty much anything, in any style, with the click of a button. Text-to-video models came next. Now startups like Udio, are developing similar tools for music. Never before have the fruits of creation been within reach of so many.<br><br>But for a number of researchers and artists, the hype around these tools has warped the idea of what creativity really is. “If I ask the AI to create something for me, that’s not me being creative,” says Jeba Rezwana, who works on co-creativity at Towson University in Maryland. “It’s a one-shot interaction: You click on it and it generates something and that’s it. You cannot say ‘I like this part, but maybe change something here.’ You cannot have a back-and-forth dialogue.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main focus of the description of Wilson's live coding performances?",
+      "options": {
+        "A": "The technical challenges of using laptops in live shows",
+        "B": "The audience's reaction to technical failures",
+        "C": "The integration of AI to enhance improvised music creation",
+        "D": "The differences between traditional and electronic music production"
+      },
+      "answer": "C",
+      "explanation": "The passage centers on Wilson's use of a live-coding agent, an AI model, to add surprises and new elements to her performances, emphasizing how it supports her improvisation.",
+      "score_improvement_tip": "Identify the primary subject by noting recurring themes and examples that illustrate the key point, rather than isolated details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 4,
+      "question": "In the context of the passage, the word 'warped' most nearly means",
+      "options": {
+        "A": "distorted",
+        "B": "improved",
+        "C": "preserved",
+        "D": "ignored"
+      },
+      "answer": "A",
+      "explanation": "The term 'warped' describes how hype has negatively altered the perception of creativity, implying a distortion from its true nature.",
+      "score_improvement_tip": "Consider how the word fits the overall tone and logic of the sentence to determine its contextual meaning."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which quotation from the passage best supports the idea that existing AI tools may diminish human involvement in creativity?",
+      "options": {
+        "A": "Wilson, a researcher at the Creative Computing Institute at the University of the Arts London, is just one of many working on what’s known as co-creativity",
+        "B": "Those can automate a striking range of creative tasks and offer near-instant gratification-but at what cost?",
+        "C": "She and her colleagues built the live-coding agent to explore how artificial intelligence can be used to support human artistic endeavors",
+        "D": "It’s a vision that goes beyond the promise of existing generative tools put out by companies like OpenAI and Google DeepMind"
+      },
+      "answer": "B",
+      "explanation": "This quotation directly questions the cost of automation and instant results, implying a potential reduction in active human creativity.",
+      "score_improvement_tip": "Select evidence that directly addresses the claim by evaluating how each option connects to the broader argument."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "The primary purpose of the final paragraph in the passage is to",
+      "options": {
+        "A": "praise the accessibility of new AI tools",
+        "B": "contrast initial excitement with underlying concerns about creativity",
+        "C": "list specific examples of generative AI models",
+        "D": "advocate for the complete replacement of human creativity with AI"
+      },
+      "answer": "B",
+      "explanation": "The paragraph shifts from describing the 'explosion' of AI-enabled creation to quoting a researcher who critiques it as lacking true interaction, highlighting concerns.",
+      "score_improvement_tip": "Analyze shifts in tone or perspective within the text to understand the structural role of specific sections."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "However",
+        "B": "Therefore",
+        "C": "In addition",
+        "D": "Ultimately"
+      },
+      "answer": "D",
+      "explanation": "The word 'Ultimately' effectively signals a concluding vision that builds on the preceding aim, providing a sense of progression toward future potential.",
+      "score_improvement_tip": "Choose transitions that reflect the logical flow, such as summation or contrast, based on the relationship between ideas."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the passage, it can most reasonably be inferred that Wilson's use of AI in performances primarily serves to",
+      "options": {
+        "A": "eliminate the need for human input during live shows",
+        "B": "introduce unpredictable elements that enhance artistic risk-taking",
+        "C": "ensure consistent sound quality without technical failures",
+        "D": "replicate traditional music production methods more efficiently"
+      },
+      "answer": "B",
+      "explanation": "The passage describes AI suggesting unexpected combinations, which Wilson embraces as 'elements of surprise,' aligning with the risk-taking vibe of live coding.",
+      "score_improvement_tip": "Draw inferences by connecting implied ideas across the text, avoiding assumptions that contradict explicit details."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The author's discussion of co-creativity in this passage would most directly support which broader argument in the article?",
+      "options": {
+        "A": "AI should replace human artists to increase efficiency",
+        "B": "Existing AI tools risk making users passive rather than active creators",
+        "C": "Live coding is superior to other forms of music production",
+        "D": "Generative AI is ineffective for artistic improvisation"
+      },
+      "answer": "B",
+      "explanation": "Co-creativity is presented as a response to fears that current tools turn people into 'passive consumers,' emphasizing AI's role in supporting rather than automating human efforts.",
+      "score_improvement_tip": "Link specific concepts to the article's overarching themes by identifying how they address or counter key concerns."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The author most likely includes examples like 'cooking, singing in the shower, or putting together super-weird TikToks' to",
+      "options": {
+        "A": "argue that only everyday activities qualify as true creativity",
+        "B": "illustrate the universality and accessibility of creativity beyond elite pursuits",
+        "C": "criticize adults for abandoning creative hobbies",
+        "D": "suggest that AI cannot replicate informal creative acts"
+      },
+      "answer": "B",
+      "explanation": "These relatable examples counter the 'mistaken belief' that creativity is outgrown, emphasizing it as a basic, inclusive human behavior.",
+      "score_improvement_tip": "Evaluate rhetorical choices by considering how they persuade or clarify the author's main point."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which version of the underlined portion best maintains grammatical boundaries and clarity?",
+      "options": {
+        "A": "Now startups like Udio, are developing",
+        "B": "Now startups, like Udio are developing",
+        "C": "Now startups like Udio are developing",
+        "D": "Now startups like, Udio are developing"
+      },
+      "answer": "C",
+      "explanation": "Removing the comma after 'Udio' corrects the unnecessary separation, ensuring the phrase 'like Udio' properly functions as an example without disrupting the sentence structure.",
+      "score_improvement_tip": "Check for proper punctuation in lists or examples to avoid fragmenting ideas unnecessarily."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "As used in the passage, 'augment' most nearly means",
+      "options": {
+        "A": "replace",
+        "B": "enhance",
+        "C": "limit",
+        "D": "define"
+      },
+      "answer": "B",
+      "explanation": "The context contrasts 'augment' with 'strip it from us,' indicating AI tools should improve or boost human creativity rather than diminish it.",
+      "score_improvement_tip": "Infer nuanced meanings by contrasting the word with opposing ideas in the surrounding text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, rhetorical analysis, and synthesis, accurately interpreting subtle nuances and cross-text connections while applying conventions precisely.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on complex inferences, vocabulary in nuanced contexts, or sophisticated rhetorical evaluations."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences requiring synthesis of implicit ideas, advanced vocabulary contexts, cross-text linkages, rhetorical purpose analysis, and precise convention application.",
+    "medium_questions": "Medium questions focus on identifying textual evidence, understanding transitions, and analyzing text structure and purpose for logical flow.",
+    "easy_questions": "Easy questions test basic identification of central ideas, details, and straightforward word meanings in context."
+  }
+}

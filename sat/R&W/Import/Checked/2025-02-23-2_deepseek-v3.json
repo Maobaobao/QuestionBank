@@ -1,0 +1,231 @@
+{
+    "article_title": "American Motherhood",
+    "article_author": "Annie Lowrey",
+    "article_date": "2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Pregnancy", "Health", "Motherhood"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The 2018 midterms were looming, and my husband and I were planning to relocate from Washington, DC, to California, when I learned that I was pregnant the first time. At our first ultrasound, we sat besotted, looking at the gummy-bear contour on the screen as a wub-wub-wub sound filled the room. The first jump scare came minutes later. The technician went silent, moving the wand over my pelvis again and again. In time, a doctor came in to tell me there was a mass the size of a softball—roughly the size my baby’s head would be at forty weeks, she noted—sitting on the left side of my pelvis. She was not worried about it affecting the pregnancy. But she was worried about it twisting and cutting off the blood supply to one of my ovaries. That would be 'a nine or ten out of ten on the pain scale,' the doctor said, as flatly as if she were letting me know the time."
+      },
+      {
+        "passage_number": 2,
+        "text": "Duly noted, I guess. She expected the baby to arrive at the end of March or early April, and with that deadline set, my husband and I hastened our move across the country. Toward the end of my first trimester, as we were packing boxes and giving away books, the itching showed up, as I noted in my diary at the time. I first noticed it in the morning. Lots of people stretch and then scratch themselves when they wake up, right? Next, I noticed it in the evening, a reaction to our laundry detergent, perhaps? Soon there was no noticing necessary. I could not not notice it. Especially in warm weather and at night, I felt centipedes scuttling over my feet and hot needles poking my shoulder blades."
+      },
+      {
+        "passage_number": 3,
+        "text": "Things I tried to make it stop: hypoallergenic detergents and soaps; pine-tar soap; eczema wash; calamine lotion and capsaicin lotion; oatmeal baths; shea butter and dozens of other emollients; antihistamine cream; a variety of over-the-counter and prescription oral antihistamines; topical steroids; showering with cold water; holding bags of frozen corn against my body; wearing loose clothing; acupuncture (not fun when you are itchy); screaming. Only three things helped: ice, a cream called Sarna that made me smell like an unsmoked Newport, and scratching. So I iced, applied lotion, and scratched. I tore the webbing between my toes and the thin skin around my belly button. I clawed out clumps of hair. I fantasized about being able to scratch my wet bones or the jelly in my eyeballs."
+      },
+      {
+        "passage_number": 4,
+        "text": "My West Coast providers were sympathetic, if not overly concerned. Itching was not unusual during gestation, my new obstetrician noted. She suspected I had intrahepatic cholestasis of pregnancy, a dangerous condition that affects roughly one in a thousand pregnancies. She ordered weekly blood tests to look for a telltale increase in bile acids. In the meantime, she told me to use cold compresses."
+      },
+      {
+        "passage_number": 5,
+        "text": "Aside from the pruritus—the medical term for itching—I felt joyous as my belly swelled and we got used to our new home, hiking on the beach with our dogs and trying out baby names. My husband and I took the cult low-intervention birthing class everybody we knew took, called, ahem, 'Yes to Birth!' I read book after book about how I was built for this."
+      },
+      {
+        "passage_number": 6,
+        "text": "As the weeks dragged on, though, the itching kept getting worse, and the blood work showed nothing. By the middle of my second trimester, struggling to function, I called my providers, sobbing and begging for help. The nurse on call asked me if I had taken antihistamines. Of course I had. 'If you felt like you had poison ivy for months,' I snapped, 'did you think you would have taken a fucking Benadryl?' She had me leave an escalatory message on some voice mail. Nobody called me back. So we moved on to our third set of medical providers, a team of crunchy, evidence-based midwives in Oakland."
+      },
+      {
+        "passage_number": 7,
+        "text": "At our first meeting, my new lead midwife took one look at my skin—which, from all my scratching, had undergone a process called lichenification, becoming thick and leathery and covered in welts—and referred me to a dermatologist, who guessed I had either scabies or cholestasis and prescribed a strong topical steroid. (Alas, I did not have scabies.) The new drug would work, I promised myself. I lurked at home, talking to my baby, who we had learned was a boy, telling him I could not wait to meet him."
+      },
+      {
+        "passage_number": 8,
+        "text": "That happened sooner than I’d imagined. Early in my third trimester, my midwife kept muttering 'Fuck' as she took my blood pressure. It had spiked to 170 over 90, a level suggesting that I had preeclampsia. She called in an obstetrician who deals with high-risk cases to take over my care, as I had 'risked out' of her scope of practice."
+      },
+      {
+        "passage_number": 9,
+        "text": "That new doctor, No. 4, confirmed that I had preeclampsia, with anomalies in my liver and kidney labs. She admitted me to the hospital at thirty-one weeks so she could monitor my organ function and asked me to stay there until I gave birth, which was likely to be at least a month early. 'We’ll deliver you at thirty-six weeks,' she told me. 'But you’re not going to make it that long.'"
+      },
+      {
+        "passage_number": 10,
+        "text": "I raged. How dare she! I would deliver—not us—when my body and my baby were ready. I was healthy. I was built for this. (I was in denial.) Her face softened. She had a feeling about some pregnancies, she told me. Mine was one of them. Then she told me about two patients who had had severe pruritus during pregnancy. The first gave herself frostbite during a blizzard, ripping her clothes off and letting the snow numb her. The second threw herself out a window."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The excitement of moving to California.",
+          "B": "The discovery of a medical issue during pregnancy.",
+          "C": "The joy of seeing the baby for the first time.",
+          "D": "The challenges of relocating while pregnant."
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the discovery of a mass during the ultrasound, which is a medical issue, making B the correct answer.",
+        "score_improvement_tip": "Focus on the central event or idea in the passage."
+      },
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "Which detail supports the idea that the itching was severe?",
+        "options": {
+          "A": "The itching was first noticed in the morning.",
+          "B": "The itching felt like centipedes scuttling over her feet.",
+          "C": "The itching was a reaction to laundry detergent.",
+          "D": "The itching was worse in warm weather."
+        },
+        "answer": "B",
+        "explanation": "The description of the itching as feeling like centipedes scuttling over her feet emphasizes its severity, making B the correct answer.",
+        "score_improvement_tip": "Look for vivid or extreme descriptions that highlight the intensity of a situation."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "As used in the passage, what does 'lichenification' most nearly mean?",
+        "options": {
+          "A": "Softening of the skin.",
+          "B": "Thickening and hardening of the skin.",
+          "C": "Discoloration of the skin.",
+          "D": "Healing of the skin."
+        },
+        "answer": "B",
+        "explanation": "The passage describes the skin as becoming thick and leathery, indicating that 'lichenification' refers to thickening and hardening, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar terms."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What can be inferred about the author’s obstetrician?",
+        "options": {
+          "A": "She was dismissive of the author’s symptoms.",
+          "B": "She was knowledgeable but cautious.",
+          "C": "She was overly concerned about the itching.",
+          "D": "She was inexperienced with pregnancy complications."
+        },
+        "answer": "B",
+        "explanation": "The obstetrician suspected a serious condition but ordered tests to confirm, showing she was knowledgeable but cautious, making B the correct answer.",
+        "score_improvement_tip": "Infer attitudes or approaches based on actions and decisions described in the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The author’s joy despite her itching.",
+          "B": "The author’s preparation for childbirth.",
+          "C": "The author’s love for her dogs.",
+          "D": "The author’s frustration with her medical providers."
+        },
+        "answer": "A",
+        "explanation": "The passage describes the author’s joy and excitement about her pregnancy despite her itching, making A the correct answer.",
+        "score_improvement_tip": "Identify the emotional tone and primary focus of the passage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which choice best describes the purpose of the passage?",
+        "options": {
+          "A": "To explain the author’s frustration with her medical care.",
+          "B": "To highlight the severity of the author’s itching.",
+          "C": "To introduce a new set of medical providers.",
+          "D": "To describe the author’s emotional state."
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the author’s frustration with her medical providers and her decision to seek new care, making A the correct answer.",
+        "score_improvement_tip": "Focus on the main conflict or turning point in the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "What can be inferred about the author’s attitude toward her new medical providers?",
+        "options": {
+          "A": "She was skeptical of their methods.",
+          "B": "She was hopeful for a solution.",
+          "C": "She was indifferent to their advice.",
+          "D": "She was frustrated with their lack of urgency."
+        },
+        "answer": "B",
+        "explanation": "The author’s decision to seek new providers and her hope that the new drug would work suggest she was hopeful, making B the correct answer.",
+        "score_improvement_tip": "Infer attitudes based on actions and decisions described in the passage."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Which evidence best supports the claim that the author’s condition was serious?",
+        "options": {
+          "A": "The midwife muttered 'Fuck' while taking her blood pressure.",
+          "B": "The midwife called in a high-risk obstetrician.",
+          "C": "The author’s blood pressure was 170 over 90.",
+          "D": "All of the above."
+        },
+        "answer": "D",
+        "explanation": "All the options provide evidence of the seriousness of the author’s condition, making D the correct answer.",
+        "score_improvement_tip": "Look for multiple pieces of evidence that support the claim."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The author’s denial of her condition.",
+          "B": "The doctor’s prediction about the author’s pregnancy.",
+          "C": "The author’s admission to the hospital.",
+          "D": "The doctor’s experience with similar cases."
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the doctor’s prediction that the author would not make it to thirty-six weeks, making B the correct answer.",
+        "score_improvement_tip": "Identify the primary focus and its implications in the passage."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What can be inferred about the doctor’s attitude toward the author’s pregnancy?",
+        "options": {
+          "A": "She was overly optimistic.",
+          "B": "She was deeply concerned.",
+          "C": "She was indifferent to the risks.",
+          "D": "She was frustrated with the author’s denial."
+        },
+        "answer": "B",
+        "explanation": "The doctor’s prediction and her mention of other severe cases suggest she was deeply concerned, making B the correct answer.",
+        "score_improvement_tip": "Infer attitudes based on tone and specific details in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

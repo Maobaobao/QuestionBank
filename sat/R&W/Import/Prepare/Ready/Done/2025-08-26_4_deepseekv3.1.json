@@ -1,0 +1,211 @@
+{
+  "article_title": "CRISPR pigs head to market",
+  "article_author": "Michael Le Page",
+  "article_date": "December 28, 2024",
+  "article_source": "New Scientist USA",
+  "article_category": "Essay",
+  "article_tags": ["Genetics", "Agriculture", "CRISPR", "Biotechnology"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "THIRTY years after the first genetically modified tomato went on sale, the promise to revolutionise farming with genetic technologies remains largely unfulfilled. But 2025 could be a turning point, with new products demonstrating the untapped potential to reduce the losses of animals and crops to diseases.<br><br>In the coming year, regulatory authorities in the US are expected to approve a pig gene-edited to make it resistant to a common and devastating disease. That approval could open the door to a much wider use of the technology."
+    },
+    {
+      "passage_number": 2,
+      "text": "It is estimated that, globally, between 20 and 40 per cent of livestock and crops are lost to pests and diseases. Reducing these losses would have many benefits, from helping keep food prices down to making farming more profitable and reducing the environmental damage it causes.<br><br>In fact, making farm animals resistant to viruses such as flu could even help reduce the risk of another pandemic."
+    },
+    {
+      "passage_number": 3,
+      "text": "The international breeding company Genus might just change this. It has used CRISPR gene editing to make four breeding lines of pigs resistant to the airborne virus that causes porcine reproductive and respiratory syndrome (PRRS). Production can fall 7 per cent on farms affected by PRRS, so it leads to major losses globally.<br><br>“We continue to make progress with FDA [US Food and Drug Administration] approval of our PRRS-resistant pigs, and are still on track for approval some time in 2025,” says Clint Nesbitt at Genus."
+    },
+    {
+      "passage_number": 4,
+      "text": "The rollout of the PRRSresistant pigs will also depend on approval being granted in the major export markets for US pork, so sales might not begin until 2026. Once the necessary approvals are in place, Genus expects strong demand given the huge losses farmers suffer because of the disease.<br><br>Indeed, the head of a pigproducing company in the UK, Robert Beckett, has urged the UK government to approve the resistant pigs as soon as possible. “I am fully supportive of the adoption of the technology to help tackle the devastating condition of PRRS in the pig industry,” says Beckett."
+    },
+    {
+      "passage_number": 5,
+      "text": "Another destructive disease is caused by a fungus called TR4 that infects and kills most edible bananas, including the world’s most popular variety, the Cavendish. A team led by James Dale at the Queensland University of Technology in Australia has made the Cavendish banana resistant to TR4 by adding a gene from a wild banana.<br><br>These fields trials were delayed by a Greenpeace-orchestrated court ruling that banned the growing of GM crops in the Philippines. This has been partially reversed, allowing the trials to go ahead, but the growth of golden rice modified to be richer in provitamin A remains banned."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "The primary purpose of the passage is to",
+      "options": {
+        "A": "criticize the slow progress of genetic modification in agriculture.",
+        "B": "describe a specific historical example of a genetically modified food.",
+        "C": "introduce the potential for a significant shift in agricultural technology in the near future.",
+        "D": "explain the technical process of gene editing using CRISPR."
+      },
+      "answer": "C",
+      "explanation": "The passage begins by acknowledging the unfulfilled promise of the past ('remains largely unfulfilled') but immediately pivots to a forward-looking claim using the phrase 'turning point.' It then provides two specific examples (pigs and bananas) of new products that demonstrate this potential shift, making C the best answer.",
+      "score_improvement_tip": "For 'purpose' questions, identify the passage's overall function: is it to introduce, argue, describe, or contrast? The opening and closing sentences often hold the key."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "Based on the passage, which situation would the author most likely agree is a benefit of reducing crop and livestock losses?",
+      "options": {
+        "A": "An increase in the variety of pets available in stores.",
+        "B": "A stabilization in the cost of food for consumers.",
+        "C": "A decrease in the amount of land used for farming.",
+        "D": "An increase in the number of people employed as farmers."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that reducing losses would help in 'keeping food prices down.' This directly correlates to a stabilization in the cost of food for consumers. The other options are not supported by the text.",
+      "score_improvement_tip": "Inference questions still require text-based evidence. Find the sentence that most directly supports the logical conclusion. Don't infer beyond what the text allows."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "As used in the passage, “change this” most nearly means to change",
+      "options": {
+        "A": "the FDA's approval process.",
+        "B": "the widespread production of GM animals.",
+        "C": "the percentage loss on farms.",
+        "D": "the virus that causes PRRS."
+      },
+      "answer": "B",
+      "explanation": "The word 'this' is a pronoun that refers to an idea in the previous passage. This passage ends by stating 'There is no largescale production of any kind of GM animal.' Therefore, Genus changing 'this' refers to changing the situation where no GM animals are produced on a large scale.",
+      "score_improvement_tip": "When a question asks about a pronoun or reference word like 'this,' 'that,' or 'these,' always look at the previous sentence or passage to identify the antecedent."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice best describes the evidence provided in the passage for the claim that 'Genus expects strong demand' for its pigs?",
+      "options": {
+        "A": "The opinion of a UK pig producer.",
+        "B": "The need for approval in export markets.",
+        "C": "The huge losses farmers suffer from the disease.",
+        "D": "The expected timeline for sales beginning in 2026."
+      },
+      "answer": "C",
+      "explanation": "The passage uses the transition word 'given' to introduce the reason for the strong demand. It states strong demand is expected 'given the huge losses farmers suffer because of the disease.' This is the direct evidence for the claim. Robert Beckett's opinion supports the *value* of the technology, not the specific claim about market demand.",
+      "score_improvement_tip": "'Command of Evidence' questions require you to find the specific fact or statement that directly supports a claim, not just a related or tangential piece of information."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "The author includes the information about Greenpeace and golden rice primarily to",
+      "options": {
+        "A": "highlight the ongoing regulatory and public relations challenges facing genetically modified crops.",
+        "B": "suggest that Greenpeace is the primary obstacle to scientific progress in the Philippines.",
+        "C": "argue that golden rice is a more important innovation than TR4-resistant bananas.",
+        "D": "explain the scientific method used to create TR4-resistant bananas."
+      },
+      "answer": "A",
+      "explanation": "The paragraph details a specific obstacle (a court ruling) and a partial victory (the reversal allowing trials). It then notes that another GM crop (golden rice) remains banned. Together, these details serve to illustrate the complex and challenging environment of regulations and public opposition that GM crops face, making A the correct answer. The passage does not take a side on who is the primary obstacle (B) or which innovation is more important (C).",
+      "score_improvement_tip": "To determine why an author includes a detail, ask: 'What broader point does this specific example illustrate?' The correct answer will be a broader concept, not a restatement of the detail itself."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "The passage suggests that the approval of the gene-edited pig could be more significant than the first GM tomato because it",
+      "options": {
+        "A": "uses a more advanced and precise technology.",
+        "B": "could catalyze the broader application of genetic technology in agriculture.",
+        "C": "is focused on animal welfare rather than crop durability.",
+        "D": "has faced less opposition from regulatory authorities."
+      },
+      "answer": "B",
+      "explanation": "The passage states that the promise of GM tech has been 'largely unfulfilled' since the tomato. It then presents the pig's approval not just as a single event, but as one that 'could open the door to a much wider use of the technology.' This implies its significance lies in its potential to break the 30-year trend of unfulfilled promise and enable widespread adoption, unlike the tomato which did not lead to this revolution.",
+      "score_improvement_tip": "Hard inference questions often require synthesizing information from different parts of the passage. Connect the contrast between the past ('unfulfilled') and the future ('open the door') to find the answer."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "How does the perspective of Robert Beckett, as presented in the passage, relate to the overall argument of the article?",
+      "options": {
+        "A": "It provides a dissenting view that highlights potential risks of the technology.",
+        "B": "It offers a scientific counterpoint to the economic claims made by Genus.",
+        "C": "It reinforces the article's emphasis on the economic necessity of the technology from an industry insider's view.",
+        "D": "It shifts the article's focus from US markets to the specific concerns of European farmers."
+      },
+      "answer": "C",
+      "explanation": "The article's central argument is that disease-resistant GM animals address major economic losses ('devastating disease,' 'major losses globally,' 'huge losses'). Beckett, an industry head, is quoted as being 'fully supportive' to 'tackle the devastating condition.' His perspective is not dissenting (A) or scientific (B); it is an economic endorsement from within the industry, which directly reinforces the article's main thesis about the technology's value and anticipated demand.",
+      "score_improvement_tip": "For 'Cross-Text Connections' or questions about how a quote functions, identify the main argument first. Then, see if the quote supports, contradicts, or nuances that argument."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "A student is writing a report on barriers to adopting genetically modified foods. Which finding from the passages would be most relevant for the student to include?",
+      "options": {
+        "A": "PRRS can cause a 7% fall in production on affected pig farms.",
+        "B": "GM papayas resistant to a viral disease saved Hawaii’s papaya industry in 1998.",
+        "C": "A court ruling in the Philippines, orchestrated by Greenpeace, banned the growing of GM crops.",
+        "D": "The Cavendish is the world's most popular variety of banana."
+      },
+      "answer": "C",
+      "explanation": "While all options are facts from the text, the question asks for the most relevant finding on 'barriers to adoption.' Option C is the only one that explicitly describes a legal and activist-created barrier that delayed field trials. Option B describes a success story, not a barrier. Options A and D are factual details that do not relate to adoption barriers.",
+      "score_improvement_tip": "Rhetorical Synthesis questions test your ability to select the most appropriate information for a specific rhetorical goal. Ignore interesting but irrelevant facts and choose the one that directly fulfills the stated purpose."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The passage indicates that the court ruling in the Philippines has been 'partially reversed.' This most likely means that the reversal",
+      "options": {
+        "A": "was decided by a split vote among the judges.",
+        "B": "applies to some GM crops but not others.",
+        "C": "is only effective for a limited amount of time.",
+        "D": "was based on incomplete scientific evidence."
+      },
+      "answer": "B",
+      "explanation": "The sentence structure provides the context: the reversal is 'partial' because it allowed banana trials to proceed ('allowing the trials to go ahead') but did not lift the ban on all GM crops, as evidenced by the fact that 'the growth of golden rice... remains banned.' This clearly indicates the reversal applied to some crops (bananas) but not others (golden rice).",
+      "score_improvement_tip": "For phrases describing degree or extent (e.g., 'partially,' 'mainly,' 'primarily'), the answer will almost always be found in the immediate context that defines what is included and what is excluded."
+    },
+    {
+      "question_number": 10,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The passage implies that the environmental damage caused by farming is",
+      "options": {
+        "A": "primarily due to the overuse of pesticides.",
+        "B": "exacerbated by losses to pests and disease.",
+        "C": "a necessary trade-off for achieving high profitability.",
+        "D": "independent of the amount of food produced."
+      },
+      "answer": "B",
+      "explanation": "The passage links several concepts: losses to pests/disease -> reducing these losses -> reducing environmental damage. This chain of logic implies that losses to pests and disease contribute to (or exacerbate) environmental damage. For example, if a field is destroyed by blight, the resources (water, land, fertilizer) used to grow that lost crop were wasted, and a farmer might clear more land to compensate, increasing environmental damage. The text does not specify the mechanism (A), call it a necessary trade-off (C), or separate it from production volume (D).",
+      "score_improvement_tip": "The hardest inference questions require you to follow a logical chain of ideas stated in the text. If X leads to Y, and Y leads to Z, then you can infer that X is a contributor to Z."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 consistently demonstrate mastery over complex, nuanced inferences and cross-text analysis. They understand not just what the text says, but how it works—how evidence supports claims, how structure shapes meaning, and how perspectives interact. They avoid trap answers that are plausible but not fully supported by the text.",
+    "700_level_performance": "Students scoring 700 show strong comprehension of central ideas and details and can handle straightforward inferences. Their gap to 800 is often in the most complex reasoning questions: synthesizing information across paragraphs, understanding the subtle function of a specific detail, or making a nuanced inference that requires connecting multiple ideas."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (6, 7, 8, 9, 10) test advanced skills: making complex inferences about authorial implication (6, 10), analyzing how a quote functions within a larger argument (7), selecting evidence for a specific rhetorical purpose (8), and deriving nuanced meaning from context (9). Success requires seeing connections between different parts of the text.",
+    "medium_questions": "Medium questions (3, 4, 5) assess the ability to interpret words in context by looking backward for antecedents (3), identify the most direct piece of textual evidence for a claim (4), and understand the author's reason for including a specific detail (5).",
+    "easy_questions": "Easy questions (1, 2) evaluate foundational skills: identifying the main purpose of a passage (1) and locating a text-based detail that supports a straightforward inference (2)."
+  }
+}

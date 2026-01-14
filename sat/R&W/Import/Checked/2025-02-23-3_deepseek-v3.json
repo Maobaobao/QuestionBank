@@ -1,0 +1,231 @@
+{
+    "article_title": "The Battle for Baby L.",
+    "article_author": "Rozina Ali",
+    "article_date": "2023",
+    "article_source": "New York Times Magazine",
+    "article_category": "Reporting",
+    "article_tags": ["Adoption", "Legal Battle", "Afghanistan"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Over the next three years, the case of Baby L. would expand into a legal battle over her adoption, allegations of a transnational child-abduction scheme in federal court, and investigations by state and federal agencies. The U.S. government has stated that the adoption should not have happened."
+      },
+      {
+        "passage_number": 2,
+        "text": "For five months, I have been investigating how an American Christian man was able to take custody of a Muslim child from a country that does not allow adoptions to non-Muslims. To piece together what went wrong, I have interviewed dozens of Afghan and U.S. officials, lawyers and experts; pored over hundreds of pages of legal records and internal emails; and gathered reporting from the village where the baby was made an orphan. But what I found is that the system didn’t break down. Almost everyone, technically, did their job—members of the broad evangelical Christian network who aided Mast, the Afghan officials who followed government protocol, the State Department officials at Bagram who tried to stop attempts to evacuate the baby to the United States, and the American government agencies that would see only the court order listing Mast as the child’s father and allow him to take her."
+      },
+      {
+        "passage_number": 3,
+        "text": "Two central questions seemed to drive how people considered the fate of this baby: One, who were her parents—Afghan or foreign insurgents? Two, should the United States have the authority to determine the future of a child half a world away? This fundamental issue of sovereignty is one that has troubled the United States for two decades of its occupation of the country—and it was made all the more complicated against the fall of Kabul."
+      },
+      {
+        "passage_number": 4,
+        "text": "Afghanistan is not a signatory to the Hague Convention, which sets standards on international adoption, but the former Afghan government had its own guardianship system that placed a child with relatives or relied on a court to decide who her new family would be. Despite American interest, only thirty-four Afghan children have been adopted in the United States since 2001."
+      },
+      {
+        "passage_number": 5,
+        "text": "Mast did not wait for that process to unfold. In November 2019, he and his brother convinced the family court in Virginia that this child in Afghanistan was stateless and had no family. Moreover, the court noted when granting the Masts custody, the Afghan government intended to waive its authority in the matter; a written copy of the waiver would come 'in a matter of days.'"
+      },
+      {
+        "passage_number": 6,
+        "text": "The brothers appeared to understand that they were engaged in an extraordinary legal project, with equally extraordinary moral repercussions. According to text exchanges I obtained through Freedom of Information Act requests, Richard Mast, Judge Moore, and Allyson Tysinger, a senior officer at the Virginia attorney general’s office, had discussed some knotty legal issues around the case in early November. The family court had granted the Masts custody of the child, and two days later, Moore, in Circuit Court, ordered a certificate of foreign birth to be issued. It would establish a legal identity for Baby L. But Tysinger, who appeared to have a friendly relationship with Richard, was concerned: Virginia couldn’t issue the certificate listing the Masts as the baby’s parents without a court order that approved them for adoption, not just custody. On November 9, she spoke with Moore, who had questions about his authority to issue such an order in this case. He was reassured. On November 10, Moore and Richard discussed the matter over the phone, Richard drafted the order, and Moore signed it the same day. In a letter, Richard told the attorney general’s office that Baby L.’s case presented 'exceptional circumstances' and that 'these facts will probably never occur again in any of our lifetimes.' (Joshua Mast, Stephanie Mast, and Richard Mast did not respond to multiple requests for comment.)"
+      },
+      {
+        "passage_number": 7,
+        "text": "What helped the Masts succeed was a set of assumptions that for many have become accepted truths: that those we kill abroad in the dead of night are terrorists, that Islam is inherently dangerous, that the courts are inherently just, that prosperity confers morality. In all the time that politicians, religious leaders, lawyers, and federal and local government officials sought to help the Masts obtain custody of this baby, no one took seriously the possibility that she might have a family and that they might care for her, too. Despite the rumors that spread through Bagram that fall, L. was not without a past or loved ones. She had relatives, and one day, they were located."
+      },
+      {
+        "passage_number": 8,
+        "text": "This is the story of a baby girl who was rescued by Americans in a battlefield they helped create. Ultimately, this is a story about the fictions we tell ourselves about the twenty years we spent in Afghanistan. 'It’s the complete collapse of rule of law that allowed this abduction to happen,' Sehla Ashai, one of the lawyers who would go on to represent the baby’s relatives, told me. 'And it didn’t happen in Afghanistan—it happened in America.'"
+      },
+      {
+        "passage_number": 9,
+        "text": "In recent years, the welfare of orphans in Afghanistan had fallen to the Ministry of Labor and Social Affairs, which in late 2019 was led by a former provincial governor named Syed Anwar Sadat. He faced a delicate situation: A man from the village where the raid took place had approached the local authorities about a missing baby. The Americans, meanwhile, were caring for the infant at Bagram, and they were saying that her parents were foreign insurgent fighters. Some wanted to send her to the United States for medical care, even adopt her. Now the case had reached the ears of Sadat’s boss, President Ashraf Ghani, who was trying to navigate not only peace talks between American forces and the Taliban about the future of the country but also the disputed outcome of a very close reelection victory."
+      },
+      {
+        "passage_number": 10,
+        "text": "Ghani was open to the possibility of sending the baby to the United States to be adopted if an Afghan court would allow it, Sadat told me, but first he wanted the ministry to look for her family. There appeared to be some urgency: The State Department had encouraged the Afghan authorities to speed up their investigation. One State Department official with direct knowledge of the matter told me that the agency grew alarmed when it learned there had been requests to the presidential palace for a waiver. Additionally, they were concerned about the baby’s welfare; she had been at Bagram for months now, and the base was ill-equipped to care for an injured infant over the long term."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The U.S. government supported the adoption of Baby L.",
+          "B": "The adoption of Baby L. led to a legal battle.",
+          "C": "The adoption of Baby L. was approved by Afghan authorities.",
+          "D": "The adoption of Baby L. was uncontroversial."
+        },
+        "answer": "B",
+        "explanation": "The passage describes the legal battle and investigations surrounding Baby L.'s adoption, making B the correct answer.",
+        "score_improvement_tip": "Focus on the central conflict or issue described in the passage."
+      },
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "Which detail supports the idea that the system did not break down in Baby L.'s case?",
+        "options": {
+          "A": "The Afghan officials followed government protocol.",
+          "B": "The State Department tried to stop the evacuation.",
+          "C": "The American government agencies relied on the court order.",
+          "D": "All of the above."
+        },
+        "answer": "D",
+        "explanation": "All the options provide evidence that the system functioned as intended, making D the correct answer.",
+        "score_improvement_tip": "Look for multiple pieces of evidence that support the claim."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "As used in the passage, what does 'sovereignty' most nearly mean?",
+        "options": {
+          "A": "Authority",
+          "B": "Wealth",
+          "C": "Justice",
+          "D": "Tradition"
+        },
+        "answer": "A",
+        "explanation": "In this context, 'sovereignty' refers to the authority of a nation to govern itself, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar terms."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What can be inferred about the Hague Convention?",
+        "options": {
+          "A": "It is widely followed by all countries.",
+          "B": "It sets standards for international adoption.",
+          "C": "It is irrelevant to Afghanistan.",
+          "D": "It is opposed by the United States."
+        },
+        "answer": "B",
+        "explanation": "The passage mentions that the Hague Convention sets standards on international adoption, making B the correct answer.",
+        "score_improvement_tip": "Infer information based on explicit details in the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The legal process in Afghanistan.",
+          "B": "The Masts' efforts to gain custody of Baby L.",
+          "C": "The role of the Afghan government in the adoption.",
+          "D": "The challenges of international adoption."
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the Masts' actions to gain custody of Baby L., making B the correct answer.",
+        "score_improvement_tip": "Identify the primary subject and its significance in the passage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which choice best describes the purpose of the passage?",
+        "options": {
+          "A": "To explain the legal challenges faced by the Masts.",
+          "B": "To highlight the moral implications of the case.",
+          "C": "To describe the role of the Virginia attorney general’s office.",
+          "D": "To criticize the actions of Judge Moore."
+        },
+        "answer": "A",
+        "explanation": "The passage details the legal steps taken by the Masts and their legal team, making A the correct answer.",
+        "score_improvement_tip": "Focus on the main actions and their implications in the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "What can be inferred about the assumptions that helped the Masts succeed?",
+        "options": {
+          "A": "They were based on factual evidence.",
+          "B": "They were widely accepted without question.",
+          "C": "They were challenged by Afghan officials.",
+          "D": "They were irrelevant to the case."
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that these assumptions were accepted truths that no one questioned, making B the correct answer.",
+        "score_improvement_tip": "Infer attitudes or beliefs based on the text."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Which evidence best supports the claim that the rule of law collapsed in Baby L.'s case?",
+        "options": {
+          "A": "The Masts obtained custody through legal means.",
+          "B": "The adoption occurred in the United States, not Afghanistan.",
+          "C": "The Afghan government was not involved in the decision.",
+          "D": "The case involved multiple legal jurisdictions."
+        },
+        "answer": "B",
+        "explanation": "The passage highlights that the abduction happened in America, not Afghanistan, indicating a collapse of rule of law, making B the correct answer.",
+        "score_improvement_tip": "Look for evidence that directly supports the claim."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The challenges faced by President Ghani.",
+          "B": "The role of the Ministry of Labor and Social Affairs.",
+          "C": "The American care for Baby L. at Bagram.",
+          "D": "The political context of Baby L.'s case."
+        },
+        "answer": "D",
+        "explanation": "The passage discusses the political and social context surrounding Baby L.'s case, making D the correct answer.",
+        "score_improvement_tip": "Identify the broader context and its implications in the passage."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What can be inferred about the State Department's role in Baby L.'s case?",
+        "options": {
+          "A": "They were indifferent to the outcome.",
+          "B": "They were actively involved in the investigation.",
+          "C": "They supported the Masts' efforts.",
+          "D": "They were unaware of the legal issues."
+        },
+        "answer": "B",
+        "explanation": "The passage describes the State Department's involvement in the investigation and their concerns, making B the correct answer.",
+        "score_improvement_tip": "Infer roles and actions based on specific details in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

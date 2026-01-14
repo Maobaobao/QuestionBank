@@ -1,0 +1,118 @@
+{
+  "article_title": "My Grandmother’s Dictionary",
+  "article_author": "Matthew Zapruder",
+  "article_date": "August 21, 2023",
+  "article_source": "The New Yorker",
+  "article_category": "Poetry",
+  "article_tags": ["Family", "Memory", "Imagery", "Love"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "It must have arrived in the hands<br>of a salesman whose name<br>shall remain unrecorded. Let’s<br>call him the handsome stranger.<br>She saw him through the little<br>window next to the door<br>and knew although she did not<br>believe she believed in such<br>things she had loved him<br>in a former life. She gave him<br>a glass of her legendary tea<br>and let him go."
+    },
+    {
+      "passage_number": 2,
+      "text": "My grandfather<br>was upstairs in the immaculate<br>attic where after they died<br>I found this typewriter<br>sleeping among old blueprints.<br>During the war he diagrammed<br>routes so trucks of soldiers<br>could arrive precisely in time<br>to wait for their orders. Or<br>he worked in parts. I don’t<br>remember. I can only picture<br>that afternoon he told me<br>exactly who he had been,<br>I hear the resigned<br>tone but not what he said,<br>I was as is my nature staring<br>out the kitchen window<br>thinking some great hypothesis<br>that could easily be disproved,<br>that day now lost in the book<br>no one can ever turn<br>around and read."
+    },
+    {
+      "passage_number": 3,
+      "text": "Out of the kitchen she came<br>with a broom and we both<br>pretended it was never there.<br>What is that sort of love?<br>The dictionary knows. I opened<br>it and found dust. I remember<br>it had a solitary gold stripe<br>across blue gray fabric like a dress<br>you wear only once, by the sea."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main purpose of the description of the salesman in the passage?",
+      "options": {
+        "A": "To depict a key event in the narrator's life",
+        "B": "To convey a sense of mystery and nostalgia",
+        "C": "To provide background on the grandmother's character",
+        "D": "To highlight the narrator's skepticism about love"
+      },
+      "answer": "B",
+      "explanation": "The passage uses evocative imagery and a fictionalized narrative to create a sense of mystery and nostalgia about the salesman's visit.",
+      "score_improvement_tip": "Focus on how descriptive language is used to set the tone and create a mood." 
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "How does the phrase \"she did not believe she believed in such things\" contribute to the passage's tone?",
+      "options": {
+        "A": "It adds humor by contrasting belief with skepticism.",
+        "B": "It creates a reflective tone by exploring doubt and emotion.",
+        "C": "It develops suspense by implying an unexpected event.",
+        "D": "It conveys regret about the past."
+      },
+      "answer": "B",
+      "explanation": "The phrase captures the grandmother's internal contradiction, emphasizing the reflective and wistful tone of the poem.",
+      "score_improvement_tip": "Pay attention to phrases that reveal character emotions or internal conflicts." 
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which evidence in the passage best supports the idea that the grandfather's work was significant yet ambiguous to the narrator?",
+      "options": {
+        "A": "I found this typewriter sleeping among old blueprints.",
+        "B": "During the war he diagrammed routes so trucks of soldiers could arrive precisely in time.",
+        "C": "Or he worked in parts. I don’t remember.",
+        "D": "I hear the resigned tone but not what he said."
+      },
+      "answer": "C",
+      "explanation": "The statement \"Or he worked in parts. I don’t remember.\" shows that the narrator is uncertain about the exact nature of his grandfather's work, suggesting its importance while reflecting personal ambiguity.",
+      "score_improvement_tip": "Look for textual details that reveal both explicit and implied meanings." 
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "As used in line 10, the word 'resigned' most nearly means:",
+      "options": {
+        "A": "subdued",
+        "B": "defeated",
+        "C": "accepting",
+        "D": "apologetic"
+      },
+      "answer": "C",
+      "explanation": "In this context, 'resigned' describes the tone of the grandfather's explanation, suggesting acceptance rather than defeat or apology.",
+      "score_improvement_tip": "Examine how specific words function in the context of surrounding phrases and ideas." 
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "How does the final sentence of the poem ('I remember it had a solitary gold stripe...') enhance the theme of the poem?",
+      "options": {
+        "A": "It emphasizes the fragility of family connections.",
+        "B": "It reinforces the theme of memory and impermanence.",
+        "C": "It highlights the narrator's sense of longing for material possessions.",
+        "D": "It contrasts the vivid imagery of objects with the abstract notion of love."
+      },
+      "answer": "B",
+      "explanation": "The description of the dictionary with a solitary gold stripe symbolizes memory's fleeting nature and its connection to the past, aligning with the theme of impermanence.",
+      "score_improvement_tip": "Consider how imagery supports the broader themes and emotional undertones of the text." 
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including nuanced text analysis and complex inferential reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with intricate text synthesis or ambiguous contexts."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require inference, analysis of nuanced word choices, and synthesis of ideas across lines.",
+    "medium_questions": "Medium questions test comprehension and the ability to link textual evidence with themes.",
+    "easy_questions": "Easy questions focus on direct comprehension and identifying central ideas."
+  }
+}

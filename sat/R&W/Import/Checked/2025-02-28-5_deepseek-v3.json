@@ -1,0 +1,231 @@
+{
+    "article_title": "How Rising Groundwater Caused by Climate Change Could Devastate Coastal Communities",
+    "article_author": "Jeff Kendra Pierre-Louis",
+    "article_date": "2022",
+    "article_source": "MIT Technology Review",
+    "article_category": "Essay",
+    "article_tags": ["Groundwater", "Coastal Communities", "Climate Adaptation", "Infrastructure"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "In talking with experts about groundwater rise, what often comes up is that it’s more complicated and harder to adapt to than sea level rise. Any solution to one aspect of the problem can create a cascade of others. Take, for example, something as straightforward as sanitation. Ordinarily, in most parts of the United States, when you flush the toilet one of three things happens, depending on where you live: it goes out to a cesspool, a septic system, or a sewer line. But groundwater rise presents increasing challenges for all three."
+      },
+      {
+        "passage_number": 2,
+        "text": "Cesspools are essentially concrete cylinders with an open bottom and perforated sides. Especially in coastal areas, the cesspools, which should be dry, instead find themselves constantly inundated, says Josh Stanbro, a senior policy director for Honolulu’s city council, who until last January was the city’s chief resilience officer. “They’re now sort of always wet,” he says. Microbes stay alive because they are wet, and because there’s so much more water around, they can leach out."
+      },
+      {
+        "passage_number": 3,
+        "text": "And Honolulu is not the only city with this issue. Miami-Dade County is facing similar problems with septic tanks, which in theory provide a layer of filtration that cesspools do not. But to do that filtration, the systems require a layer of soil two feet deep, and that layer shrinks as water tables rise. Already, 56 percent of the county’s systems are periodically compromised during storms. By 2040, estimates suggest, that number will rise to 64 percent. Failed septic systems can contaminate the local aquifers that a community depends on for drinking water."
+      },
+      {
+        "passage_number": 4,
+        "text": "One work-around is to switch those households and businesses currently on septic or cesspool systems over to sewer lines. In Miami-Dade County, the estimated cost for that shift is $2.3 billion."
+      },
+      {
+        "passage_number": 5,
+        "text": "Nor are sewer systems a panacea, cautions Berkeley’s Kristina Hill. “Most American sewer pipes, both sanitary and storm sewer pipes, are typically cracked, because we do such bad maintenance. We’re like an international joke,” she says. “People start conferences in civil engineering in Europe with slides of how bad American systems are, to loosen up the audience.” Those cracked sewer pipes let groundwater in. And in places like New York City and Boston, which have what are known as combined sewer systems, water from rain and water from raw sewage mingle, so there’s less space in the pipes. This is why as groundwater rises, places like New York City’s Jamaica Bay community end up with liquid bubbling up from storm drains during high tide."
+      },
+      {
+        "passage_number": 6,
+        "text": "Newer cities tend to have systems where rainwater goes into one pipe and sewage into another. But if the pipes are full of groundwater when it rains, there’s still nowhere for that rainwater to go. So, in both cases, according to Hill, you’ll get more flooding."
+      },
+      {
+        "passage_number": 7,
+        "text": "There’s another way, too, in which rising groundwater can turn our sanitation systems into killers.<br><br>“In the Bay Area there’s so much legacy contamination under the ground from military use, from the Silicon Valley tech booms—it left a lot of nasty stuff,” says Kris May, a coastal engineer and climate scientist who founded Pathways Climate Institute. “And what often happens is we put low-income houses in those areas after they’re remediated. But they still leave a certain amount of contamination in the ground, and those regulations were based on no rising groundwater table.”<br><br>Now the groundwater table is rising. And as it does, it saturates the soil, unlocking contaminants such as benzene. These chemicals are highly volatile, and as gases they can easily find their ways through sewer lines and into homes."
+      },
+      {
+        "passage_number": 8,
+        "text": "This is the impact of groundwater rise on just one system—sewage. But it could affect many more. Buried electrical lines that aren’t properly sealed will short out; foundations will start to heave from the pressure. Some fear that seismic faults could even be put under pressure."
+      },
+      {
+        "passage_number": 9,
+        "text": "To protect themselves against rising seas, cities are turning to the same tools they have used for centuries: levees and seawalls. Boston has proposed a 175-mile seawall called the Sea Gates Project. Miami has a proposal for a $6 billion, 20-foot-high seawall. New York has proposed its own $119 billion, 6-mile-long project called the New York Harbor Storm-Surge Barrier. Homeowners from Florida to California are erecting barriers to keep the ocean out. But the fundamental problem with all these interventions is the same: a seawall holds back the sea, not groundwater."
+      },
+      {
+        "passage_number": 10,
+        "text": "In some areas, if the underlying ground is relatively impermeable, it is possible to build a seawall or levees that slow groundwater rise. But then you’re left with other problems. Recall that water moves toward the ocean. A barrier that stops groundwater from rising with sea level will also keep stormwater from, say, recent rainfall from flowing to the sea.<br><br>“If you don’t let the water run out to the ocean, then you have to basically pump it over the wall. And that’s essentially what the Netherlands has been doing for several centuries,” says Stony Brook’s Rozell. But this, too, can create problems, because so many of the places these seawalls are working so hard to save—much of Lower Manhattan, large parts of San Francisco and Boston—were built on wetlands, landfill, or both. “If they pump, the land is going to sink,” says Hill."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "Groundwater rise is easier to adapt to than sea level rise",
+          "B": "Groundwater rise complicates sanitation systems",
+          "C": "Cesspools are the best solution for sanitation",
+          "D": "Sewer systems are unaffected by groundwater rise"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on how groundwater rise complicates sanitation systems, making B the correct answer.",
+        "score_improvement_tip": "Focus on the main subject and the author's primary point when identifying central ideas."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'inundated' most nearly means:",
+        "options": {
+          "A": "Dry",
+          "B": "Flooded",
+          "C": "Cracked",
+          "D": "Repaired"
+        },
+        "answer": "B",
+        "explanation": "The term 'inundated' is used to describe cesspools that are constantly flooded, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of descriptive words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about septic systems in Miami-Dade County?",
+        "options": {
+          "A": "They are unaffected by groundwater rise",
+          "B": "They are becoming less effective due to rising water tables",
+          "C": "They are being replaced by cesspools",
+          "D": "They are cheaper than sewer systems"
+        },
+        "answer": "B",
+        "explanation": "The passage states that septic systems in Miami-Dade County are becoming less effective due to rising water tables, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inferences and avoid assumptions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To argue for the use of septic systems",
+          "B": "To explain the cost of switching to sewer systems",
+          "C": "To criticize the maintenance of sewer systems",
+          "D": "To describe the benefits of cesspools"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the cost of switching from septic systems to sewer systems, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main purpose by analyzing the focus and tone of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which evidence supports the claim that American sewer systems are poorly maintained?",
+        "options": {
+          "A": "Sewer pipes are cracked and let groundwater in",
+          "B": "Combined sewer systems are efficient",
+          "C": "Newer cities have better sewer systems",
+          "D": "Sewer systems are cheaper than septic systems"
+        },
+        "answer": "A",
+        "explanation": "The passage states that American sewer pipes are cracked and let groundwater in, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to support claims and answer choices."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the passage connect groundwater rise to flooding in newer cities?",
+        "options": {
+          "A": "Groundwater rise prevents flooding",
+          "B": "Groundwater rise causes pipes to overflow during rain",
+          "C": "Groundwater rise improves sewer systems",
+          "D": "Groundwater rise has no impact on flooding"
+        },
+        "answer": "B",
+        "explanation": "The passage states that groundwater rise causes pipes to overflow during rain, leading to flooding, making B the correct answer.",
+        "score_improvement_tip": "Analyze how different parts of the text relate to each other to answer cross-text connection questions."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What is the primary function of the sentence 'Now the groundwater table is rising'?",
+        "options": {
+          "A": "To introduce a new problem caused by groundwater rise",
+          "B": "To argue for better maintenance of sewer systems",
+          "C": "To describe the benefits of groundwater rise",
+          "D": "To criticize low-income housing policies"
+        },
+        "answer": "A",
+        "explanation": "The sentence introduces a new problem caused by groundwater rise, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to sentences that introduce new problems or shifts in focus."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about the impact of groundwater rise on infrastructure?",
+        "options": {
+          "A": "It only affects sanitation systems",
+          "B": "It has widespread effects on multiple systems",
+          "C": "It improves the durability of electrical lines",
+          "D": "It has no impact on seismic faults"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that groundwater rise has widespread effects on multiple systems, including sanitation, electrical lines, and foundations, making B the correct answer.",
+        "score_improvement_tip": "Use specific details from the text to make accurate inferences."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "As used in the passage, 'impermeable' most nearly means:",
+        "options": {
+          "A": "Porous",
+          "B": "Waterproof",
+          "C": "Fragile",
+          "D": "Flexible"
+        },
+        "answer": "B",
+        "explanation": "The term 'impermeable' refers to ground that does not allow water to pass through, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of technical terms."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 10,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The benefits of seawalls",
+          "B": "The limitations of seawalls in addressing groundwater rise",
+          "C": "The history of seawalls in the Netherlands",
+          "D": "The cost of building seawalls"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the limitations of seawalls in addressing groundwater rise, making B the correct answer.",
+        "score_improvement_tip": "Identify the main focus by looking for repeated ideas or concepts in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or make connections between different parts of the text.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and the author's purpose.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and straightforward details."
+    }
+  }

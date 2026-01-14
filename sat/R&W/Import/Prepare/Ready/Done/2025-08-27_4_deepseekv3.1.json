@@ -1,0 +1,223 @@
+{
+  "article_title": "The story of the Armatron",
+  "article_author": "Jon Keegan",
+  "article_date": "May-June, 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Robotics", "Invention", "Nostalgia", "Engineering"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The inspiration for the Armatron came from a newspaper clipping that Watanabe’s boss brought to him one day. “It showed an image of a ¢mechanical arm£ holding an egg with three fingers. I think we started out thinking, ‘This is where things are heading these days, so let’s make this,’” he recalled."
+    },
+    {
+      "passage_number": 2,
+      "text": "As the lead of a small team, Watanabe briefly turned his attention to another project, and by the time he returned to the robotic arm, the team had a prototype. But it was quite different from the Armatron’s final form. “The hand stuck out from the main body to the side and could only move about 90 degrees. The control panel also had six movement positions, and they were switched using six switches. I personally didn’t like that,” said Watanabe. So he went back to work."
+    },
+    {
+      "passage_number": 3,
+      "text": "Watanabe’s breakthrough was inspired by the radio­controlled helicopters he operated as a hobby. Holding up a radio remote controller with dual joystick controls, he told me, “This stick operation allows you to perform four movements with two arms, but I thought that if you twist this part, you can use six movements.” “I had always wanted to cre­ ate a system that could rotate 360 degrees, so I thought about how to make that system work,” he added."
+    },
+    {
+      "passage_number": 4,
+      "text": "Watanabe stressed that while he is listed as the Armatron’s primary inventor, it was a team effort. A designer created the case, colors, and logo, adding touches to mimic features seen on industrial robots of the time, such as the rubber tubes (which are just for looks)."
+    },
+    {
+      "passage_number": 5,
+      "text": "When the Armatron first came out, in 1981, robotics engineers started contacting Watanabe. “I wasn’t so much hearing from people at toy stores, but rather from researchers at university laboratories, factories, and companies that were making industrial robots,” he said. “They were quite encouraging, and we often talked together.”"
+    },
+    {
+      "passage_number": 6,
+      "text": "When the Armatron first came out, in 1981, robotics engineers started contacting Watanabe. “I wasn’t so much hearing from people at toy stores, but rather from researchers at university laboratories, factories, and companies that were making industrial robots,” he said. “They were quite encouraging, and we often talked together.”<br><br>The bold look and function of Armatron made quite an impression on many young kids who would one day have a career in robotics. One of them was Adam Burrell, a mechanical design engineer who has been building robots for 15 years at Boston Dynamics, including Petman, the YouTube­famous Atlas, and the dog­size quadruped called Spot."
+    },
+    {
+      "passage_number": 7,
+      "text": "Burrell grew up a few blocks away from a Radio Shack in New York City. “If I was going to the subway station, we would walk right by Radio Shack. I would stop in and play with it and set the timer, do the challenges,” he says. “I know it was a toy, but that was a real robot.” The Armatron was the hook that lured him into Radio Shack and then sparked his lifelong interest in engineering: “I would roll pennies and use them to buy soldering irons and solder at Radio Shack.”"
+    },
+    {
+      "passage_number": 8,
+      "text": "Burrell had a fateful reunion with the toy while in grad school for engineering. “One of my office mates had an Armatron at his desk,” he recalls, “and it was broken. We took it apart together, and that was the first time I had seen the guts of it."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Based on the passage, the initial inspiration for the Armatron can best be described as:",
+      "options": {
+        "A": "A direct order from Watanabe's boss to replicate a specific design.",
+        "B": "A reaction to a technological trend observed in the media.",
+        "C": "A desire to create a tool for handling delicate objects like eggs.",
+        "D": "A pre-existing project that Watanabe's team was already leading."
+      },
+      "answer": "B",
+      "explanation": "Watanabe recalls that the team saw the newspaper image and thought, 'This is where things are heading these days, so let’s make this.' This indicates they were inspired by a perceived trend, not a direct order (A), a specific application (C), or a pre-existing project (D).",
+      "score_improvement_tip": "For inference questions, eliminate choices that are too literal or that introduce information not supported by the text. Focus on what the text implies."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "The primary purpose of the passage is to:",
+      "options": {
+        "A": "Describe the initial failure of the Armatron prototype.",
+        "B": "Explain why Watanabe abandoned the project temporarily.",
+        "C": "Highlight the collaborative nature of the team's work.",
+        "D": "Introduce the design features that Watanabe found unsatisfactory."
+      },
+      "answer": "D",
+      "explanation": "The passage focuses on detailing the prototype's specific shortcomings: the hand's limited movement (90 degrees) and the cumbersome six-switch control panel, which Watanabe 'personally didn't like.'",
+      "score_improvement_tip": "Identify the main subject and action of the passage. Here, the subject is the prototype's flaws, and the action is Watanabe's negative reaction to them."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which choice best describes the relationship between Watanabe's hobby and his work on the Armatron?",
+      "options": {
+        "A": "His hobby provided a functional model that he adapted to solve a design problem.",
+        "B": "His hobby distracted him from his professional responsibilities, delaying the project.",
+        "C": "His hobby was unrelated to his work but served as a metaphor for his ambitions.",
+        "D": "His hobby created a technical standard that he was obligated to follow."
+      },
+      "answer": "A",
+      "explanation": "The passage states his breakthrough was 'inspired by' his RC helicopters. He directly applied the dual joystick control mechanism, figuring out how to map six movements onto it, solving the problem of the clumsy six-switch panel mentioned in the previous passage.",
+      "score_improvement_tip": "To answer questions about relationships, look for signal words like 'inspired by' and examine how ideas from different sentences or passages connect logically."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "As used in the phrase 'adding touches to mimic features', the word 'mimic' most nearly means:",
+      "options": {
+        "A": "criticize",
+        "B": "imitate",
+        "C": "improve upon",
+        "D": "integrate"
+      },
+      "answer": "B",
+      "explanation": "The context clues are 'adding touches' and 'seen on industrial robots.' The designer was adding decorative elements (like the non-functional rubber tubes) that imitated or copied the appearance of more serious, industrial machinery.",
+      "score_improvement_tip": "Replace the word in question with each answer choice and see which one maintains the original meaning and tone of the sentence without causing logical inconsistencies."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The reaction from robotics engineers in 1981 suggests that they viewed the Armatron as:",
+      "options": {
+        "A": "a clever toy with limited practical application.",
+        "B": "a significant and serious piece of robotic technology.",
+        "C": "a threat to their own work on industrial robots.",
+        "D": "a disappointing consumer product."
+      },
+      "answer": "B",
+      "explanation": "The text specifies that Watanabe heard from researchers and companies making industrial robots, not toy stores. Their feedback was 'encouraging,' and they 'often talked together.' This implies they saw it as a legitimate piece of technology worthy of professional discussion, not just a toy (A).",
+      "score_improvement_tip": "Pay close attention to contrasts. The contrast between 'not...toy stores' and 'rather from researchers' is the key evidence for this inference."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "How does the experience of Adam Burrell, as described in the later passages, relate to the reaction of the engineers described in the passage before?",
+      "options": {
+        "A": "Both groups initially misunderstood the Armatron's intended purpose as a toy.",
+        "B": "Both groups recognized the Armatron's technical merit and were influenced by it.",
+        "C": "Burrell's experience contradicts the engineers' view, proving it was merely a toy.",
+        "D": "The engineers sought to improve the Armatron, while Burrell was only a consumer."
+      },
+      "answer": "B",
+      "explanation": "Passage 1 shows professional engineers recognized its technical value. Passage 2 shows Burrell, a future engineer, also recognized its technical value ('that was a real robot'), and it directly sparked his career. Both groups saw beyond its toy status.",
+      "score_improvement_tip": "Synthesis questions require you to build a understanding that connects multiple parts of the text. Identify the common thread (here, recognition of technical merit) that links the different examples."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 7,
+      "question": "According to the passage, what was the direct result of the Armatron luring Burrell into Radio Shack?",
+      "options": {
+        "A": "He learned how to repair broken toys.",
+        "B": "He developed a lifelong interest in engineering.",
+        "C": "He became an expert at operating the Armatron.",
+        "D": "He decided to work for Radio Shack."
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states: 'The Armatron was the hook... and then sparked his lifelong interest in engineering.'",
+      "score_improvement_tip": "For detail questions, scan for the key noun ('Armatron,' 'Burrell') and locate the sentence where the cause-and-effect relationship is directly stated."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Medium",
+      "passage": 8,
+      "question": "The author includes Burrell's story about taking the broken Armatron apart in grad school primarily to:",
+      "options": {
+        "A": "emphasize the toy's poor build quality and fragility.",
+        "B": "illustrate the continuous and deepening nature of his technical curiosity.",
+        "C": "show that his childhood nostalgia was stronger than his engineering skills.",
+        "D": "provide a humorous anecdote about his graduate school experiences."
+      },
+      "answer": "B",
+      "explanation": "This event follows the story of his childhood fascination. Taking it apart as a graduate engineer represents a deeper, more analytical level of engagement with the same object that first hooked him, showing how his curiosity persisted and matured.",
+      "score_improvement_tip": "To determine the author's purpose for including a detail, ask yourself how that detail supports the broader point of the paragraph or passage. Here, it completes the arc of Burrell's story."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English? The text: 'Holding up a radio remote controller with dual joystick controls, he told me, “This stick operation allows you to perform four movements with two arms, but I thought that if you twist this part, you can use six movements.”'",
+      "options": {
+        "A": "NO CHANGE",
+        "B": "arms but I thought that if you twist this part, you can use",
+        "C": "arms, but I thought that if you twist this part you can use",
+        "D": "arms; but I thought that if you twist this part, you can use"
+      },
+      "answer": "A",
+      "explanation": "The original punctuation is correct. A comma is needed before the coordinating conjunction 'but' that joins two independent clauses. A closing quotation mark is also correctly placed after the period.",
+      "score_improvement_tip": "Remember the rule: Independent Clause + , + FANBOYS (for, and, nor, but, or, yet, so) + Independent Clause."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which choice most effectively combines the sentences at the underlined portion? The text: 'As the lead of a small team, Watanabe briefly turned his attention to another project. By the time he returned to the robotic arm, the team had a prototype.'",
+      "options": {
+        "A": "project, but by the time",
+        "B": "project; by the time",
+        "C": "project, by the time",
+        "D": "project. By the time"
+      },
+      "answer": "C",
+      "explanation": "The second sentence explains the consequence of the first action. The transition requires a logical connection showing time and result, not contrast (A). A comma is the most fluid way to subordinate the time clause 'by the time he returned...' to the main clause, creating a single, smooth sentence.",
+      "score_improvement_tip": "When combining sentences, prioritize clarity and logical flow. Avoid creating a contrast where none exists and ensure the chosen punctuation correctly reflects the relationship between the ideas (e.g., cause-effect, sequence)."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate consistent mastery across all domains. They correctly answer hard questions by making nuanced inferences, synthesizing ideas across multiple passages, analyzing complex text structures, and applying precise grammatical rules. They rarely make careless errors on easy and medium questions.",
+    "700_level_performance": "Students scoring 700 show strong comprehension and can handle straightforward textual and grammatical questions. Their score is often limited by missing hard questions that require synthesizing cross-text connections, understanding subtle authorial choices, or applying the most advanced conventions rules."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (50% of this test) require advanced skills: synthesizing ideas across different passages (Q6), making nuanced inferences based on subtle contrasts (Q5), understanding the precise meaning of words in complex contexts (Q4), and applying advanced grammar rules for sentence combination (Q10).",
+    "medium_questions": "Medium questions (30%) assess the ability to make basic inferences (Q1), understand authorial purpose (Q8), and apply core Standard English conventions to edit text effectively (Q9).",
+    "easy_questions": "Easy questions (20%) test foundational reading comprehension: identifying the explicit purpose of a passage (Q2) and locating a specific detail stated in the text (Q7)."
+  }
+}

@@ -1,0 +1,231 @@
+{
+    "article_title": "The Webb Space Telescope Will Rewrite Cosmic History. If It Works",
+    "article_author": "Natalie Wolchover",
+    "article_date": "2022",
+    "article_source": "Quanta",
+    "article_category": "Essay",
+    "article_tags": ["Space", "Astronomy", "Webb Telescope"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Natasha Batalha, Natalie Batalha’s second child, was eighteen when she went to Florida for the Kepler launch. She remembers tagging along with her younger sister in the viewing room where the NASA science team had gathered. 'During the launch, the anxiety that was in that space was chilling,' she said on a recent video call. After liftoff, the scene turned jubilant. She found it inspiring to see a team accomplish something so grand, but it was the possibility of discoveries being so close at hand 'that was really what flipped on my brain to start thinking about exoplanets as a concept,' said Natasha Batalha, who is serious and precise, like her mother."
+      },
+      {
+        "passage_number": 2,
+        "text": "Space wasn’t a constant topic of discussion in the Batalha household. 'I didn’t want to saturate their lives with science,' Natalie Batalha said. 'I always wanted them to feel like they were number one.' But she and Celso did have 'a secret hope' about Natasha. One evening in 1996 while Celso was teaching a night class, Natalie loaded up the half-asleep kids to drive them to a meadow so they look for the passing comet Hyakutake. Before they’d pulled out of the driveway, five-year-old Natasha said from the back seat: 'What’s that?' She was pointing at the comet."
+      },
+      {
+        "passage_number": 3,
+        "text": "When Natasha was eight and living in Brazil, her mother asked her and her siblings to draw an astronomer. Natasha drew a white man, and Natalie asked her why. 'This was crazy for me, the daughter of a Latinx scientist and a female scientist; I still had these stereotypes ingrained in my mind,' Natasha said. She suddenly felt empowered by the thought that she could belong in science."
+      },
+      {
+        "passage_number": 4,
+        "text": "A couple of years later she read Sally Ride’s autobiography. Just as her mother had been inspired by Ride, Natasha decided to become either an astronomer or an astronaut. She dreamed of being the first person on Mars. After the Kepler launch, as more and more exoplanets were discovered, she grew interested in the possibility of extraterrestrial life and how we might infer its presence on those planets through telescope observations of their skies. She got a dual Ph.D. in astronomy and astrobiology. Then, soon after Kepler ended and her mom left NASA Ames to become a professor at Santa Cruz, Natasha took a job at Ames studying exoplanet atmospheres."
+      },
+      {
+        "passage_number": 5,
+        "text": "Natasha Batalha is part of a growing research community whose ultimate goal is to detect 'biosignature gases'—gases in a planet’s atmosphere that could only be there because of life. Every kind of molecule has characteristic wavelengths that it absorbs. So by collecting light from a star when a planet is and isn’t transiting in front of it, and checking which wavelengths of starlight grow dimmer when the planet is there, you can see which molecules are present in the planet’s sky."
+      },
+      {
+        "passage_number": 6,
+        "text": "Oxygen is an obvious candidate for a biosignature gas: It’s so reactive that it’s unlikely to be found unless the planet’s oxygen supply is continually replenished by, say, a biosphere doing photosynthesis. Photosynthesis is such a simple and efficient energy-capturing procedure that astrobiologists think it’s likely to evolve on any living planet, so oxygen is smart to look for."
+      },
+      {
+        "passage_number": 7,
+        "text": "But seeing oxygen by itself wouldn’t necessarily be convincing. Computer simulations show that under some conditions, oxygen can fill the skies of lifeless planets. 'The challenge is there’s not one gas that’s going to be a biosignature gas,' said Hammel, the planetary scientist. 'Methane on Earth is mostly produced by cows … but you look at Neptune, and you can see tons of methane there, and that’s not produced by cows.'"
+      },
+      {
+        "passage_number": 8,
+        "text": "A better biosignature is a peculiar mix of gases. 'It’s not going to be a single gas, it’s going to have to be a combination of gases in a configuration that tells us they are in a disequilibrium state,' said Hammel. 'They can’t have formed that way naturally.'"
+      },
+      {
+        "passage_number": 9,
+        "text": "Existing telescopes have already spotted molecular fingerprints in the skies of hot Jupiters, but these are lifeless planets. Detecting the weaker signals from rocky, possibly habitable planets’ skies will require JWST. Not only will the telescope have close to one hundred times Hubble’s resolution, but it will see exoplanets far more clearly against the background of their host stars since planets emit more infrared than optical light while stars emit less. Importantly, Webb’s view of exoplanets won’t be obscured by clouds, which often prevent optical telescopes from seeing the densest, low-altitude layers of atmosphere. 'Imagine being in a plane and looking down at an insane cloud deck, and you can’t see the surface at all,' Natasha Batalha said. 'When you look at infrared light, you can all of a sudden see through the cloud deck.'"
+      },
+      {
+        "passage_number": 10,
+        "text": "Exoplanets will be among the targets in JWST’s 'Cycle 1' round of observations, which it will start tackling as soon as deployment and commissioning are complete—about six months after launch. The exoplanet community elected Natalie Batalha to lead transit spectroscopy studies of three gas giants as part of these early observations. Her team will also develop data pipelines and processing techniques for the community to copy."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What inspired Natasha Batalha to start thinking about exoplanets?",
+        "options": {
+          "A": "The anxiety during the Kepler launch",
+          "B": "The jubilant scene after liftoff",
+          "C": "The possibility of discoveries",
+          "D": "Her mother’s encouragement"
+        },
+        "answer": "C",
+        "explanation": "Natasha mentions that the possibility of discoveries being close at hand 'flipped on my brain to start thinking about exoplanets.'",
+        "score_improvement_tip": "Focus on direct quotes and explicit statements to identify key ideas."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'saturate' most nearly means:",
+        "options": {
+          "A": "Overwhelm",
+          "B": "Hydrate",
+          "C": "Educate",
+          "D": "Entertain"
+        },
+        "answer": "A",
+        "explanation": "The context suggests Natalie didn’t want to overwhelm her children with science, making 'overwhelm' the correct meaning.",
+        "score_improvement_tip": "Use surrounding context to infer the meaning of words with multiple definitions."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about Natasha’s perception of scientists?",
+        "options": {
+          "A": "She believed scientists were mostly men",
+          "B": "She thought scientists were only from Brazil",
+          "C": "She saw scientists as unapproachable",
+          "D": "She considered scientists to be fictional"
+        },
+        "answer": "A",
+        "explanation": "Natasha’s drawing of a white man as an astronomer suggests she initially associated scientists with a specific gender and ethnicity.",
+        "score_improvement_tip": "Infer implicit beliefs from actions or statements that reveal underlying assumptions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What is the primary purpose of mentioning Sally Ride’s autobiography?",
+        "options": {
+          "A": "To highlight Natasha’s early interest in space",
+          "B": "To criticize gender stereotypes in science",
+          "C": "To compare Natasha’s career to Ride’s",
+          "D": "To emphasize the importance of role models"
+        },
+        "answer": "D",
+        "explanation": "The mention of Sally Ride’s autobiography underscores the influence of role models in inspiring Natasha’s career choice.",
+        "score_improvement_tip": "Analyze how references to historical figures contribute to the narrative’s purpose."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which detail supports the idea that biosignature gases are detectable?",
+        "options": {
+          "A": "Every molecule absorbs characteristic wavelengths",
+          "B": "Oxygen is a reactive gas",
+          "C": "Photosynthesis is efficient",
+          "D": "Exoplanets are far away"
+        },
+        "answer": "A",
+        "explanation": "The passage explains that molecules absorb specific wavelengths, making it possible to detect their presence in a planet’s atmosphere.",
+        "score_improvement_tip": "Look for scientific explanations that directly support the main idea."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What is the primary purpose of discussing photosynthesis?",
+        "options": {
+          "A": "To explain why oxygen is a biosignature gas",
+          "B": "To criticize the inefficiency of other energy processes",
+          "C": "To compare Earth’s biosphere to exoplanets",
+          "D": "To highlight the complexity of astrobiology"
+        },
+        "answer": "A",
+        "explanation": "The passage links photosynthesis to the replenishment of oxygen, explaining why oxygen is a potential biosignature gas.",
+        "score_improvement_tip": "Identify how scientific processes are used to support broader claims."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 7,
+        "question": "Why is oxygen alone not a definitive biosignature?",
+        "options": {
+          "A": "It can exist on lifeless planets",
+          "B": "It is too reactive",
+          "C": "It is rare in the universe",
+          "D": "It is difficult to detect"
+        },
+        "answer": "A",
+        "explanation": "The passage states that oxygen can fill the skies of lifeless planets under certain conditions.",
+        "score_improvement_tip": "Focus on explicit explanations for scientific phenomena."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about Hammel’s view of biosignatures?",
+        "options": {
+          "A": "They require a combination of gases",
+          "B": "They are easy to detect",
+          "C": "They are always produced by life",
+          "D": "They are unrelated to disequilibrium"
+        },
+        "answer": "A",
+        "explanation": "Hammel emphasizes that biosignatures must be a combination of gases in a disequilibrium state.",
+        "score_improvement_tip": "Infer scientific perspectives from direct quotes and explanations."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the primary purpose of the analogy about looking through a cloud deck?",
+        "options": {
+          "A": "To explain the limitations of optical telescopes",
+          "B": "To highlight the advantages of infrared light",
+          "C": "To criticize current telescope technology",
+          "D": "To emphasize the difficulty of studying exoplanets"
+        },
+        "answer": "B",
+        "explanation": "The analogy illustrates how infrared light allows scientists to see through clouds, showcasing Webb’s advantage.",
+        "score_improvement_tip": "Analyze analogies to understand their role in explaining complex concepts."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "As used in the passage, 'commissioning' most nearly means:",
+        "options": {
+          "A": "Testing and preparation",
+          "B": "Launching into space",
+          "C": "Designing the telescope",
+          "D": "Funding the project"
+        },
+        "answer": "A",
+        "explanation": "In the context of telescope deployment, 'commissioning' refers to the testing and preparation phase before observations begin.",
+        "score_improvement_tip": "Use technical context to decode specialized terms."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of advanced analytical skills, including synthesizing scientific arguments and decoding nuanced vocabulary in technical contexts.",
+      "700_level_performance": "Students show strong comprehension of explicit details but may struggle with high-level inference or rhetorical analysis in scientific passages."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test the ability to analyze analogies, synthesize scientific arguments, and infer unstated implications.",
+      "medium_questions": "Medium questions assess contextual vocabulary and command of evidence in technical passages.",
+      "easy_questions": "Easy questions evaluate identification of explicit facts and scientific explanations."
+    }
+  }

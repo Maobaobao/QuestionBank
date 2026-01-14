@@ -1,0 +1,231 @@
+{
+    "article_title": "Another Green World",
+    "article_author": "Jessica Camille Aguirre",
+    "article_date": "2023",
+    "article_source": "Harper’s Magazine",
+    "article_category": "Essay",
+    "article_tags": ["Space Exploration", "Ecosystems", "Sustainability"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The human body is particular about what it needs to stay alive. Surviving well above or below the earth’s crust requires an artificial life-support system to manage changes in pressure and temperature. The body must have near-constant access to oxygen and periodic access to food and water, which means it must also manage the consequences of that consumption: excrement, urine, and carbon dioxide. This isn’t much of a problem on brief space flights—the first astronauts who went into orbit wore diapers. But leaving the planet for more than a few months, let alone trying to colonize a new planet, depends on establishing livable conditions in a continuously regenerating way—on re-creating, more or less, the functions of the earth’s ecosystems."
+      },
+      {
+        "passage_number": 2,
+        "text": "Most scientific progress to date has concerned the recycling of abiotic factors: air and water. On the International Space Station, for instance, chemical molecules are arranged and rearranged in a never-ending atomic dance. Astronauts breathe air similar to Earth’s, composed mostly of nitrogen and oxygen. The nitrogen is shipped to the station in tanks, but much of the oxygen is produced on board through electrolysis—by running an electrical current through water to divide oxygen atoms from hydrogen atoms. The leftover hydrogen is then transferred into a cylinder called a Sabatier reactor, along with carbon dioxide and a nickel catalyst. The reactor produces methane, which is discarded overboard, and water, which is recycled for drinking or reused to create yet more oxygen. Carbon exhalations that aren’t fed into the Sabatier reactor are captured by zeolites, which, when heated, release carbon dioxide into the vacuum of space."
+      },
+      {
+        "passage_number": 3,
+        "text": "What scientists have not managed to figure out is how to sustainably generate and dispose of the biotic variables of ecosystems, such as food and waste. Without a way to cultivate plants, for example, the International Space Station relies on food shipments that are delivered every few months at a cost of $2,720 per kilogram. (The cost was roughly $18,500 per kilogram until SpaceX’s reusable rockets lowered expenses.) The weight of the food needed for a long trip without the possibility of resupply—to, say, Mars—is prohibitive. As for excrement, it’s currently suctioned into plastic bags and jettisoned along with other waste onto a cargo ship that incinerates upon reentering Earth’s atmosphere. Its fiery streak is often mistaken for a shooting star."
+      },
+      {
+        "passage_number": 4,
+        "text": "Theoretically, astronauts could grow their own food and return their own waste to the soil. Integrating plants and other organisms into a life-support system, at the right scale, could also make use of their other contributions to the biogeochemical cycle, replacing the technology that simulates abiotic regeneration with living ecosystems. After all, plants and animals, including humans, are constantly exchanging carbon through photosynthesis and respiration. One’s effluence is the other’s fuel. By the same token, water evaporates, condenses, and returns to the soil, where it’s purified. Nature, in other words, is a life-support system that wastes nothing, that requires no resupply, and that humans already belong to, which is why scientists have long tried to re-create it for long-duration space missions."
+      },
+      {
+        "passage_number": 5,
+        "text": "But using biological systems for space exploration always poses the risk of losing control. When you’re dealing with plants, soil, or microbes, things happen beyond human command, even in a highly monitored environment. An aphid can lay waste to the tomatoes, or bacteria can infect the carrots. In big, complex ecological systems, one small imbalance won’t destabilize the whole, but in simpler systems, any slight mismatch in power dynamics can allow one organism to gain a foothold and take over. Living systems thrive in their complexity, whereas artificial life-support systems need to be manageable, reliable, and obedient."
+      },
+      {
+        "passage_number": 6,
+        "text": "Before starting SAM, Staats tried to account for biotic complexity by creating a computer model of a regenerative life-support system. This was how I first heard about him. I was looking into the history of Biosphere 2, and learned that he had gathered data for his model at the original site. In early 2020, I called Staats to ask about his research, and he mentioned that he was going to try to restart a scaled-down version of the experiment, but with the explicit goal of modeling a Martian colony. He sent me a project brief that included plans to relocate the entire test module to the lawn in front of Biosphere 2’s original entrance. It was an ambitious idea. The module would be expanded with shipping containers, and the entire structure would be pressurized and hermetically sealed. A few months later, he invited me to join the crew that would lock itself inside the rehabilitated test module for its first test run. I had never felt the pull of Mars, but I was curious about what our attempts to go to outer space could tell us about living on this planet. I said yes."
+      },
+      {
+        "passage_number": 7,
+        "text": "Biosphere 2 sits on a sprawling campus at the edge of a town called Oracle. When I arrived at the gift shop last June, Staats was waiting in the shade, a pair of wraparound sunglasses perched on his baseball cap and a T-shirt tucked into his utility pants. The son of a Lutheran pastor who preferred fixer-uppers, Staats could wield a table saw by age ten. He studied industrial design at Arizona State University, then built a software company, Terra Soft Solutions, which developed an open-source operating system called Yellow Dog Linux. In 2008, he sold the company and made a series of documentaries about the Palestinian territories, the South African Astronomical Observatory, and LIGO, the gravitational wave observatory. On the side, he helped to design a playground in Poland and to build the first astronomical observatory in East Africa. Staats can’t remember the last time he had a regular paycheck. When the pandemic started, another documentary project fell through, and he made ends meet by fixing cow fences."
+      },
+      {
+        "passage_number": 8,
+        "text": "All the while, Staats nurtured a growing interest in space travel. In 2012, he received an invitation to join a crew at the Mars Desert Research Station—one of two analogue space missions run since the early aughts by the Mars Society, a nonprofit. He spent two weeks living with a group of scientists and engineers near Hanksville, Utah, in a model lander-cum-habitat. He also worked with the founder of Mars One, a Dutch company aspiring to build a permanent colony on the red planet. In 2019, after collecting millions of dollars in fundraising, Mars One declared bankruptcy and was derided as a scam. But its demise didn’t deter Staats so much as confirm his suspicion that the old model of space exploration, dominated by state-run agencies, wasn’t as unassailable as it once was. With enough vision, patience, and money, he thought, just about anyone could contribute in some way to helping the species survive off-planet. Bas Lansdorp, the founder of Mars One, may have been a con artist, but that didn’t mean that Elon Musk, Jeff Bezos, and Richard Branson would all end up in bankruptcy court. The field’s fragmentation was an opportunity, a chance for closet engineers like Staats, with access to YouTube and NASA’s published papers, to build backyard rockets and develop their own space suits."
+      },
+      {
+        "passage_number": 9,
+        "text": "According to Staats, the human expansionist project is running out of time. “There really is a limited number of resources,” he told me, referring to the fossil fuels currently needed to power rockets. “If we don’t use what resources are left now to become interplanetary, we will have lost the window and never get off the planet.” (“The alternative to that, of course, is the space elevator,” he added, referring to a futuristic engineering proposal that involves fixing a cable from Earth to a satellite at least 22,000 miles away.) This is a concern he feels viscerally; the thought of being stuck on Earth makes his chest tighten. While he doesn’t consider himself a pessimist, Staats is increasingly certain that human civilization is on a path to self-destruction. Space colonization, as he sees it, is our only option."
+      },
+      {
+        "passage_number": 10,
+        "text": "Staats walked me through the desert brush, past some abandoned buildings to the test module. He showed me an empty shipping container that would eventually become living quarters, as well as a greenhouse, pocked with holes, in which he planned to build a replica of a Martian crater. “We have a lava tube that’s going in that corner,” he said. “So we can go to the top and actually rappel into the lava tube with space suits.” A company that made synthetic rocks for zoos would build the landscape, and there were plans to install a movie stunt harness to replicate low gravity."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The challenges of space travel",
+          "B": "The importance of artificial life-support systems",
+          "C": "The history of space exploration",
+          "D": "The role of diapers in space"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the necessity of artificial life-support systems for long-term space travel, making B the correct answer.",
+        "score_improvement_tip": "Focus on the central theme of the passage and avoid being distracted by minor details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in line 5, 'atomic dance' most likely refers to:",
+        "options": {
+          "A": "A literal dance performed by atoms",
+          "B": "The continuous rearrangement of chemical molecules",
+          "C": "A metaphor for the movement of astronauts",
+          "D": "The process of electrolysis"
+        },
+        "answer": "B",
+        "explanation": "The phrase 'atomic dance' is a metaphor for the continuous rearrangement of chemical molecules in the recycling process on the International Space Station.",
+        "score_improvement_tip": "Look for metaphors and analogies in the text and consider their contextual meaning."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about the cost of space travel?",
+        "options": {
+          "A": "It has decreased due to technological advancements",
+          "B": "It remains prohibitively expensive",
+          "C": "It is primarily due to the cost of food",
+          "D": "It is not a significant concern for long-term missions"
+        },
+        "answer": "A",
+        "explanation": "The passage mentions that the cost of food shipments decreased due to SpaceX’s reusable rockets, indicating that technological advancements have reduced costs.",
+        "score_improvement_tip": "Pay attention to details that indicate changes or trends over time."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What is the primary purpose of the fourth passage?",
+        "options": {
+          "A": "To describe the process of photosynthesis",
+          "B": "To argue for the integration of biological systems in space travel",
+          "C": "To explain the biogeochemical cycle",
+          "D": "To compare natural and artificial life-support systems"
+        },
+        "answer": "B",
+        "explanation": "The passage argues for the integration of plants and other organisms into life-support systems for space travel, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main argument or purpose in the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best summarizes the risks associated with using biological systems for space exploration?",
+        "options": {
+          "A": "Biological systems are too complex to manage",
+          "B": "Biological systems are less reliable than artificial systems",
+          "C": "Biological systems are prone to imbalances and loss of control",
+          "D": "Biological systems are not suitable for space travel"
+        },
+        "answer": "C",
+        "explanation": "The passage discusses the risks of losing control when using biological systems, such as imbalances that can destabilize the system.",
+        "score_improvement_tip": "Summarize the main points of the passage to identify the best answer."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 6,
+        "question": "Which evidence from the passage supports the idea that Staats is ambitious?",
+        "options": {
+          "A": "He gathered data for his model at Biosphere 2",
+          "B": "He planned to relocate the test module to the lawn",
+          "C": "He invited the author to join the crew",
+          "D": "He studied industrial design at Arizona State University"
+        },
+        "answer": "B",
+        "explanation": "The passage mentions Staats's plan to relocate the test module to the lawn, indicating his ambitious nature.",
+        "score_improvement_tip": "Look for specific actions or plans that reflect the character's traits."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "How does Staats's background contribute to his interest in space travel?",
+        "options": {
+          "A": "His experience in software development",
+          "B": "His work in documentary filmmaking",
+          "C": "His upbringing and education",
+          "D": "All of the above"
+        },
+        "answer": "D",
+        "explanation": "The passage describes Staats's diverse background, including software development, documentary filmmaking, and his upbringing, all of which contribute to his interest in space travel.",
+        "score_improvement_tip": "Consider how multiple aspects of a character's background can contribute to their interests or actions."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about Staats's view of the future of space exploration?",
+        "options": {
+          "A": "He believes it will be dominated by state-run agencies",
+          "B": "He thinks it will be accessible to a wider range of people",
+          "C": "He is pessimistic about its future",
+          "D": "He believes it will be limited by technological constraints"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that Staats believes space exploration will become more accessible to individuals and smaller organizations, not just state-run agencies.",
+        "score_improvement_tip": "Look for statements that indicate the character's beliefs or predictions about the future."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which choice best completes the sentence: 'According to Staats, the human expansionist project is running out of time because...'?",
+        "options": {
+          "A": "resources are limited",
+          "B": "technology is not advancing quickly enough",
+          "C": "people are not interested in space travel",
+          "D": "state-run agencies are not supportive"
+        },
+        "answer": "A",
+        "explanation": "The passage states that Staats believes resources are limited, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to direct statements that explain the character's reasoning."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What is the primary purpose of the final passage?",
+        "options": {
+          "A": "To describe the physical layout of the test module",
+          "B": "To explain the process of building a Martian crater",
+          "C": "To highlight Staats's attention to detail",
+          "D": "To provide a visual description of the test module"
+        },
+        "answer": "D",
+        "explanation": "The passage provides a detailed visual description of the test module, making D the correct answer.",
+        "score_improvement_tip": "Identify the main focus of the passage, whether it is descriptive, explanatory, or analytical."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

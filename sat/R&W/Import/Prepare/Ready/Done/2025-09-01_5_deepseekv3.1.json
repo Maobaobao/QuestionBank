@@ -1,0 +1,215 @@
+{
+  "article_title": "Who Are You as a Leader",
+  "article_author": "Paul Ingram",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Identity", "Leadership", "Networking", "Self-Concept"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The key to building connections, he told us (and my own research subsequently confirmed), is to first arrive at a thorough understanding of your own identity—the interrelated elements that you use to define yourself. In Grunitzky’s case those elements include family roles such as father and husband, career roles such as CEO and journalist, an interest in jazz, and his Catholic faith. Only once you’ve identified the many facets of your identity, he continued, can you “identify commonality” with people from a wide variety of backgrounds."
+    },
+    {
+      "passage_number": 2,
+      "text": "For earlier generations, venturing deliberately into the territory of identity was a discretionary act. The word identity wasn’t even used in social science to describe self-identification until the mid-1950s, and not until 1960 could citizens choose their own race for the U.S. Census. (Before then, census takers assigned it.) However, social scientists have since come to appreciate the importance of how people understand themselves, and they’ve conducted extensive research on the way your self-concept can affect your professional and personal lives."
+    },
+    {
+      "passage_number": 3,
+      "text": "Leaders project authenticity, and become trusted, by communicating their identities. When Captain Matt Feely was commanding officer of the U.S. Navy’s Fleet Logistics Center in Yokosuka, Japan, for example, he took each sailor, Marine, and Japanese civilian who joined his organization to the large globe in his office, where he pointed to the location of his hometown of Dedham, Massachusetts, and asked the newcomers to show him theirs."
+    },
+    {
+      "passage_number": 4,
+      "text": "If we’re socially connected to many others who have a particular identity element—if they consider themselves creative, say, or an athlete, or somebody who likes to cook—we’re more likely to adopt that element ourselves. Likewise, how we think of ourselves is to an extent a function of how others see us. In the end, our personal identities are partly the result of negotiations with others."
+    },
+    {
+      "passage_number": 5,
+      "text": "If we’re socially connected to many others who have a particular identity element—if they consider themselves creative, say, or an athlete, or somebody who likes to cook—we’re more likely to adopt that element ourselves. Likewise, how we think of ourselves is to an extent a function of how others see us. In the end, our personal identities are partly the result of negotiations with others.<br><br>After completing their sentences, the members of these groups were given math problems to solve, and their results were compared with those of a control group. The subjects in the self-determined group performed better on the math problems than the control group, whereas those in the otherdetermined group performed worse. That finding has been confirmed in additional studies: Our identities serve us better when we understand them as self-determined."
+    },
+    {
+      "passage_number": 6,
+      "text": "Research has also shown that our identities serve us better when we understand all their elements (no matter how diverse or even seemingly self-contradictory) as being harmonious. For example, the former PepsiCo CEO Indra Nooyi writes in her autobiography of the importance of simultaneously maintaining her identities as an immigrant, a woman, an Indian, and a corporate executive and not choosing among them."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "Captain Feely's action with the globe primarily serves to:",
+      "options": {
+        "A": "test the geographical knowledge of new recruits.",
+        "B": "establish a personal connection based on shared origins.",
+        "C": "demonstrate the global reach of the U.S. Navy.",
+        "D": "highlight the distance between Japan and Massachusetts."
+      },
+      "answer": "B",
+      "explanation": "The passage states that leaders 'become trusted, by communicating their identities.' Freely sharing his hometown and asking newcomers to share theirs is an act of building a personal connection and finding common ground, which is a key theme of the article.",
+      "score_improvement_tip": "For inference questions, look for the underlying purpose or effect of an action described in the text, not just its literal description."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'discretionary' most nearly means:",
+      "options": {
+        "A": "mandatory.",
+        "B": "optional.",
+        "C": "scientific.",
+        "D": "complicated."
+      },
+      "answer": "B",
+      "explanation": "The context contrasts the past, where thinking about identity was a 'discretionary act' (an optional choice), with the present, where it is heavily researched and more integral to understanding one's life. The examples of the census and social science timeline reinforce that it was not a common or required practice.",
+      "score_improvement_tip": "Use the surrounding text to define the word. Look for synonyms or antonyms in the sentence that provide clues."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice best describes the relationship between the individual and society in shaping identity, as presented in the passage?",
+      "options": {
+        "A": "Society imposes an identity on the individual with little room for negotiation.",
+        "B": "The individual creates an identity in total isolation from societal influences.",
+        "C": "Identity is a collaborative process influenced by both the self and others.",
+        "D": "Societal expectations are the primary determinant of a person's professional identity."
+      },
+      "answer": "C",
+      "explanation": "The passage explicitly states that identity is 'partly the result of negotiations with others.' It describes a two-way street: we are influenced by others ('we’re more likely to adopt that element ourselves') and how others see us affects our self-concept ('a function of how others see us').",
+      "score_improvement_tip": "Pay close attention to qualifying words like 'partly,' 'to an extent,' and 'likewise,' as they define nuanced relationships between ideas."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 6,
+      "question": "The author mentions Indra Nooyi primarily to:",
+      "options": {
+        "A": "cite a counterexample that disproves the passage's main claim.",
+        "B": "provide a concrete example of a leader with a harmonious identity.",
+        "C": "illustrate the challenges faced by female executives.",
+        "D": "shift the focus from theoretical research to corporate strategy."
+      },
+      "answer": "B",
+      "explanation": "The topic sentence states that identities are most effective when seen as 'harmonious.' The phrase 'for example' directly signals that Nooyi's story is being used to illustrate this specific claim. Her ability to maintain multiple identities without choosing is the embodiment of harmony.",
+      "score_improvement_tip": "Identify the topic sentence of the paragraph. Examples are almost always used to illustrate the claim made in that sentence."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The second sentence of the passage ('Likewise, how we think...') functions as:",
+      "options": {
+        "A": "an introduction of a completely new topic.",
+        "B": "a rebuttal to the claim made in the first sentence.",
+        "C": "a restatement of the first sentence using different words.",
+        "D": "a continuation of the idea, adding another dimension to it."
+      },
+      "answer": "D",
+      "explanation": "The word 'Likewise' is a transitional word that signals a similar or parallel idea. The first sentence explains how we are influenced by the traits of our connections. The second sentence adds another, related dimension: how we are influenced by others' perceptions *of us*. Together, they build the complete idea of 'negotiation.'",
+      "score_improvement_tip": "Understand the function of transition words. 'Likewise,' 'similarly,' and 'furthermore' indicate an addition of a related point, not a contrast or a simple restatement."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the passage, the primary benefit of 'identifying commonality' is that it:",
+      "options": {
+        "A": "allows one to simplify their own complex identity for others.",
+        "B": "provides a foundational strategy for expanding one's professional network.",
+        "C": "helps individuals conform to the expectations of a specific corporate culture.",
+        "D": "is the main goal of understanding one's own identity, with no further application."
+      },
+      "answer": "B",
+      "explanation": "This question requires synthesizing information from the entire passage. The first sentence establishes that understanding your identity is the 'key to building connections.' The final sentence states that commonalities 'provide a solid foundation on which to build and expand your network.' Therefore, the primary benefit is strategic network expansion.",
+      "score_improvement_tip": "For hard inference questions, you must connect multiple parts of the passage. The answer is not stated in a single sentence but is a logical conclusion drawn from the whole."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "How does the experiment described in Passage 2 relate to the concept of identity 'negotiation' discussed in Passage 1?",
+      "options": {
+        "A": "It proves that negotiation is unnecessary for a strong sense of self.",
+        "B": "It demonstrates the negative performance outcomes of being overly influenced by others' views.",
+        "C": "It suggests that self-determined identity eliminates the need for any social interaction.",
+        "D": "It provides quantitative evidence for the advantage of a self-determined identity over an other-determined one."
+      },
+      "answer": "D",
+      "explanation": "This is a cross-text analysis question. Passage 1 establishes that identity is a 'negotiation,' meaning it involves input from both self and others. Passage 2's experiment tests the outcomes of prioritizing one side of that negotiation. The worse performance of the 'other-determined' group provides empirical evidence that, while negotiation exists, a successful identity must be ultimately self-determined.",
+      "score_improvement_tip": "When connecting ideas across passages, look for one passage to provide a theory or concept and another to provide evidence, an example, or a consequence of that theory."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "The details about the history of the word 'identity' and the U.S. Census primarily serve to:",
+      "options": {
+        "A": "highlight the author's extensive historical knowledge.",
+        "B": "establish a contrast between past and present attitudes toward self-concept.",
+        "C": "argue that past social science research was fundamentally flawed.",
+        "D": "minimize the importance of modern identity research."
+      },
+      "answer": "B",
+      "explanation": "The author uses these historical facts to support the initial claim: 'For earlier generations, venturing deliberately into the territory of identity was a discretionary act.' The word 'however' then signals a shift, contrasting this past reality with the present reality where it is a major focus of research. The details provide evidence for the contrast.",
+      "score_improvement_tip": "Ask *why* an author includes specific facts or examples. They are rarely just for show; they are used to support a larger point, often one of comparison or contrast."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Suppose the author wanted to emphasize that self-understanding is a prerequisite for external connection. Which choice best completes the text according to that goal?<br><br>'Only once you’ve identified the many facets of your identity, he continued, can you...'",
+      "options": {
+        "A": "'...categorize everyone you meet into a specific demographic.'",
+        "B": "'...ensure your identity remains static and unchanging over time.'",
+        "C": "'...present a flawless and idealized version of yourself to others.'",
+        "D": "'...identify commonality with people from a wide variety of backgrounds.'"
+      },
+      "answer": "D",
+      "explanation": "Rhetorical Synthesis questions ask you to choose the option that best fits the author's stated goal and the passage's logic. The goal is to show that internal work (self-understanding) must come before external work (connection). Only option D completes the sentence in a way that demonstrates this prerequisite relationship, showing the *purpose* of self-understanding.",
+      "score_improvement_tip": "The correct answer will not only be logically sound but will also perfectly align with the specific rhetorical goal stated in the question stem."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br><br>The subjects in the self-determined group performed better on the math problems than the control group, whereas those in the otherdetermined group performed worse. That finding has been confirmed in additional studies: Our identities serve us better _______.",
+      "options": {
+        "A": "when we understand them as self-determined.",
+        "B": "when we understand them as self-determined;",
+        "C": "when we understand them as self-determined,",
+        "D": "when we understand them as self-determined—"
+      },
+      "answer": "A",
+      "explanation": "This question tests sentence boundaries. The segment 'Our identities serve us better when we understand them as self-determined.' is a complete and grammatically correct sentence. A colon (:) can be used to introduce an independent clause that explains the previous clause. No additional punctuation (semicolon, comma, em dash) is needed before the subordinate clause beginning with 'when.'",
+      "score_improvement_tip": "After a colon, if the following text can stand as a complete sentence on its own, it should be punctuated as one. Avoid adding unnecessary punctuation that creates a fragment or run-on."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate consistent mastery across all domains. They correctly answer hard questions by making nuanced inferences (Q6, Q7), analyzing complex text structure and purpose (Q8), synthesizing rhetoric (Q9), and applying advanced grammar rules (Q10). They avoid trap answers by reading questions and passages with extreme precision.",
+    "700_level_performance": "Students scoring 700 show strong comprehension and can handle medium-difficulty questions involving evidence (Q3), text structure (Q4), and transitions (Q5). Their score is limited by missing some hard questions, often due to misinterpreting the scope of an inference, overlooking key words in answer choices, or making minor errors in grammar conventions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions (Q6-Q10) test advanced skills: synthesizing ideas across an entire passage, connecting concepts between different texts, analyzing how details serve an author's purpose, completing text to meet a specific rhetorical goal, and applying nuanced punctuation rules. They require careful, critical reading and a strong grasp of grammar.",
+    "medium_questions": "Medium questions (Q3-Q5) assess the ability to understand relationships within a text, such as how evidence supports a claim, how examples illustrate ideas, and how transitions connect thoughts. They require more than basic comprehension but are more straightforward than hard questions.",
+    "easy_questions": "Easy questions (Q1, Q2) evaluate foundational skills: making a simple inference based on a clear text detail and defining a word using clear context clues. These questions test if the student understands the basic meaning of the passage."
+  }
+}

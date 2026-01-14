@@ -1,0 +1,231 @@
+{
+  "article_title": "Fighting drug overdoses with science",
+  "article_author": "Adam Bluestein",
+  "article_date": "May-June 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Public Health", "Technology", "Drug Policy"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "In 2021, the Maryland Department of Health and the state police were confronting a crisis: Fatal drug overdoses in the state were at an all-time high, and authorities didn't know why. There was a general sense that it had something to do with changes in the supply of illicit drugs-and specifically of the synthetic opioid fentanyl, which has caused overdose deaths in the US to roughly double over the past decade, to more than 100,000 per year."
+    },
+    {
+      "passage_number": 2,
+      "text": "But Maryland officials were flying blind when it came to understanding these fluctuations in anything close to real time. The US Drug Enforcement Administration reported on the purity of drugs recovered in enforcement operations, but the DEA's data offered limited detail and typically came back six to nine months after the seizures. By then, the actual drugs on the street had morphed many times over."
+    },
+    {
+      "passage_number": 3,
+      "text": "Part of the investigative challenge was that fentanyl can be some 50 times more potent than heroin, and inhaling even a small amount can be deadly. This made conventional methods of analysis, which required handling the contents of drug packages directly, incredibly risky."
+    },
+    {
+      "passage_number": 4,
+      "text": "Seeking answers, Maryland officials turned to scientists at the National Institute of Standards and Technology, the national metrology institute for the United States, which defines and maintains standards of measurement essential to a wide range of industrial sectors and health and security applications."
+    },
+    {
+      "passage_number": 5,
+      "text": "There, a research chemist named Ed Sisco and his team had developed methods for detecting trace amounts of drugs, explosives, and other dangerous materials-techniques that could protect law enforcement officials and others who had to collect these samples. Essentially, Sisco's lab had fine-tuned a technology called DART (for 'direct analysis in real time') mass spectrometry-which the US Transportation Security Administration uses to test for explosives by swiping your hand-to enable the detection of even tiny traces of chemicals collected from an investigation site."
+    },
+    {
+      "passage_number": 6,
+      "text": "This meant that nobody had to open a bag or handle unidentified powders; a usable residue sample could be obtained by simply swiping the outside of the bag. Sisco realized that first responders or volunteers at needle exchange sites could use these same methods to safely collect drug residue from bags, drug paraphernalia, or used test strips-which also meant they would no longer need to wait for law enforcement to seize drugs for testing."
+    },
+    {
+      "passage_number": 7,
+      "text": "They could then safely mail the samples to NIST's lab in Maryland and get results back in as little as 24 hours, thanks to innovations in Sisco's lab that shaved the time to generate a complete report from 10 to 30 minutes to just one or two. This was partly enabled by algorithms that allowed them to skip the time-consuming step of separating the compounds in a sample before running an analysis."
+    },
+    {
+      "passage_number": 8,
+      "text": "The Rapid Drug Analysis and Research (RaDAR) program launched as a pilot in October 2021 and uncovered new, critical information almost immediately. Early analysis found xylazine-a veterinary sedative that's been associated with gruesome wounds in users-in about 80% of opioid samples they collected."
+    },
+    {
+      "passage_number": 9,
+      "text": "This was a significant finding, Sisco says: 'Forensic labs care about things that are illegal, not things that are not illegal but do potentially cause harm. Xylazine is not a scheduled compound, but it leads to wounds that can lead to amputation, and it makes the other drugs more dangerous.'"
+    },
+    {
+      "passage_number": 10,
+      "text": "In addition to the compounds that are known to appear in high concentrations in street drugs-xylazine, fentanyl, and the veterinary sedative medetomidine-NIST's technology can pick out trace amounts of dozens of adulterants that swirl through the street-drug supply and can make it more dangerous, including acetaminophen, rat poison, and local anesthetics like lidocaine."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What was the primary concern of Maryland officials in 2021?",
+      "options": {
+        "A": "Rising healthcare costs",
+        "B": "Record-high fatal drug overdoses",
+        "C": "Police funding shortages",
+        "D": "Increased violent crime rates"
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that Maryland officials were 'confronting a crisis: Fatal drug overdoses in the state were at an all-time high.'",
+      "score_improvement_tip": "Look for direct statements in the text that answer the question without requiring interpretation."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, the phrase 'flying blind' most nearly means:",
+      "options": {
+        "A": "Operating an aircraft without visibility",
+        "B": "Acting without necessary information",
+        "C": "Making rapid progress",
+        "D": "Taking unnecessary risks"
+      },
+      "answer": "B",
+      "explanation": "The context shows officials lacked real-time understanding of drug fluctuations, indicating they were operating without crucial information.",
+      "score_improvement_tip": "For vocabulary questions, substitute each option into the original sentence to see which makes the most sense contextually."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Based on the passage, what can be inferred about traditional drug analysis methods?",
+      "options": {
+        "A": "They were highly accurate but slow",
+        "B": "They posed significant safety risks to investigators",
+        "C": "They could not detect fentanyl at all",
+        "D": "They were primarily used by volunteer organizations"
+      },
+      "answer": "B",
+      "explanation": "The passage states that conventional methods 'required handling the contents of drug packages directly,' making them 'incredibly risky' due to fentanyl's potency.",
+      "score_improvement_tip": "Inference questions require you to draw logical conclusions from evidence in the text, not from outside knowledge."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author includes information about NIST's role as the national metrology institute primarily to:",
+      "options": {
+        "A": "Explain why Maryland officials sought their expertise",
+        "B": "Criticize other government agencies",
+        "C": "Highlight the institute's historical significance",
+        "D": "Compare different measurement standards"
+      },
+      "answer": "A",
+      "explanation": "The description of NIST's mission and capabilities helps explain why Maryland officials turned to them for help with the drug analysis problem.",
+      "score_improvement_tip": "When asked about the author's purpose, consider how each part of the text contributes to the overall message or argument."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice best describes the relationship between DART technology and TSA procedures?",
+      "options": {
+        "A": "DART was developed specifically for TSA use",
+        "B": "TSA procedures inspired the development of DART",
+        "C": "DART adapts existing technology used by TSA",
+        "D": "TSA replaced all its technology with DART systems"
+      },
+      "answer": "C",
+      "explanation": "The passage states that Sisco's lab 'fine-tuned a technology called DART...which the US Transportation Security Administration uses to test for explosives.'",
+      "score_improvement_tip": "Pay close attention to transitional words and phrases that indicate relationships between ideas (e.g., 'which,' 'that,' 'essentially')."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Which choice most effectively combines the sentences at the underlined portion? 'This meant that nobody had to open a bag or handle unidentified powders; a usable residue sample could be obtained by simply swiping the outside of the bag. Sisco realized that first responders or volunteers at needle exchange sites could use these same methods to safely collect drug residue...'",
+      "options": {
+        "A": "powders; nevertheless, Sisco realized",
+        "B": "powders; consequently, Sisco realized",
+        "C": "powders; similarly, Sisco realized",
+        "D": "powders; however, Sisco realized"
+      },
+      "answer": "B",
+      "explanation": "'Consequently' correctly shows the cause-effect relationship between the safe collection method and Sisco's realization about its broader applications.",
+      "score_improvement_tip": "Transition questions require understanding the logical relationship between ideas. Identify whether the relationship is contrast, cause-effect, similarity, or sequence."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "The passage suggests that the algorithms developed by Sisco's team primarily address which limitation of previous drug analysis methods?",
+      "options": {
+        "A": "The high cost of laboratory equipment",
+        "B": "The inability to detect certain compounds",
+        "C": "The time required for sample preparation",
+        "D": "The risk of sample contamination"
+      },
+      "answer": "C",
+      "explanation": "The algorithms 'allowed them to skip the time-consuming step of separating the compounds,' directly addressing the time efficiency limitation.",
+      "score_improvement_tip": "For inference questions, look for textual evidence that supports your answer without being explicitly stated."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "How does the information about xylazine in the RaDAR program findings relate to the earlier description of DEA data?",
+      "options": {
+        "A": "It confirms the accuracy of DEA testing methods",
+        "B": "It demonstrates the limitations of law enforcement-focused drug analysis",
+        "C": "It suggests that DEA should take over the RaDAR program",
+        "D": "It shows that veterinary drugs are replacing illicit opioids"
+      },
+      "answer": "B",
+      "explanation": "The DEA data focused only on illegal compounds and was delayed, while RaDAR quickly identified dangerous but legal adulterants like xylazine, showing the limitations of a purely enforcement-focused approach.",
+      "score_improvement_tip": "Cross-text questions require synthesizing information from different parts of the passage. Look for connections, contrasts, or developments between ideas."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 9,
+      "question": "Which quotation from the passage best illustrates the significance of Sisco's finding regarding xylazine?",
+      "options": {
+        "A": "'Forensic labs care about things that are illegal'",
+        "B": "'Xylazine is not a scheduled compound'",
+        "C": "'it leads to wounds that can lead to amputation'",
+        "D": "'it makes the other drugs more dangerous'"
+      },
+      "answer": "A",
+      "explanation": "This quotation highlights the key insight that existing systems focused only on legality, not harm, which explains why xylazine was being missed despite its dangers.",
+      "score_improvement_tip": "When asked to find evidence, ensure the quotation directly supports the specific point being asked about, not just related information."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 10,
+      "question": "The author mentions various adulterants (acetaminophen, rat poison, lidocaine) primarily to:",
+      "options": {
+        "A": "Emphasize the diverse dangers in the street drug supply",
+        "B": "Compare their relative potency to fentanyl",
+        "C": "Suggest that drug users are unaware of what they're taking",
+        "D": "Argue for stricter regulation of these substances"
+      },
+      "answer": "A",
+      "explanation": "The list of diverse adulterants illustrates the wide range of dangerous substances that NIST's technology can detect, emphasizing the complexity and danger of the street drug supply.",
+      "score_improvement_tip": "For rhetorical synthesis questions, consider the author's overall purpose and how specific details contribute to that purpose."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis of text structure and purpose, sophisticated synthesis of information across multiple parts of a text, and nuanced understanding of rhetorical strategies. They excel at making complex inferences and understanding subtle logical relationships.",
+    "700_level_performance": "Students scoring at this level show strong comprehension of explicit information and can handle straightforward inference questions. They may struggle with complex text structure analysis, synthesizing information across the entire passage, and understanding subtle rhetorical choices or sophisticated vocabulary in context."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical skills including complex inference drawing, synthesis of information across multiple passages, understanding nuanced rhetorical strategies, and analyzing sophisticated text structures and relationships.",
+    "medium_questions": "Medium questions assess the ability to make straightforward inferences, understand moderate-difficulty vocabulary in context, identify text structure and purpose, and work with evidence from the text.",
+    "easy_questions": "Easy questions evaluate basic comprehension skills including identifying explicit information, understanding straightforward main ideas, and defining vocabulary in clear contexts."
+  }
+}

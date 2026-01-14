@@ -1,0 +1,207 @@
+{
+  "article_title": "Middle Management Is the Key to Sustainability",
+  "article_author": "Andrew Winston",
+  "article_date": "November-December, 2023",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Business",
+  "article_tags": ["Sustainability", "Management", "Leadership"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Any effective strategic effort begins by having the CEO set the tone and direction, but the central player in sustainability initiatives is logically the person who leads the sustainability function. That executive may have a title like VP of sustainability, chief sustainability officer (CSO), or head of ESG (which addresses environmental, social, and governance issues). Leadership from the top isn’t enough, however. A focus on sustainability needs to be embedded throughout the organization. People in procurement, HR, R&D, finance, marketing, sales, customer service, and more have to do their part too."
+    },
+    {
+      "passage_number": 2,
+      "text": "In fact, we believe that the success or failure of sustainability initiatives often depends on a cohort of hidden actors and unsung heroes: an organization’s midlevel executives and team leaders. These people fill a broad range of roles, from key positions just below the C-suite to factory or store manager. They’re internal warriors who feel the intense squeeze of needing to hit sustainability and financial targets. They may not have “sustainability” in their job titles, but many will see it as a core responsibility, capability, and career builder."
+    },
+    {
+      "passage_number": 3,
+      "text": "How do middle managers help drive sustainability efforts? The answer varies with a company’s aspirations and experience—in other words, with its sustainability maturity. Based on the patterns we’ve seen across hundreds of companies, we’ve identified four main levels of maturity: (1) lagging and skeptical, (2) building a base, (3) accelerating, and (4) leading. Companies don’t fall neatly into one category, of course. A lower-maturity company may have a bright spot of sustainability innovation. And even recognized leaders— like Unilever (where one of us, Paul, was a long-serving CEO), Patagonia, and IKEA—lag in some areas."
+    },
+    {
+      "passage_number": 4,
+      "text": "The overarching role of midlevel leaders is to help prepare their organizations for larger initiatives. As Marks & Spencer’s former CSO Mike Barry told us, “You want to embed the next plan into the current plan” so that you’re ready for the next stage of the journey. To go deeper and build sustainability into the organization, middle managers at all maturity levels need to know how to network and collaborate across the organizational matrix (with, say, both functions and brands). They also must be able to work within the firm’s culture while adjusting it to include a bias toward greater action; to make the business case, which will get more sophisticated at higher levels; and to look outside the company for inspiration and partnerships. In addition, no matter what type of organization they work for or where they sit in it, these advocates for change need to be courageous, collaborative, entrepreneurial, optimistic, and open to alternative viewpoints."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the first passage?",
+      "options": {
+        "A": "The importance of the CEO in setting the tone for sustainability",
+        "B": "The role of the sustainability leader in embedding sustainability throughout the organization",
+        "C": "The need for sustainability in procurement and HR",
+        "D": "The history of sustainability initiatives in companies"
+      },
+      "answer": "B",
+      "explanation": "The passage emphasizes the role of the sustainability leader in embedding sustainability throughout the organization, making B the correct answer.",
+      "score_improvement_tip": "Focus on the central theme of the passage, which is the role of the sustainability leader."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "Which evidence from the passage supports the idea that sustainability needs to be embedded throughout the organization?",
+      "options": {
+        "A": "Leadership from the top isn’t enough.",
+        "B": "People in procurement, HR, R&D, finance, marketing, sales, customer service, and more have to do their part too.",
+        "C": "The central player in sustainability initiatives is logically the person who leads the sustainability function.",
+        "D": "Any effective strategic effort begins by having the CEO set the tone and direction."
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that people in various departments need to contribute to sustainability efforts, supporting the idea that sustainability must be embedded throughout the organization.",
+      "score_improvement_tip": "Look for direct textual evidence that supports the main ideas."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "As used in the passage, what does the term 'internal warriors' most likely mean?",
+      "options": {
+        "A": "Employees who are focused on financial targets only",
+        "B": "Midlevel executives who balance sustainability and financial goals",
+        "C": "CEOs who lead sustainability initiatives",
+        "D": "External consultants who advise on sustainability"
+      },
+      "answer": "B",
+      "explanation": "The term 'internal warriors' refers to midlevel executives who feel the pressure to meet both sustainability and financial targets, making B the correct answer.",
+      "score_improvement_tip": "Use context clues to infer the meaning of figurative language."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Based on the passage, what can be inferred about the role of middle managers in sustainability initiatives?",
+      "options": {
+        "A": "They are less important than top executives.",
+        "B": "They are crucial for the success of sustainability efforts.",
+        "C": "They focus solely on financial targets.",
+        "D": "They are resistant to change."
+      },
+      "answer": "B",
+      "explanation": "The passage highlights the critical role of middle managers in driving sustainability efforts, indicating that they are crucial for success.",
+      "score_improvement_tip": "Make inferences based on the emphasis placed on certain roles in the text."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What is the primary purpose of the second passage?",
+      "options": {
+        "A": "To describe the challenges faced by CEOs",
+        "B": "To highlight the importance of midlevel executives in sustainability",
+        "C": "To discuss the history of sustainability initiatives",
+        "D": "To compare different types of sustainability leaders"
+      },
+      "answer": "B",
+      "explanation": "The passage focuses on the role of midlevel executives in sustainability initiatives, making B the correct answer.",
+      "score_improvement_tip": "Identify the main focus of the passage to determine its primary purpose."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which of the following best summarizes the relationship between middle managers and sustainability maturity levels?",
+      "options": {
+        "A": "Middle managers are only important at higher levels of maturity.",
+        "B": "Middle managers play a key role at all levels of sustainability maturity.",
+        "C": "Middle managers are less effective in leading companies.",
+        "D": "Middle managers focus only on financial targets at lower levels of maturity."
+      },
+      "answer": "B",
+      "explanation": "The passage indicates that middle managers are crucial at all levels of sustainability maturity, making B the correct answer.",
+      "score_improvement_tip": "Synthesize information from the text to draw conclusions about relationships."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which evidence from the passage supports the idea that companies may not fit neatly into one sustainability maturity category?",
+      "options": {
+        "A": "Companies don’t fall neatly into one category, of course.",
+        "B": "A lower-maturity company may have a bright spot of sustainability innovation.",
+        "C": "Even recognized leaders lag in some areas.",
+        "D": "All of the above."
+      },
+      "answer": "D",
+      "explanation": "All the options provide evidence that companies may not fit neatly into one sustainability maturity category, making D the correct answer.",
+      "score_improvement_tip": "Look for multiple pieces of evidence that support the same idea."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "How does the information in the third passage relate to the information in the fourth passage?",
+      "options": {
+        "A": "The third passage introduces the concept of sustainability maturity, while the fourth passage explains the role of middle managers in achieving it.",
+        "B": "The third passage discusses the challenges of sustainability, while the fourth passage provides solutions.",
+        "C": "The third passage focuses on financial targets, while the fourth passage focuses on sustainability goals.",
+        "D": "The third passage describes the history of sustainability, while the fourth passage predicts future trends."
+      },
+      "answer": "A",
+      "explanation": "The third passage introduces the concept of sustainability maturity, and the fourth passage explains how middle managers help achieve it, making A the correct answer.",
+      "score_improvement_tip": "Connect ideas across passages to understand their relationship."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Easy",
+      "passage": 4,
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": {
+        "A": "Middle managers need to know how to network and collaborate across the organizational matrix.",
+        "B": "Middle managers needs to know how to network and collaborate across the organizational matrix.",
+        "C": "Middle managers needing to know how to network and collaborate across the organizational matrix.",
+        "D": "Middle managers need to knowing how to network and collaborate across the organizational matrix."
+      },
+      "answer": "A",
+      "explanation": "Option A is grammatically correct, with proper subject-verb agreement and verb form.",
+      "score_improvement_tip": "Ensure subject-verb agreement and proper verb forms in sentences."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Which transition word or phrase best fits at the beginning of the following sentence? '______, middle managers must be able to work within the firm’s culture while adjusting it to include a bias toward greater action.'",
+      "options": {
+        "A": "However",
+        "B": "For example",
+        "C": "In addition",
+        "D": "As a result"
+      },
+      "answer": "C",
+      "explanation": "The sentence adds to the previous points about middle managers, making 'In addition' the most appropriate transition.",
+      "score_improvement_tip": "Choose transition words that logically connect ideas and maintain the flow of the text."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, supporting details, and grammatical correctness.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and grammatical correctness."
+  }
+}

@@ -1,0 +1,203 @@
+{
+    "article_title": "In Flight",
+    "article_author": "Rae Armantrout",
+    "article_date": "March, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Poetry",
+    "article_tags": ["Existentialism", "Perception", "Modern Life", "Imagery"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "“Engage in an activity,”<br>one said.<br><br>Then one said,<br>“Believe in your feelings.”<br><br>It would be easy to believe<br>our bodies<br><br>were being operated<br>remotely,<br><br>like drones<br>receiving instructions,<br><br>no doubt coded,<br>on the fly."
+      },
+      {
+        "passage_number": 2,
+        "text": "It was possible to feel<br>you had been saved<br>by paisleys<br><br>then by natural fabrics<br>in muted shades.<br><br>Both promised new lives."
+      },
+      {
+        "passage_number": 3,
+        "text": "Once I was saved<br>from monotony<br><br>and hate<br><br>by a square of sun<br><br>on the overhead compartment<br><br>tinged faint yellow<br>and lime."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "The first passage primarily explores the idea that:",
+        "options": {
+          "A": "Technology enhances human autonomy",
+          "B": "Human actions feel externally controlled",
+          "C": "Drones symbolize freedom",
+          "D": "Emotions are easily decoded"
+        },
+        "answer": "B",
+        "explanation": "The comparison of bodies to remotely operated drones suggests a theme of external control over human agency.",
+        "score_improvement_tip": "Identify metaphors and their implications for central themes."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "As used in line 12, 'on the fly' most nearly means:",
+        "options": {
+          "A": "In mid-air",
+          "B": "Casually",
+          "C": "Improvised in real time",
+          "D": "With insect-like precision"
+        },
+        "answer": "C",
+        "explanation": "The phrase 'on the fly' refers to real-time adjustments, aligning with the idea of coded instructions being dynamically received.",
+        "score_improvement_tip": "Consider idiomatic tech-related phrases in modern contexts."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "The drone metaphor in the first passage implies that humans:",
+        "options": {
+          "A": "Lack emotional depth",
+          "B": "Follow predetermined scripts",
+          "C": "Reject technological progress",
+          "D": "Prioritize logic over intuition"
+        },
+        "answer": "B",
+        "explanation": "The metaphor of coded instructions suggests a mechanistic, preprogrammed quality to human behavior.",
+        "score_improvement_tip": "Analyze extended metaphors for deeper thematic implications."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "The listing of 'paisleys' and 'natural fabrics' primarily serves to:",
+        "options": {
+          "A": "Critique consumer culture",
+          "B": "Illustrate arbitrary sources of salvation",
+          "C": "Promote sustainable fashion",
+          "D": "Highlight sensory experiences"
+        },
+        "answer": "B",
+        "explanation": "The juxtaposition of disparate items emphasizes how mundane objects are improbably framed as life-changing.",
+        "score_improvement_tip": "Examine how unexpected details contribute to irony or thematic depth."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which choice best combines the underlined sentences? 'Once I was saved from monotony. This was by a square of sun on the overhead compartment.'",
+        "options": {
+          "A": "Once I was saved from monotony, this was by a square of sun on the overhead compartment.",
+          "B": "Once I was saved from monotony; a square of sun on the overhead compartment.",
+          "C": "Once I was saved from monotony by a square of sun on the overhead compartment.",
+          "D": "Once I was saved from monotony, but a square of sun on the overhead compartment."
+        },
+        "answer": "C",
+        "explanation": "Option C uses concise prepositional phrasing without grammatical errors.",
+        "score_improvement_tip": "Prefer solutions that eliminate redundancy while maintaining clarity."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "The repeated use of 'saved' in the second passage emphasizes:",
+        "options": {
+          "A": "Religious redemption",
+          "B": "The fragility of modern life",
+          "C": "Irony in seeking meaning through trivialities",
+          "D": "Environmental conservation"
+        },
+        "answer": "C",
+        "explanation": "Applying the weighty term 'saved' to mundane objects creates ironic commentary on superficial sources of meaning.",
+        "score_improvement_tip": "Note how repetition of charged words shapes tone."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "The 'square of sun' in the final passage contrasts most strongly with:",
+        "options": {
+          "A": "The 'drones' in the first passage",
+          "B": "The 'paisleys' in the second passage",
+          "C": "The 'coded instructions' in the first passage",
+          "D": "The 'natural fabrics' in the second passage"
+        },
+        "answer": "C",
+        "explanation": "The organic, ephemeral sunlight contrasts with the mechanical, controlled drone imagery.",
+        "score_improvement_tip": "Look for thematic oppositions across passages."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 3,
+        "question": "What literally causes the speaker’s salvation in the final passage?",
+        "options": {
+          "A": "A religious experience",
+          "B": "A geometric light pattern",
+          "C": "A colorful fabric",
+          "D": "A technological innovation"
+        },
+        "answer": "B",
+        "explanation": "The 'square of sun' is a literal light pattern described as salvific.",
+        "score_improvement_tip": "Distinguish between literal and figurative language."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Which transition best completes the sentence? 'The square of sun saved the speaker from despair, ______ it also symbolized fleeting beauty.'",
+        "options": {
+          "A": "however",
+          "B": "because",
+          "C": "moreover",
+          "D": "unless"
+        },
+        "answer": "C",
+        "explanation": "'Moreover' adds a parallel layer of meaning without contrast.",
+        "score_improvement_tip": "Match transitional words to additive vs. contradictory relationships."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "The description 'tinged faint yellow<br>and lime' primarily serves to:",
+        "options": {
+          "A": "Evoke a specific emotional tone",
+          "B": "Critique artificial lighting",
+          "C": "Establish a seasonal setting",
+          "D": "Highlight chemical properties"
+        },
+        "answer": "A",
+        "explanation": "The delicate color adjectives create a mood of tentative hope.",
+        "score_improvement_tip": "Analyze sensory details for emotional subtext."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring 800 demonstrate mastery in interpreting layered metaphors, analyzing structural irony, and decoding complex punctuation in poetic forms. They excel at connecting disparate images across stanzas to reveal thematic unity.",
+      "700_level_performance": "Students scoring 700 understand surface-level meanings and vocabulary but may struggle with nuanced figurative language, rhetorical purpose in unconventional structures, and high-level synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test analysis of extended metaphors, ironic word choice, and cross-stanza thematic connections in poetic structure.",
+      "medium_questions": "Medium questions focus on vocabulary in abstract contexts, grammatical sentence combining, and identifying explicit structural choices.",
+      "easy_questions": "Easy questions assess literal comprehension of key images and stated themes."
+    }
+  }

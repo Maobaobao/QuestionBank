@@ -1,0 +1,190 @@
+{
+    "article_title": "And They Lived Happily Ever After",
+    "article_author": "Yuval Noah Harari",
+    "article_date": "2011",
+    "article_source": "Sapiens: A Brief History of Humankind",
+    "article_category": "Book",
+    "article_tags": ["History", "Human Development", "Intelligent Design"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "For billions of years, intelligent design was not even an option, because there was no intelligence which could design things. Microorganisms, which until quite recently were the only living things around, are capable of amazing feats. A microorganism belonging to one species can incorporate genetic codes from a completely different species into its cell and thereby gain new capabilities, such as resistance to antibiotics. Yet, as best we know, microorganisms have no consciousness, no aims in life, and no ability to plan ahead."
+      },
+      {
+        "passage_number": 2,
+        "text": "At some stage organisms such as giraffes, dolphins, chimpanzees and Neanderthals evolved consciousness and the ability to plan ahead. But even if a Neanderthal fantasised about fowls so fat and slow-moving that he could just scoop them up whenever he was hungry, he had no way of turning that fantasy into reality. He had to hunt the birds that had been naturally selected."
+      },
+      {
+        "passage_number": 3,
+        "text": "The first crack in the old regime appeared about 10,000 years ago, during the Agricultural Revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of their offspring would be both fat and slow. If you mated those offspring with each other, you could produce a line of fat, slow birds. It was a race of chickens unknown to nature, produced by the intelligent design not of a god but of a human.<br><br>Still, compared to an all-powerful deity, Homo sapiens had limited design skills. Sapiens could use selective breeding to detour around and accelerate the natural selection processes that normally affected chickens, but they could not introduce completely new characteristics that were absent from the genetic pool of wild chickens. In a way, the relationship between Homo sapiens and chickens was similar to many other symbiotic relationships that have so often arisen on their own in nature. Sapiens exerted peculiar selective pressures on chickens that caused the fat and slow ones to proliferate, just as pollinating bees select flowers, causing the bright colourful ones to proliferate."
+      },
+      {
+        "passage_number": 4,
+        "text": "Today, the 4-billion-year-old regime of natural selection is facing a completely different challenge. In laboratories throughout the world, scientists are engineering living beings. They break the laws of natural selection with impunity, unbridled even by an organism's original characteristics. Eduardo Kac, a Brazilian bio-artist, decided in 2000 to create a new work of art: a fluorescent green rabbit. Kac contacted a French laboratory and offered it a fee to engineer a radiant bunny according to his specifications. The French scientists took a run-of-the-mill white rabbit embryo, implanted in its DNA a gene taken from a green fluorescent jellyfish, and voilà! One green fluorescent rabbit for le monsieur. Kac named the rabbit Alba."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "What can be inferred about Neanderthals based on the passage?",
+        "options": {
+          "A": "They were capable of advanced genetic engineering.",
+          "B": "They could not turn their fantasies into reality.",
+          "C": "They preferred hunting over farming.",
+          "D": "They were the first to domesticate animals."
+        },
+        "answer": "B",
+        "explanation": "The passage states that Neanderthals could not turn their fantasies into reality, making B the correct answer.",
+        "score_improvement_tip": "Look for clues in the text that suggest limitations or capabilities of the subjects discussed."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "As used in line 3, 'detour around' most likely means:",
+        "options": {
+          "A": "Avoid",
+          "B": "Accelerate",
+          "C": "Imitate",
+          "D": "Disrupt"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'detour around' implies avoiding the natural selection process, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of unfamiliar phrases."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which statement best supports the idea that Homo sapiens had limited design skills compared to a deity?",
+        "options": {
+          "A": "Sapiens could use selective breeding to accelerate natural selection.",
+          "B": "Sapiens could not introduce completely new characteristics absent from the genetic pool.",
+          "C": "Sapiens exerted peculiar selective pressures on chickens.",
+          "D": "Sapiens' relationship with chickens was symbiotic."
+        },
+        "answer": "B",
+        "explanation": "The passage states that Homo sapiens could not introduce completely new characteristics, highlighting their limitations, making B the correct answer.",
+        "score_improvement_tip": "Look for evidence that directly supports the main idea of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What is the primary purpose of the fifth passage?",
+        "options": {
+          "A": "To argue that natural selection is no longer relevant.",
+          "B": "To describe how modern science is challenging natural selection.",
+          "C": "To explain the process of creating a fluorescent rabbit.",
+          "D": "To criticize the work of bio-artists like Eduardo Kac."
+        },
+        "answer": "B",
+        "explanation": "The passage discusses how modern science is breaking the laws of natural selection, making B the correct answer.",
+        "score_improvement_tip": "Consider the author's main argument or focus when answering purpose-based questions."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which of the following best synthesizes the ideas in the fifth passage?",
+        "options": {
+          "A": "Modern science has made natural selection obsolete.",
+          "B": "Bioengineering allows scientists to create organisms with entirely new characteristics.",
+          "C": "Eduardo Kac's work is a significant advancement in art.",
+          "D": "Natural selection is still the dominant force in evolution."
+        },
+        "answer": "B",
+        "explanation": "The passage highlights how bioengineering allows scientists to create organisms with new characteristics, making B the correct answer.",
+        "score_improvement_tip": "Synthesis questions require combining multiple ideas from the passage to form a coherent conclusion."
+      },
+      {
+        "question_number": 7,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": {
+          "A": "Microorganisms, which until quite recently were the only living things around, are capable of amazing feats.",
+          "B": "Microorganisms which until quite recently were the only living things around are capable of amazing feats.",
+          "C": "Microorganisms, until quite recently were the only living things around, are capable of amazing feats.",
+          "D": "Microorganisms, which until quite recently were the only living things around are capable of amazing feats."
+        },
+        "answer": "A",
+        "explanation": "Option A correctly uses commas to set off the non-restrictive clause, making it grammatically correct.",
+        "score_improvement_tip": "Pay attention to the correct use of commas in non-restrictive clauses."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about the Agricultural Revolution based on the passage?",
+        "options": {
+          "A": "It marked the beginning of human control over natural selection.",
+          "B": "It was the first time humans domesticated animals.",
+          "C": "It led to the extinction of wild chickens.",
+          "D": "It was driven by religious beliefs."
+        },
+        "answer": "A",
+        "explanation": "The passage describes how humans began to influence natural selection during the Agricultural Revolution, making A the correct answer.",
+        "score_improvement_tip": "Inference questions often require understanding the broader implications of the text."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "How does the second passage relate to the first passage?",
+        "options": {
+          "A": "It provides an example of human limitations in design.",
+          "B": "It contrasts human design skills with those of microorganisms.",
+          "C": "It introduces a new theory about natural selection.",
+          "D": "It explains the process of selective breeding in detail."
+        },
+        "answer": "A",
+        "explanation": "The fourth passage discusses the limitations of human design skills, building on the idea introduced in the third passage, making A the correct answer.",
+        "score_improvement_tip": "Cross-text connection questions require understanding how different parts of the text relate to each other."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which transition word best fits at the beginning of the second sentence in the fifth passage?",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "Moreover",
+          "D": "Consequently"
+        },
+        "answer": "A",
+        "explanation": "The second sentence contrasts with the first, making 'However' the most appropriate transition, making A the correct answer.",
+        "score_improvement_tip": "Transition words should logically connect ideas within the text."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

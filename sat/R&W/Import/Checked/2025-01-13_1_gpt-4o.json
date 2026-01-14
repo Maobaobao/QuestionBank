@@ -1,0 +1,119 @@
+{
+    "article_title": "And They Lived Happily Ever After",
+    "article_author": "Yuval Noah Harari",
+    "article_date": "2011",
+    "article_source": "Sapiens: A Brief History of Humankind",
+    "article_category": "Book",
+    "article_tags": ["History", "Human Development","Happiness"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The last 500 years have witnessed a breathtaking series of revolutions. The earth has been united into a single ecological and historical sphere. The economy has grown exponentially, and humankind today enjoys the kind of wealth that used to be the stuff of fairy tales. Science and the Industrial Revolution have given humankind superhuman powers and practically limitless energy. The social order has been completely transformed, as have politics, daily life, and human psychology."
+      },
+      {
+        "passage_number": 2,
+        "text": "But are we happier? Did the wealth humankind accumulated over the last five centuries translate into newfound contentment? Did the discovery of inexhaustible energy resources open before us inexhaustible stores of bliss? Going further back, have the seventy or so turbulent millennia since the Cognitive Revolution made the world a better place to live? Was Neil Armstrong, whose footprint remains intact on the windless moon, happier than the nameless hunter-gatherer who 30,000 years ago left her handprint on a wall in Chauvet Cave?"
+      },
+      {
+        "passage_number": 3,
+        "text": "Historians seldom ask such questions. They do not ask whether the citizens of Uruk and Babylon were happier than their foraging ancestors, whether the rise of Islam made Egyptians more pleased with their lives, or how the collapse of the European empires in Africa influenced the happiness of countless millions. Yet these are the most important questions one can ask of history. Most current ideologies and political programs are based on rather flimsy ideas concerning the real source of human happiness."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary focus of the first passage?",
+        "options": {
+          "A": "The consequences of industrialization on daily life",
+          "B": "The unification of the Earth into a single system",
+          "C": "Major transformations over the past 500 years",
+          "D": "The development of human psychology"
+        },
+        "answer": "C",
+        "explanation": "The passage highlights the 'breathtaking series of revolutions' in the last 500 years, emphasizing wide-scale transformations.",
+        "score_improvement_tip": "Focus on the central claim of the text, often stated in the first few sentences."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "What does the phrase 'practically limitless energy' most nearly mean in the context of the passage?",
+        "options": {
+          "A": "Energy that cannot be exhausted",
+          "B": "A metaphor for boundless potential",
+          "C": "Technological advances that have transformed industries",
+          "D": "Infinite natural resources"
+        },
+        "answer": "A",
+        "explanation": "The context discusses the transformative powers granted by science and the Industrial Revolution, pointing to the idea of energy that is effectively inexhaustible.",
+        "score_improvement_tip": "Consider the broader context of the phrase within the paragraph to deduce its meaning."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "What can be inferred about the author’s view on material wealth and happiness?",
+        "options": {
+          "A": "Material wealth inevitably leads to happiness.",
+          "B": "Material wealth does not necessarily equate to increased happiness.",
+          "C": "Happiness is dependent on technological advancements.",
+          "D": "Happiness has diminished over the centuries despite material progress."
+        },
+        "answer": "B",
+        "explanation": "The author questions whether wealth and energy resources have truly made humans happier, suggesting skepticism about a direct link.",
+        "score_improvement_tip": "Identify rhetorical questions in the passage to infer the author's perspective."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "What is the primary purpose of the rhetorical questions in this passage?",
+        "options": {
+          "A": "To highlight the ambiguity of progress",
+          "B": "To assert that happiness has declined",
+          "C": "To suggest that technology is harmful",
+          "D": "To compare different historical eras"
+        },
+        "answer": "A",
+        "explanation": "The rhetorical questions challenge the assumption that progress directly correlates with happiness, emphasizing its ambiguity.",
+        "score_improvement_tip": "Pay attention to rhetorical devices and their function in advancing the argument."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which sentence from the passage best supports the idea that historical inquiry often overlooks human happiness?",
+        "options": {
+          "A": "'Historians seldom ask such questions.'",
+          "B": "'They do not ask whether the citizens of Uruk and Babylon were happier than their foraging ancestors.'",
+          "C": "'Yet these are the most important questions one can ask of history.'",
+          "D": "'Most current ideologies and political programs are based on rather flimsy ideas.'"
+        },
+        "answer": "A",
+        "explanation": "The statement directly addresses the lack of focus on human happiness in historical studies.",
+        "score_improvement_tip": "Find explicit statements that align closely with the question's focus."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level excel in analyzing complex ideas, making nuanced inferences, and discerning subtle rhetorical strategies.",
+      "700_level_performance": "Students scoring at this level demonstrate strong reading comprehension and reasoning skills but may occasionally miss subtleties or advanced rhetorical nuances."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions often require analyzing the author’s implicit assumptions or evaluating the function of specific rhetorical techniques.",
+      "medium_questions": "Medium questions focus on understanding precise word meanings in context and identifying relevant evidence from the text.",
+      "easy_questions": "Easy questions emphasize the comprehension of central ideas and explicit details within the passage."
+    }
+  }
+  

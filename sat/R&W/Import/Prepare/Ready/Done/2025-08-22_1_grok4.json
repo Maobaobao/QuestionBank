@@ -1,0 +1,223 @@
+{
+  "article_title": "A strange kind of limbo",
+  "article_author": "Jessica Hamzelou",
+  "article_date": "March-April, 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Embryos", "IVF", "Legal Status", "Ethics", "Fertility"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "UK law takes a similar approach: The language surrounding embryos and IVF was drafted with the idea that the embryo has some kind of “special status,” although it was never made entirely clear exactly what that special status is, says James Lawford Davies, a solicitor and partner at LDMH Partners, a law firm based in York, England, that specializes in life sciences. Over the years, the language has been tweaked to encompass embryos that might arise from IVF, cloning, or other means; it is “a bit of a fudge,” says Lawford Davies. Today, the official-if somewhat circular-legal definition in the Human Fertilisation and Embryology Act reads: “embryo means a live human embryo.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "And while people who use their eggs or sperm to create embryos might view these embryos as theirs, under UK law embryos are more like “a stateless bundle of cells,” says Lawford Davies. They’re not quite property-people don’t own embryos. They just have control over how they are used. Many legal disputes revolve around who has that control. This was the experience of Natallie Evans, who created embryos with her then partner Howard Johnston in the UK in 2001. The couple separated in 2002. Johnston wrote to the clinic to ask that their embryos be destroyed. But Evans, who had been diagnosed with ovarian cancer in 2001, wanted to use them. She argued that Johnston had already consented to their creation, storage, and use and should not be allowed to change his mind. The case eventually made it to the European Court of Human Rights, and Evans lost. The case set a precedent that consent was key and could be withdrawn at any time."
+    },
+    {
+      "passage_number": 3,
+      "text": "In Italy, on the other hand, withdrawing consent isn’t always possible. In 2021, a case like Natallie Evans’s unfolded in the Italian courts: A woman who wanted to proceed with implantation after separating from her partner went to court for authorization. “She said that it was her last chance to be a mother,” says Dalla Costa. The judge ruled in her favor. Dalla Costa’s clinics in Italy are now changing their policies to align with this decision. Male partners must sign a form acknowledging that they cannot prevent embryos from being used once they’ve been created."
+    },
+    {
+      "passage_number": 4,
+      "text": "The US situation is even more complicated, because each state has its own approach to fertility regulation. When I looked through a series of published legal disputes over embryos, I found little consistency-sometimes courts ruled to allow a woman to use an embryo without the consent of her former partner, and sometimes they didn’t. “Some states have comprehensive legislation; some do not,” says Vaughn. “Some have piecemeal legislation, some have only case law, some have all of the above, some have none of the above.”"
+    },
+    {
+      "passage_number": 5,
+      "text": "So how should we define an embryo? “It’s the million-dollar question,” says Heidi Mertes, a bioethicist at Ghent University in Belgium. Some bioethicists and legal scholars, including Vaughn, think we’d all stand to benefit from clear legal definitions. Risa Cromer, a cultural anthropologist at Purdue University in Indiana, who has spent years researching the field, is less convinced. Embryos exist in a murky, in-between state, she argues. You can (usually) discard them, or donate them, but you can’t sell them. You can make claims against damages to them, but an embryo is never viewed in the same way as a car, for example. “It doesn’t fit really neatly into that property category,” says Cromer. “But, very clearly, it doesn’t fit neatly into the personhood category either.”"
+    },
+    {
+      "passage_number": 6,
+      "text": "And there are benefits to keeping the definition vague, she adds: “There is, I think, a human need for there to be a wide range of interpretive space for what IVF embryos are or could be.” That’s because we don’t have a fixed moral definition of what an embryo is. Embryos hold special value even for people who don’t view them as children. They hold potential as human life. They can come to represent a fertility journey-one that might have been expensive, exhausting, and traumatizing. “Even for people who feel like they’re just cells, it still cost a lot of time, money, and effort to get those cells,” says Cattapan. “I think it’s an illusion that we might all agree on what the moral status of an embryo is,” Mertes says."
+    },
+    {
+      "passage_number": 7,
+      "text": "In the face of that ambiguity, a growing number of embryologists, ethicists, and researchers are working to persuade fertility clinics and their patients not to create or freeze so many embryos in the first place. Early signs aren’t promising, says Baccino. The patients she has encountered aren’t particularly receptive to the idea. “They think, ‘If I will pay this amount for a cycle, I want to optimize my chances, so in my case, no,’” she says. She expects the number of embryos in storage to continue to grow."
+    },
+    {
+      "passage_number": 8,
+      "text": "Holligan’s embryo has been in storage for almost five years. And she still doesn’t know what to do with it. She tears up as she talks through her options. Would discarding the embryo feel like a miscarriage? Would it be a sad thing? If she donated the embryo, would she spend the rest of her life wondering what had become of her biological child, and whether it was having a good life? Should she hold on to the embryo for another decade in case her own daughter needs to use it at some point? “The question of what to do with the embryo does pop into my head, but I quickly try to move past it and just say ‘Oh, that’s something I’ll deal with at a later time,’” says Holligan. “I’m sure my husband does the same.” The accumulation of frozen embryos is “going to continue this way for some time until we come up with something that fully addresses everyone’s concerns,” says Vaughn. But will we ever be able to do that? “I’m an optimist, so I’m gonna say yes,” he says with a hopeful smile. “But I don’t know at the moment.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary focus of the legal language in the UK's Human Fertilisation and Embryology Act regarding embryos?",
+      "options": {
+        "A": "Defining embryos as property owned by individuals",
+        "B": "Granting embryos a special but unclear status",
+        "C": "Allowing embryos to be created only through IVF",
+        "D": "Prohibiting any changes to embryo definitions over time"
+      },
+      "answer": "B",
+      "explanation": "The text describes the UK's legal approach as assigning embryos a 'special status' that is not clearly defined, with tweaks over time but remaining somewhat circular.",
+      "score_improvement_tip": "Identify the main topic by focusing on repeated ideas and expert quotes that summarize the core concept."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the text, 'stateless' most nearly means",
+      "options": {
+        "A": "without a fixed legal identity",
+        "B": "lacking emotional significance",
+        "C": "devoid of biological components",
+        "D": "unregulated by international laws"
+      },
+      "answer": "A",
+      "explanation": "The term 'stateless bundle of cells' refers to embryos not being owned as property but having control over their use, implying they lack a clear legal category or ownership status.",
+      "score_improvement_tip": "Examine surrounding sentences for clues about how a word fits into the legal or conceptual framework described."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "The primary purpose of mentioning the 2021 Italian court case is to",
+      "options": {
+        "A": "criticize the UK's approach to consent in embryo disputes",
+        "B": "illustrate a contrasting policy where consent withdrawal is limited",
+        "C": "highlight the financial costs of fertility treatments in Italy",
+        "D": "argue for universal adoption of Italian clinic policies"
+      },
+      "answer": "B",
+      "explanation": "The case is presented as an example where, unlike in the UK, a judge allowed implantation without the former partner's consent, leading to policy changes in clinics.",
+      "score_improvement_tip": "Determine purpose by noting how an example contrasts with previous ones to build the author's argument."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which quotation from the text best supports the idea that US embryo regulations lack uniformity?",
+      "options": {
+        "A": "'each state has its own approach to fertility regulation'",
+        "B": "'courts ruled to allow a woman to use an embryo'",
+        "C": "'published legal disputes over embryos'",
+        "D": "'comprehensive legislation; some do not'"
+      },
+      "answer": "A",
+      "explanation": "This quote directly states the decentralized nature of regulations, leading to inconsistencies across states.",
+      "score_improvement_tip": "Select evidence that most directly addresses the claim by matching key terms like 'approach' to the idea of variation."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "In the sentence 'You can (usually) discard them, or donate them, but you can’t sell them.', which revision best conforms to standard English punctuation?",
+      "options": {
+        "A": "No change",
+        "B": "You can usually discard them or donate them but you can’t sell them.",
+        "C": "You can (usually) discard them; or donate them, but you can’t sell them.",
+        "D": "You can (usually) discard them, or donate them but you can’t sell them."
+      },
+      "answer": "A",
+      "explanation": "The original uses parentheses correctly for the adverb and commas to separate list items in a series with a contrasting clause.",
+      "score_improvement_tip": "Check for consistent punctuation in lists and ensure parentheses are used appropriately for nonessential information."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "While Vaughn advocates for clear legal definitions of embryos, Cromer would most likely argue that such definitions would",
+      "options": {
+        "A": "limit the interpretive flexibility needed for diverse moral views",
+        "B": "align embryos more closely with property laws like those for cars",
+        "C": "resolve all ongoing disputes in fertility clinics worldwide",
+        "D": "encourage the sale of embryos in unregulated markets"
+      },
+      "answer": "A",
+      "explanation": "Cromer argues embryos exist in a 'murky, in-between state' that doesn't fit neatly into categories, suggesting benefits to vagueness for interpretive space.",
+      "score_improvement_tip": "Compare viewpoints by inferring how one expert's position contrasts with another's based on their quoted arguments."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the text, it can most reasonably be inferred that a vague embryo definition accommodates",
+      "options": {
+        "A": "varied personal and moral interpretations of their value",
+        "B": "strict uniformity in global fertility laws",
+        "C": "exclusive focus on embryos as mere biological cells",
+        "D": "prohibition of all embryo donation practices"
+      },
+      "answer": "A",
+      "explanation": "The text states there are benefits to vagueness due to the lack of a fixed moral definition and the need for interpretive space, especially given embryos' special value and representation of fertility journeys.",
+      "score_improvement_tip": "Draw inferences by connecting expert opinions on ambiguity to broader implications for human needs and moral diversity."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "Which choice completes the text with the most logical transition?<br>In the face of that ambiguity, a growing number of embryologists, ethicists, and researchers are working to persuade fertility clinics and their patients not to create or freeze so many embryos in the first place. ________ Early signs aren’t promising, says Baccino.",
+      "options": {
+        "A": "Therefore,",
+        "B": "Nevertheless,",
+        "C": "In other words,",
+        "D": "For example,"
+      },
+      "answer": "B",
+      "explanation": " 'Nevertheless' provides a contrast between efforts to reduce embryo creation and the unpromising early signs of patient receptivity.",
+      "score_improvement_tip": "Choose transitions that reflect logical relationships like contrast when positive actions meet resistance."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "While some experts propose reducing embryo creation, Holligan's story primarily illustrates the",
+      "options": {
+        "A": "emotional and ongoing personal dilemmas faced by individuals with stored embryos",
+        "B": "financial incentives for keeping embryos in storage indefinitely",
+        "C": "legal precedents that favor destruction over donation",
+        "D": "optimistic outcomes of fertility journeys in modern clinics"
+      },
+      "answer": "A",
+      "explanation": "Holligan's emotional struggle with options like discarding or donating, and her avoidance of the decision, highlights the personal ambiguity and trauma involved.",
+      "score_improvement_tip": "Synthesize rhetorical elements by linking personal anecdotes to broader themes of ambiguity and unresolved concerns."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "The author's inclusion of Vaughn's optimistic statement at the end primarily serves to",
+      "options": {
+        "A": "offer a tentative hope amid unresolved issues in embryo storage",
+        "B": "dismiss the concerns raised by patients like Holligan",
+        "C": "advocate for immediate global legal reforms",
+        "D": "contrast with Baccino's pessimistic outlook on embryo numbers"
+      },
+      "answer": "A",
+      "explanation": "Vaughn's hopeful yet uncertain response underscores the ongoing nature of the problem while suggesting potential for future resolution.",
+      "score_improvement_tip": "Analyze purpose by considering how concluding quotes balance the narrative's tone of ambiguity with forward-looking elements."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in inferring complex implications, synthesizing cross-text ideas, and applying precise rhetorical and conventional edits, demonstrating nuanced understanding of ambiguous texts.",
+    "700_level_performance": "Students at this level grasp main ideas and evidence but may falter on subtle inferences, cross-connections, or advanced transitions in ethically complex passages."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require deep inference, synthesis of contrasting views, and evaluation of rhetorical choices in ambiguous ethical contexts.",
+    "medium_questions": "Medium questions focus on identifying purpose, selecting textual evidence, and applying standard conventions to maintain clarity.",
+    "easy_questions": "Easy questions test basic comprehension of central details and contextual word meanings through direct textual references."
+  }
+}

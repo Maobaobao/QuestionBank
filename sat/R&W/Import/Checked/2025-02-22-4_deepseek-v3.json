@@ -1,0 +1,231 @@
+{
+    "article_title": "The Climate Underground",
+    "article_author": "Emily Benson",
+    "article_date": "2023",
+    "article_source": "High Country News",
+    "article_category": "Essay",
+    "article_tags": ["Climate Change", "Paleoclimate", "Research"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Titan Cave is about a hundred miles from Yellowstone National Park, where, a couple of weeks after our expedition, rain and snowmelt inundated the landscape. Rivers and tributaries demolished previous high-water records; one spot on the Yellowstone—the site the US Geological Survey calls Yellowstone River at Corwin Springs—peaked at 13.88 feet, more than two feet higher than the previous record, set in 1918. The flooding decimated roads and bridges, washed buildings into rivers and broke water mains. The National Park Service temporarily closed the park and ordered more than ten thousand visitors to leave."
+      },
+      {
+        "passage_number": 2,
+        "text": "Climate change is intensifying weather: Dry periods are drier, wet periods are wetter, and human infrastructure and communities are not, in most places, prepared for it. By the end of this century, the area around Yellowstone is expected to be more than 5 degrees Fahrenheit warmer than it was between 1986 and 2005, and to experience 9 percent more precipitation—but lose 40 percent of the average snowpack. That means more rain, and more floods."
+      },
+      {
+        "passage_number": 3,
+        "text": "Scientists make these projections using climate models. The models are based on physics: For example, warmer air can hold more moisture than cooler air. This is one reason why, as climate change ratchets up temperatures, storms are becoming more extreme."
+      },
+      {
+        "passage_number": 4,
+        "text": "Researchers can use information about the past—paleoclimate data—to test how well the models are working. This gives them more confidence in their projections: They can plug certain conditions into the models—like how much of the earth was covered by glaciers or ice sheets, the sea level, the amount of CO2 in the atmosphere—and then see whether the models return temperature and rainfall patterns that match what actually happened."
+      },
+      {
+        "passage_number": 5,
+        "text": "“We’re pinning our faith on these models to deliver accurate projections,” Kim Cobb, a climate scientist and the director of Brown University’s Institute at Brown for Environment and Society, said. “And this is one of the most important ways we have of understanding their limitations and their strengths.”"
+      },
+      {
+        "passage_number": 6,
+        "text": "This testing, however, requires knowledge of what happened in the past. There are two kinds of historical data: instrumental data and proxy data. Instrumental data comes from direct measurements made with a thermometer, a rain gauge, or another instrument. But the era of direct measurements is just a tiny blip in Earth’s 4.5-billion-year history. Oster and her colleagues are particularly interested in the Last Interglacial Period, about 129,000 to 116,000 years ago. Back then, the planet may have been slightly warmer than it is today, similar to the low end of the temperature range predicted for the end of this century."
+      },
+      {
+        "passage_number": 7,
+        "text": "The Last Interglacial Period could make it a good analogue for the coming decades. It also highlights what Cobb called the most important reason to study paleoclimate records: They can reveal the extraordinary nature of human-caused changes to Earth’s climate. The knowledge that global temperatures have not been this high in at least 125,000 years is powerful. “Being able to deliver numbers like that . . . put into full, unfortunately jaw-dropping, context exactly what we’re doing right now,” Cobb told me."
+      },
+      {
+        "passage_number": 8,
+        "text": "To understand that context, or as much of it as possible, scientists must employ proxy measurements, like those made from tree rings. But wood rots; even the oldest tree ring data in the Northern Hemisphere goes back only about fourteen thousand years, and it’s more commonly used to understand just the last thousand or so years. But other archives last longer: ocean and lake sediments, for example, and cave formations."
+      },
+      {
+        "passage_number": 9,
+        "text": "For paleoclimate records to be useful, scientists need to know the age of whatever they’re analyzing. And speleothems can be precisely dated, said Kathleen Johnson, a geochemist and paleoclimatologist at the University of California, Irvine, and a member of the Grand Traverse Band of Ottawa and Chippewa Indians. The dating method most scientists use, called uranium-thorium dating, is accurate for about the last half a million years, so that’s how far back speleothem records typically go—if researchers can find the right ones."
+      },
+      {
+        "passage_number": 10,
+        "text": "The trouble is that it’s impossible to distinguish, from the outside, a 3,000-year-old speleothem from a 300,000-year-old speleothem. Researchers have to crack them open and analyze them to find out. Still, there are some helpful signs: Stalagmites tend to generate a more useful record than stalactites, for example, because they grow in a more straightforward pattern. And a candlestick shape is a good indication of a slow and steady drip rate over time, which makes for a better analysis."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The beauty of Yellowstone National Park",
+          "B": "The impact of flooding near Yellowstone",
+          "C": "The history of the Yellowstone River",
+          "D": "The role of the National Park Service"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the impact of flooding near Yellowstone, making B the correct answer.",
+        "score_improvement_tip": "Focus on the central theme of the passage and avoid being distracted by minor details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in line 2, 'intensifying' most likely means:",
+        "options": {
+          "A": "Reducing",
+          "B": "Stabilizing",
+          "C": "Increasing in severity",
+          "D": "Changing unpredictably"
+        },
+        "answer": "C",
+        "explanation": "The word 'intensifying' refers to the increasing severity of weather due to climate change, making C the correct answer.",
+        "score_improvement_tip": "Look for contextual clues that explain the meaning of specific words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about climate models?",
+        "options": {
+          "A": "They are based on historical data only",
+          "B": "They rely on physical principles",
+          "C": "They are primarily used to predict earthquakes",
+          "D": "They are not affected by temperature changes"
+        },
+        "answer": "B",
+        "explanation": "The passage states that climate models are based on physics, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to the author's stated principles or foundations."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the process of creating climate models",
+          "B": "To explain how paleoclimate data is used to test models",
+          "C": "To argue for the importance of historical data",
+          "D": "To compare different types of climate models"
+        },
+        "answer": "B",
+        "explanation": "The passage explains how paleoclimate data is used to test the accuracy of climate models, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main argument or purpose in the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best summarizes Kim Cobb’s view of climate models?",
+        "options": {
+          "A": "They are unreliable and should not be used",
+          "B": "They are essential for understanding climate change",
+          "C": "They are only useful for historical data",
+          "D": "They are too complex for practical use"
+        },
+        "answer": "B",
+        "explanation": "Kim Cobb emphasizes the importance of climate models for understanding climate change, making B the correct answer.",
+        "score_improvement_tip": "Summarize the main points of the passage to identify the best answer."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 6,
+        "question": "Which evidence from the passage supports the idea that instrumental data is limited?",
+        "options": {
+          "A": "The era of direct measurements is just a tiny blip in Earth’s history",
+          "B": "Paleoclimate data is more accurate than instrumental data",
+          "C": "Instrumental data is only used for recent climate studies",
+          "D": "Tree rings provide more reliable data than instruments"
+        },
+        "answer": "A",
+        "explanation": "The passage states that the era of direct measurements is a tiny blip in Earth’s history, making A the correct answer.",
+        "score_improvement_tip": "Look for specific statements that highlight limitations or constraints."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "How does the Last Interglacial Period help researchers understand future climate conditions?",
+        "options": {
+          "A": "It provides a direct comparison to current temperatures",
+          "B": "It shows the impact of human activity on climate",
+          "C": "It serves as an analogue for future warming",
+          "D": "It demonstrates the limitations of climate models"
+        },
+        "answer": "C",
+        "explanation": "The passage states that the Last Interglacial Period serves as an analogue for future warming, making C the correct answer.",
+        "score_improvement_tip": "Consider how historical data is used to predict future conditions."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about the use of tree rings in paleoclimate research?",
+        "options": {
+          "A": "They are the most reliable source of data",
+          "B": "They are limited by the decay of wood",
+          "C": "They are only useful for studying recent history",
+          "D": "They are less accurate than cave formations"
+        },
+        "answer": "B",
+        "explanation": "The passage mentions that wood rots, limiting the use of tree rings, making B the correct answer.",
+        "score_improvement_tip": "Look for statements that indicate limitations or challenges."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which choice best completes the sentence: 'For paleoclimate records to be useful, scientists need to know...'?",
+        "options": {
+          "A": "the age of whatever they’re analyzing",
+          "B": "the location of the samples",
+          "C": "the type of rock in the cave",
+          "D": "the temperature of the samples"
+        },
+        "answer": "A",
+        "explanation": "The passage states that scientists need to know the age of the samples, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to direct statements that explain the requirements for research."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the challenges of dating speleothems",
+          "B": "To argue for the use of stalactites over stalagmites",
+          "C": "To explain the process of analyzing cave formations",
+          "D": "To highlight the importance of candlestick-shaped speleothems"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the challenges of dating speleothems, making A the correct answer.",
+        "score_improvement_tip": "Identify the main focus of the passage, whether it is descriptive, explanatory, or analytical."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

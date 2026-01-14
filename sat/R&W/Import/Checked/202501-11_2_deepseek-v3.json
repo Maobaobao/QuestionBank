@@ -1,0 +1,215 @@
+{
+    "article_title": "How to Capitalize on Generative AI",
+    "article_author": "Andrew McAfee, Daniel Rock, and Erik Brynjolfsson",
+    "article_date": "November–December 2023",
+    "article_source": "Harvard Business Review",
+    "article_category": "Essay",
+    "article_tags": ["Artificial Intelligence", "Productivity", "Innovation", "Generative AI", "Technology Trends", "Digital Transformation"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Predictions of the kinds and numbers of jobs that will be replaced by generative AI abound. But it’s actually more helpful to think about the cognitive tasks that the technology could perform or help perform.<br><br>Research conducted by one of us (Daniel), OpenResearch’s Sam Manning, and OpenAI’s Tyna Eloundou and Pamela Mishkin took that approach. Their starting point was the ONET database, which has been maintained and updated by the U.S. government since 1998. ONET includes nearly 1,000 occupations and breaks each one down into its constituent tasks—typically 20 to 30 of them. For instance, according to O*NET, radiologists have 30 distinct tasks, including 'perform or interpret the outcomes of diagnostic imaging procedures' and 'develop treatment plans for radiology patients.'"
+      },
+      {
+        "passage_number": 2,
+        "text": "The researchers, with the assistance of people chosen by OpenAI, addressed two questions: Which tasks of each O*NET job could be done at least twice as fast with the help of generative AI with no significant drop in quality? And of those 'exposed' tasks, which needed at least one system in addition to generative AI to reap the productivity gains? The research team also asked OpenAI’s GPT-4 LLM the same two questions and compared its answers with those of the people. The answers were similar.<br><br>This effort revealed that 80% of U.S. workers have at least 10% of their tasks exposed to generative AI, and 19% of workers have more than half of their tasks exposed. But 'exposed' doesn’t mean that those tasks will or should be automated. In many cases the best use of generative AI will be to make human workers more productive or creative, not to replace them."
+      },
+      {
+        "passage_number": 3,
+        "text": "Programmers are a case in point. They already heavily use LLMs like GitHub Copilot to write the first draft of their code, but they still have to correct errors; consult with managerial, engineering, and technical personnel to clarify the program’s intent; train subordinates; and perform many other tasks that are unsuitable for generative AI. As LLMs get better at writing code, programmers will have more time and energy to devote to other tasks. (For more about how generative AI can help but not replace workers, see 'How Generative AI Can Augment Human Creativity,' HBR, July–August 2023.)<br><br>Leaders can undertake a version of this research approach to get a sense of where generative AI might be most productively applied in their organizations. Every board should expect its CEO to develop an actionable game plan. Doing so is a three-part process."
+      },
+      {
+        "passage_number": 4,
+        "text": "First, do a rough inventory of knowledge-work jobs: How many of your people primarily write for a living? How many data analysts, managers, programmers, customer service agents, and so on do you have?<br><br>Next, ask two questions about each role. The first is, 'How much would an employee in this role benefit from having a competent but naive assistant—someone who excels at programming, writing, preparing data, or summarizing information but knows nothing about our company?' Today’s publicly available LLMs are like such an assistant. They can write code, for example, but they don’t know what your software development or systems integration needs are. They can create a project plan or critique an existing one, but they don’t know what projects you’re working on."
+      },
+      {
+        "passage_number": 5,
+        "text": "The second question is, 'How much would an employee in this role benefit from having an experienced assistant—someone who’s been at the company long enough to absorb its specialized knowledge?' The software company described at the start of this article didn’t need naive customer-service agents; it needed agents who knew what kinds of problems occurred with its products and could work effectively with customers to solve them. That’s why it combined a customer-facing LLM with in-context learning. As this example indicates, when a company needs access to its specific internal knowledge, it must typically combine 'off the shelf' generative AI with another system.<br><br>Finally, once your company’s knowledge-work roles have been inventoried and those two questions have been answered, prioritize the most-promising generative-AI efforts. This task is straightforward: Choose the ones with the largest benefit-to-cost ratio."
+      },
+      {
+        "passage_number": 6,
+        "text": "At present most generative AI projects are focused on improving specific tasks. That’s appropriate, because so many opportunities exist to use the technology that way. But as it matures and companies gain experience with it, generative AI efforts will encompass entire business processes instead of individual tasks. For example, they’ll be used to transform every aspect of a company’s interaction with customers, not just to improve online troubleshooting chats. Generative AI is still a nascent technology, and we can’t predict exactly how it will be put to work in the years ahead. But we can confidently predict that it will have a large role in the digital strategies of successful companies."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the first passage?",
+        "options": {
+          "A": "The history of generative AI",
+          "B": "The replacement of jobs by AI",
+          "C": "The cognitive tasks generative AI can perform",
+          "D": "The development of the O*NET database"
+        },
+        "answer": "C",
+        "explanation": "The passage emphasizes thinking about the cognitive tasks generative AI can perform or assist with, making C the correct answer.",
+        "score_improvement_tip": "Focus on the main idea introduced early in the passage, as it often sets the tone for the rest of the text."
+      },
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "What evidence supports the claim that generative AI can enhance productivity?",
+        "options": {
+          "A": "80% of U.S. workers have at least 10% of their tasks exposed to generative AI.",
+          "B": "Generative AI can replace human workers entirely.",
+          "C": "GPT-4 LLM answered questions differently than humans.",
+          "D": "Radiologists have 30 distinct tasks."
+        },
+        "answer": "A",
+        "explanation": "The passage states that 80% of U.S. workers have tasks exposed to generative AI, suggesting potential productivity gains, making A the correct answer.",
+        "score_improvement_tip": "Look for specific data or statistics in the text that directly support the claim."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "As used in the passage, what does the term 'naive assistant' most likely mean?",
+        "options": {
+          "A": "An assistant with no specialized knowledge",
+          "B": "An assistant who is inexperienced and unreliable",
+          "C": "An assistant who is highly creative",
+          "D": "An assistant who replaces human workers"
+        },
+        "answer": "A",
+        "explanation": "The passage describes a 'naive assistant' as someone who excels at tasks like programming or writing but lacks company-specific knowledge, making A the correct answer.",
+        "score_improvement_tip": "Use context clues, such as descriptions or examples, to infer the meaning of unfamiliar terms."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What can be inferred about the role of generative AI in knowledge-work jobs?",
+        "options": {
+          "A": "It will replace all human workers.",
+          "B": "It is most useful for tasks requiring company-specific knowledge.",
+          "C": "It can assist with tasks but may not fully replace human roles.",
+          "D": "It is only effective for programming tasks."
+        },
+        "answer": "C",
+        "explanation": "The passage suggests that generative AI can assist with tasks but highlights the need for human oversight and company-specific knowledge, making C the correct answer.",
+        "score_improvement_tip": "Inference questions require connecting ideas in the text to draw a logical conclusion."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "What is the primary purpose of the fifth passage?",
+        "options": {
+          "A": "To criticize the use of generative AI",
+          "B": "To explain how to prioritize generative AI efforts",
+          "C": "To describe the history of AI development",
+          "D": "To compare different types of AI systems"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on prioritizing generative AI efforts based on benefit-to-cost ratios, making B the correct answer.",
+        "score_improvement_tip": "Identify the main focus of the passage, which often reveals its purpose."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Which choice best summarizes the researchers' conclusion about the future of generative AI?",
+        "options": {
+          "A": "Generative AI will replace all human workers.",
+          "B": "Generative AI will be limited to specific tasks.",
+          "C": "Generative AI will transform entire business processes.",
+          "D": "Generative AI will have no significant impact."
+        },
+        "answer": "C",
+        "explanation": "The passage concludes that generative AI will eventually encompass entire business processes, making C the correct answer.",
+        "score_improvement_tip": "Synthesis questions require combining multiple ideas from the text to identify the best summary."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the sixth passage relate to the second passage?",
+        "options": {
+          "A": "It contradicts the findings of the second passage.",
+          "B": "It provides additional evidence supporting the second passage.",
+          "C": "It introduces a new topic unrelated to the second passage.",
+          "D": "It criticizes the methodology of the second passage."
+        },
+        "answer": "B",
+        "explanation": "The sixth passage builds on the second by discussing how generative AI will evolve to transform entire business processes, supporting the earlier findings about its potential, making B the correct answer.",
+        "score_improvement_tip": "Look for connections between passages, such as supporting evidence or contrasting ideas."
+      },
+      {
+        "question_number": 8,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which choice best completes the sentence? 'Predictions of the kinds and numbers of jobs that will be replaced by generative AI _______.'",
+        "options": {
+          "A": "abound",
+          "B": "are rare",
+          "C": "are irrelevant",
+          "D": "are outdated"
+        },
+        "answer": "A",
+        "explanation": "The sentence is completed correctly with 'abound,' as it matches the context of the passage, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to the context and tone of the passage to choose the most appropriate word."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which transition word or phrase best fits at the beginning of the sentence? '_______, generative AI can assist with tasks but may not fully replace human roles.'",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "For example",
+          "D": "In conclusion"
+        },
+        "answer": "A",
+        "explanation": "The sentence contrasts the capabilities of generative AI with its limitations, making 'However' the correct transition.",
+        "score_improvement_tip": "Choose transitions that accurately reflect the relationship between ideas in the sentence."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Quantitative)",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Based on the data in the passage, what percentage of workers have more than half of their tasks exposed to generative AI?",
+        "options": {
+          "A": "10%",
+          "B": "19%",
+          "C": "80%",
+          "D": "57%"
+        },
+        "answer": "B",
+        "explanation": "The passage states that 19% of workers have more than half of their tasks exposed to generative AI, making B the correct answer.",
+        "score_improvement_tip": "For quantitative questions, locate the specific data point in the text and match it to the correct option."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can interpret complex texts, make nuanced inferences, and apply vocabulary in context with precision.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle connections or inferences."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and transitions.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as definitions or straightforward data points."
+    }
+  }

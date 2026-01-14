@@ -1,0 +1,223 @@
+{
+  "article_title": "We’re entering the age of the moving image",
+  "article_author": "Clive Thompson",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Technology and Media",
+  "article_tags": ["Video", "Media Evolution", "Cultural Shift", "Digital Communication", "Instructional Content"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The smartphone, the internet, and social networks like TikTok have rapidly and utterly transformed this situation. It’s now common, when someone wants to hurl an idea into the world, not to pull out a keyboard and type but to turn on a camera and talk. For many young people, video might be the prime way to express ideas.\n\nAs media thinkers like Marshall McLuhan have intoned, a new medium changes us. It changes the way we learn, the way we think—and what we think about. When mass printing emerged, it helped create a culture of news, mass literacy, and bureaucracy, and—some argue—the very idea of scientific evidence. So how will mass video shift our culture?"
+    },
+    {
+      "passage_number": 2,
+      "text": "For starters, I’d argue, it is helping us share knowledge that used to be damnably hard to capture in text. I’m a long-distance cyclist, for example, and if I need to fix my bike, I don’t bother reading a guide. I look for a video explainer. If you’re looking to express—or absorb—knowledge that’s visual, physical, or proprioceptive, the moving image nearly always wins. Athletes don’t read a textual description of what they did wrong in the last game; they watch the clips. Hence the wild popularity, on video platforms, of instructional video—makeup tutorials, cooking demonstrations. (Or even learn-to-code material: I learned Python by watching coders do it.)"
+    },
+    {
+      "passage_number": 3,
+      "text": "Video also is no longer about mere broadcast, but about conversation—it’s a way to respond to others, notes Raven Maragh-Lloyd, the author of Black Networked Resistance and a professor of film and media studies at Washington University. “We’re seeing a rise of audience participation,” she notes, including people doing “duets” on TikTok or response videos on YouTube. Everyday creators see video platforms as ways to talk back to power."
+    },
+    {
+      "passage_number": 4,
+      "text": "There’s also an increasingly sophisticated lexicon of visual styles. Today’s video creators riff on older film aesthetics to make their points. Brianna Wiens, an assistant professor of digital media and rhetoric at Waterloo University, says she admired how a neuroscientist used stop-motion video, a technique from the early days of film, to produce TikTok discussions of vaccines during the height of the covid-19 pandemic. Or consider the animated GIF, which channels the “zoetrope” of the 1800s, looping a short moment in time to examine over and over."
+    },
+    {
+      "passage_number": 5,
+      "text": "Indeed, as video becomes more woven into the vernacular of daily life, it’s both expanding and contracting in size. There are streams on Twitch where you can watch someone for hours—and viral videos where someone compresses an idea into mere seconds. Those latter ones have a particular rhetorical power because they’re so ingestible. “I was teaching a class called Digital Lives, and my students were like, If there’s a video over seven seconds, we’re not watching it,” Wiens says, laughing."
+    },
+    {
+      "passage_number": 6,
+      "text": "Are there dangers ahead as use of the moving image grows? Possibly. Maybe it will too powerfully reward people with the right visual and physical charisma. (Not necessarily a novel danger: Text and radio had their own versions.) More subtly, video is technologically still adolescent. It’s not yet easy to search, or to clip and paste and annotate and collate— to use video for quietly organizing our thoughts, the way we do with text. Until those tool sets emerge (and you can see that beginning), its power will be limited. Lastly, maybe the moving image will become so common and go-to that’ll kill off print culture."
+    },
+    {
+      "passage_number": 7,
+      "text": "Media scholars are not terribly stressed about this final danger. New forms of media rarely kill off older ones. Indeed, as the late priest and scholar Walter Ong pointed out, doing television and radio requires writing plenty of text— all those scripts. Today’s moving-media culture is possibly even more saturated with writing. Videos on Instagram and TikTok often include artfully arranged captions, “diegetic” text commenting on the action, or data visualizations. You read while you watch; write while you shoot. “We’re getting into all kinds of interesting hybrids and relationships,” notes Lev Manovich, a professor at the City University of New York. The tool sets for sculpting and editing video will undoubtedly improve too, perhaps using AI to help auto-edit, redact, summarize."
+    },
+    {
+      "passage_number": 8,
+      "text": "One firm, Reduct, already offers a clever trick: You alter a video by editing the transcript. Snip out a sentence, and it snips out the related visuals. Public defenders use it to parse and edit police videos. They’re often knee-deep in the stuff—the advent of body cameras worn by officers has produced an ocean of footage, as Reduct’s CEO, Robert Ochshorn, tells me.\n\nMeanwhile, generative AI will make it easier to create a film out of pure imagination. This means, of course, that we’ll see a new flood of visual misinformation. We’ll need to develop a sharper culture of finding the useful amid the garbage. It took print a couple of centuries to do that, as scholars of the book will tell you— centuries during which the printing press helped spark untold war and upheaval. We’ll be living through the same process with the moving image."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "Social networks have made typing obsolete.",
+        "B": "Video is becoming a primary mode of expression, potentially shifting culture like past media did.",
+        "C": "Marshall McLuhan predicted the rise of smartphones.",
+        "D": "Young people prefer keyboards over cameras."
+      },
+      "answer": "B",
+      "explanation": "The passage discusses how video is now a key way to share ideas and draws parallels to how printing changed culture, making B the central idea.",
+      "score_improvement_tip": "Focus on identifying the overall topic and supporting examples to distinguish the main idea from minor details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'proprioceptive' most nearly means",
+      "options": {
+        "A": "related to emotional responses.",
+        "B": "involving bodily awareness and movement.",
+        "C": "focused on auditory signals.",
+        "D": "centered on abstract concepts."
+      },
+      "answer": "B",
+      "explanation": "The term is used in the context of knowledge that is visual, physical, or involving body position and movement, as in bike repair or athletic performance.",
+      "score_improvement_tip": "Use surrounding words and examples to infer the meaning of unfamiliar vocabulary."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "The primary purpose of the passage is to",
+      "options": {
+        "A": "criticize traditional broadcasting methods.",
+        "B": "illustrate how video facilitates interactive communication and empowerment.",
+        "C": "promote specific video platforms like TikTok.",
+        "D": "describe the academic background of Raven Maragh-Lloyd."
+      },
+      "answer": "B",
+      "explanation": "The passage highlights video's shift from broadcast to conversation, with examples of participation and responding to power.",
+      "score_improvement_tip": "Examine how the author uses quotes and examples to determine the intent behind the text."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which quotation from the passage best supports the idea that modern video creators draw from historical techniques?",
+      "options": {
+        "A": "'an increasingly sophisticated lexicon of visual styles'",
+        "B": "'riff on older film aesthetics to make their points'",
+        "C": "'produce TikTok discussions of vaccines'",
+        "D": "'looping a short moment in time'"
+      },
+      "answer": "B",
+      "explanation": "This quotation directly indicates creators are referencing and adapting past film styles.",
+      "score_improvement_tip": "Select evidence that precisely matches the stated idea without overgeneralizing."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "However,",
+        "B": "Indeed,",
+        "C": "Therefore,",
+        "D": "In contrast,"
+      },
+      "answer": "B",
+      "explanation": "The word 'Indeed' logically reinforces the idea of video's integration into daily life by providing examples of its varying lengths.",
+      "score_improvement_tip": "Consider how the transition connects the previous idea to the new examples or elaboration."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the passage, the author would most likely agree with which one of the following statements about video's future limitations?",
+      "options": {
+        "A": "Video will remain superior to text in all organizational tasks.",
+        "B": "Current tools for manipulating video hinder its full potential for thoughtful use.",
+        "C": "Charisma in video is a unique danger not seen in other media.",
+        "D": "Print culture is already declining due to video's rise."
+      },
+      "answer": "B",
+      "explanation": "The passage infers that video's adolescent technology limits searching, clipping, and annotating, which are key for organizing thoughts like in text.",
+      "score_improvement_tip": "Draw logical conclusions from implied ideas, avoiding assumptions that contradict the text."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "While Passage 6 expresses concern about video potentially killing print culture, Passage 7 primarily serves to",
+      "options": {
+        "A": "dismiss that concern by emphasizing media coexistence and hybrids.",
+        "B": "amplify the danger by citing historical examples of media decline.",
+        "C": "shift focus to unrelated technological improvements.",
+        "D": "critique scholars like Walter Ong for outdated views."
+      },
+      "answer": "A",
+      "explanation": "Passage 7 counters the worry by noting new media rarely eliminates old ones and highlights writing's persistence in video.",
+      "score_improvement_tip": "Compare how ideas evolve across related passages to identify contrasts or resolutions."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "The student wants to emphasize the dual impact of generative AI on video creation. Which choice most effectively uses relevant text from the passage to accomplish this goal?",
+      "options": {
+        "A": "Generative AI will ease film creation from imagination, leading to more visual misinformation and the need for better discernment.",
+        "B": "Reduct's tool allows editing via transcripts, which public defenders use for police videos.",
+        "C": "The printing press sparked war and upheaval over centuries.",
+        "D": "Body cameras have produced an ocean of footage."
+      },
+      "answer": "A",
+      "explanation": "This synthesizes the positive (easier creation) and negative (misinformation) aspects directly from the passage.",
+      "score_improvement_tip": "Integrate key details to balance multiple facets of an idea without introducing bias."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Which version of the underlined portion provides the most effective punctuation?",
+      "options": {
+        "A": "think, and",
+        "B": "think: and",
+        "C": "think—and",
+        "D": "think; and"
+      },
+      "answer": "C",
+      "explanation": "The em dash effectively sets off the emphatic addition 'and what we think about' for clarity and flow.",
+      "score_improvement_tip": "Evaluate punctuation for how it enhances readability and logical breaks in complex sentences."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "that’ll kill off print culture.",
+        "B": "that it’ll kill off print culture.",
+        "C": "that will kill off print culture.",
+        "D": "that’ll kills off print culture."
+      },
+      "answer": "B",
+      "explanation": "Adding 'it' provides the necessary subject for the clause, ensuring grammatical completeness.",
+      "score_improvement_tip": "Check for missing elements like subjects in clauses to maintain sentence integrity."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level exhibit exceptional command of advanced skills, including nuanced inferences, rhetorical analysis, and precise application of conventions in complex contexts.",
+    "700_level_performance": "Students at this level demonstrate solid understanding of core ideas and structures but may falter on subtle inferences or sophisticated synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge advanced inference, cross-text synthesis, and precise editing for rhetoric and conventions, requiring deep textual analysis.",
+    "medium_questions": "Medium questions focus on identifying purpose, evidence, and logical transitions, building on comprehension to evaluate structure.",
+    "easy_questions": "Easy questions test basic identification of central ideas and word meanings through direct context."
+  }
+}

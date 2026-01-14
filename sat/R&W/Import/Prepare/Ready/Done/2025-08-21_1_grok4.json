@@ -1,0 +1,215 @@
+{
+    "article_title": "Taking telehealth to the next level",
+    "article_author": "Isabel Ruehl",
+    "article_date": "March-April 2025",
+    "article_source": "MIT Technology Review",
+    "article_category": "Essay",
+    "article_tags": ["Telehealth", "Medical Licensing", "Healthcare Policy", "Pandemic Impact"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Maggie Barnidge, 18, has been managing cystic fibrosis her whole life. But not long after she moved out of her home state to start college, she came down with pneumonia and went into liver failure. She desperately wanted to get in touch with her doctor back home, whom she’d been seeing since she was diagnosed as an infant and who knew which treatments worked best for her- but he wasn’t allowed to practice telemedicine across state lines. The local hospital, and doctors unfamiliar with her complicated medical history, would have to do.<br><br>“A lot of what Maggie needed wasn’t a physical exam,” says Barnidge’s mother, Elizabeth. “It was a conversation: What tests should I be getting next? What did my labs look like? She just needed her doctor who knew her well.”"
+      },
+      {
+        "passage_number": 2,
+        "text": "But doctors are generally allowed to practice medicine only where they have a license. This means they cannot treat patients across state lines unless they also have a license in the patient’s state, and most physicians have one or two licenses at most. This has led to what Ateev Mehrotra, a physician and professor of health policy at the Brown University School of Public Health, calls an “inane” norm: A woman with a rare cancer boarding an airplane, at the risk of her chemotherapy-weakened immune system, to see a specialist thousands of miles away, for example, or a baby with a rare disease who’s repeatedly shuttled between Arizona and Massachusetts."
+      },
+      {
+        "passage_number": 3,
+        "text": "While eligible physicians can currently apply to practice in states besides their own, this can be a burdensome and impractical process. For instance, let’s say you are an oncologist in Minnesota, and a patient from Kansas arrives at your office seeking treatment. The patient will probably want to do follow-up appointments via telehealth when possible, to avoid having to travel back to Minnesota. But if you are not yet licensed to practice in Kansas and you probably are not, you can’t suddenly start practicing medicine there. You would first need to apply to do so, either through the Interstate Medical Licensure Compact designed to streamline the process of obtaining a full license in another state, but at a price of $700 per year or with Kansas’s board of medicine directly."
+      },
+      {
+        "passage_number": 4,
+        "text": "Maybe this poses too great an administrative hurdle for you-you work long hours, and how will you find time to compile the necessary paperwork? Doctors can’t reasonably be expected to apply for licensure in all 50 states. The patient, then, either loses out on doctor’s visit. The only way to access telehealth, if that’s what the patient prefers, would be to cross into the state and log in-an option that might still be preferable to traveling all the way to the doctor’s office. These obstacles to care have led to a growing belief among health-care providers, policymakers, and patients that under certain circumstances, doctors should be able to treat their patients anywhere."
+      },
+      {
+        "passage_number": 5,
+        "text": "Lately, telehealth has proved to be widely popular, too. The coronavirus emergency in 2020 served as proof of concept, demonstrating that new digital platforms for medicine were feasible-and often highly effective. One study showed that telehealth accounted for nearly a quarter of contacts between patients and providers during the first four months of the pandemic up from 0.3% during the same period in 2019, and among Medicare users, nearly half had used telehealth in 2020-a 63-fold increase. This swift and dramatic shift came about because Congress and the Centers for Medicare and Medicaid Services had passed legislation to make more telehealth visits temporarily eligible for reimbursement the payments a health-care provider receives from an insurance company for providing medical services, while state boards of medicine relaxed the licensing restrictions. Now,more providers were able to offer telehealth, and more patients were eager to receive medical care without leaving their homes."
+      },
+      {
+        "passage_number": 6,
+        "text": "Though in-person care remains standard, telehealth has gained a significant place in US medicine, increasing from 0.1% of total Medicare visits in 2019 to 5.3% in 2020 and 3.5% in 2021. By the end of 2023, more than one in 10 Medicare patients were still using telehealth. And in some specialties the rate is much higher: 37% of all mental-health visits in the third quarter of 2023 were telemedicine, as well as 10% of obstetric appointments, 10% of transplant appointments, and 11% of infectious-disease appointments."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main reason Maggie Barnidge faced challenges in accessing her preferred doctor?",
+        "options": {
+          "A": "Her doctor was unavailable due to scheduling conflicts",
+          "B": "She lacked access to reliable internet for telemedicine",
+          "C": "State licensing laws prevented cross-state telemedicine",
+          "D": "Local doctors refused to consult with her home doctor"
+        },
+        "answer": "C",
+        "explanation": "The text explicitly states that Maggie's doctor 'wasn’t allowed to practice telemedicine across state lines,' highlighting the licensing restriction as the core issue.",
+        "score_improvement_tip": "Focus on identifying explicit details that directly answer the question to build confidence in basic comprehension."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 2,
+        "question": "As used in the text, 'inane' most nearly means",
+        "options": {
+          "A": "innovative",
+          "B": "absurd",
+          "C": "necessary",
+          "D": "traditional"
+        },
+        "answer": "B",
+        "explanation": "The term 'inane' is used to describe the norm of patients traveling long distances for care, implying it is senseless or absurd given telehealth alternatives.",
+        "score_improvement_tip": "Use surrounding context to determine word meanings, especially when the word critiques a situation."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which choice best states the function of the example about the oncologist in Minnesota?",
+        "options": {
+          "A": "To illustrate the financial benefits of the Interstate Medical Licensure Compact",
+          "B": "To demonstrate the simplicity of obtaining additional state licenses",
+          "C": "To highlight the impracticality of the current licensing application process",
+          "D": "To argue that all doctors should apply for licenses in multiple states"
+        },
+        "answer": "C",
+        "explanation": "The example details the steps and burdens involved in applying for a license in another state, emphasizing why the process is 'burdensome and impractical.'",
+        "score_improvement_tip": "Examine how examples support the author's argument to strengthen evidence evaluation skills."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "The main purpose of the text is to",
+        "options": {
+          "A": "criticize the government's response to the pandemic",
+          "B": "provide evidence for the effectiveness and growth of telehealth",
+          "C": "detail the technical specifications of telehealth platforms",
+          "D": "compare telehealth usage across different countries"
+        },
+        "answer": "B",
+        "explanation": "The text discusses the popularity, feasibility, and dramatic increase in telehealth during and after the pandemic, using studies and statistics as evidence.",
+        "score_improvement_tip": "Identify the overall intent of the passage by noting recurring themes and supporting data."
+      },
+      {
+        "question_number": 5,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "The patient, then, either loses out on doctor’s visit. Which choice completes the text so that it conforms to the conventions of Standard English?",
+        "options": {
+          "A": "doctor’s visit",
+          "B": "doctors visit",
+          "C": "doctor’s visits",
+          "D": "a doctor’s visit"
+        },
+        "answer": "D",
+        "explanation": "The sentence requires an article 'a' before 'doctor’s visit' to make it grammatically complete and idiomatic in Standard English.",
+        "score_improvement_tip": "Check for missing articles or possessives in sentences to ensure proper noun usage."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "Based on the text, it can reasonably be inferred that Elizabeth Barnidge believes effective care for her daughter primarily requires",
+        "options": {
+          "A": "advanced diagnostic equipment available only in hospitals",
+          "B": "familiarity with the patient's history over physical examinations",
+          "C": "multiple consultations with various specialists",
+          "D": "immediate in-person interventions during emergencies"
+        },
+        "answer": "B",
+        "explanation": "Elizabeth emphasizes that Maggie needed 'a conversation' and her doctor 'who knew her well,' implying that knowledge of history is key, not necessarily physical exams.",
+        "score_improvement_tip": "Draw inferences by connecting implied ideas, such as prioritizing expertise over physical presence."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "The examples in the text most strongly suggest that the 'inane' norm disproportionately affects patients with",
+        "options": {
+          "A": "common illnesses treatable by general practitioners",
+          "B": "conditions requiring frequent but non-urgent monitoring",
+          "C": "acute injuries needing immediate local care",
+          "D": "diseases that can be fully managed through self-care"
+        },
+        "answer": "B",
+        "explanation": "The examples involve rare cancers and diseases necessitating specialist care and travel, implying burdens for complex, ongoing conditions that could benefit from remote follow-ups.",
+        "score_improvement_tip": "Analyze how examples connect to broader implications to handle complex cross-idea synthesis."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "While researching telehealth adoption, a student claims that certain medical fields have integrated telehealth more extensively than others. Which choice most effectively uses data from the text to illustrate the claim?",
+        "options": {
+          "A": "Mental-health visits at 37%, compared to overall Medicare telehealth at over 10%",
+          "B": "Obstetric appointments at 10%, similar to transplant at 10%",
+          "C": "Total Medicare visits rising from 0.1% in 2019 to 3.5% in 2021",
+          "D": "Infectious-disease appointments at 11%, slightly above the average"
+        },
+        "answer": "A",
+        "explanation": "The 37% for mental health contrasts sharply with the general rate, effectively showing variation across fields.",
+        "score_improvement_tip": "Select data that highlights contrasts to strengthen claims in synthesis questions."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Suppose data showed that telehealth usage dropped back to 0.3% post-2020. This finding would most directly weaken the text's implication that",
+        "options": {
+          "A": "legislative changes enabled the initial surge in telehealth",
+          "B": "telehealth proved feasible and effective during emergencies",
+          "C": "relaxed restrictions led to sustained popularity of telehealth",
+          "D": "patients preferred home-based care during the pandemic"
+        },
+        "answer": "C",
+        "explanation": "The text implies lasting integration due to relaxed rules and popularity, but a drop would suggest the changes did not sustain usage.",
+        "score_improvement_tip": "Evaluate how hypothetical data challenges implied causal relationships for advanced evidence analysis."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "But if you are not yet licensed to practice in Kansas and you probably are not, you can’t suddenly start practicing medicine there. ________ Which choice completes the text with the most logical transition?",
+        "options": {
+          "A": "In other words,",
+          "B": "Nevertheless,",
+          "C": "For example,",
+          "D": "Consequently,"
+        },
+        "answer": "D",
+        "explanation": "The transition connects the lack of license to the inability to practice, indicating a result or outcome.",
+        "score_improvement_tip": "Choose transitions that reflect logical flow, such as cause-effect, to enhance rhetorical effectiveness."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students at this level exhibit exceptional mastery, excelling in advanced inferences, rhetorical analysis, and synthesizing evidence across complex ideas while accurately applying conventions.",
+      "700_level_performance": "Students at this level demonstrate solid comprehension and analytical skills but may falter on nuanced inferences, cross-connections, and precise rhetorical synthesis in harder questions."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions challenge advanced reasoning, including inferences from implied ideas, synthesizing data for claims, and evaluating hypothetical evidence or transitions in complex contexts.",
+      "medium_questions": "Medium questions test comprehension of purpose, evidence function, and basic conventions, requiring contextual understanding and detail identification.",
+      "easy_questions": "Easy questions assess fundamental skills like locating central details and determining straightforward word meanings in context."
+    }
+  }

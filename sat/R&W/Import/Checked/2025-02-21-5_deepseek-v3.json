@@ -1,0 +1,231 @@
+{
+    "article_title": "The Provincetown Breakthrough",
+    "article_author": "Maryn McKenna",
+    "article_date": "2023",
+    "article_source": "Essay",
+    "article_category": "Health and Science",
+    "article_tags": ["COVID-19", "Public Health", "Community Response"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Holihan and his partner reached their home in Washington, DC, and found some rapid tests tucked under their doormat—a gift from the friend who had texted his positive result. They both took them right away. Holihan’s test popped positive immediately. They masked up and maneuvered awkwardly around their apartment, trying to figure out where they could separately eat and sleep. The next morning, feverish and sweating, Holihan walked to a pop-up clinic for a PCR test, then went home to isolate."
+      },
+      {
+        "passage_number": 2,
+        "text": "The next day, Monday, he emailed his office—he is the state legislative director for a gun-violence-prevention organization—to say he wouldn’t be in. He was already feeling better, but when his test result arrived, it was positive. Of course. “At that point I started texting everyone I’d come in contact with over the week,” he says. Realizing how many people visit Provincetown from across the country, he posted about being infected on Twitter and Instagram too. DMs flowed back, from people who thought they’d picked up some summer crud as they traveled. “They thought they were fine,” he says. “Then they tested themselves, and it turned out they also had COVID.”"
+      },
+      {
+        "passage_number": 3,
+        "text": "One of the people Holihan texted was Donnelly. This might seem odd, because Donnelly isn’t an epidemiologist. He is a policy geek who has done macroeconomic forecasting at the Federal Reserve Board and data analysis at Spotify and Facebook. But since early 2020, Donnelly had also been applying his skills to forecasting what COVID might do in the US, a way of making sense for himself of the data flowing from other countries and explaining to others why they ought to be more worried than they were. “Essentially, I wanted to convince my friends it was bad,” he says."
+      },
+      {
+        "passage_number": 4,
+        "text": "Donnelly’s analyses, which he initially published on Medium, had been solid. He had foreseen that federal action would be needed two days before President Donald Trump declared a national emergency. He had warned that New York City would have to shut down six days before Governor Andrew Cuomo announced that the whole state would be put “on pause.” That prediction led to a consulting gig with New York state (forecasting possible case counts, bed needs, and ventilator orders) and then to founding a site called CovidOutlook.info, a home for reports and predictions that he spun up with Michael LeVasseur, an epidemiologist at Drexel University."
+      },
+      {
+        "passage_number": 5,
+        "text": "So by the time the Delta variant began creeping through Provincetown, Donnelly was an informal but thoroughly informed expert in what COVID was doing in the US. “I had been tracking variants over the previous six months and, broadly, thought concerns about them were overblown,” he says. When his friends started testing positive, he was surprised and nettled. He didn’t like being wrong."
+      },
+      {
+        "passage_number": 6,
+        "text": "Rumors about people testing positive were zipping through group chats: most of this house, everyone in that cottage; the Pennsylvania group, the California group, that couple from DC; ten people positive, or fifteen, or twenty-five. Text by text, Donnelly began verifying the stories, asking people about the symptoms they had and the tests they had taken, when they were vaccinated and which shot they got, and all the details of their visits to Provincetown—where they stayed, who they hung out with, which bars and restaurants and shows they went to. He started collecting information on Saturday afternoon, and by Monday he had more than fifty names in a spreadsheet."
+      },
+      {
+        "passage_number": 7,
+        "text": "The list represented a shocking number of breakthrough infections for a young, healthy, affluent population, a group that should have been at the lowest risk. Donnelly felt an itch to do a study, but LeVasseur persuaded him to turn the project over to a bigger institution than their team of two. Donnelly got in touch with Demetre Daskalakis, the former head of the infectious disease programs in New York City’s health department, who was now at the CDC. On Monday night, Donnelly texted, offering the spreadsheet. Daskalakis asked for it immediately."
+      },
+      {
+        "passage_number": 8,
+        "text": "Within twenty-four hours, Daskalakis set up calls between Donnelly, the CDC, and the Massachusetts health department. By the end of the week, the agencies had created a task force, set up a phone number and an email for people to self-report, reached out to other states that visitors had gone home to, and gotten mobile testing units rolling toward Provincetown. “It’s the most accelerated response I’ve ever seen in public health,” Daskalakis says. “And Michael pretty much started that outbreak investigation himself.”"
+      },
+      {
+        "passage_number": 9,
+        "text": "This ought to be obvious, but to make it clear: Everyone Donnelly interviewed, those who visited Provincetown and came away with a COVID infection, is gay. That was why they were in that place in one of its biggest tourist weeks of the year. But people don’t go to Provincetown just to party—they go for community. “Even if you live in LGBT-friendly neighborhoods, you’re still a minority,” says Rob Anderson, a former journalist who moved to the town a decade ago and owns a Commercial Street restaurant called The Canteen with his partner. “Even in New York, you can be walking down the street and get called a fag. When you come to Provincetown, you just get to be yourself. You feel normal, for the first time in your life.”"
+      },
+      {
+        "passage_number": 10,
+        "text": "The physical setting helps with that. Provincetown is remote—it lies at the dead end of miles of two-lane highway—and pretty in an unthreatening way, made up of low, shingled buildings surrounded by tidal marshes and soft ocean light. But its social norms help too. It is a place that takes openness to sex and gender expression as a basic social contract. That openness might show up as a guy wearing heels and fairy wings to the corner store, or a mom bringing her kids cross-country to the beach because every child there will have queer parents—or the town collectively accepting that tens of thousands of smooching, shouting people will flood the streets and clubs for the themed holidays that segment the summer: Memorial Day for young lesbians, July Fourth for gym guys, Bear Week right afterward for big, hairy men, special weeks for Black queer men and women, a raucous costumed Carnival to close out the summer."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "Holihan’s reaction to testing positive for COVID",
+          "B": "The process of rapid testing for COVID",
+          "C": "The challenges of isolating at home",
+          "D": "The importance of PCR tests"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on Holihan’s experience after testing positive for COVID, making A the correct answer.",
+        "score_improvement_tip": "Focus on the central subject of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, the phrase 'summer crud' most nearly means:",
+        "options": {
+          "A": "A minor illness",
+          "B": "Seasonal allergies",
+          "C": "A serious infection",
+          "D": "Heat exhaustion"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'summer crud' refers to a minor illness, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about Donnelly’s motivation for studying COVID?",
+        "options": {
+          "A": "He wanted to gain recognition as an epidemiologist",
+          "B": "He aimed to convince others of the severity of the pandemic",
+          "C": "He sought to secure a job at the Federal Reserve",
+          "D": "He was interested in developing new data analysis tools"
+        },
+        "answer": "B",
+        "explanation": "Donnelly’s motivation was to convince others of the severity of COVID, making B the correct answer.",
+        "score_improvement_tip": "Look for evidence in the text that supports the inference."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which choice provides the best evidence for Donnelly’s expertise in COVID forecasting?",
+        "options": {
+          "A": "He had foreseen that federal action would be needed two days before President Donald Trump declared a national emergency",
+          "B": "He had warned that New York City would have to shut down six days before Governor Andrew Cuomo announced that the whole state would be put 'on pause'",
+          "C": "That prediction led to a consulting gig with New York state",
+          "D": "He spun up a site called CovidOutlook.info with Michael LeVasseur"
+        },
+        "answer": "B",
+        "explanation": "Donnelly’s accurate prediction about New York City shutting down directly supports his expertise, making B the correct answer.",
+        "score_improvement_tip": "Identify specific evidence in the text that directly supports the claim."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "The author includes Donnelly’s reaction to being wrong primarily to:",
+        "options": {
+          "A": "Highlight his humility",
+          "B": "Show his commitment to accuracy",
+          "C": "Criticize his overconfidence",
+          "D": "Emphasize the unpredictability of COVID"
+        },
+        "answer": "B",
+        "explanation": "Donnelly’s reaction demonstrates his commitment to accuracy, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to the author's purpose in including specific details."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Based on the passage, what can be inferred about the spread of COVID in Provincetown?",
+        "options": {
+          "A": "It was limited to a small group of people",
+          "B": "It was facilitated by close social interactions",
+          "C": "It was primarily spread through contaminated food",
+          "D": "It was detected early due to rapid testing"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that close social interactions facilitated the spread of COVID, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inference."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "Which choice best describes Donnelly’s role in the Provincetown outbreak investigation?",
+        "options": {
+          "A": "He initiated the investigation by collecting data",
+          "B": "He conducted the official CDC investigation",
+          "C": "He criticized the CDC’s response to the outbreak",
+          "D": "He developed a new testing method for COVID"
+        },
+        "answer": "A",
+        "explanation": "Donnelly initiated the investigation by collecting data, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to evaluate the author’s role."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Which choice provides the best evidence for the rapid response to the Provincetown outbreak?",
+        "options": {
+          "A": "Within twenty-four hours, Daskalakis set up calls between Donnelly, the CDC, and the Massachusetts health department",
+          "B": "By the end of the week, the agencies had created a task force",
+          "C": "They set up a phone number and an email for people to self-report",
+          "D": "They reached out to other states that visitors had gone home to"
+        },
+        "answer": "A",
+        "explanation": "The immediate setup of calls directly supports the rapid response, making A the correct answer.",
+        "score_improvement_tip": "Identify specific evidence that directly supports the claim."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "As used in the passage, the word 'minority' most nearly means:",
+        "options": {
+          "A": "A small group",
+          "B": "A dominant group",
+          "C": "A privileged group",
+          "D": "A marginalized group"
+        },
+        "answer": "D",
+        "explanation": "The word 'minority' refers to a marginalized group, making D the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of unfamiliar words."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Based on the passage, what can be inferred about Provincetown’s social norms?",
+        "options": {
+          "A": "They are restrictive and traditional",
+          "B": "They promote openness and acceptance",
+          "C": "They discourage community gatherings",
+          "D": "They prioritize economic growth over social values"
+        },
+        "answer": "B",
+        "explanation": "The passage highlights Provincetown’s openness and acceptance, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inference."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

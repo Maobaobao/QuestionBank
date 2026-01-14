@@ -1,0 +1,125 @@
+{
+    "article_title": "How to Capitalize on Generative AI",
+    "article_author": "Andrew McAfee, Daniel Rock, and Erik Brynjolfsson",
+    "article_date": "November–December 2023",
+    "article_source": "Harvard Business Review",
+    "article_category": "Essay",
+    "article_tags": ["Artificial Intelligence", "Productivity", "Innovation", "Generative AI", "Technology Trends", "Digital Transformation"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Predictions of the kinds and numbers of jobs that will be replaced by generative AI abound. But it’s actually more helpful to think about the cognitive tasks that the technology could perform or help perform.<br><br>Research conducted by one of us (Daniel), OpenResearch’s Sam Manning, and OpenAI’s Tyna Eloundou and Pamela Mishkin took that approach. Their starting point was the ONET database, which has been maintained and updated by the U.S. government since 1998. ONET includes nearly 1,000 occupations and breaks each one down into its constituent tasks—typically 20 to 30 of them. For instance, according to ONET, radiologists have 30 distinct tasks, including \u201cperform or interpret the outcomes of diagnostic imaging procedures\u201d and \u201cdevelop treatment plans for radiology patients.\u201d"
+      },
+      {
+        "passage_number": 2,
+        "text": "The researchers, with the assistance of people chosen by OpenAI, addressed two questions: Which tasks of each ONET job could be done at least twice as fast with the help of generative AI with no significant drop in quality? And of those \u201cexposed\u201d tasks, which needed at least one system in addition to generative AI to reap the productivity gains? The research team also asked OpenAI’s GPT-4 LLM the same two questions and compared its answers with those of the people. The answers were similar.<br><br>This effort revealed that 80% of U.S. workers have at least 10% of their tasks exposed to generative AI, and 19% of workers have more than half of their tasks exposed. But \u201cexposed\u201d doesn’t mean that those tasks will or should be automated. In many cases the best use of generative AI will be to make human workers more productive or creative, not to replace them."
+      },
+      {
+        "passage_number": 3,
+        "text": "Leaders can undertake a version of this research approach to get a sense of where generative AI might be most productively applied in their organizations. Every board should expect its CEO to develop an actionable game plan. Doing so is a three-part process.<br><br>First, do a rough inventory of knowledge-work jobs: How many of your people primarily write for a living? How many data analysts, managers, programmers, customer service agents, and so on do you have?<br><br>Next, ask two questions about each role. The first is, \u201cHow much would an employee in this role benefit from having a competent but naive assistant—someone who excels at programming, writing, preparing data, or summarizing information but knows nothing about our company?\u201d Today’s publicly available LLMs are like such an assistant. The second question is, \u201cHow much would an employee in this role benefit from having an experienced assistant—someone who’s been at the company long enough to absorb its specialized knowledge?\u201d"
+      },
+      {
+        "passage_number": 4,
+        "text": "Finally, once your company’s knowledge-work roles have been inventoried and those two questions have been answered, prioritize the most-promising generative-AI efforts. This task is straightforward: Choose the ones with the largest benefit-to-cost ratio. To estimate benefits, look at the total amount the company is spending on compensation for each role. The purpose is not to identify positions for elimination; rather, it’s to identify opportunities for big productivity improvements—where new digital assistants will be most valuable.<br><br>At present most generative AI projects are focused on improving specific tasks. That’s appropriate, because so many opportunities exist to use the technology that way. But as it matures and companies gain experience with it, generative AI efforts will encompass entire business processes instead of individual tasks. For example, they’ll be used to transform every aspect of a company’s interaction with customers, not just to improve online troubleshooting chats. Generative AI is still a nascent technology, and we can’t predict exactly how it will be put to work in the years ahead. But we can confidently predict that it will have a large role in the digital strategies of successful companies."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary focus of the research described in the article?",
+        "options": {
+          "A": "Identifying jobs at risk of being replaced by generative AI",
+          "B": "Understanding the cognitive tasks generative AI can support",
+          "C": "Developing new generative AI systems",
+          "D": "Replacing human workers with generative AI"
+        },
+        "answer": "B",
+        "explanation": "The research centers on understanding which cognitive tasks generative AI can perform or assist with, not just replacing jobs.",
+        "score_improvement_tip": "Focus on the main idea expressed in introductory passages to quickly identify the central focus of the text."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Purpose and Function",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "What is the purpose of mentioning radiologists’ tasks in the article?",
+        "options": {
+          "A": "To criticize outdated practices in medical fields",
+          "B": "To provide a concrete example of how tasks are analyzed",
+          "C": "To highlight tasks that generative AI has already automated",
+          "D": "To emphasize the complexity of healthcare jobs"
+        },
+        "answer": "B",
+        "explanation": "The tasks of radiologists are mentioned to exemplify the breakdown of jobs into tasks as part of the research methodology.",
+        "score_improvement_tip": "When encountering examples, identify how they connect to the author’s main argument."
+      },
+      {
+        "question_number": 3,
+        "domain": "Integration of Knowledge and Ideas",
+        "skill": "Analyzing Relationships",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Based on the research findings, why might it be more beneficial to use generative AI as an augmentation tool rather than for automation?",
+        "options": {
+          "A": "It allows companies to bypass high integration costs.",
+          "B": "It improves human creativity and productivity without sacrificing quality.",
+          "C": "It prevents errors that occur in fully automated systems.",
+          "D": "It eliminates the need for experienced human employees."
+        },
+        "answer": "B",
+        "explanation": "The research emphasizes that generative AI often increases productivity and creativity in human roles rather than directly replacing workers.",
+        "score_improvement_tip": "For complex questions, refer back to the stated conclusions of studies to evaluate their implications."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Which of the following statements from the text best supports the idea that generative AI won’t replace most jobs outright?",
+        "options": {
+          "A": "80% of U.S. workers have at least 10% of their tasks exposed to generative AI.",
+          "B": "Programmers will have more time and energy to devote to other tasks.",
+          "C": "Tasks that needed generative AI and an additional system were assessed separately.",
+          "D": "Generative AI can write code, but it doesn’t know what your software development needs are."
+        },
+        "answer": "B",
+        "explanation": "This statement illustrates how generative AI complements human work rather than replacing it entirely.",
+        "score_improvement_tip": "Focus on evidence in the passage that directly aligns with the key point of the question."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Application of Methodology",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "How does the proposed methodology help companies develop generative AI strategies?",
+        "options": {
+          "A": "By identifying redundant employee positions to cut costs.",
+          "B": "By categorizing roles for potential AI augmentation.",
+          "C": "By creating AI-driven alternatives for all tasks.",
+          "D": "By eliminating the role of human supervisors."
+        },
+        "answer": "B",
+        "explanation": "The methodology helps organizations break down job categories and prioritize their productive compatibility with generative AI.",
+        "score_improvement_tip": "Focus on the steps of proposed methodologies when answering questions about process applications."
+      }
+      
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students at this level excel in integrating evidence, analyzing relationships, and deciphering nuanced aspects of the text, including advanced vocabulary and inference.",
+      "700_level_performance": "Students at this level display strong comprehension and analytical abilities but may struggle with more complex relationships and implicit arguments."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions require advanced analysis of relationships and nuanced understanding of implied ideas.",
+      "medium_questions": "Medium questions focus on connecting ideas and understanding the purpose of examples and arguments.",
+      "easy_questions": "Easy questions assess the reader's grasp of central ideas and explicitly stated details."
+    }
+  }
+  
+  

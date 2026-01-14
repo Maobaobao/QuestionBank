@@ -1,0 +1,215 @@
+{
+  "article_title": "This designer looks for magic in everyday materials",
+  "article_author": "Anna Gibbs",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Technology",
+  "article_tags": ["3D Printing", "4D Printing", "Programmable Materials", "Self-Assembly", "Innovation"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The idea kicked off a multiyear collaboration between the industrial 3D-printing company behind the logo, called Stratasys, and Tibbits’s Self-Assembly Lab at the Massachusetts Institute of Technology. Together, they explored 3D-printed materials that, while they couldn’t walk off the machine, could change their shape or properties after being printed—a concept that Tibbits dubbed “4D printing,” where the fourth dimension is time. Today, 4D printing is its own field—the subject of a professional society and thousands of papers, with researchers around the world looking into potential applications from self-adjusting biomedical devices to soft robotics.\n\nThe concept of materials that transform— specifically, that “remember” their form after being deformed—had already been around for a couple of decades, says Thomas Gries, a mechanical engineer who was inspired by Tibbits’s innovations to conduct research on 4D textiles at RWTH Aachen University in Germany. “But to give it a name and bring it to a next stage of, let’s say, perception … this was definitely the main breakthrough by Skylar Tibbits,” he says."
+    },
+    {
+      "passage_number": 2,
+      "text": "Not long after 4D printing took off, Tibbits was already looking toward a new challenge: What other capabilities can we build into materials? And can we do that … without printing?\n\nTibbits still does a lot of printing in his Self-Assembly Lab, which he founded around 2011. It recently spun out a company, Rapid Liquid Print, that can print large, stretchable products like furniture or prosthetics inside a gel bath; Tibbits also invented a novel technique called liquid metal printing that makes furniture from molten aluminum in a matter of seconds. But his research extends far beyond printing into a world that he refers to as “programmable materials”—those that can transform, sense, reconfigure in shape or property, or self-assemble without relying on robotic mechanisms."
+    },
+    {
+      "passage_number": 3,
+      "text": "Tibbits’s interest in transforming materials stretches back to his bachelor’s degree in architecture at Philadelphia University in the 2000s. There he became “obsessively interested” in two emerging fields: digital fabrication (in which machines like 3D printers or laser cutters use code to physically make things) and the use of computation for design. He started working at a classmate’s father’s sign shop, which had an early computer numerically controlled machine. (The classmate, Jared Laucks, now co-directs the Self-Assembly Lab with Tibbits.) “We had unprecedented access to this early digital fabrication tool that our school didn’t even have at the time,” Tibbits recalls. Meanwhile, he was teaching himself to code so that he could design and fabricate things computationally."
+    },
+    {
+      "passage_number": 4,
+      "text": "By the time he arrived at MIT, where he earned separate master’s degrees in computer science and design computation, 3D printing had exploded in popularity. True to his nature, Tibbits was already looking to the next unknown. His start in architecture and a few stints at design firms continued to influence his curiosity: He had studied code for design and code for digital fabrication, but there was not yet a way to code for assembling parts into a whole.\n\n“Most things that are assembled are still either by hand or it’s like a robot in a factory,” he says. “There is no elegant process for building very complicated things.”"
+    },
+    {
+      "passage_number": 5,
+      "text": "He imagined a way to embed information into material parts so that they could build themselves. That led him to self-assembly, which refers to components that come together on their own. For example, an early project at the Self-Assembly Lab involved placing unique chair parts, each designed to fit into one precise location in a final structure, into a tank of turbulent water, which caused the parts to bump into each other and, after several hours, click into their proper spot to form a chair. Around the same time, he became interested in the idea of programmable materials, in which properties and geometry— like what a yarn is made of and how it’s woven together—can determine behavior."
+    },
+    {
+      "passage_number": 6,
+      "text": "Over the past decade, Tibbits’s team has worked on a long list of projects in many industries, from fashion to aerospace. He has helped make specially knitted spacesuits, developed an engine component for Airbus, and printed shoes for Converse. For BMW, he worked on printed car seats that can morph around a passenger’s body. For Google, he designed a structure for meeting spaces that can contract into the ceiling when not in use. With the National Science Foundation, he integrated dynamic braille into a textile sleeve. For Arc’teryx, he collaborated on a wearable textile prototype that he and the company’s senior design director, Greg Grenzke, tested out on a ski slope at Whistler Blackcomb in Canada. In all cases, Tibbits sees his team’s role as making the impossible possible. “That’s where we’re super, super good,” he says."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary focus of the collaboration between Stratasys and Tibbits’s lab?",
+      "options": {
+        "A": "Developing materials that change shape after printing",
+        "B": "Creating walking 3D-printed objects",
+        "C": "Establishing a professional society for 3D printing",
+        "D": "Exploring applications in soft robotics only"
+      },
+      "answer": "A",
+      "explanation": "The passage describes the collaboration as exploring 3D-printed materials that change shape or properties after being printed, which Tibbits called '4D printing.'",
+      "score_improvement_tip": "Identify the main subject by focusing on repeated key terms and actions in the passage."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "As used in the passage, 'obsessively interested' most nearly means",
+      "options": {
+        "A": "casually curious",
+        "B": "deeply engrossed",
+        "C": "reluctantly involved",
+        "D": "superficially aware"
+      },
+      "answer": "B",
+      "explanation": "The phrase describes Tibbits's strong engagement with emerging fields, leading him to self-teach and work in a sign shop.",
+      "score_improvement_tip": "Consider the surrounding context to determine how the word reflects the subject's level of engagement."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which detail from the passage best supports the idea that Tibbits's work extends beyond traditional printing?",
+      "options": {
+        "A": "Founding the Self-Assembly Lab in 2011",
+        "B": "Spinning out Rapid Liquid Print for stretchable products",
+        "C": "Inventing liquid metal printing for furniture",
+        "D": "Researching programmable materials that self-assemble without robotics"
+      },
+      "answer": "D",
+      "explanation": "The passage emphasizes programmable materials that transform or self-assemble without robotic mechanisms, showing a shift beyond printing.",
+      "score_improvement_tip": "Select evidence that directly illustrates the broader claim, rather than specific examples of printing techniques."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 6,
+      "question": "The list of projects in the passage primarily serves to",
+      "options": {
+        "A": "contrast Tibbits's early and later work",
+        "B": "illustrate the diversity of applications for his research",
+        "C": "critique the limitations of programmable materials",
+        "D": "detail the funding sources for his lab"
+      },
+      "answer": "B",
+      "explanation": "The projects span industries like fashion, aerospace, and automotive, demonstrating the wide-ranging impact of Tibbits's work.",
+      "score_improvement_tip": "Analyze how examples function within the passage to support the author's overall purpose."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The student wants to add a sentence after 'His start in architecture and a few stints at design firms continued to influence his curiosity.' Which of the following best maintains the passage's logical flow?",
+      "options": {
+        "A": "This background shaped his view on assembly processes.",
+        "B": "He later abandoned architecture entirely.",
+        "C": "Many architects use similar tools today.",
+        "D": "Design firms often hire MIT graduates."
+      },
+      "answer": "A",
+      "explanation": "The addition connects his background to his curiosity about coding for assembly, preserving the passage's focus on his evolving interests.",
+      "score_improvement_tip": "Ensure added content aligns with the surrounding ideas to maintain coherence."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the passage, it can reasonably be inferred that Thomas Gries views Tibbits's contribution to 4D printing as",
+      "options": {
+        "A": "an incremental improvement on existing concepts",
+        "B": "a complete reinvention of material science",
+        "C": "primarily valuable for its naming and increased visibility",
+        "D": "limited to academic rather than practical applications"
+      },
+      "answer": "C",
+      "explanation": "Gries notes that the concept existed but credits Tibbits with naming it and elevating its perception, indicating the breakthrough was in recognition.",
+      "score_improvement_tip": "Draw inferences by connecting expert opinions to the broader implications described."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "If Passage A discusses traditional assembly methods and Passage B (this passage) explores self-assembly, the relationship between the two would most likely emphasize that self-assembly",
+      "options": {
+        "A": "replaces human labor entirely in all contexts",
+        "B": "offers an alternative to inefficient robotic or manual processes",
+        "C": "requires more complex coding than digital fabrication",
+        "D": "is only applicable to furniture design"
+      },
+      "answer": "B",
+      "explanation": "The passage highlights self-assembly as a way for parts to build themselves, addressing the lack of elegant processes for complicated things.",
+      "score_improvement_tip": "Compare implied ideas across texts to identify how one advances or contrasts with the other."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "While researching programmable materials, a student takes the following notes: \n- Materials transform without robotics. \n- Include sensing and reconfiguration. \n- Extend beyond 4D printing. \nWhich choice most effectively uses relevant information from the notes to emphasize Tibbits's research direction?",
+      "options": {
+        "A": "Tibbits focuses on materials that sense but not those that reconfigure.",
+        "B": "Programmable materials represent a shift from printing to broader capabilities like transformation and self-assembly.",
+        "C": "4D printing remains the core of Tibbits's work despite new interests.",
+        "D": "Robotics are essential for programmable materials to function."
+      },
+      "answer": "B",
+      "explanation": "The choice synthesizes the notes to highlight the expansion from printing to non-robotic, transformative materials.",
+      "score_improvement_tip": "Synthesize notes to create a concise statement that captures the overarching theme."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Tibbits became interested in digital fabrication and computation. ________ he started working at a sign shop and taught himself to code.",
+      "options": {
+        "A": "Nevertheless,",
+        "B": "In contrast,",
+        "C": "Consequently,",
+        "D": "Otherwise,"
+      },
+      "answer": "C",
+      "explanation": "The transition shows the result of his interest, leading to practical actions like working and self-teaching.",
+      "score_improvement_tip": "Choose transitions that reflect cause-and-effect relationships in the sequence of events."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Over the past decade, Tibbits’s team has worked on a long list of projects in many industries from fashion to aerospace.",
+      "options": {
+        "A": "industries, from",
+        "B": "industries: from",
+        "C": "industries. From",
+        "D": "industries—from"
+      },
+      "answer": "A",
+      "explanation": "The comma correctly sets off the prepositional phrase specifying the industries without creating a fragment.",
+      "score_improvement_tip": "Use punctuation to clarify modifiers and avoid run-on sentences or fragments."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, synthesis, and analysis, accurately interpreting nuanced contexts and structures while applying conventions precisely.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on complex inferences, cross-connections, or subtle rhetorical choices."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences, cross-text synthesis, and precise application of transitions or conventions in complex sentences.",
+    "medium_questions": "Medium questions focus on textual evidence, structural purpose, and logical flow to build analytical skills.",
+    "easy_questions": "Easy questions test basic identification of central ideas and word meanings through direct contextual clues."
+  }
+}

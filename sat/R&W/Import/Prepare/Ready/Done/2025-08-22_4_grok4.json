@@ -1,0 +1,215 @@
+{
+  "article_title": "Animating ancient animals",
+  "article_author": "Shi En Kim",
+  "article_date": "March-April 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Robotics", "Paleontology", "Evolution", "Marine Animals", "Fossils"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "What if roboticists have no fossil reference? This was the conundrum faced by Michael Ishida’s team, who wanted to better understand how ancient marine animals first moved from sea to land nearly 400 million years ago and learned to walk.<br><br>Lacking transitional fossils, the researchers looked to modern ambulatory fishes. A whole variety of gaits are on display among these scaly strollers—the fourfinned crawl of the epaulette shark, the terrestrial butterfly stroke of a mudskipper. Like the converging roads in Rome, multiple ancient fishes had independently arrived at different ways of walking. Ishida’s group decided to focus on one particular gait: the half step, half slither of the bichir Polypterus senegalus."
+    },
+    {
+      "passage_number": 2,
+      "text": "Admittedly, the team’s “robofish” looks nothing like the still-extant bichir. The body consists of rigid segments instead of a soft, flexible polymer. It’s a drastically watered-down version, because the team is hunting for the minimum set of features and movements that might allow a fishlike creature to push forward with its appendages. “‘Minimum’ is a tricky word,” Ishida says. But robotic experiments can help rule out the physically implausible: “We can at least have some evidence to say, yes, with this particular bone structure, or with this particular joint morphology, a fish was probably able to walk on land.” Starting with the build of a modern fish, the team simplified the robot further and further until it could no longer sally forth. It was the equivalent of working backwards in the evolutionary timeline."
+    },
+    {
+      "passage_number": 3,
+      "text": "The team hopes to publish its results in a journal sometime soon. Even in the rush to finalize the manuscript, Ishida still recognizes how fortunate he is to be doing something that’s simultaneously futuristic and prehistoric. “It’s every kid’s dream to build robots and to study dinosaurs,” he says. Every day, he gets to do both."
+    },
+    {
+      "passage_number": 4,
+      "text": "Nearly 450 million years ago, an echinoderm with the build of an oversize sperm lumbered across the seafloor. The lineage of that creature, the pleurocystitid, has long since been snuffed out, but evidence of its existence lies frozen among numerous fossils. How it moved, though, is anyone’s guess, for no modern-day animal resembles this bulbous critter. Carmel Majidi, a mechanical engineer at Carnegie Mellon University, was already building robots in the likeness of starfish and other modern-day echinoderms. Then his team decided to apply the same skills to study their pleurocystitid predecessor to untangle the mystery of its movement."
+    },
+    {
+      "passage_number": 5,
+      "text": "Majidi’s team borrowed a trick from previous efforts to build soft robots. “The main challenge for us was to incorporate actuation in the organism,” he says. The stem, or tail, needed to be pliable yet go rigid on command, like actual muscle. Embedding premade motors, which are<br>usually made of stiff material, in the tail wouldn’t work. In the end, Majidi’s team fashioned the appendage out of shape-memory alloy, a kind of metal that deforms or keeps its shape, depending on the temperature. By delivering localized heating along the tail through electrical stimulation, the scientists could get it to bend and flick."
+    },
+    {
+      "passage_number": 6,
+      "text": "Both Majidi’s resulting Rhombot and computer simulations, published in 2023, showed that pleurocystitids likely beat their tails from side to side in a sweeping fashion to propel themselves forward, and their speeds depended on the tail stiffness and body angle. The team found that having a longer stem—up to two-thirds of a foot long—was advantageous, adding speed without incurring higher energy costs. Indeed, the fossil record confirms this evolutionary trend. In the future, the researchers plan to test out Rhombot on even more surface textures, such as muddy terrain."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What challenge did Michael Ishida’s team primarily face in studying the transition of ancient marine animals to land?",
+      "options": {
+        "A": "Finding modern fishes with similar gaits",
+        "B": "Lacking transitional fossils",
+        "C": "Building robots that resemble ancient animals",
+        "D": "Understanding the variety of gaits in ancient fishes"
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that the team lacked transitional fossils, leading them to study modern ambulatory fishes instead.",
+      "score_improvement_tip": "Identify the key problem presented at the beginning of the passage to pinpoint central ideas without overcomplicating details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "As used in the passage, 'rush' most nearly means",
+      "options": {
+        "A": "haste",
+        "B": "surge",
+        "C": "excitement",
+        "D": "charge"
+      },
+      "answer": "A",
+      "explanation": "In the context of finalizing the manuscript, 'rush' refers to the hurried effort to complete it, aligning with haste.",
+      "score_improvement_tip": "Consider the surrounding words to determine the most fitting synonym, focusing on the action described."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "The author's description of the team's simplification process most strongly suggests that",
+      "options": {
+        "A": "ancient fishes had more complex structures than modern ones",
+        "B": "the robot was designed to test evolutionary possibilities by reducing features",
+        "C": "rigid segments are superior to flexible polymers for locomotion",
+        "D": "minimum features are impossible to define precisely"
+      },
+      "answer": "B",
+      "explanation": "The team simplified the robot to find the minimum features needed for walking, equivalent to working backwards in evolution, implying a test of evolutionary viability.",
+      "score_improvement_tip": "Draw logical connections between described actions and their implied purposes to strengthen inference skills."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The primary purpose of the passage is to",
+      "options": {
+        "A": "compare modern echinoderms to their ancient predecessors",
+        "B": "introduce a mystery about an extinct creature and a method to solve it",
+        "C": "describe the physical appearance of pleurocystitids in detail",
+        "D": "argue that fossils are insufficient for understanding movement"
+      },
+      "answer": "B",
+      "explanation": "The passage sets up the unknown movement of the pleurocystitid and explains how Majidi's team uses robotics to investigate it.",
+      "score_improvement_tip": "Examine how the passage builds from problem to solution to identify its overall structure and intent."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?<br>Majidi’s team borrowed a trick from previous efforts to build soft robots. ________ “The main challenge for us was to incorporate actuation in the organism,” he says.",
+      "options": {
+        "A": "For instance,",
+        "B": "In contrast,",
+        "C": "Therefore,",
+        "D": "Moreover,"
+      },
+      "answer": "A",
+      "explanation": "The quote elaborates on the challenge addressed by the borrowed trick, making 'For instance' the logical connector for an example.",
+      "score_improvement_tip": "Choose transitions that reflect the relationship between ideas, such as exemplification when details follow a general statement."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Which finding from Majidi's team provides the strongest evidence supporting an evolutionary trend in pleurocystitids?",
+      "options": {
+        "A": "The dependence of speed on tail stiffness and body angle",
+        "B": "The advantage of a longer stem for speed without higher energy costs",
+        "C": "The side-to-side beating of tails for propulsion",
+        "D": "The plan to test Rhombot on muddy terrain"
+      },
+      "answer": "B",
+      "explanation": "The passage states that longer stems added speed without extra energy, and the fossil record confirms this trend, directly linking the finding to evolution.",
+      "score_improvement_tip": "Select evidence that explicitly connects experimental results to broader implications like evolutionary patterns."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Compared to the approach in Passage 4, the method in this passage primarily differs in its reliance on",
+      "options": {
+        "A": "modern analogs rather than fossil evidence",
+        "B": "computer simulations over physical robots",
+        "C": "ancient marine animals instead of echinoderms",
+        "D": "evolutionary timelines versus surface textures"
+      },
+      "answer": "A",
+      "explanation": "Passage 1 uses modern fishes due to lacking fossils, while Passage 4 uses fossils but applies robotics to an extinct creature without modern resemblance.",
+      "score_improvement_tip": "Analyze key methodological differences across passages to make precise comparisons."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "While researching a topic, a student has taken the following notes:<br>• The robofish is simplified with rigid segments.<br>• The goal is to find minimum features for land walking.<br>• Simplification rules out implausible structures.<br>• Process mimics reverse evolution.<br>Which choice most effectively uses relevant information from the notes to emphasize the purpose of the simplification?",
+      "options": {
+        "A": "By simplifying the robot until it fails, the team identifies essential features, akin to reversing evolution.",
+        "B": "The robofish uses rigid segments, which are simpler than flexible polymers.",
+        "C": "Robotic experiments focus on bone structure and joint morphology.",
+        "D": "The team starts with a modern fish build and reduces it step by step."
+      },
+      "answer": "A",
+      "explanation": "This choice synthesizes the notes to highlight the purpose of testing viability through simplification and reverse evolution.",
+      "score_improvement_tip": "Synthesize notes into a concise statement that captures the core rhetorical goal, avoiding mere listing."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>Embedding premade motors, which are<br>usually made of stiff material, in the tail wouldn’t work. In the end, Majidi’s team fashioned the appendage out of shape-memory alloy, a kind of metal ________ deforms or keeps its shape, depending on the temperature.",
+      "options": {
+        "A": "that",
+        "B": ", that",
+        "C": "; that",
+        "D": ": that"
+      },
+      "answer": "A",
+      "explanation": "The clause 'that deforms or keeps its shape' is a restrictive relative clause modifying 'metal,' requiring no comma before 'that' for proper boundary.",
+      "score_improvement_tip": "Ensure relative clauses are integrated without unnecessary punctuation when they provide essential information."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>Even in the rush to finalize the manuscript, Ishida still recognizes how fortunate he is to be doing something that’s simultaneously futuristic and prehistoric. “It’s every kid’s dream to build robots and to study dinosaurs,” he says. Every day, he ________ to do both.",
+      "options": {
+        "A": "gets",
+        "B": "got",
+        "C": "getting",
+        "D": "get"
+      },
+      "answer": "A",
+      "explanation": "The present tense 'gets' maintains consistency with the ongoing action described in the passage, ensuring logical sense and structure.",
+      "score_improvement_tip": "Maintain tense consistency across sentences to reflect ongoing or habitual actions accurately."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, cross-text synthesis, rhetorical analysis, and precise application of conventions, demonstrating nuanced understanding of complex scientific texts.",
+    "700_level_performance": "Students at this level handle comprehension and basic analysis well but may falter on subtle inferences, synthesis, or advanced structural evaluations in dense passages."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences requiring deep analysis, cross-passage connections, rhetorical synthesis, and precise conventions in complex sentences.",
+    "medium_questions": "Medium questions focus on identifying purposes, making logical transitions, and drawing straightforward inferences from detailed descriptions.",
+    "easy_questions": "Easy questions test basic identification of central challenges and word meanings directly stated or closely implied in the text."
+  }
+}

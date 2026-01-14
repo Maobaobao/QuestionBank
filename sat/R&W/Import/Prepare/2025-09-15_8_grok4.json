@@ -1,0 +1,215 @@
+{
+  "article_title": "Sustaining the Mountain Pass Mine in California",
+  "article_author": "Casey Crownhart",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Technology",
+  "article_tags": ["Energy Transition", "Peak Resources", "Metals", "Climate Change"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Before we get into our material future, it’s important to point out just how hard it’s always been to make accurate predictions of this kind. Just look at our continuous theorizing about the supply of fossil fuels. One version of the story, told frequently in economics classes, goes something like this: Given that there’s a limited supply of oil, at some point the world will run out of it. Before then, we should reach some maximum amount of oil extraction, and then production will start an irreversible decline. That high point is known as “peak oil.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "This idea has been traced back as far as the early 1900s, but one of the most famous analyses came from M. King Hubbert, who was a geologist at Shell. In a 1956 paper, Hubbert considered the total amount of oil (and other fossil fuels, like coal and natural gas) that geologists had identified on the planet. From the estimated supply and the amount the world had burned through, he predicted that oil production in the US would peak and begin declining between 1965 and 1970. The peak of world oil production, he predicted, would come a bit later, in 2000."
+    },
+    {
+      "passage_number": 3,
+      "text": "For a while, it looked as if Hubbert was right. US oil production increased until 1970, when it reached a dramatic peak. It then declined for decades afterward, until about 2010. But then advances in drilling and fracking techniques unlocked hardto- reach reserves. Oil production skyrocketed in the US through the 2010s, and as of 2023, the country was producing more oil than ever before. Peak-oil panic has long outlived Hubbert, but every time economists and geologists have predicted that we’ve reached, or are about to reach, the peak of oil production, they’ve missed the mark (so far).\n\nNow there’s a new reason we might see fossil-fuel production actually peak and eventually fall off: the energy transition. That’s shorthand for the grand effort to shift away from energy sources that produce greenhouse gases and toward renewables and other low-carbon options. Hubbert’s theory suggested that a fixed supply would force production to decline from a peak. But as the world wakes up to the dangers of climate change, and as low-carbon energy sources like wind, solar, and nuclear take off, we may wind up leaving some coal, oil, and natural gas in the ground. Simply put, production might head back down because of a lack of demand, not a lack of supply."
+    },
+    {
+      "passage_number": 4,
+      "text": "Those newly ascendant energy sources, though, are ironically a new source of “peak” panic. Solar panels, wind turbines, and batteries may not require fuel, but they do require a host of metals, including lithium, copper, steel, and rare earths like neodymium.\n\nIf we extract, process, use, and discard these metals, conceptually there must be some point in the future when we run out of them. And as the energy transition has gotten underway, plenty of forecasts have attempted to understand which metals we should worry about and when they might start to be depleted. But experts say that understanding the availability of resources in this sector is much more complicated than picking out a single future peak. “The peak modeling thing is something that doesn’t really apply to metals,” says Simon Jowitt, director of the Center for Research in Economic Geology at the University of Nevada, Reno. It’s nearly impossible to understand whether we’ve reached a peak in production for any given material, or even whether those peaks can be predicted, as Jowitt said in a 2020 paper."
+    },
+    {
+      "passage_number": 5,
+      "text": "Let’s take a closer look at neodymium. Reserves of the metal—the amount we know about that’s economically feasible to extract—have been estimated at 12.8 million tons. To keep the world from warming more than 1.5 °C over preindustrial levels, we might need as much as 121,000 tons every year just for wind turbines, according to a 2023 study on the material demands of the energy transition. Depending on how much material we assume makes it from the mine into final products, we could burn through those reserves in roughly a century. The problem with this thinking, though, is that reserves and resources are far from fixed. Geologists discover new deposits all the time, for one thing. And what was considered too expensive and difficult to mine a few decades ago might be possible to extract with today’s technology. So instead of being slowly depleted, those material supplies have roughly kept up with production."
+    },
+    {
+      "passage_number": 6,
+      "text": "“We are currently producing more metals than ever before and have more metal resources and reserves than ever before,” as Jowitt put it in his paper. And the question, he says, isn’t whether we’ll blow through what’s theoretically available on the planet, or even whether we’ll soon run out of material we can access and mine. It’s whether we’re willing to accept the social, ecological, and geopolitical consequences of how we mine today, and whether we might be able to change those for the better. Because we may be mining a lot more of some materials in the near future."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "The main idea of the passage is that",
+      "options": {
+        "A": "Fossil fuels are unlimited",
+        "B": "Predictions about resource supplies are often inaccurate",
+        "C": "Peak oil has already occurred",
+        "D": "Economics classes ignore supply issues"
+      },
+      "answer": "B",
+      "explanation": "The passage emphasizes the difficulty in making accurate predictions about resource supplies, using fossil fuels as an example to introduce the concept of peak oil.",
+      "score_improvement_tip": "Focus on the opening sentences to identify the overarching theme, rather than getting lost in specific examples."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "According to the passage, Hubbert's 1956 paper primarily focused on",
+      "options": {
+        "A": "Future energy transitions",
+        "B": "Estimating total fossil fuel supplies and predicting production peaks",
+        "C": "Advances in drilling technology",
+        "D": "The environmental impact of oil"
+      },
+      "answer": "B",
+      "explanation": "Hubbert analyzed identified supplies of oil and other fuels, subtracting what had been used to predict US and world production peaks.",
+      "score_improvement_tip": "Scan for key details like predictions and methods described in the text to grasp the core content."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "It can reasonably be inferred from the passage that advances in fracking",
+      "options": {
+        "A": "Were anticipated by Hubbert's model",
+        "B": "Led to a reversal in the decline of US oil production",
+        "C": "Caused peak oil to occur earlier than predicted",
+        "D": "Reduced the need for fossil fuels"
+      },
+      "answer": "B",
+      "explanation": "The passage states that fracking unlocked hard-to-reach reserves, causing US oil production to skyrocket after a decades-long decline.",
+      "score_improvement_tip": "Connect cause-and-effect relationships in the text to draw logical conclusions beyond explicit statements."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "The second paragraph primarily serves to",
+      "options": {
+        "A": "Contrast supply-driven decline with demand-driven decline in fossil fuel production",
+        "B": "Describe the history of fracking techniques",
+        "C": "List examples of low-carbon energy sources",
+        "D": "Criticize economists' predictions"
+      },
+      "answer": "A",
+      "explanation": "It introduces the energy transition as a new reason for peaking due to lack of demand, differing from Hubbert's supply-based theory.",
+      "score_improvement_tip": "Examine how paragraphs build on or contrast previous ideas to understand their rhetorical role."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "As used in the passage, \"peak modeling\" most nearly means",
+      "options": {
+        "A": "Creating physical models of resource peaks",
+        "B": "Forecasting maximum levels of production or extraction",
+        "C": "Analyzing the shape of mountain ranges for mining",
+        "D": "Simulating environmental impacts of mining"
+      },
+      "answer": "B",
+      "explanation": "The term refers to the approach of predicting a high point in production followed by decline, as applied to oil but questioned for metals.",
+      "score_improvement_tip": "Use surrounding context about predictions and fossil fuels to determine the meaning of technical phrases."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The passage implies that the energy transition could lead to a decline in fossil fuel production primarily because",
+      "options": {
+        "A": "Supplies will be exhausted faster due to increased demand",
+        "B": "Technological advances will make extraction uneconomical",
+        "C": "Renewable alternatives will reduce the need for fossil fuels, leaving reserves untapped",
+        "D": "Geopolitical factors will restrict access to reserves"
+      },
+      "answer": "C",
+      "explanation": "The author contrasts Hubbert's supply-limited peak with a demand-driven one from the shift to renewables, potentially leaving fuels in the ground.",
+      "score_improvement_tip": "Synthesize ideas across sentences to infer broader implications, especially contrasts between theories."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The author includes the quotation from Simon Jowitt primarily to",
+      "options": {
+        "A": "Support the idea that metals will peak similarly to oil",
+        "B": "Illustrate why traditional peak predictions are inadequate for metals",
+        "C": "Provide evidence for increasing demand in the energy transition",
+        "D": "Emphasize the role of geologists in forecasting"
+      },
+      "answer": "B",
+      "explanation": "Jowitt's quote directly challenges the applicability of peak modeling to metals, aligning with the passage's argument on resource complexity.",
+      "score_improvement_tip": "Analyze how quotes function rhetorically to advance the author's argument or counter common assumptions."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice provides the best evidence for the claim that neodymium reserves might not be depleted as quickly as initial calculations suggest?",
+      "options": {
+        "A": "Reserves have been estimated at 12.8 million tons",
+        "B": "Geologists discover new deposits all the time, and technology advances make extraction feasible",
+        "C": "We might need 121,000 tons every year for wind turbines",
+        "D": "A 2023 study discusses material demands of the energy transition"
+      },
+      "answer": "B",
+      "explanation": "This sentence explains why reserves are not fixed, countering the century-long depletion estimate by highlighting discoveries and technological improvements.",
+      "score_improvement_tip": "Link evidence directly to claims by identifying sentences that explain or qualify numerical projections."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "The phrase \"The problem with this thinking, though,\" at the beginning of the last sentence most directly suggests a transition to",
+      "options": {
+        "A": "Agreeing with the century-long depletion estimate",
+        "B": "Challenging the assumption of fixed reserves",
+        "C": "Introducing a new metal example",
+        "D": "Discussing wind turbine efficiency"
+      },
+      "answer": "B",
+      "explanation": "It signals a contrast to the preceding depletion calculation, emphasizing that reserves change due to discoveries and technology.",
+      "score_improvement_tip": "Pay attention to transitional phrases that indicate contrast or qualification to understand shifts in argumentative flow."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The final passage connects most directly to earlier discussions in the article by shifting the focus from",
+      "options": {
+        "A": "Fossil fuel predictions to metal production increases",
+        "B": "Concerns about running out of resources to the consequences of current mining practices",
+        "C": "Historical analyses to future geopolitical risks",
+        "D": "Expert quotes to ecological benefits"
+      },
+      "answer": "B",
+      "explanation": "It reframes the debate away from depletion fears (raised earlier with oil and metals) toward social, ecological, and geopolitical issues of mining.",
+      "score_improvement_tip": "Trace how concluding sections synthesize or pivot from prior themes to identify overarching connections."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning across complex texts.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level inferences and rhetorical analysis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer implications, evaluate evidence, or analyze rhetorical purposes.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding inferences and structural elements.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit central ideas and details in the text."
+  }
+}

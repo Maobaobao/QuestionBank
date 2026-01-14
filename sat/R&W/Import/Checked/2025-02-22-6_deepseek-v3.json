@@ -1,0 +1,231 @@
+{
+    "article_title": "An Ark for Amphibians",
+    "article_author": "Isobel Whitcomb",
+    "article_date": "2023",
+    "article_source": "Sierra",
+    "article_category": "Essay",
+    "article_tags": ["Climate Change", "Conservation", "Amphibians"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Long before humans heated up the atmosphere with greenhouse gases, shifts in climate shaped the course of life on Earth. Over the past 2.6 million years, roughly 30 percent of Earth’s surface became encrusted in ice, then thawed, then froze again—around 20 times. Just about all species on Earth were shaped by these cycles. Many wouldn’t exist if their ancestors hadn’t found refugia."
+      },
+      {
+        "passage_number": 2,
+        "text": "The term climate refugia emerged from paleoecology, the study of how plants and animals interact with their environment and one another over time. For hundreds of years, scientists have debated the reason for the incredible diversity of species on Earth. Why, for example, do we see eighteen species of macaw in the Amazon rainforest instead of just one? While Darwin’s theory of evolution supplied a broad intellectual framework for speciation, it left many of the details unanswered. In the 1960s, some researchers proposed refugia as a possible answer. They hypothesized that during ice ages, species had escaped to pockets that remained hospitable. In refugia, plants and animals continued to thrive until the climate warmed once more and they were able to fan out across the landscape again. These periods of isolation allowed plant and animal populations to evolve separately, until they were no longer the same species. The role of refugia in these species’ survival is written into their genes."
+      },
+      {
+        "passage_number": 3,
+        "text": "Around the turn of the millennium, climate refugia began to be used in the context of climate change wrought by humans. As scientists began warning the public about global warming, some also started to wonder where plants and animals might have the best shot at survival. But they had no way of precisely projecting into the future, said Carlos Carroll, an ecologist at the Klamath Center for Conservation Research. In the early 2000s, researchers got a new chest of tools: computer programs that could analyze myriad variables about the environment, from topography to soil composition, and better calculate the future of the climate in a particular region in more granular detail."
+      },
+      {
+        "passage_number": 4,
+        "text": "These models presented scientists with a new understanding: “The stress from climate change, the level of risk to species and ecosystems, is not uniform across regions; it varies quite a bit,” Carroll said. “That was the key finding.”"
+      },
+      {
+        "passage_number": 5,
+        "text": "But what gets classified as climate refugia? Bumblebees in Europe and chipmunks in Yosemite are seeking cooler climates at higher elevations. For some scientists, that alone is enough to qualify a mountaintop as a climate refuge. Others disagree. After all, where will those plants and animals go when even those mountaintops become too warm? For Toni Lyn Morelli, a research ecologist with the US Geological Survey’s Northeast Climate Adaptation Science Center, refugia are places where the climate will change very slowly, or won’t change at all."
+      },
+      {
+        "passage_number": 6,
+        "text": "Take Devils Postpile National Monument, in a valley in the central Sierra Nevada. Even in the heat of summer, the meadows in the valley remain chilly—as much as 18 degrees cooler than the 10,000-foot peaks around them. A phenomenon called cold-air pooling provides a buffer against heat waves. During the day, as heat rises, cold, moist air settles to the valley bottom. Meanwhile, the steep walls of the monument prevent sunlight from warming that air, so the coolness gets locked in. Across the globe, other refugia form around steep slopes that face the poles—the lack of sunlight means that these areas warm less readily. Deep lakes and coastlines form their own refugia, with some areas absorbing heat while others stay cool."
+      },
+      {
+        "passage_number": 7,
+        "text": "The harsh reality is that it might not make sense to invest limited resources in protecting environments where species will no longer be able to survive. “There’s much, much more work to do than we have resources,” Morelli said. That work includes removing invasive species and reducing humans’ impact. It might even include moving vulnerable species to refugia."
+      },
+      {
+        "passage_number": 8,
+        "text": "Assisted migration is not without controversy. Some land managers are concerned that newly introduced species will edge out native species, or that newly established populations will eventually blink out on land they haven’t evolved to inhabit. Alexis Mychajliw, a paleoecologist at Middlebury College, points out that plants and animals aren’t stationary beings, and during past climate change events, they moved themselves. “The history of most species is movement,” Mychajliw said. “When the climate changes, they tend to follow those conditions.” The sheer pace of human-caused climate change, plus the barriers posed by roads, fences, and subdivisions, make that natural pattern of movement impossible. So why not give species a hand if we know where they might have a better shot at survival?"
+      },
+      {
+        "passage_number": 9,
+        "text": "In 2017, ecologists at the National Park Service introduced a cohort of threatened red-legged frogs into Yosemite after identifying areas of the park as likely refugia. The species once lived throughout California but is now limited to pockets across the state. Whether the site of the frogs’ introduction was ever a part of their original range is contested, said Andrea Adams, a research scientist at Washington State University, but today, the red-legged frogs are thriving in Yosemite. Adams considers it a conservation success."
+      },
+      {
+        "passage_number": 10,
+        "text": "It’s possible that a similar strategy might save the foothill yellow-legged frog, but first, land managers need to know where the climate refugia are. That’s where Claudia Mengelt comes in.<br><br>Mengelt, an oceanographer turned land manager, had never heard the term refugia until she stumbled upon Morelli’s research while working at the National Academy of Sciences in Washington, DC. Mengelt, who is now the program manager of land management research at the US Geological Survey, was immediately intrigued. Because of the fluid, dynamic nature of ocean environments, marine conservation tends to embrace the inevitability of change and movement, so the idea of climate adaptation felt natural to Mengelt—a fish out of water among frog biologists. By the time she met Morelli in person, Mengelt had moved out West and taken on a new project: developing a conservation plan for the foothill yellow-legged frog."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The history of Earth’s climate cycles",
+          "B": "The role of refugia in species survival",
+          "C": "The impact of humans on climate change",
+          "D": "The diversity of species on Earth"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the role of refugia in species survival during climate cycles, making B the correct answer.",
+        "score_improvement_tip": "Focus on the central theme of the passage and avoid being distracted by minor details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in line 5, 'speciation' most likely means:",
+        "options": {
+          "A": "The process of species extinction",
+          "B": "The formation of new species",
+          "C": "The interaction between species",
+          "D": "The study of species diversity"
+        },
+        "answer": "B",
+        "explanation": "The word 'speciation' refers to the formation of new species, making B the correct answer.",
+        "score_improvement_tip": "Look for contextual clues that explain the meaning of specific words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about the use of climate refugia in the early 2000s?",
+        "options": {
+          "A": "It was based on historical data only",
+          "B": "It relied on new computer modeling tools",
+          "C": "It was focused on marine ecosystems",
+          "D": "It was not supported by scientists"
+        },
+        "answer": "B",
+        "explanation": "The passage mentions that new computer modeling tools allowed for more precise projections, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to the author's stated tools or methods."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the limitations of climate models",
+          "B": "To highlight the variability of climate change impacts",
+          "C": "To argue for more funding for climate research",
+          "D": "To compare different regions’ climate risks"
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes the variability of climate change impacts across regions, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main argument or purpose in the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best summarizes the debate about what qualifies as climate refugia?",
+        "options": {
+          "A": "Some scientists believe mountaintops are refugia, while others disagree",
+          "B": "All scientists agree that refugia are places where the climate does not change",
+          "C": "Refugia are only found in coastal areas",
+          "D": "The definition of refugia is universally accepted"
+        },
+        "answer": "A",
+        "explanation": "The passage describes a debate about whether mountaintops qualify as refugia, making A the correct answer.",
+        "score_improvement_tip": "Summarize the main points of the passage to identify the best answer."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Medium",
+        "passage": 6,
+        "question": "Which evidence from the passage supports the idea that cold-air pooling creates refugia?",
+        "options": {
+          "A": "The steep walls of Devils Postpile prevent sunlight from warming the air",
+          "B": "Deep lakes and coastlines form their own refugia",
+          "C": "The meadows in the valley remain chilly in summer",
+          "D": "Cold, moist air settles to the valley bottom"
+        },
+        "answer": "A",
+        "explanation": "The passage states that the steep walls prevent sunlight from warming the air, creating a refugia, making A the correct answer.",
+        "score_improvement_tip": "Look for specific statements that explain the mechanisms behind phenomena."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 7,
+        "question": "How does the concept of limited resources affect conservation efforts?",
+        "options": {
+          "A": "It encourages the protection of all environments equally",
+          "B": "It requires prioritizing certain conservation efforts over others",
+          "C": "It eliminates the need for assisted migration",
+          "D": "It focuses conservation efforts on marine ecosystems"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that limited resources require prioritizing certain conservation efforts, making B the correct answer.",
+        "score_improvement_tip": "Consider how constraints influence decision-making."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about assisted migration from the passage?",
+        "options": {
+          "A": "It is universally supported by scientists",
+          "B": "It is a controversial but potentially necessary strategy",
+          "C": "It is only used for marine species",
+          "D": "It is no longer considered a viable option"
+        },
+        "answer": "B",
+        "explanation": "The passage describes assisted migration as controversial but potentially necessary, making B the correct answer.",
+        "score_improvement_tip": "Look for statements that indicate the complexity of the issue."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which choice best completes the sentence: 'In 2017, ecologists at the National Park Service introduced a cohort of threatened red-legged frogs into Yosemite...'?",
+        "options": {
+          "A": "to study their behavior in captivity",
+          "B": "after identifying areas of the park as likely refugia",
+          "C": "to test the effects of climate change",
+          "D": "to compare them with other frog species"
+        },
+        "answer": "B",
+        "explanation": "The passage states that the frogs were introduced after identifying refugia, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to direct statements that explain the reasoning behind actions."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What is the primary purpose of the final passage?",
+        "options": {
+          "A": "To describe Claudia Mengelt’s background",
+          "B": "To explain the challenges of conserving the foothill yellow-legged frog",
+          "C": "To argue for the importance of marine conservation",
+          "D": "To highlight the role of refugia in amphibian conservation"
+        },
+        "answer": "D",
+        "explanation": "The passage focuses on the role of refugia in conserving the foothill yellow-legged frog, making D the correct answer.",
+        "score_improvement_tip": "Identify the main focus of the passage, whether it is descriptive, explanatory, or analytical."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

@@ -1,0 +1,207 @@
+{
+  "article_title": "What Plants Are Saying About Us",
+  "article_author": "Amanda Gefter",
+  "article_date": "2024",
+  "article_source": "Nautilus",
+  "article_category": "Essay",
+  "article_tags": ["Cognition", "Plants", "4E Cognitive Science", "Ecological Psychology"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The idea that the mind is in the brain comes to us from Descartes. The seventeenth-century philosopher invented our modern notion of consciousness and confined it to the interior of the skull. He saw the mind and brain as separate substances, but with no direct access to the world. The mind was reliant on the brain to encode and represent the world or conjure up its best guess as to what the world might be based on, with ambiguous clues trickling in through unreliable senses. What Descartes called “cerebral impressions” are today’s “mental representations.” As cognitive scientist Ezequiel Di Paolo writes, “Western philosophical tradition since Descartes has been haunted by a pervasive mediational epistemology: the widespread assumption that one cannot have knowledge of what is outside oneself except through the ideas one has inside oneself.”<br><br>Modern cognitive science traded Descartes’ mind-body dualism for brain-body dualism: The body is necessary for breathing, eating, and staying alive, but it’s the brain alone, in its dark, silent sanctuary, that perceives, feels, and thinks. The idea that consciousness is in the brain is so ingrained in our science, in our everyday speech, even in popular culture that it seems almost beyond question. “We just don’t even notice that we are adopting a view that is still a hypothesis,” says Louise Barrett, a biologist at the University of Lethbridge in Canada who studies cognition in humans and other primates."
+    },
+    {
+      "passage_number": 2,
+      "text": "Barrett, like Calvo, is one of an increasing number of scientists and philosophers questioning that hypothesis because it doesn’t comport with a biological understanding of living organisms. “We need to get away from thinking of ourselves as machines,” Barrett says. “That metaphor is getting in the way of understanding living, wild cognition.”<br><br>Instead, Barrett and Calvo draw from a set of ideas referred to as “4E cognitive science,” an umbrella term for a bunch of theories that all happen to start with the letter E. Embodied, embedded, extended, and enactive cognition—what they have in common (besides Es) is a rejection of cognition as a purely brainbound affair. Calvo is also inspired by a fifth E: ecological psychology, a kindred spirit to the canonical four. It’s a theory of how we perceive without using internal representations.<br><br>In the standard story of how vision works, it’s the brain that does the heavy lifting of creating a visual scene. It has to, the story goes, because the eyes contribute so little information. In a given visual fixation, the pattern of light in focus on the retina amounts to a two-dimensional area the size of a thumbnail at arm’s length. And yet we have the impression of being immersed in a rich three-dimensional scene. So it must be that the brain “fills in” the missing pieces, making inferences from scant data and offering up its best hallucination for who-knows-who to “see.”<br><br>Dating back to the work of psychologist James Gibson in the 1960s, ecological psychology offers a different story. In real life, it says, we never deal with static images. Our eyes are always moving, darting back and forth in tiny bursts called saccades so quick we don’t even notice. Our heads move, too, as do our bodies through space, so what we’re confronted with is never a fixed pattern of light but what Gibson called an “optic flow.”<br><br>To “see,” according to ecological psychology, is not to form a picture of the world in your head. It stresses that patterns of light on the retina change relative to your movements. It’s not the brain that sees, but the whole animate body. The result of “seeing” is never a final image for an internal mind to contemplate in its secret lair, but an adaptive, ongoing engagement with the world."
+    },
+    {
+      "passage_number": 3,
+      "text": "Plants don’t have eyes exactly, but flows of light and energy impinge on their senses and transform in predictable ways relative to the plants’ own movements. Of course, to notice that, you first have to notice that plants move.<br><br>“If you think that plants are sessile,” or stationary, Calvo says, “just sitting there, taking life as it comes, it’s difficult to visualize the idea that they are generating these flows.”<br><br>Plants appear sessile to us only because they move slowly. Quick movements—like the nightly shuffle of my prayer plant—can be accomplished by altering the water content in certain cells to change the tension in a stem, or to stiffen a branch under the weight of heavy snow. Most plant movement, though, occurs through growth. Since they can’t pick up their roots and walk away, plants change location by growing in a new direction. We humans are basically stuck with the shape of our bodies, but at least we can move around; plants can’t move around, but they can grow into whatever shape best suits them. This “phenotypic plasticity,” as it’s called, is why it’s critical for plants to be able to plan ahead.<br><br>“If you spend all this time growing a tendril in a particular direction,” Barrett says, “you can’t afford to get it wrong. That’s why prediction does seem very important. It’s like my granddad said; maybe all granddads say this: ‘measure twice, cut once.’”<br><br>Phenotypic plasticity is a powerful but slow process—to see it, you have to speed it up. So Calvo makes time-lapse recordings, in which slow and seemingly random growth blooms into what appears to be purposeful behavior. One of his time-lapse videos shows a climbing bean growing in search of a pole. The vine circles aimlessly as it grows. Hours are compressed into minutes. But when the plant senses a pole, everything changes: It pulls itself back, like a fisherman casting a line, then flings itself straight for the pole and makes a grab.<br><br>“Once movement becomes conspicuous by speeding it up,” Calvo says, “you see that certainly plants are generating flows with their movement.”"
+    },
+    {
+      "passage_number": 4,
+      "text": "By using these flows to guide their movements, plants accomplish all kinds of feats, such as “shade avoidance”—steering clear of over-populated areas where there’s too much competition for photosynthesis. Plants, Calvo explains, absorb red light but reflect far-red light. As a plant grows in a given direction, it can watch how the ratio of red to far-red light varies and change directions if it finds itself heading for a crowd.<br><br>“They are not storing an image of their surroundings to make computations,” Calvo says. “They’re not making a map of the vicinity and plotting where the competition is and then deciding to grow the other way. They just use the environment around them.”<br><br>That might seem to be a long cry from how humans perceive the world—but according to 4E cognition, the same principles apply. Humans don’t perceive the world by forming internal images either. Perception, for the Es, is a form of sensorimotor coordination. We learn the sensory consequences of our movements, which in turn shapes how we move.<br><br>Just watch an outfielder catch a fly ball. Standard cognitive science would say the athlete’s brain computes the ball’s projectile motion and predicts where it’s going to land. Then the brain tells the body what to do, the mere output of a cognitive process that took place entirely inside the head. If all that were true, the player could just make a beeline to that spot—running in a straight line, no need to watch the ball—and catch.<br><br>But that’s not what outfielders do. Instead, they move their bodies, constantly shuffling back and forth and watching how the position of the ball changes as they move. They do this because if they can keep the ball’s speed steady in their field of vision—canceling out the ball’s acceleration with their own—they and the ball will end up in the same spot. The player doesn’t have to solve differential equations on a mental model—the movement of her body relative to the ball solves the problem for her in active engagement, in real time. As the MIT roboticist Rodney Brooks wrote in a landmark 1991 paper, “Intelligence Without Representation,” “Explicit representations and models of the world simply get in the way. It turns out to be better to use the world as its own model.”<br><br>If cognition is embodied, extended, embedded, enactive, and ecological, then what we call the mind is not in the brain. It is the body’s active engagement with the world, made not of neural firings alone but of sensorimotor loops that run through the brain, body, and environment. In other words, the mind is not in the head. Calvo likes to quote the psychologist William Mace: “Ask not what’s inside your head, but what your head’s inside of.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "Which idea best summarizes the traditional view of consciousness as introduced in the text?",
+      "options": {
+        "A": "Consciousness is spread throughout the body.",
+        "B": "Consciousness is confined within the brain.",
+        "C": "Consciousness is a result of bodily movement.",
+        "D": "Consciousness is generated by external stimuli alone."
+      },
+      "answer": "B",
+      "explanation": "The text explains that Descartes’ view and later traditional thought confined consciousness to the brain, making option B the best summary.",
+      "score_improvement_tip": "Focus on identifying the main concept in a passage rather than peripheral details."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "What does the term 'phenotypic plasticity' refer to in the context of the discussion on plants?",
+      "options": {
+        "A": "The ability of plants to change color based on light conditions.",
+        "B": "The capacity of plants to alter their growth in response to environmental cues.",
+        "C": "The rapid movement of plants to avoid predators.",
+        "D": "The genetic modification of plants over generations."
+      },
+      "answer": "B",
+      "explanation": "The passage explains that phenotypic plasticity is the process by which plants change growth direction or form in response to their environment.",
+      "score_improvement_tip": "Review key terminology in the passage and relate it directly to the description provided."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "What is the primary purpose of introducing 4E cognitive science in this section?",
+      "options": {
+        "A": "To support the traditional view of brain-bound cognition.",
+        "B": "To argue that cognition is a static internal process.",
+        "C": "To challenge the notion that the brain is the sole seat of cognition.",
+        "D": "To explain how internal representations are the basis of perception."
+      },
+      "answer": "C",
+      "explanation": "The passage uses 4E cognitive science to question the conventional brain-bound model of cognition and emphasize a more integrated, embodied approach.",
+      "score_improvement_tip": "Identify the author’s purpose in presenting contrasting theories to enhance your analytical understanding."
+    },
+    {
+      "question_number": 4,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "In the sentence, “They are not storing an image of their surroundings to make computations,” the word 'storing' most nearly means:",
+      "options": {
+        "A": "creating",
+        "B": "saving",
+        "C": "transforming",
+        "D": "discarding"
+      },
+      "answer": "B",
+      "explanation": "In context, 'storing' refers to the process of saving or retaining information about the surroundings, rather than actively creating or modifying it.",
+      "score_improvement_tip": "Pay close attention to context clues when determining the meaning of a word in a passage."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "What is the significance of the outfielder example in the discussion on perception?",
+      "options": {
+        "A": "It demonstrates that precise calculations are necessary for catching a ball.",
+        "B": "It shows that internal mental models are central to perceptual accuracy.",
+        "C": "It illustrates how active, embodied engagement with the environment simplifies complex tasks.",
+        "D": "It proves that athletic performance is unrelated to cognitive processes."
+      },
+      "answer": "C",
+      "explanation": "The outfielder example is used to illustrate that perception arises from a dynamic, sensorimotor interaction with the environment rather than from internal computations alone.",
+      "score_improvement_tip": "When evaluating examples, consider how they reinforce the broader argument of the passage."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Based on the passage, which statement best captures the authors’ critique of traditional views on consciousness?",
+      "options": {
+        "A": "Traditional views correctly place the origin of consciousness in the brain.",
+        "B": "Traditional views overlook the role of the body and environment in shaping perception.",
+        "C": "Traditional views emphasize the importance of genetic factors over experiential ones.",
+        "D": "Traditional views prioritize internal representations as the only means of knowing the world."
+      },
+      "answer": "B",
+      "explanation": "The passage critiques the conventional notion that cognition is solely a brain-bound process, arguing instead that bodily and environmental interactions are fundamental to perception.",
+      "score_improvement_tip": "Look for passages where the author questions established beliefs and consider what alternative is being proposed."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "How does the author develop the argument regarding plant movement in this section?",
+      "options": {
+        "A": "By comparing rapid plant movements to animal reflexes.",
+        "B": "By presenting detailed scientific data and statistics.",
+        "C": "By describing observable behaviors and time-lapse evidence that reveal purposeful growth.",
+        "D": "By arguing that plant movement is entirely random and unplanned."
+      },
+      "answer": "C",
+      "explanation": "The text develops the argument by detailing how plants, despite their slow movements, display purposeful behavior when observed via time-lapse recordings, suggesting an inherent capacity for planning.",
+      "score_improvement_tip": "Focus on how descriptive evidence is used to support the central argument, linking observations to broader themes."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "What rhetorical effect is achieved by contrasting plant behavior with human sensorimotor coordination in the passage?",
+      "options": {
+        "A": "It minimizes the significance of plant responses.",
+        "B": "It highlights the complexity of human thought over plant behavior.",
+        "C": "It underscores a common principle of embodied perception across different forms of life.",
+        "D": "It creates a clear separation between biological and cognitive processes."
+      },
+      "answer": "C",
+      "explanation": "By comparing plant behavior with human sensorimotor coordination, the author emphasizes that both rely on dynamic interactions with the environment, thereby uniting diverse forms of life under a common perceptual principle.",
+      "score_improvement_tip": "Consider how comparisons and contrasts are used to bridge ideas and to highlight overarching themes."
+    },
+    {
+      "question_number": 9,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "In the phrase 'mediational epistemology', the term 'mediational' most nearly means:",
+      "options": {
+        "A": "Directly accessing",
+        "B": "Intervening or acting as an intermediary",
+        "C": "Unchanging",
+        "D": "Irrelevant"
+      },
+      "answer": "B",
+      "explanation": "The context indicates that knowledge is acquired indirectly, through internal representations; thus, 'mediational' refers to something that intervenes between the self and the external world.",
+      "score_improvement_tip": "Analyze unusual or technical terms by looking at how they are explained or used in context within the passage."
+    },
+    {
+      "question_number": 10,
+      "domain": "Cross-Text Connections",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "How does the discussion of ecological psychology and sensorimotor coordination challenge conventional cognitive science?",
+      "options": {
+        "A": "It supports the idea that the brain is solely responsible for perception.",
+        "B": "It suggests that active bodily engagement can replace complex internal computations.",
+        "C": "It implies that only humans benefit from sensorimotor coordination.",
+        "D": "It argues that cognition is irrelevant to everyday activities."
+      },
+      "answer": "B",
+      "explanation": "The passage challenges the traditional view by arguing that real-time bodily movements and environmental interactions simplify perception, reducing the need for complex, internal computational models.",
+      "score_improvement_tip": "When connecting ideas from different sections, consider how examples and theories interact to form a cohesive alternative viewpoint."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of advanced analysis, synthesis, and reasoning skills by accurately interpreting nuanced arguments, integrating evidence from the text, and understanding sophisticated vocabulary in context.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills, correctly identifying main ideas and details, but may occasionally struggle with the most challenging analytical or inferential questions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical skills, requiring inferences, synthesis of ideas, and precise understanding of complex vocabulary and rhetorical devices.",
+    "medium_questions": "Medium questions assess the ability to understand and interpret key details, analyze the structure and purpose of the text, and grasp vocabulary in context.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the identification of explicit information and central ideas in the text."
+  }
+}

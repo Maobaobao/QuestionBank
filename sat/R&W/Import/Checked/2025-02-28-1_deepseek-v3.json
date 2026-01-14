@@ -1,0 +1,231 @@
+{
+    "article_title": "Too Big for the Universe",
+    "article_author": "Arianna S. Long",
+    "article_date": "2022",
+    "article_source": "Scientific American",
+    "article_category": "Essay",
+    "article_tags": ["Galaxies", "Starburst Galaxies", "Cosmology", "Dark Matter"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "The most common type of star-forming galaxy produces roughly one to tens of suns’ worth of stars a year. These are often called normal star-forming galaxies. The Milky Way is in this class. Normal star-forming galaxies are metaphorical tortoises, forming stars slowly and steadily over the course of ten billion years or so, remaining blue and disklike and depleting their reservoirs of fresh gas (fuel for new stars) at a leisurely pace."
+      },
+      {
+        "passage_number": 2,
+        "text": "Galaxies that produce hundreds to thousands of stars every year are known as starburst galaxies. These are the hares in galaxy evolution. In perhaps three hundred million years at most, these galaxies burst into existence, form as many stars as possible as quickly as possible and, in a cosmic blink of an eye, run out of fuel. Starbursts live fast and die young. Astronomers think that they are the best candidate ancestors for the massive, dead elliptical galaxies we see in clusters today."
+      },
+      {
+        "passage_number": 3,
+        "text": "It stands to reason that if we looked deep enough into space, we would find protoclusters filled with starburst galaxies—tomorrow’s clusters of dead galaxies. Yet finding starburst galaxies in protoclusters has proved challenging. Until recently, most of our methods for spotting clusters were developed to preferentially select dying elliptical galaxies or the hot gas that pervades the space between them. Elliptical galaxies and hot intracluster gas appear at the later stages of galaxy cluster evolution, so we need new methods to find their bluer, more star-forming infant counterparts."
+      },
+      {
+        "passage_number": 4,
+        "text": "To make things more difficult, protoclusters are often spread far apart on the sky because the galaxies have yet to fully coalesce into the dense structures we see today. When our most famous and precise telescopes have cameras that span only the width of a pencil (the Hubble Space Telescope, for instance), it is not surprising that we cannot piece together protocluster puzzle pieces that are spread across the sky at distances more than 100 times greater than our telescope’s field of view."
+      },
+      {
+        "passage_number": 5,
+        "text": "Other methods of searching, such as systematically surveying large swaths of the sky, tend to miss starburst galaxies because they are often obscured by dust. The exceptional stellar growth in starbursts generates an overabundance of heavy metals that are produced in the explosive deaths of stars. Once dispersed into space, heavy elements such as iron, carbon, and gold collide to form complex dust molecules that absorb and obscure ultraviolet and optical light. Think of the reddening sun during wildfire season: dust dims hotter, more energetic blue light while letting redder light sneak through. The result is that starburst galaxies are nearly invisible when viewed with optical and ultraviolet telescopes, but they shine like beacons when viewed in the cooler infrared spectrum."
+      },
+      {
+        "passage_number": 6,
+        "text": "All of this means that until recently, the tools to find and study protoclusters usually missed a key population of galaxies. From the late 1990s through the early 2010s, the Submillimeter Common-User Bolometer Array, the Herschel Space Observatory, the South Pole Telescope, and the Spitzer Space Telescope revolutionized our understanding of the dust-obscured universe by unveiling millions of galaxies that were previously invisible. Starting about fifteen years ago, astronomers began studying the clustering properties of dusty starbursts, and they found that these powerhouses live preferentially near other large and actively star-forming galaxies."
+      },
+      {
+        "passage_number": 7,
+        "text": "But the state of technology was still behind our ambitions; the resolution of infrared and millimeter telescopes was still so low that multiple galaxies would get blended into one large object, even if those galaxies were far apart but lay along the same line of sight. The age of the infrared universe was here, but we needed sharper and more sensitive instruments to fully comprehend what we were seeing."
+      },
+      {
+        "passage_number": 8,
+        "text": "Finally, in 2013, the Atacama Large Millimeter/submillimeter Array (ALMA) arrived. High in the Chilean desert, this collection of nearly seventy radio dishes works together as a single telescope, reaching resolutions up to six hundred times sharper than that of the Herschel telescope. ALMA has transformed many corners of astronomy, including galaxy evolution. (I know several people with tattoos dedicated to this telescope.) The observatory is excellent at detecting dusty, gaseous stellar nurseries throughout star-forming galaxies. With it, astronomers have discovered systems that are both shocking and exciting."
+      },
+      {
+        "passage_number": 9,
+        "text": "In 2018 two separate teams of astronomers used ALMA to study the brightest infrared objects they could find in the distant universe. Each team discovered a different conglomeration of dusty, starbursting galaxies that were previously blended together, hiding as one in surveys taken by the first generation of infrared telescopes. SPT2349-56, a group of fourteen galaxies, and the Distant Red Core (DRC), a group of ten galaxies, were both found growing and thriving in different corners of the universe, when the cosmos was only 10 percent of its current age. We see both these budding protoclusters undergoing extreme bursts of star formation—each group birthing nearly ten thousand times as much stellar mass a year as the Milky Way does—across volumes only half the size of our Local Group (which includes our own galaxy plus Andromeda and several smaller galaxies). Estimates of the protoclusters’ individual gas reservoirs tell us that if these galaxies continued to form stars at such excessive rates, they would exhaust their fuel supply in just a few hundred million years and become the massive red-and-dead elliptical galaxies that are ubiquitous in fully grown clusters. Moreover, they would complete this cycle well before the present era."
+      },
+      {
+        "passage_number": 10,
+        "text": "The discovery of these two dust-obscured protocluster cores presented a promising new lens for studying cluster growth, but we were still missing an important part of the picture. The best way to “weigh” a galaxy is to measure the light from its adult star population, which requires data from across the electromagnetic spectrum. But until recently, all observations of protoclusters living in the first two billion years of the universe had been conducted within a narrow energy spectrum (in either the optical or the infrared). Then, in September 2018, my colleagues and I were able to observe, for the first time, ultraviolet and optical emission from a dusty, starbursting protocluster as seen twelve billion years ago: the Distant Red Core. Using the Hubble Space Telescope, the Gemini Observatory, and the Spitzer Space Telescope, we captured the multiwavelength perspective necessary to more deeply understand this structure’s past and future."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The Milky Way is a unique galaxy",
+          "B": "Normal star-forming galaxies evolve slowly",
+          "C": "Starburst galaxies are rare",
+          "D": "Galaxies deplete their gas quickly"
+        },
+        "answer": "B",
+        "explanation": "The passage describes normal star-forming galaxies as evolving slowly and steadily, making B the correct answer.",
+        "score_improvement_tip": "Focus on the main subject and the author's primary point when identifying central ideas."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'hares' most likely refers to:",
+        "options": {
+          "A": "Fast-moving animals",
+          "B": "Galaxies that evolve quickly",
+          "C": "Short-lived stars",
+          "D": "Elliptical galaxies"
+        },
+        "answer": "B",
+        "explanation": "The term 'hares' is used metaphorically to describe starburst galaxies, which evolve quickly compared to normal star-forming galaxies.",
+        "score_improvement_tip": "Pay attention to metaphors and analogies in the text to understand the author's meaning."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, why is it challenging to find starburst galaxies in protoclusters?",
+        "options": {
+          "A": "They are too small to detect",
+          "B": "They are obscured by dust",
+          "C": "They are located in dense clusters",
+          "D": "They emit only ultraviolet light"
+        },
+        "answer": "B",
+        "explanation": "The passage explains that starburst galaxies are often obscured by dust, making them difficult to detect.",
+        "score_improvement_tip": "Use evidence from the text to support your inferences and avoid assumptions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe the limitations of current telescopes",
+          "B": "To explain the formation of protoclusters",
+          "C": "To compare different types of galaxies",
+          "D": "To argue for new methods of observation"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the challenges posed by the limited field of view of current telescopes, making A the correct answer.",
+        "score_improvement_tip": "Identify the author's main purpose by analyzing the focus and tone of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which evidence supports the claim that starburst galaxies are difficult to observe?",
+        "options": {
+          "A": "They emit only infrared light",
+          "B": "They are obscured by dust",
+          "C": "They are located in dense clusters",
+          "D": "They are too far away"
+        },
+        "answer": "B",
+        "explanation": "The passage states that starburst galaxies are obscured by dust, making them difficult to observe with optical and ultraviolet telescopes.",
+        "score_improvement_tip": "Look for direct evidence in the text to support claims and answer choices."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the passage connect the limitations of early telescopes to the discovery of new galaxies?",
+        "options": {
+          "A": "Early telescopes could not detect infrared light",
+          "B": "Early telescopes had low resolution",
+          "C": "Early telescopes were not sensitive to dust",
+          "D": "Early telescopes could not observe distant galaxies"
+        },
+        "answer": "B",
+        "explanation": "The passage explains that early infrared and millimeter telescopes had low resolution, which limited their ability to distinguish between individual galaxies.",
+        "score_improvement_tip": "Analyze how different parts of the text relate to each other to answer cross-text connection questions."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What is the primary function of the sentence 'The age of the infrared universe was here, but we needed sharper and more sensitive instruments to fully comprehend what we were seeing'?",
+        "options": {
+          "A": "To summarize the limitations of early telescopes",
+          "B": "To introduce the need for new technology",
+          "C": "To explain the discovery of new galaxies",
+          "D": "To describe the properties of infrared light"
+        },
+        "answer": "B",
+        "explanation": "The sentence highlights the need for sharper and more sensitive instruments, introducing the idea that new technology was required.",
+        "score_improvement_tip": "Pay attention to transitional sentences that introduce new ideas or shifts in focus."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about ALMA from the passage?",
+        "options": {
+          "A": "It is less powerful than the Herschel telescope",
+          "B": "It is primarily used to study elliptical galaxies",
+          "C": "It has revolutionized the study of star-forming galaxies",
+          "D": "It is located in space"
+        },
+        "answer": "C",
+        "explanation": "The passage states that ALMA has transformed the study of galaxy evolution and is excellent at detecting star-forming galaxies, making C the correct answer.",
+        "score_improvement_tip": "Use specific details from the text to make accurate inferences."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "As used in the passage, 'ubiquitous' most nearly means:",
+        "options": {
+          "A": "Rare",
+          "B": "Common",
+          "C": "Massive",
+          "D": "Distant"
+        },
+        "answer": "B",
+        "explanation": "The word 'ubiquitous' is used to describe elliptical galaxies that are found everywhere in fully grown clusters, meaning they are common.",
+        "score_improvement_tip": "Use context clues to determine the meaning of unfamiliar words."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 10,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The discovery of new galaxies",
+          "B": "The limitations of the Hubble Space Telescope",
+          "C": "The importance of multiwavelength observations",
+          "D": "The role of dark matter in galaxy formation"
+        },
+        "answer": "C",
+        "explanation": "The passage emphasizes the importance of multiwavelength observations in understanding protoclusters, making C the correct answer.",
+        "score_improvement_tip": "Identify the main focus by looking for repeated ideas or concepts in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or make connections between different parts of the text.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and the author's purpose.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and straightforward details."
+    }
+  }

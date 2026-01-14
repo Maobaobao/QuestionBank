@@ -1,0 +1,211 @@
+{
+    "article_title": "Seeing Earth From Space Will Change You",
+    "article_author": "Marina Koren",
+    "article_date": "January-February, 2023",
+    "article_source": "The Atlantic",
+    "article_category": "Essay",
+    "article_tags": ["Space Exploration", "Astronomy", "Overview Effect", "Space Tourism"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Not everyone had been changed by what they saw, White learned. But among those who were, White found common themes, which he described in The Overview Effect, first published in 1987. The astronauts’ sense of national belonging faded away, replaced by one of connection with their fellow human beings. They also felt a new bond with their home planet, the only known source of life in an otherwise forbidding universe. The Earth, with its wispy atmosphere, looked delicate, in need of care."
+      },
+      {
+        "passage_number": 2,
+        "text": "This version of the overview effect has taken hold in the public imagination, reinforced over the years by books and documentaries about the American space program. In this telling, the effect can seem like a special gesture bestowed by the cosmos upon anyone brave enough to venture beyond Earth."
+      },
+      {
+        "passage_number": 3,
+        "text": "But as Jordan Bimm, a historian of space exploration at the University of Chicago, has written, the overview effect is as much a cultural phenomenon as a celestial one. It is a human narrative, its themes shaped by a variety of earthly circumstances. The overview effect arose when the NASA astronaut corps was rigorously homogeneous: white males with engineering degrees and military experience. These men were a product of their training and their time. Spaceflight was a dangerous new frontier that required mental as well as physical fortitude— the right stuff."
+      },
+      {
+        "passage_number": 4,
+        "text": "The imperative to always demonstrate the right stuff shaped the language that astronauts used to describe their experiences in space. As Patricia Santy, a longtime psychiatrist at NASA’s Johnson Space Center, in Houston, wrote in 1994, “Expression of emotions such as sadness or fear is considered a weakness.” If the sight of Earth marooned in darkness inspired such feelings in the heart of an astronaut, he was unlikely to admit it, lest he jeopardize his shot at another mission."
+      },
+      {
+        "passage_number": 5,
+        "text": "To capture their experience of the sublime, many astronauts spoke in explicitly religious terms. Cernan, for example, said, “You only see the boundaries of nature from there, boundaries God created.” This reflects their uniformly Christian backgrounds, though also the Cold War backdrop of America’s early space missions. “There’s this sense of us versus them ... We’re not the godless Communists,” Deana Weibel, a cultural anthropologist at Grand Valley State University, in Michigan, told me. “We’re the ones that have God on our side.” Early Soviet cosmonauts remarked on the beauty of Earth from space, but they didn’t attribute it to a higher power."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the first passage?",
+        "options": {
+          "A": "The fragility of Earth as seen from space",
+          "B": "The technical details of space missions",
+          "C": "The emotional impact of space travel on astronauts",
+          "D": "The history of the American space program"
+        },
+        "answer": "C",
+        "explanation": "The passage focuses on how astronauts experienced a shift in perspective, feeling a connection to humanity and Earth, making C the correct answer.",
+        "score_improvement_tip": "Identify the central theme by focusing on the emotional and psychological changes described."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, the phrase 'bestowed by the cosmos' most likely means:",
+        "options": {
+          "A": "Given as a gift by the universe",
+          "B": "Created through scientific discovery",
+          "C": "Achieved through hard work",
+          "D": "Explained by religious beliefs"
+        },
+        "answer": "A",
+        "explanation": "The phrase suggests that the overview effect is perceived as a special gift from the universe, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of figurative language."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about the early NASA astronaut corps based on the passage?",
+        "options": {
+          "A": "They were diverse in their backgrounds and experiences.",
+          "B": "They were selected for their emotional expressiveness.",
+          "C": "They were shaped by the cultural and historical context of their time.",
+          "D": "They prioritized scientific research over personal experiences."
+        },
+        "answer": "C",
+        "explanation": "The passage describes the astronauts as products of their training and time, reflecting the cultural and historical context, making C the correct answer.",
+        "score_improvement_tip": "Inference questions require connecting details to draw logical conclusions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the fourth passage?",
+        "options": {
+          "A": "To criticize the emotional suppression of astronauts",
+          "B": "To explain how cultural norms influenced astronauts' descriptions of space",
+          "C": "To highlight the dangers of space travel",
+          "D": "To compare NASA astronauts with Soviet cosmonauts"
+        },
+        "answer": "B",
+        "explanation": "The passage discusses how cultural expectations shaped the way astronauts described their experiences, making B the correct answer.",
+        "score_improvement_tip": "Focus on how the passage explains the influence of cultural norms on behavior."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best summarizes the author's argument in the final passage?",
+        "options": {
+          "A": "Astronauts' religious language reflects their cultural and political context.",
+          "B": "Soviet cosmonauts were more scientific in their descriptions of space.",
+          "C": "Religious beliefs were the primary motivation for space exploration.",
+          "D": "The Cold War had no impact on astronauts' descriptions of space."
+        },
+        "answer": "A",
+        "explanation": "The passage highlights how astronauts' religious language was influenced by their cultural and political background, making A the correct answer.",
+        "score_improvement_tip": "Synthesis questions require combining details to identify the overarching argument."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "Which quotation from the passage best supports the idea that astronauts felt a connection to humanity?",
+        "options": {
+          "A": "“The astronauts’ sense of national belonging faded away, replaced by one of connection with their fellow human beings.”",
+          "B": "“The Earth, with its wispy atmosphere, looked delicate, in need of care.”",
+          "C": "“Not everyone had been changed by what they saw, White learned.”",
+          "D": "“They also felt a new bond with their home planet.”"
+        },
+        "answer": "A",
+        "explanation": "The quotation directly describes astronauts' shift from national identity to a sense of connection with humanity, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence that supports the question's premise."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "How does the description of American astronauts' language compare to that of Soviet cosmonauts?",
+        "options": {
+          "A": "Both used religious language to describe their experiences.",
+          "B": "American astronauts used religious language, while Soviet cosmonauts did not.",
+          "C": "Soviet cosmonauts were more emotional in their descriptions.",
+          "D": "American astronauts avoided describing the beauty of Earth."
+        },
+        "answer": "B",
+        "explanation": "The passage states that American astronauts used religious language, while Soviet cosmonauts did not attribute Earth's beauty to a higher power, making B the correct answer.",
+        "score_improvement_tip": "Compare and contrast perspectives by identifying key differences in their descriptions."
+      },
+      {
+        "question_number": 8,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 3,
+        "question": "Which choice best completes the sentence? 'Spaceflight was a dangerous new frontier that required mental as well as physical fortitude— ______ the right stuff.'",
+        "options": {
+          "A": "and",
+          "B": "or",
+          "C": "but",
+          "D": "so"
+        },
+        "answer": "A",
+        "explanation": "The sentence requires a conjunction that adds information, making 'and' the correct choice.",
+        "score_improvement_tip": "Choose conjunctions that logically connect ideas within the sentence."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best completes the sentence? 'If the sight of Earth marooned in darkness inspired such feelings in the heart of an astronaut, ______ he was unlikely to admit it.'",
+        "options": {
+          "A": "however",
+          "B": "therefore",
+          "C": "although",
+          "D": "meanwhile"
+        },
+        "answer": "B",
+        "explanation": "The sentence requires a transition that indicates a logical conclusion, making 'therefore' the correct choice.",
+        "score_improvement_tip": "Choose transitions that logically connect ideas within the sentence."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "What can be inferred about the cultural context of early American space missions?",
+        "options": {
+          "A": "They were influenced by the Cold War and religious beliefs.",
+          "B": "They prioritized scientific objectivity over cultural narratives.",
+          "C": "They were unrelated to the political climate of the time.",
+          "D": "They focused on emotional expression over technical achievement."
+        },
+        "answer": "A",
+        "explanation": "The passage highlights the influence of the Cold War and religious beliefs on astronauts' descriptions, making A the correct answer.",
+        "score_improvement_tip": "Use the passage's implications to make logical inferences about cultural context."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

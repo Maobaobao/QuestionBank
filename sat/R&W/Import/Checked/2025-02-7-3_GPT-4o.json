@@ -1,0 +1,216 @@
+{
+    "article_title": "Brain Wave",
+    "article_author": "Ferris Jabr",
+    "article_date": "2023",
+    "article_source": "The New York Times Magazine",
+    "article_category": "Essay",
+    "article_tags": ["Neuroscience", "Brain-Computer Interfaces", "Innovation"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "In the following decades, scientists learned new ways to record, manipulate, and channel the brain’s electrical signals, constructing ever-more-elaborate bridges between mind and machine. In 1964, José Manuel Rodríguez Delgado, a Spanish neurophysiologist, brought a charging bull to a halt using radio-controlled electrodes embedded in the animal’s brain. In the 1970s, the University of California Los Angeles professor Jacques Vidal coined the term brain-computer interface and demonstrated that people could mentally guide a cursor through a simple virtual maze. By the early 2000s, the Duke University neuroscientist Miguel Nicolelis and his collaborators had published studies demonstrating that monkeys implanted with neural interfaces could control robotic prostheses with their minds. In 2004, Matt Nagle, who was paralyzed from the shoulders down, became the first human to do the same. He further learned how to use his thoughts alone to play Pong, change channels on a television, open emails, and draw a circle on a computer screen."
+      },
+      {
+        "passage_number": 2,
+        "text": "Since then, the pace of achievements in the field of brain-computer interfaces has increased greatly, thanks in part to the rapid development of artificial intelligence. Machine-learning software has substantially improved the efficiency and accuracy of neural interfaces by automating some of the necessary computation and anticipating the intentions of human users, not unlike how your phone or email now has A.I.-assisted predictive text. Last year, the University of California San Francisco neurosurgeon Edward Chang and a dozen collaborators published a landmark study describing how a neural interface gave a paralyzed thirty-six-year-old man a voice for the first time in more than fifteen years. Following a car crash and severe stroke at age twenty, the man, known as Pancho, lost the ability to produce intelligible speech. Over a period of about twenty months, 128 disk-shaped electrodes placed on top of Pancho’s sensorimotor cortex recorded electrical activity in brain regions involved in speech processing and vocal tract control as he attempted to speak words aloud. A decoder associated different patterns of neural activity with different words and, with the help of language-prediction algorithms, eventually learned to decipher 15 words per minute with 75 percent accuracy on average. Although this is only a fraction of the rate of typical speech in English (140 to 200 words a minute), it is considerably faster than many point-and-click methods of communication available to people with severe paralysis."
+      },
+      {
+        "passage_number": 3,
+        "text": "In another groundbreaking study published last year, Jaimie Henderson and several colleagues, including Francis Willett, a biomedical engineer, and Krishna Shenoy, an electrical engineer, reported an equally impressive yet entirely different approach to communication by neural interface. The scientists recorded neurons firing in Dennis DeGray’s brain as he visualized himself writing words with a pen on a notepad, trying to re-create the distinct hand movements required for each letter. He mentally wrote thousands of words in order for the system to reliably recognize the unique patterns of neural activity specific to each letter and output words on a screen. “You really learn to hate M’s after a while,” he told me with characteristic good humor. Ultimately, the method was extremely successful. DeGray was able to type up to ninety characters or eighteen words a minute—more than twice the speed of his previous efforts with a cursor and virtual keyboard. He is the world’s fastest mental typist. “Sometimes I get going so fast it’s just one big blur,” he said. “My concentration gets to a point where it’s not unusual for them to remind me to breathe.”"
+      },
+      {
+        "passage_number": 4,
+        "text": "Achievements in brain-computer interfaces to date have relied on a mix of invasive and noninvasive technologies. Many scientists in the field, including those who work with DeGray, rely on a surgically embedded array of spiky electrodes produced by a Utah-based company, Blackrock Neurotech. The Utah Array, as it’s known, can differentiate the signals of individual neurons, providing more refined control of connected devices, but the surgery it requires can result in infection, inflammation and scarring, which may contribute to eventual degradation of signal strength. Interfaces that reside outside the skull, like headsets that depend on EEG, are currently limited to eavesdropping on the collective firing of groups of neurons, sacrificing power and precision for safety. Further complicating the situation, most neural interfaces studied in labs require cumbersome hardware, cables and an entourage of computers, whereas most commercially available interfaces are essentially remote controls for rudimentary video games, toys, and apps. These commercial headsets don’t solve any real-world problems, and the more powerful systems in clinical studies are too impractical for everyday use."
+      },
+      {
+        "passage_number": 5,
+        "text": "With this problem in mind, Elon Musk’s company Neuralink has developed an array of flexible polymer threads studded with more than three thousand tiny electrodes connected to a bottlecap-size wireless radio and signal processor, as well as a robot that can surgically implant the threads in the brain, avoiding blood vessels to reduce inflammation. Neuralink has tested its system in animals and has said it would begin human trials this year."
+      },
+      {
+        "passage_number": 6,
+        "text": "Synchron, which is based in New York, has developed a device called a Stentrode that doesn’t require open-brain surgery. It is a four-centimeter, self-expanding tubular lattice of electrodes, which is inserted into one of the brain’s major blood vessels via the jugular vein. Once in place, a Stentrode detects local electric fields produced by nearby groups of neurons in the motor cortex and relays recorded signals to a wireless transmitter embedded in the chest, which passes them on to an external decoder. In 2021, Synchron became the first company to receive FDA approval to conduct human clinical trials of a permanently implantable brain-computer interface. So far, four people with varied levels of paralysis have received Stentrodes and used them, some in combination with eye-tracking and other assistive technologies, to control personal computers while unsupervised at home.<br><br>Philip O’Keefe, sixty-two, of Greendale, Australia, received a Stentrode in April 2020. Because of amyotrophic lateral sclerosis (ALS), O’Keefe can walk only short distances, cannot move his left arm, and is losing the ability to speak clearly. At first, he explained, he had to concentrate intensely on the imagined movements required to operate the system—in his case, thinking about moving his left ankle for different lengths of time. “But the more you use it, the more it’s like riding a bike,” he said. “You get to a stage where you don’t think so hard about the movement you need to make. You think about the function you need to execute, whether it’s opening an email, scrolling a web page, or typing some letters.” In December, O’Keefe became the first person in the world to post to Twitter using a neural interface: “No need for keystrokes or voices,” he wrote by mind. “I created this tweet just by thinking it. #helloworldbci”<br><br>Thomas Oxley, a neurologist and the founding CEO of Synchron, thinks future brain-computer interfaces will fall somewhere between LASIK and cardiac pacemakers in terms of their cost and safety, helping people with disabilities recover the capacity to engage with their physical surroundings and a rapidly evolving digital environment. “Beyond that,” he says, “if this technology allows anyone to engage with the digital world better than with an ordinary human body, that is where it gets really interesting. To express emotion, to express ideas—everything you do to communicate what is happening in your brain has to happen through the control of muscles. Brain-computer interfaces are ultimately going to enable a passage of information that goes beyond the limitations of the human body. And from that perspective, I think the capacity of the human brain is actually going to increase.”<br><br>There is no technology yet that can communicate human thoughts as fast as they occur. Fingers and thumbs will never move quickly enough. And there are many forms of information processing better suited to a computer than to a human brain. Oxley speculated about the possibility of using neural interfaces to enhance human memory, bolster innate navigational skills with a direct link to GPS, sharply increase the human brain’s computational abilities, and create a new form of communication in which emotions are wordlessly “thrown” from one mind to another. “It’s just the beginning of the dawn of this space,” Oxley said. “It’s really going to change the way we interact with one another as a species.”"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which of the following best summarizes the developments described in this passage?",
+        "options": {
+          "A": "The evolution of brain-computer interfaces from early animal experiments to human applications.",
+          "B": "The decline of traditional neurological research in favor of digital technologies.",
+          "C": "The challenges faced by scientists when recording the brain’s electrical signals.",
+          "D": "The limitations of early computer technologies in controlling robotic devices."
+        },
+        "answer": "A",
+        "explanation": "The passage outlines a historical progression from early experiments, such as Delgado’s work with animals, to breakthroughs in human applications, highlighting the evolution of brain-computer interfaces.",
+        "score_improvement_tip": "Focus on the overall progression and main ideas rather than getting bogged down in individual details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Which piece of evidence in this passage best supports the claim that neural interfaces can significantly improve communication for individuals with paralysis?",
+        "options": {
+          "A": "The description of machine-learning software improving interface efficiency.",
+          "B": "The account of Pancho’s neural interface enabling him to produce speech at 15 words per minute with 75% accuracy.",
+          "C": "The mention of predictive text algorithms in consumer devices.",
+          "D": "The comparison of human speech rates to those achieved by the interface."
+        },
+        "answer": "B",
+        "explanation": "The passage specifically details Pancho’s experience, where the neural interface enabled him to produce 15 words per minute with 75% accuracy, directly supporting the claim about improving communication for individuals with paralysis.",
+        "score_improvement_tip": "Identify and cite key details that directly back up claims made in the text."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What is the primary purpose of describing Dennis DeGray’s experience in this passage?",
+        "options": {
+          "A": "To highlight the limitations of current neural interface technology.",
+          "B": "To illustrate a breakthrough in speed and efficiency achieved through mental typing.",
+          "C": "To critique the invasive nature of the technology used.",
+          "D": "To compare different technological approaches to neural interfacing."
+        },
+        "answer": "B",
+        "explanation": "The passage emphasizes Dennis DeGray’s achievement as the world’s fastest mental typist, showcasing how his method improved typing speed compared to previous techniques.",
+        "score_improvement_tip": "Look for the author’s intent in including specific anecdotes and examples; in this case, the focus is on a significant improvement in performance."
+      },
+      {
+        "question_number": 4,
+        "domain": "Standard English Conventions",
+        "skill": "Form, Structure, and Sense",
+        "difficulty": "Easy",
+        "passage": 4,
+        "question": "Which of the following best explains the contrast between invasive and noninvasive neural interface technologies as described in this passage?",
+        "options": {
+          "A": "Invasive interfaces provide more precise control, while noninvasive ones offer increased safety but less precision.",
+          "B": "Noninvasive interfaces are more precise than invasive ones due to advanced technology.",
+          "C": "Both types of interfaces are equally effective but differ in cost.",
+          "D": "Invasive interfaces are preferred because they do not require complex hardware."
+        },
+        "answer": "A",
+        "explanation": "The passage explains that while invasive interfaces (like the Utah Array) offer refined control by recording individual neuron signals, they come with risks such as infection and scarring. In contrast, noninvasive interfaces are safer but less precise.",
+        "score_improvement_tip": "Pay close attention to comparative language and the trade-offs discussed in the text."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "What is the primary innovation of Neuralink’s system as described in this passage?",
+        "options": {
+          "A": "It employs a wireless radio and signal processor to eliminate cumbersome hardware.",
+          "B": "It uses flexible polymer threads and robotic implantation to reduce inflammation and avoid blood vessels.",
+          "C": "It integrates advanced machine-learning software to predict user intentions.",
+          "D": "It relies on noninvasive EEG headsets for improved safety."
+        },
+        "answer": "B",
+        "explanation": "The passage highlights that Neuralink’s innovation lies in its use of flexible polymer threads, which are implanted robotically to avoid blood vessels, thereby reducing inflammation compared to more invasive methods.",
+        "score_improvement_tip": "Focus on unique technological features described in the passage to differentiate between similar innovations."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "Based on this passage, what can be inferred about Thomas Oxley’s perspective on the future impact of neural interfaces?",
+        "options": {
+          "A": "They will remain confined to niche medical applications for the foreseeable future.",
+          "B": "They have the potential to revolutionize human communication and enhance cognitive abilities.",
+          "C": "They will be too costly and risky to have any broad impact on society.",
+          "D": "They will eventually replace traditional forms of physical interaction entirely."
+        },
+        "answer": "B",
+        "explanation": "Oxley speculates that neural interfaces could extend human capabilities by enhancing memory, navigational skills, and even the way we communicate, indicating a transformative societal impact.",
+        "score_improvement_tip": "When answering inference questions, look for forward-looking statements and implications that suggest broader changes beyond the immediate facts."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "How does the historical progression in this passage serve as a foundation for the developments discussed later in the article?",
+        "options": {
+          "A": "It questions the ethical implications of early neural research.",
+          "B": "It establishes a timeline that underpins later breakthroughs in brain-computer interfaces.",
+          "C": "It contrasts the successes of animal experiments with the failures in human trials.",
+          "D": "It primarily focuses on the limitations of early technology."
+        },
+        "answer": "B",
+        "explanation": "The passage outlines early successes and milestones that set the stage for later advancements, providing necessary historical context for the evolving field.",
+        "score_improvement_tip": "Connect earlier details with later developments by recognizing how foundational events influence subsequent innovations."
+      },
+      {
+        "question_number": 8,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "Which transition word or phrase best captures the shift in focus from earlier experiments to human applications in this passage?",
+        "options": {
+          "A": "However,",
+          "B": "Subsequently,",
+          "C": "Moreover,",
+          "D": "In contrast,"
+        },
+        "answer": "B",
+        "explanation": "The term 'Subsequently' effectively signals the progression from earlier experimental work to the significant human applications described later in the passage.",
+        "score_improvement_tip": "Pay attention to transitional phrases that indicate a shift in time or focus, as they often connect different parts of the argument."
+      },
+      {
+        "question_number": 9,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "In this passage, which sentence best maintains the logical boundary between the description of experimental methods and the discussion of personal experience?",
+        "options": {
+          "A": "He mentally wrote thousands of words in order for the system to reliably recognize the unique patterns of neural activity.",
+          "B": "“You really learn to hate M’s after a while,” he told me with characteristic good humor.",
+          "C": "Ultimately, the method was extremely successful.",
+          "D": "DeGray was able to type up to ninety characters or eighteen words a minute."
+        },
+        "answer": "A",
+        "explanation": "Option A focuses on the technical process of training the system, clearly delineating the experimental method from the personal reflections that follow.",
+        "score_improvement_tip": "Distinguish between descriptive details of methodology and anecdotal remarks by noting shifts in tone and content."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What does the concluding statement in this passage suggest about the broader societal implications of neural interfaces?",
+        "options": {
+          "A": "They will be limited to clinical and entertainment uses.",
+          "B": "They may fundamentally transform how humans communicate and process information.",
+          "C": "They will only benefit individuals with severe physical disabilities.",
+          "D": "They will quickly become obsolete due to emerging technologies."
+        },
+        "answer": "B",
+        "explanation": "The passage’s concluding remarks hint at a future where neural interfaces not only assist those with disabilities but also enhance human cognitive and communicative capabilities, suggesting a transformative impact on society.",
+        "score_improvement_tip": "Consider the long-term implications discussed in the text, and use inferential reasoning to understand how specific technological advancements might influence broader societal changes."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of complex analytical skills, including advanced reasoning, synthesis of multiple textual elements, and precise interpretation of nuanced evidence.",
+      "700_level_performance": "Students at this level show strong comprehension and reasoning skills but may occasionally struggle with questions that require higher-level analysis and synthesis of detailed information."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and inferential skills, often requiring students to integrate multiple pieces of information and draw nuanced conclusions.",
+      "medium_questions": "Medium questions assess comprehension and the ability to understand transitional language and structural elements that support the text’s overall argument.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the identification of explicit details and central ideas in the text."
+    }
+  }
+  

@@ -1,0 +1,223 @@
+{
+  "article_title": "THE POWER OF STRATEGIC FIT",
+  "article_author": "Darrell Rigby",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Strategic Fit", "Spreadsheet Strategies", "Corporate Management", "Business Valuation"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Facing heavy pressure to improve the worth of their company, many managers have turned to what we call “spreadsheet strategies.” They set financial goals sufficient to meet analysts’ expectations and then fill in row by row, column after column, tweaking the numbers to find a plan that appears plausible and then backing into ways to achieve it. That approach has four flaws."
+    },
+    {
+      "passage_number": 2,
+      "text": "First, it grants excessive credence to archaic accounting rules as the best way to measure the value of modern companies. Accounting rules designed for the industrial age are less relevant in an era of digital technologies and powerful intangibles. Consider the valuation of assets. An asset is any resource (tangible or intangible) controlled by a company that can produce future economic value—though it might take decades to flow into income statements. Ocean Tomo, a provider of advisory services on assets, calculates that in 1975 tangible assets—such as land, buildings, and machinery—accounted for 83% of the market value of the S&P 500. By 2020 that figure had plummeted to just 10%. The remaining 90% consisted of intangible assets such as patents, trade secrets, and brand equity. Annie Brown, the valuation director at Brand Finance, a brand advisory consultancy, told us that today only 24% of those intangibles are disclosed on S&P 500 balance sheets. In other words, nearly 70% of all assets driving the market valuations of major companies are invisible on financial statements and spreadsheets. Nevertheless, those assets are the reason that the stock price of Amazon (founded in 1994) soared even though the company didn’t realize a quarterly profit until 2001 or positive annual free cash flow until 2002."
+    },
+    {
+      "passage_number": 3,
+      "text": "Second, spreadsheet strategies typically extrapolate positive linear relationships ad infinitum. For instance, if a $10 million reduction in R&D spending correlated with improved profits last year, then this approach suggests that a $20 million cut would double the financial benefits in the following year. If market share increased for eight years but recently declined for two, spreadsheet regression functions might persuasively predict that market share should soon return to its upward-sloping trend line. Simplistic extrapolations overlook the realities of diminishing returns and the complexities of competitive system dynamics."
+    },
+    {
+      "passage_number": 4,
+      "text": "Third, these strategies assume that practices are interchangeable. When leaders allocate spreadsheet targets to individual operating units—along with powerful incentives to achieve them—the heads of the operating units often look to the “best practices” of other companies with better financial results. But strong financial performers sometimes succeed despite certain practices rather than because of them, and transplanting practices from one complex system to another rarely yields the same results. Various parts of a company may adopt diverse management practices that serve their own purposes even when they are misaligned with practices in other parts of the company."
+    },
+    {
+      "passage_number": 5,
+      "text": "Fourth, spreadsheet strategies divorce corporate strategy from unit operations. Division leaders, tasked with achieving daunting financial targets, come to view corporate strategy sessions as irrelevant to their personal responsibilities. They spend most of that meeting time on their devices, communicating with their units instead of collaborating with their peers. Eventually this disunity causes a company to operate like a collection of loosely affiliated businesses—and its shares to trade at conglomerate discounts. That leads to communication breakdowns, lost synergies, and increased overhead costs associated with the additional supervision and conflict resolution required to compensate for the lack of strategic fit."
+    },
+    {
+      "passage_number": 6,
+      "text": "Strategic fit is the degree of alignment and amount of synergy in a company’s business system. When a firm’s strategic fit is optimal, it creates beneficial multiplier effects among all the components of the business. One component, for example, is employees. When employees are aligned with other components—such as the company’s purpose—their engagement increases. Engaged employees develop more-innovative products, the kind that create enthusiastic and loyal customers. Enthusiastic customers attract other customers, improve financial results, and make employees’ jobs more fulfilling. Enhanced financial performance can generate the money needed to provide better employee benefits, to invest in creating appealing customer offerings, and to contribute more to the community. Strategic fit produces a system that is nearly impossible for competitors to replicate—provided the company adapts effectively to changing conditions."
+    },
+    {
+      "passage_number": 7,
+      "text": "This concept is sorely underutilized but not completely new. In the mid-1800s Charles Darwin popularized the phrase “survival of the fittest,” explaining that groups with traits most advantageous to their environment are most likely to survive, and that cohesive, collaborative teams outperform selfish, contentious groups. In the 1960s Alfred D. Chandler Jr. showed how market changes and new technologies necessitate strategy changes, which drive organizational changes—leading to his “structure follows strategy” principle. In his 1996 HBR article “What Is Strategy?” Michael Porter advanced the concept of strategic fit, emphasizing that the system of activities is more critical than individual parts, and warning against attributing success to individual competencies alone. Roger L. Martin and A.G. Lafley’s “strategy choice cascade” broke strategy formulation into five key choices, with each reinforcing the others."
+    },
+    {
+      "passage_number": 8,
+      "text": "Unfortunately, strategic fit has been more easily described by academics than done by executives. Even leaders who appreciate the value of strategic fit struggle to understand how to achieve and sustain it. Which components must align? Is the process a cascading sequence of strategic choices? How often should our strategic fit be reviewed? In previous books and articles, we have offered executives methods to improve components of their strategy. We have described, for example, ways to develop a clear and compelling corporate purpose; how to create an operating model that increases organizational agility; and how to increase value creation for the benefit of all stakeholders, including how individual companies can model and measure it. In this article we will explain how executives can tie these and other essential components of a successful strategy together, creating a synergistic system that continually increases company value by improving strategic fit."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main purpose of introducing 'spreadsheet strategies' in the text?",
+      "options": {
+        "A": "To praise their effectiveness in meeting financial goals",
+        "B": "To outline their four inherent flaws",
+        "C": "To compare them with historical accounting methods",
+        "D": "To suggest they are the best for modern companies"
+      },
+      "answer": "B",
+      "explanation": "The text introduces spreadsheet strategies and immediately states that the approach has four flaws, making B the correct choice.",
+      "score_improvement_tip": "Focus on the author's intent by identifying key phrases that signal criticism or analysis right after an introduction."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the text, 'plummeted' most nearly means",
+      "options": {
+        "A": "stabilized",
+        "B": "dropped sharply",
+        "C": "increased gradually",
+        "D": "remained constant"
+      },
+      "answer": "B",
+      "explanation": "The word 'plummeted' describes a rapid decline from 83% to 10% in the value of tangible assets, aligning with 'dropped sharply.'",
+      "score_improvement_tip": "Use surrounding numerical data to infer the meaning of descriptive words indicating change."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main idea of the text?",
+      "options": {
+        "A": "Spreadsheet strategies accurately predict market share trends",
+        "B": "Extrapolations in spreadsheet strategies ignore real-world complexities",
+        "C": "Reducing R&D spending always leads to doubled profits",
+        "D": "Competitive dynamics are easily modeled in spreadsheets"
+      },
+      "answer": "B",
+      "explanation": "The text criticizes simplistic extrapolations for overlooking diminishing returns and competitive complexities, supporting B.",
+      "score_improvement_tip": "Distinguish between examples used to illustrate flaws and the overarching critique of the method."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author primarily uses the discussion of 'best practices' to",
+      "options": {
+        "A": "recommend adopting them from successful companies",
+        "B": "illustrate why practices are not always transferable",
+        "C": "argue for uniform management across company units",
+        "D": "explain how incentives improve financial results"
+      },
+      "answer": "B",
+      "explanation": "The text warns that transplanting practices rarely works due to complex systems, using 'best practices' as an example of this flaw.",
+      "score_improvement_tip": "Identify the rhetorical purpose by noting contrast words like 'but' that signal limitations or warnings."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "That leads to communication breakdowns, lost synergies, and increased overhead costs",
+        "B": "That lead to communication breakdowns, lost synergies, and increased overhead costs",
+        "C": "That leading to communication breakdowns, lost synergies, and increased overhead costs",
+        "D": "That leads to communication breakdowns, lost synergies, and increase overhead costs"
+      },
+      "answer": "A",
+      "explanation": "The subject 'That' refers to a singular antecedent ('disunity'), requiring the verb 'leads' and parallel structure in the list.",
+      "score_improvement_tip": "Check for subject-verb agreement and maintain parallelism in lists for grammatical consistency."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the text, the author would most likely agree that optimal strategic fit primarily benefits a company by",
+      "options": {
+        "A": "eliminating the need for adaptation to changes",
+        "B": "creating a replicable system for competitors",
+        "C": "generating multiplier effects across business components",
+        "D": "focusing solely on financial performance metrics"
+      },
+      "answer": "C",
+      "explanation": "The text describes strategic fit as creating beneficial multiplier effects, such as engaged employees leading to innovative products and loyal customers, inferring interconnected benefits.",
+      "score_improvement_tip": "Infer agreements by synthesizing examples into broader principles, avoiding options that contradict conditional phrases like 'provided the company adapts.'"
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "How does the author's reference to Michael Porter's work relate to the concept introduced by Charles Darwin?",
+      "options": {
+        "A": "It contradicts Darwin by emphasizing individual parts over systems",
+        "B": "It extends Darwin's idea by applying fit to business activities",
+        "C": "It dismisses Darwin in favor of modern strategy principles",
+        "D": "It equates Darwin's teams with Porter's competencies"
+      },
+      "answer": "B",
+      "explanation": "Darwin's 'survival of the fittest' highlights cohesive groups, which Porter advances by stressing systems over parts in strategy, creating a connection of extension.",
+      "score_improvement_tip": "Trace historical references to identify patterns of evolution or reinforcement in ideas across thinkers."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "The author most likely includes questions like 'Which components must align?' to",
+      "options": {
+        "A": "criticize executives for ignoring academic descriptions",
+        "B": "highlight practical challenges in implementing strategic fit",
+        "C": "suggest that strategic fit is unattainable for most leaders",
+        "D": "provide answers based on previous books and articles"
+      },
+      "answer": "B",
+      "explanation": "The rhetorical questions illustrate executives' struggles, synthesizing the gap between theory and practice to set up the article's explanatory purpose.",
+      "score_improvement_tip": "Analyze rhetorical devices like questions to determine how they bridge problems to proposed solutions."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Quantitative)",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "According to the text, the shift in asset composition from 1975 to 2020 most strongly supports which conclusion?",
+      "options": {
+        "A": "Tangible assets have become more valuable over time",
+        "B": "Accounting rules adequately capture modern company value",
+        "C": "Intangible assets dominate current market valuations",
+        "D": "Balance sheets fully disclose all intangible assets"
+      },
+      "answer": "C",
+      "explanation": "The data shows tangible assets dropping from 83% to 10%, implying intangibles now comprise 90%, supporting the dominance in valuations despite disclosure issues.",
+      "score_improvement_tip": "Use quantitative data to draw inferences, ensuring conclusions align with trends rather than absolute values."
+    },
+    {
+      "question_number": 10,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice most logically completes the text?",
+      "options": {
+        "A": "Nevertheless, this disunity causes a company to operate like a collection of loosely affiliated businesses",
+        "B": "In contrast, this disunity causes a company to operate like a collection of loosely affiliated businesses",
+        "C": "Eventually, this disunity causes a company to operate like a collection of loosely affiliated businesses",
+        "D": "For example, this disunity causes a company to operate like a collection of loosely affiliated businesses"
+      },
+      "answer": "C",
+      "explanation": "The transition 'Eventually' logically connects the progression from disengaged meetings to long-term operational consequences, maintaining chronological flow.",
+      "score_improvement_tip": "Select transitions that reflect temporal or causal relationships in the sequence of ideas."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, synthesis, and rhetorical analysis, accurately interpreting complex relationships and evidence across texts.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter in nuanced inferences or cross-text connections."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions require deep inference, synthesis of ideas, and analysis of rhetorical elements or quantitative evidence in complex contexts.",
+    "medium_questions": "Medium questions focus on main ideas, structural purposes, and conventional grammar, demanding careful reading of details.",
+    "easy_questions": "Easy questions test basic identification of central ideas and word meanings using direct textual clues."
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "test_metadata": {
+    "focus_domains": ["Problem-Solving and Data Analysis"],
+    "focus_skills": ["Probability and conditional probability"],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A jar contains 10 marbles: 4 red, 3 blue, and 3 green. If one marble is chosen at random, what is the probability it is blue?",
+      "options": {
+        "A": "<math><mfrac><mn>3</mn><mn>10</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>3</mn><mn>7</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>4</mn><mn>10</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>7</mn><mn>10</mn></mfrac></math>"
+      },
+      "answer": "A",
+      "explanation": "There are <math><mn>10</mn></math> marbles total and <math><mn>3</mn></math> are blue. The probability is <math><mfrac><mn>3</mn><mn>10</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For equally likely outcomes, probability is favorable outcomes divided by total outcomes.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A number is chosen at random from the integers 1 through 12, inclusive. What is the probability the number is prime?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>3</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>5</mn><mn>12</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>7</mn><mn>12</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "The primes from <math><mn>1</mn></math> to <math><mn>12</mn></math> are <math><mn>2</mn></math>, <math><mn>3</mn></math>, <math><mn>5</mn></math>, <math><mn>7</mn></math>, and <math><mn>11</mn></math>, which is <math><mn>5</mn></math> numbers out of <math><mn>12</mn></math>. The probability is <math><mfrac><mn>5</mn><mn>12</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When the sample space is small, listing outcomes can be faster than using a formula.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A spinner has 8 equal sections labeled A, A, A, B, B, C, C, C. The spinner is spun once. What is the probability it does not land on B?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>5</mn><mn>8</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "There are <math><mn>2</mn></math> B sections out of <math><mn>8</mn></math>, so <math><mi>P</mi><mo>(</mo><mtext>B</mtext><mo>)</mo><mo>=</mo><mfrac><mn>2</mn><mn>8</mn></mfrac></math>. The probability of not landing on B is <math><mn>1</mn><mo>-</mo><mfrac><mn>2</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>6</mn><mn>8</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Using the complement (<math><mn>1</mn><mo>-</mo><mi>P</mi></math>) can simplify counting.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A standard deck of 52 playing cards has 12 face cards (jacks, queens, and kings). If one card is drawn at random, what is the probability it is a face card?",
+      "options": {
+        "A": "<math><mfrac><mn>3</mn><mn>13</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>12</mn><mn>40</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>9</mn><mn>13</mn></mfrac></math>"
+      },
+      "answer": "A",
+      "explanation": "The probability is <math><mfrac><mn>12</mn><mn>52</mn></mfrac></math>. Simplify by dividing numerator and denominator by <math><mn>4</mn></math>: <math><mfrac><mn>12</mn><mn>52</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>13</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "After forming a probability fraction, simplify it to match answer choices more easily.",
+      "additional_data": null
+    },
+    {
+      "question_number": 5,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A bag contains 10 chips: 4 red and 6 blue. Two chips are drawn at random without replacement. What is the probability both chips are red?",
+      "options": {
+        "A": "<math><mfrac><mn>2</mn><mn>15</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>4</mn><mn>25</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>8</mn><mn>45</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>4</mn><mn>15</mn></mfrac></math>"
+      },
+      "answer": "A",
+      "explanation": "First red: <math><mfrac><mn>4</mn><mn>10</mn></mfrac></math>. Without replacement, second red: <math><mfrac><mn>3</mn><mn>9</mn></mfrac></math>. Multiply: <math><mfrac><mn>4</mn><mn>10</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>3</mn><mn>9</mn></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>90</mn></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>15</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For sequential events without replacement, update the counts before the second probability.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A store has 120 headphones in stock. Of these, 30 are refurbished and 90 are new. Among the refurbished headphones, 6 are defective. Among the new headphones, 3 are defective. If a headphone is chosen at random and is found to be defective, what is the probability it was refurbished? Give your answer as a fraction in simplest form.",
+      "options": null,
+      "answer": "2/3",
+      "explanation": "Given the headphone is defective, restrict attention to defective headphones only. There are <math><mn>6</mn><mo>+</mo><mn>3</mn><mo>=</mo><mn>9</mn></math> defective headphones total. Of these, <math><mn>6</mn></math> are refurbished. So <math><mi>P</mi><mo>(</mo><mtext>refurbished</mtext><mo>|</mo><mtext>defective</mtext><mo>)</mo><mo>=</mo><mfrac><mn>6</mn><mn>9</mn></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For conditional probability, rewrite the sample space as “given B happened” and recompute the fraction within that smaller group.",
+      "additional_data": {
+        "expected_answer_format": "fraction in simplest form"
+      }
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A fair coin is flipped twice. What is the probability of getting at least one head?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
+        "D": "<math><mn>1</mn></math>"
+      },
+      "answer": "C",
+      "explanation": "Use the complement: “at least one head” is <math><mn>1</mn><mo>-</mo><mi>P</mi><mo>(</mo><mtext>no heads</mtext><mo>)</mo></math>. No heads means two tails: <math><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>4</mn></mfrac></math>. So the probability is <math><mn>1</mn><mo>-</mo><mfrac><mn>1</mn><mn>4</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "“At least one” problems are often fastest using the complement (“none”).",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A card is drawn at random from a standard deck of 52 cards. Given that the card is red, what is the probability it is a diamond?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>13</mn><mn>52</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>26</mn><mn>52</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "Given the card is red, the sample space is the <math><mn>26</mn></math> red cards. Of these, <math><mn>13</mn></math> are diamonds. So <math><mi>P</mi><mo>(</mo><mtext>diamond</mtext><mo>|</mo><mtext>red</mtext><mo>)</mo><mo>=</mo><mfrac><mn>13</mn><mn>26</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In conditional probability, the “given” information changes the denominator.",
+      "additional_data": null
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Events <math><mi>A</mi></math> and <math><mi>B</mi></math> have probabilities <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.30</mn></math>, <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.50</mn></math>, and <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.15</mn></math>. Are <math><mi>A</mi></math> and <math><mi>B</mi></math> independent?",
+      "options": {
+        "A": "Yes, because <math><mn>0.30</mn><mo>&#xd7;</mo><mn>0.50</mn><mo>=</mo><mn>0.15</mn></math>",
+        "B": "Yes, because <math><mn>0.30</mn><mo>+</mo><mn>0.50</mn><mo>=</mo><mn>0.80</mn></math>",
+        "C": "No, because <math><mn>0.15</mn><mo>&#x2260;</mo><mn>0.30</mn></math>",
+        "D": "No, because independent events must be mutually exclusive"
+      },
+      "answer": "A",
+      "explanation": "Events are independent if <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>. Here, <math><mn>0.30</mn><mo>&#xd7;</mo><mn>0.50</mn><mo>=</mo><mn>0.15</mn></math>, so the condition is met.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Memorize one independence test and apply it directly: <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a survey of 100 students, 60 say they like tea, 50 say they like coffee, and 20 say they like both tea and coffee. If one student from the survey is chosen at random, what is the probability the student likes tea or coffee?",
+      "options": {
+        "A": "<math><mn>0.70</mn></math>",
+        "B": "<math><mn>0.80</mn></math>",
+        "C": "<math><mn>0.90</mn></math>",
+        "D": "<math><mn>1.10</mn></math>"
+      },
+      "answer": "C",
+      "explanation": "Use the addition rule: <math><mi>P</mi><mo>(</mo><mi>T</mi><mo>&#x222a;</mo><mi>C</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>T</mi><mo>)</mo><mo>+</mo><mi>P</mi><mo>(</mo><mi>C</mi><mo>)</mo><mo>-</mo><mi>P</mi><mo>(</mo><mi>T</mi><mo>&#x2229;</mo><mi>C</mi><mo>)</mo></math>. In counts, that is <math><mfrac><mrow><mn>60</mn><mo>+</mo><mn>50</mn><mo>-</mo><mn>20</mn></mrow><mn>100</mn></mfrac><mo>=</mo><mfrac><mn>90</mn><mn>100</mn></mfrac><mo>=</mo><mn>0.90</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When two groups overlap, subtract the “both” count once to avoid double-counting.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A factory uses three machines. Machine A makes 40% of the parts and 1% of its parts are defective. Machine B makes 35% of the parts and 2% of its parts are defective. Machine C makes 25% of the parts and 4% of its parts are defective. A part is chosen at random and found to be defective. What is the probability it was made by Machine C?",
+      "options": {
+        "A": "<math><mfrac><mn>10</mn><mn>21</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>5</mn><mn>21</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>"
+      },
+      "answer": "A",
+      "explanation": "Compute each machine’s contribution to defective parts: A: <math><mn>0.40</mn><mo>&#xd7;</mo><mn>0.01</mn><mo>=</mo><mn>0.004</mn></math>, B: <math><mn>0.35</mn><mo>&#xd7;</mo><mn>0.02</mn><mo>=</mo><mn>0.007</mn></math>, C: <math><mn>0.25</mn><mo>&#xd7;</mo><mn>0.04</mn><mo>=</mo><mn>0.010</mn></math>. Total defective probability is <math><mn>0.004</mn><mo>+</mo><mn>0.007</mn><mo>+</mo><mn>0.010</mn><mo>=</mo><mn>0.021</mn></math>. Then <math><mi>P</mi><mo>(</mo><mi>C</mi><mo>|</mo><mtext>defective</mtext><mo>)</mo><mo>=</mo><mfrac><mn>0.010</mn><mn>0.021</mn></mfrac><mo>=</mo><mfrac><mn>10</mn><mn>21</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For “given defective,” first find the total defective rate, then form a ratio: (defective from target group)/(defective overall).",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Two cards are drawn at random without replacement from a standard deck of 52 cards. Given that at least one of the cards is an ace, what is the probability that both cards are aces?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>33</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>1</mn><mn>17</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>1</mn><mn>13</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>4</mn><mn>51</mn></mfrac></math>"
+      },
+      "answer": "A",
+      "explanation": "Let <math><mi>A</mi></math> be the event both cards are aces, and let <math><mi>B</mi></math> be the event at least one card is an ace. Since <math><mi>A</mi></math> implies <math><mi>B</mi></math>, <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>|</mo><mi>B</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo></mrow><mrow><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></mrow></mfrac></math>. Compute <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>4</mn><mn>52</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>3</mn><mn>51</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>221</mn></mfrac></math>. Also, <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>1</mn><mo>-</mo><mi>P</mi><mo>(</mo><mtext>no aces</mtext><mo>)</mo></math> where <math><mi>P</mi><mo>(</mo><mtext>no aces</mtext><mo>)</mo><mo>=</mo><mfrac><mn>48</mn><mn>52</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>47</mn><mn>51</mn></mfrac><mo>=</mo><mfrac><mn>188</mn><mn>221</mn></mfrac></math>, so <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mfrac><mn>33</mn><mn>221</mn></mfrac></math>. Therefore <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>|</mo><mi>B</mi><mo>)</mo><mo>=</mo><mfrac><mfrac><mn>1</mn><mn>221</mn></mfrac><mfrac><mn>33</mn><mn>221</mn></mfrac></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>33</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When the condition is “at least one,” try a complement first to find that probability efficiently.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A box contains 10 balls: 5 red and 5 blue. Three balls are drawn at random without replacement. What is the probability exactly 2 of the balls drawn are red?",
+      "options": {
+        "A": "<math><mfrac><mn>1</mn><mn>2</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>5</mn><mn>12</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>1</mn><mn>4</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>7</mn><mn>12</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "Use combinations. Ways to choose exactly 2 red and 1 blue: <math><mrow><mi>C</mi><mo>(</mo><mn>5</mn><mo>,</mo><mn>2</mn><mo>)</mo><mi>C</mi><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></mrow></math> = <math><mn>10</mn><mo>&#xd7;</mo><mn>5</mn></math>. Total ways to choose 3 from 10: <math><mi>C</mi><mo>(</mo><mn>10</mn><mo>,</mo><mn>3</mn><mo>)</mo></math> = <math><mn>120</mn></math>. Probability <math><mo>=</mo><mfrac><mrow><mn>10</mn><mo>&#xd7;</mo><mn>5</mn></mrow><mn>120</mn></mfrac><mo>=</mo><mfrac><mn>50</mn><mn>120</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For “exactly k” without replacement, combinations often avoid messy casework.",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A game costs $2 to play. A fair spinner has three outcomes: with probability <math><mfrac><mn>1</mn><mn>2</mn></mfrac></math> you win $0, with probability <math><mfrac><mn>1</mn><mn>3</mn></mfrac></math> you win $2, and with probability <math><mfrac><mn>1</mn><mn>6</mn></mfrac></math> you win $5. What is the expected value of your net gain (winnings minus the $2 cost) per play?",
+      "options": {
+        "A": "<math><mo>-</mo><mn>0.50</mn></math>",
+        "B": "<math><mn>0</mn></math>",
+        "C": "<math><mn>0.50</mn></math>",
+        "D": "<math><mn>1.50</mn></math>"
+      },
+      "answer": "A",
+      "explanation": "Compute net gain for each outcome (winnings minus <math><mn>2</mn></math>): if you win <math><mn>0</mn></math>, net is <math><mo>-</mo><mn>2</mn></math>; if you win <math><mn>2</mn></math>, net is <math><mn>0</mn></math>; if you win <math><mn>5</mn></math>, net is <math><mn>3</mn></math>. The expected net gain is <math><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>&#xd7;</mo><mo>-</mo><mn>2</mn><mo>+</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo>&#xd7;</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>6</mn></mfrac><mo>&#xd7;</mo><mn>3</mn></math> = <math><mo>-</mo><mn>1</mn><mo>+</mo><mn>0</mn><mo>+</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>=</mo><mo>-</mo><mn>0.50</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Expected value is a weighted average: multiply each outcome by its probability and add.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "For events <math><mi>A</mi></math> and <math><mi>B</mi></math>, <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>|</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.60</mn></math> and <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.25</mn></math>. If <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.40</mn></math>, what is <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>|</mo><mi>A</mi><mo>)</mo></math>?",
+      "options": {
+        "A": "<math><mn>0.150</mn></math>",
+        "B": "<math><mn>0.250</mn></math>",
+        "C": "<math><mn>0.375</mn></math>",
+        "D": "<math><mn>0.600</mn></math>"
+      },
+      "answer": "C",
+      "explanation": "First find the intersection: <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>|</mo><mi>B</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.60</mn><mo>&#xd7;</mo><mn>0.25</mn><mo>=</mo><mn>0.15</mn></math>. Then <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>|</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo></mrow><mrow><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mn>0.15</mn><mn>0.40</mn></mfrac><mo>=</mo><mn>0.375</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Convert between conditional and intersection using <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>|</mo><mi>B</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A bin contains 100 batteries, 3 of which are defective. Two batteries are chosen at random without replacement. What is the probability that neither battery is defective? Give your answer as a decimal to the nearest thousandth.",
+      "options": null,
+      "answer": "0.941",
+      "explanation": "Non-defective batteries: <math><mn>97</mn></math>. Probability both chosen are non-defective is <math><mfrac><mn>97</mn><mn>100</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>96</mn><mn>99</mn></mfrac></math> = <math><mfrac><mn>9312</mn><mn>9900</mn></mfrac></math> = <math><mn>0.940606</mn></math>, which rounds to <math><mn>0.941</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For “none are defective,” multiply the non-defective probabilities and round at the end.",
+      "additional_data": {
+        "expected_answer_format": "decimal to nearest thousandth"
+      }
+    },
+    {
+      "question_number": 17,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Events <math><mi>A</mi></math> and <math><mi>B</mi></math> are independent. If <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mn>0.55</mn></math> and <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x222a;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mn>0.85</mn></math>, what is <math><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>? Give your answer as a fraction in simplest form.",
+      "options": null,
+      "answer": "2/3",
+      "explanation": "For independent events, <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>. Also, <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x222a;</mo><mi>B</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>+</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>-</mo><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo></math>. Let <math><mi>p</mi><mo>=</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math>. Then <math><mn>0.85</mn><mo>=</mo><mn>0.55</mn><mo>+</mo><mi>p</mi><mo>-</mo><mn>0.55</mn><mi>p</mi></math>. So <math><mn>0.30</mn><mo>=</mo><mi>p</mi><mo>(</mo><mn>1</mn><mo>-</mo><mn>0.55</mn><mo>)</mo><mo>=</mo><mn>0.45</mn><mi>p</mi></math>, giving <math><mi>p</mi><mo>=</mo><mfrac><mn>0.30</mn><mn>0.45</mn></mfrac><mo>=</mo><mfrac><mn>30</mn><mn>45</mn></mfrac><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When “independent” appears, replace <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>&#x2229;</mo><mi>B</mi><mo>)</mo></math> with <math><mi>P</mi><mo>(</mo><mi>A</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>B</mi><mo>)</mo></math> to create an equation you can solve.",
+      "additional_data": {
+        "expected_answer_format": "fraction in simplest form"
+      }
+    },
+    {
+      "question_number": 18,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A computer virus is detected in a file with probability <math><mn>0.20</mn></math> on a given scan, and scans are independent. If a file is scanned 4 times, what is the probability the virus is detected at least once? Give your answer as a decimal to the nearest ten-thousandth.",
+      "options": null,
+      "answer": "0.5904",
+      "explanation": "Use the complement: at least once <math><mo>=</mo><mn>1</mn><mo>-</mo><mi>P</mi><mo>(</mo><mtext>never detected</mtext><mo>)</mo></math>. Never detected on one scan has probability <math><mn>1</mn><mo>-</mo><mn>0.20</mn><mo>=</mo><mn>0.80</mn></math>. Over <math><mn>4</mn></math> independent scans: <math><msup><mn>0.80</mn><mn>4</mn></msup><mo>=</mo><mn>0.4096</mn></math>. So the answer is <math><mn>1</mn><mo>-</mo><mn>0.4096</mn><mo>=</mo><mn>0.5904</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For repeated independent trials, “at least one” is usually <math><mn>1</mn><mo>-</mo><mtext>(none)</mtext></math>.",
+      "additional_data": {
+        "expected_answer_format": "decimal to nearest ten-thousandth"
+      }
+    },
+    {
+      "question_number": 19,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In a large shipment, 2% of devices are defective. A test flags a device as defective with probability <math><mn>0.90</mn></math> if it is truly defective, and with probability <math><mn>0.05</mn></math> if it is not defective. If a device is randomly selected and the test flags it as defective, what is the probability the device is actually defective? Give your answer as a decimal to the nearest thousandth.",
+      "options": null,
+      "answer": "0.269",
+      "explanation": "Let <math><mi>D</mi></math> be defective and <math><mi>F</mi></math> be flagged. Then <math><mi>P</mi><mo>(</mo><mi>D</mi><mo>)</mo><mo>=</mo><mn>0.02</mn></math>, <math><mi>P</mi><mo>(</mo><mi>F</mi><mo>|</mo><mi>D</mi><mo>)</mo><mo>=</mo><mn>0.90</mn></math>, and <math><mi>P</mi><mo>(</mo><mi>F</mi><mo>|</mo><mtext>not </mtext><mi>D</mi><mo>)</mo><mo>=</mo><mn>0.05</mn></math>. Compute <math><mi>P</mi><mo>(</mo><mi>F</mi><mo>)</mo><mo>=</mo><mi>P</mi><mo>(</mo><mi>F</mi><mo>|</mo><mi>D</mi><mo>)</mo><mi>P</mi><mo>(</mo><mi>D</mi><mo>)</mo><mo>+</mo><mi>P</mi><mo>(</mo><mi>F</mi><mo>|</mo><mtext>not </mtext><mi>D</mi><mo>)</mo><mi>P</mi><mo>(</mo><mtext>not </mtext><mi>D</mi><mo>)</mo></math> = <math><mn>0.90</mn><mo>&#xd7;</mo><mn>0.02</mn><mo>+</mo><mn>0.05</mn><mo>&#xd7;</mo><mn>0.98</mn><mo>=</mo><mn>0.018</mn><mo>+</mo><mn>0.049</mn><mo>=</mo><mn>0.067</mn></math>. Then <math><mi>P</mi><mo>(</mo><mi>D</mi><mo>|</mo><mi>F</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mn>0.90</mn><mo>&#xd7;</mo><mn>0.02</mn></mrow><mn>0.067</mn></mfrac><mo>=</mo><mfrac><mn>0.018</mn><mn>0.067</mn></mfrac><mo>=</mo><mn>0.268657</mn></math>, which rounds to <math><mn>0.269</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In “test accuracy” problems, compute the total flagged probability before dividing to get the conditional probability.",
+      "additional_data": {
+        "expected_answer_format": "decimal to nearest thousandth"
+      }
+    },
+    {
+      "question_number": 20,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A student randomly selects 2 different books from a shelf containing 5 fiction books and 3 nonfiction books. What is the probability both selected books are fiction?",
+      "options": {
+        "A": "<math><mfrac><mn>5</mn><mn>8</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>5</mn><mn>14</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>5</mn><mn>28</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>3</mn><mn>14</mn></mfrac></math>"
+      },
+      "answer": "B",
+      "explanation": "The probability the first book is fiction is <math><mfrac><mn>5</mn><mn>8</mn></mfrac></math>. Without replacement, the probability the second is fiction is <math><mfrac><mn>4</mn><mn>7</mn></mfrac></math>. Multiply: <math><mfrac><mn>5</mn><mn>8</mn></mfrac><mo>&#xd7;</mo><mfrac><mn>4</mn><mn>7</mn></mfrac><mo>=</mo><mfrac><mn>20</mn><mn>56</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>14</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Check whether the problem says “without replacement”; if so, the denominator changes for the second selection.",
+      "additional_data": null
+    }
+  ]
+}

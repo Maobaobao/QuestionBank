@@ -1,0 +1,215 @@
+{
+    "article_title": "GOOD JOBS ARE GOOD BUSINESS",
+    "article_author": "Zeynep Ton",
+    "article_date": "July 3, 2023",
+    "article_source": "Time USA",
+    "article_category": "Essay",
+    "article_tags": ["Leadership", "Workplace Culture", "Business Strategy", "Productivity", "Employment"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "At most companies with which the Good Jobs Institute has worked, employers poured the equivalent of 10% to 25% of their labor budget into replacement costs—the costs to recruit, train, and reach baseline productivity, only to start all over again when employees leave. But those costs pale in comparison with costs from the inevitable poor operational execution that takes place when there is high turnover: lower sales from mistakes, slow service, and customer dissatisfaction; higher product costs from more errors, overtime, and reduced labor productivity."
+      },
+      {
+        "passage_number": 2,
+        "text": "High turnover also hurts company performance. Managers are always fighting fires, never having enough time to hire and train well. Inevitably, these companies don’t trust their frontliners to do a good job, and they design the jobs for interchangeable pairs of hands rather than humans with brains, wasting so much talent and potential along the way. Understaffing is common, which causes even more problems and creates anxiety for employees and their managers. Overworked managers then leave or ask to be demoted. Expectations become dismally low."
+      },
+      {
+        "passage_number": 3,
+        "text": "High turnover is not just expensive. It’s ruinous. And a system based on low pay and high turnover is a weak match for what’s coming. With more retirements, it’s not going to get any easier to hire and retain frontline workers. A leaked Amazon memo from 2022 revealed that the company had to change its expansion plans because, given its high turnover rate, it would simply run out of people within a few years. With frontline employees in high demand and new minimum-wage regulations, continuously rising wages are inevitable, and companies will face increasing costs for the same output."
+      },
+      {
+        "passage_number": 4,
+        "text": "The good news: companies can change. Walmart’s Sam’s Club, call centers at Quest Diagnostics, and petstore chain Mud Bay improved pay and schedules, and redesigned their systems to improve productivity and service. In 2019, Sam’s Club increased pay by $5 to $7 an hour for several key roles and, from 2020 to 2022, further increased hourly pay for all employees by 18%. In 2016, Quest Diagnostics raised starting pay for its callcenter workers from $13 to $14 and implemented tenure-based increases. Mud Bay, a chain with 2% profit margins, increased hourly pay 24% over three years. By 2022, it was able to pay all its employees a living wage, according to MIT’s living-wage calculator. These companies didn’t just raise pay, they made employees’ work more valuable, making the pay investment worthy."
+      },
+      {
+        "passage_number": 5,
+        "text": "So, what were the results? Within two years, Sam’s Club reduced hourly workers’ turnover by 25%. Manager turnover dropped even more. Within 18 months, Quest Diagnostics reduced hourly turnover by more than 50%, and absenteeism dropped. Within three years, Mud Bay reduced turnover by 35%.<br><br>In addition to lower turnover costs, all these companies saw higher sales and improved productivity. At Sam’s Club, productivity increased 16%, customer loyalty increased 7%, and sales grew nearly 15% without opening any new stores. At Quest, overall costs decreased $2 million, $1.3 million of which came from ideas from the reps. Customers received better service, with fewer transfers and faster answer rates. At Mud Bay, employees were able to generate 12% higher sales per labor hour and 25% higher sales per sq. ft. (compared with an average 9% increase for the industry at the time). We’ve seen similar results in small restaurants and bakeries."
+      },
+      {
+        "passage_number": 6,
+        "text": "Leaders at these companies realized that to win with their customers and grow, they couldn’t afford high employee turnover. Instead of asking, “How much will it cost to increase pay?” they asked a more enlightened question: “What will be the cost to my competitors if we get this right, and they don’t?”"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary focus of the first passage?",
+        "options": {
+          "A": "The benefits of high employee turnover",
+          "B": "The costs associated with high employee turnover",
+          "C": "The importance of customer satisfaction",
+          "D": "The role of training in employee productivity"
+        },
+        "answer": "B",
+        "explanation": "The passage discusses the significant costs associated with high employee turnover, making B the correct answer.",
+        "score_improvement_tip": "Focus on the main subject and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 1,
+        "question": "As used in the passage, the phrase 'pale in comparison' most nearly means:",
+        "options": {
+          "A": "Are insignificant when compared",
+          "B": "Are equal in importance",
+          "C": "Are more significant than",
+          "D": "Are unrelated to"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'pale in comparison' suggests that the costs of poor operational execution are much greater than the replacement costs, making A the correct answer.",
+        "score_improvement_tip": "Use context clues to infer the meaning of unfamiliar phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "What can be inferred about the impact of high turnover on managers?",
+        "options": {
+          "A": "Managers benefit from high turnover.",
+          "B": "Managers are able to focus on strategic planning.",
+          "C": "Managers face increased stress and workload.",
+          "D": "Managers are more likely to be promoted."
+        },
+        "answer": "C",
+        "explanation": "The passage describes how high turnover leads to understaffing and overworked managers, suggesting increased stress and workload, making C the correct answer.",
+        "score_improvement_tip": "Look for descriptive language that reveals the impact of high turnover on managers."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "What is the purpose of the reference to the leaked Amazon memo in the passage?",
+        "options": {
+          "A": "To highlight Amazon’s success",
+          "B": "To illustrate the challenges of high turnover",
+          "C": "To criticize Amazon’s expansion plans",
+          "D": "To suggest that Amazon is an exception"
+        },
+        "answer": "B",
+        "explanation": "The reference to the leaked Amazon memo illustrates the challenges and consequences of high turnover, making B the correct answer.",
+        "score_improvement_tip": "Consider how specific examples contribute to the overall message of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best describes the rhetorical effect of the examples of Sam’s Club, Quest Diagnostics, and Mud Bay?",
+        "options": {
+          "A": "To emphasize the difficulty of increasing pay",
+          "B": "To highlight the benefits of improving employee conditions",
+          "C": "To criticize the current state of employee wages",
+          "D": "To suggest that only large companies can afford pay increases"
+        },
+        "answer": "B",
+        "explanation": "The examples demonstrate the positive outcomes of improving pay and working conditions, highlighting the benefits, making B the correct answer.",
+        "score_improvement_tip": "Analyze examples to understand their role in supporting the passage’s argument."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which detail from the passage best supports the idea that improving employee conditions leads to better company performance?",
+        "options": {
+          "A": "Within two years, Sam’s Club reduced hourly workers’ turnover by 25%",
+          "B": "At Quest, overall costs decreased $2 million",
+          "C": "At Mud Bay, employees were able to generate 12% higher sales per labor hour",
+          "D": "All these companies saw higher sales and improved productivity"
+        },
+        "answer": "D",
+        "explanation": "The statement that all companies saw higher sales and improved productivity directly supports the idea that improving employee conditions leads to better company performance, making D the correct answer.",
+        "score_improvement_tip": "Look for direct statements that align with the question’s focus."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the final passage relate to the earlier discussion of high turnover?",
+        "options": {
+          "A": "It provides a historical context for high turnover",
+          "B": "It suggests that high turnover is inevitable",
+          "C": "It emphasizes the strategic advantage of reducing turnover",
+          "D": "It critiques the focus on employee pay"
+        },
+        "answer": "C",
+        "explanation": "The final passage highlights the strategic advantage of reducing turnover and improving employee conditions, making C the correct answer.",
+        "score_improvement_tip": "Consider how different parts of the text connect to form a cohesive argument."
+      },
+      {
+        "question_number": 8,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 4,
+        "question": "Which choice best completes the sentence? 'These companies didn’t just raise pay, they made employees’ work more valuable, making the pay investment worthy.'",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "Although",
+          "D": "Meanwhile"
+        },
+        "answer": "B",
+        "explanation": "The sentence logically follows with 'Therefore,' as it indicates a conclusion based on the previous statements.",
+        "score_improvement_tip": "Pay attention to logical connectors that indicate cause and effect."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which choice best completes the sentence? 'Within two years, Sam’s Club reduced hourly workers’ turnover by 25%. Manager turnover dropped even more. Within 18 months, Quest Diagnostics reduced hourly turnover by more than 50%, and absenteeism dropped.'",
+        "options": {
+          "A": "Consequently",
+          "B": "Nevertheless",
+          "C": "Meanwhile",
+          "D": "Ultimately"
+        },
+        "answer": "D",
+        "explanation": "The sentence concludes with a reflection on the results of reducing turnover, making 'Ultimately' the most appropriate transition.",
+        "score_improvement_tip": "Choose transitions that reflect the logical flow of ideas."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What can be inferred about the leaders’ attitude toward employee turnover?",
+        "options": {
+          "A": "They believe high turnover is beneficial",
+          "B": "They see reducing turnover as a strategic advantage",
+          "C": "They are indifferent to the impact of turnover",
+          "D": "They view turnover as an inevitable cost of doing business"
+        },
+        "answer": "B",
+        "explanation": "The leaders’ focus on the strategic advantage of reducing turnover suggests they see it as beneficial, making B the correct answer.",
+        "score_improvement_tip": "Infer attitudes and beliefs based on explicit statements and their implications."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

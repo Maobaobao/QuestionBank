@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAT Math JSON Reviewer</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- MathJax Configuration -->
+    <script>
+    window.MathJax = {
+      loader: {load: ['[tex]/ams']},
+      tex: {
+        packages: {'[+]': ['ams']},
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      svg: {
+        fontCache: 'global'
+      }
+    };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="toolbar">
+        <div class="file-control">
+            <label for="file-select">File:</label>
+            <select id="file-select">
+                <option value="">-- Select a JSON file --</option>
+            </select>
+            <button id="btn-refresh-list" title="Refresh File List">↻</button>
+        </div>
+        <div class="actions">
+            <button id="btn-reload" class="secondary">Revert/Reload</button>
+            <button id="btn-save" class="primary">Save Changes</button>
+        </div>
+        <div id="status-msg"></div>
+    </div>
+    <div class="main-container">
+        <div class="pane editor-pane">
+            <div class="pane-header">JSON Editor</div>
+            <textarea id="json-editor" spellcheck="false" placeholder="Select a file to edit..."></textarea>
+        </div>
+        <div class="pane preview-pane">
+            <div class="pane-header">Preview</div>
+            <div id="preview-content"></div>
+        </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

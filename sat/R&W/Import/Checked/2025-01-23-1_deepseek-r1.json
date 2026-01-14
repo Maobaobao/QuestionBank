@@ -1,0 +1,207 @@
+{
+    "article_title": "Needful Things",
+    "article_author": "Elizabeth Kolbert",
+    "article_date": "October 30, 2023",
+    "article_source": "The New Yorker",
+    "article_category": "Essay",
+    "article_tags": ["Geology", "Semiconductors", "Mining", "Global Economy"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Spruce Pine’s planetary importance follows from an accident of geology. Some three hundred and eighty million years ago, during the late Devonian period, the continent of Africa was drifting toward what would eventually become eastern North America. The force of its movement pressed the floor of a Paleozoic sea deep into the earth’s mantle, where, in effect, it melted. Over the course of tens of millions of years, the molten rock cooled to form deposits of exceptionally pure mica and quartz, which were then pushed back up toward the surface. In the twentieth century, Spruce Pine’s mica was mined to make windows for coal-burning stoves and insulation for vacuum tubes. In the computer age, it’s the town’s quartz that’s critical."
+      },
+      {
+        "passage_number": 2,
+        "text": "Silicon chips are essentially made of quartz, although this is a bit like saying that the 'Mona Lisa' is essentially made of linseed oil. Manufacturing microchips is phenomenally complex and supremely exacting. The process generally begins with quartz’s cousin, quartzite, which consists in large measure of silicon dioxide. Under very high heat, and in the presence of carbon, the quartzite gives up most of its oxygen. Then acid and a great deal more heat are applied, until the silicon reaches a purity level of 99.9999999 per cent, or, as it’s known in the business, 'nine nines.' At this point, the silicon is ready to be fashioned into a 'boule,' or ingot, that weighs upward of two hundred pounds and consists of a single perfectly aligned crystal. It is here that Spruce Pine’s quartz comes into play."
+      },
+      {
+        "passage_number": 3,
+        "text": "To form a boule, pure silicon has to be heated in a special crucible to twenty-seven hundred degrees Fahrenheit. The crucible must be tough enough to withstand this temperature, and, at the same time, it must have the right chemical composition, so it won’t introduce contaminants. The only substance that meets both these criteria is high-purity quartz, and one of the only spots where the right sort of quartz can be found is Spruce Pine."
+      },
+      {
+        "passage_number": 4,
+        "text": "Spruce Pine’s quartz is so valuable that, as the Vancouver-based journalist Vince Beiser observes in his book 'The World in a Grain,' almost everything about it, outside of its purity, is a closely guarded secret. The company that owns the town’s largest mine—Sibelco, a Belgian conglomerate—doesn’t publish production figures. When contractors arrive to make repairs at the mine, they are reportedly led to the equipment in blindfolds. According to documents filed in a case that the company once brought against a former employee, it tries to divvy up its contracting jobs, so that no individual can learn too much, and for the same reason it purchases its supplies from multiple venders.<br>All this stealth, Ed Conway suggests in his new book, 'Material World: The Six Raw Materials That Shape Modern Civilization' (Knopf ), is justified. 'There are few such cases where we are so utterly reliant on a single place,' he writes. He quotes an unnamed industry veteran who notes that someone flying a crop duster over Spruce Pine and releasing 'a very particular powder' could 'end the world’s production of semiconductors' within six months. No production of semiconductors would mean no production of computers, cell phones, automobiles, microwaves, game consoles, fitness trackers, digital watches, digital cameras, televisions—the list goes on and on."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "The primary purpose of the first passage is to explain:",
+        "options": {
+          "A": "The historical uses of mica in household appliances",
+          "B": "The geological processes that created Spruce Pine’s quartz deposits",
+          "C": "The economic impact of mining in Spruce Pine",
+          "D": "The differences between mica and quartz"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on the geological history of Spruce Pine’s quartz formation, detailing the tectonic movements and cooling processes involved.",
+        "score_improvement_tip": "Identify the passage’s focus on cause-and-effect relationships to determine the central idea."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "The comparison of silicon chips to the 'Mona Lisa' (line 2) primarily serves to:",
+        "options": {
+          "A": "Highlight the artistic value of semiconductor manufacturing",
+          "B": "Emphasize the complexity of transforming quartz into silicon chips",
+          "C": "Criticize the over-simplification of technological processes",
+          "D": "Draw a parallel between Renaissance art and modern engineering"
+        },
+        "answer": "B",
+        "explanation": "The analogy underscores that while silicon chips are made from quartz, the intricate manufacturing process involves far more than the raw material alone.",
+        "score_improvement_tip": "Analyze analogies by connecting them to the passage’s broader argument."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the third passage, why is Spruce Pine’s quartz uniquely suited for semiconductor production?",
+        "options": {
+          "A": "It has natural contaminants that aid conductivity",
+          "B": "It can withstand extreme heat without introducing impurities",
+          "C": "It is the only quartz deposit located in North America",
+          "D": "It requires less processing than other quartz types"
+        },
+        "answer": "B",
+        "explanation": "The passage states that Spruce Pine’s quartz meets both the toughness and chemical purity requirements for crucibles, making it indispensable.",
+        "score_improvement_tip": "Infer causal relationships by synthesizing details about material properties and industrial needs."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in line 7, 'nine nines' most nearly refers to:",
+        "options": {
+          "A": "A measurement of crystal size",
+          "B": "A purity standard for silicon",
+          "C": "A temperature threshold",
+          "D": "A chemical reaction time"
+        },
+        "answer": "B",
+        "explanation": "The term 'nine nines' (99.9999999%) denotes the ultra-high purity level required for silicon in chip manufacturing.",
+        "score_improvement_tip": "Use context clues like numerical values and technical jargon to decipher specialized terms."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which quotation from the fourth passage best supports the idea that Spruce Pine’s quartz is irreplaceable in global supply chains?",
+        "options": {
+          "A": "'The company... doesn’t publish production figures.'",
+          "B": "'When contractors arrive... they are reportedly led to the equipment in blindfolds.'",
+          "C": "'Someone flying a crop duster... could end the world’s production of semiconductors within six months.'",
+          "D": "'No production of semiconductors would mean no production of computers, cell phones...'"
+        },
+        "answer": "C",
+        "explanation": "The crop-duster hypothetical illustrates the catastrophic global impact of disrupting Spruce Pine’s quartz supply, underscoring its irreplaceability.",
+        "score_improvement_tip": "Look for evidence that directly ties a detail to its broader implications."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "The author references Ed Conway’s book primarily to:",
+        "options": {
+          "A": "Contrast historical and modern mining practices",
+          "B": "Provide expert validation for the passage’s claims about secrecy",
+          "C": "Criticize corporate monopolies on natural resources",
+          "D": "Highlight the environmental risks of quartz mining"
+        },
+        "answer": "B",
+        "explanation": "Conway’s book is cited to reinforce the argument that the secrecy surrounding Spruce Pine’s quartz is justified due to its global importance.",
+        "score_improvement_tip": "Identify how external sources are used to bolster the author’s argument."
+      },
+      {
+        "question_number": 7,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which choice most effectively combines the underlined sentences? 'The crucible must be tough enough to withstand this temperature. It must have the right chemical composition.'",
+        "options": {
+          "A": "The crucible must be tough enough to withstand this temperature, it must have the right chemical composition.",
+          "B": "The crucible must be tough enough to withstand this temperature and have the right chemical composition.",
+          "C": "The crucible must be tough enough to withstand this temperature; having the right chemical composition.",
+          "D": "The crucible must be tough enough to withstand this temperature, but it must have the right chemical composition."
+        },
+        "answer": "B",
+        "explanation": "Option B concisely merges the two requirements using a parallel structure without introducing grammatical errors.",
+        "score_improvement_tip": "Prioritize options that maintain grammatical correctness and clarity when combining sentences."
+      },
+      {
+        "question_number": 8,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "The hypothetical scenario involving a crop duster is most analogous to which real-world concern?",
+        "options": {
+          "A": "Cybersecurity threats to financial systems",
+          "B": "Climate change’s impact on agriculture",
+          "C": "Single points of failure in critical infrastructure",
+          "D": "The ethics of corporate secrecy"
+        },
+        "answer": "C",
+        "explanation": "The crop-duster example highlights the vulnerability of relying on a single source (Spruce Pine) for semiconductors, mirroring concerns about critical infrastructure dependencies.",
+        "score_improvement_tip": "Draw parallels between textual examples and broader conceptual themes."
+      },
+      {
+        "question_number": 9,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 4,
+        "question": "According to the fourth passage, why does Sibelco use blindfolds for contractors?",
+        "options": {
+          "A": "To protect contractors from hazardous materials",
+          "B": "To maintain secrecy about mining operations",
+          "C": "To comply with local safety regulations",
+          "D": "To reduce costs associated with training"
+        },
+        "answer": "B",
+        "explanation": "The passage explicitly states that blindfolds are used to prevent contractors from learning too much about the mine’s operations.",
+        "score_improvement_tip": "Focus on explicit details stated in the text rather than making assumptions."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Which choice best completes the following sentence? 'The process of creating silicon chips is not only complex _______.'",
+        "options": {
+          "A": "but also requires extreme precision",
+          "B": "and it uses rare materials",
+          "C": "although it is cost-effective",
+          "D": "since it involves multiple steps"
+        },
+        "answer": "A",
+        "explanation": "The sentence structure 'not only... but also' correctly parallels the two attributes of complexity and precision mentioned in the passage.",
+        "score_improvement_tip": "Ensure transition words logically connect ideas and maintain parallel structure."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring 800 demonstrate mastery in synthesizing complex texts, analyzing rhetorical strategies, and applying advanced grammatical rules. They excel at connecting abstract concepts (e.g., global supply chains) to specific textual evidence.",
+      "700_level_performance": "Students scoring 700 show strong comprehension of main ideas and details but may struggle with nuanced inferences, rhetorical synthesis, and high-level grammatical corrections."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions require synthesizing information across passages (e.g., linking geological history to modern industry), analyzing analogies, and correcting complex sentence structures.",
+      "medium_questions": "Medium questions focus on vocabulary in technical contexts, combining sentences grammatically, and identifying explicit purposes of evidence.",
+      "easy_questions": "Easy questions assess straightforward comprehension of central ideas and explicitly stated details."
+    }
+  }

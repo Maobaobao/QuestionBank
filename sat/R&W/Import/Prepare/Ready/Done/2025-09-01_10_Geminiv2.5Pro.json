@@ -1,0 +1,219 @@
+{
+  "article_title": "What Sets Inspirational Leaders Apart",
+  "article_author": "Bent Flyvbjerg",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Leadership", "Management", "Empathy", "Mentorship"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Infuriating leaders ignore, diminish, and control others. Inspiring leaders empower, elevate, and empathize with their teams. Confucius perfectly captures the positive effects of the latter approach to managing: “Tell me and I will forget; show me and I may remember; involve me and I will understand.”"
+    },
+    {
+      "passage_number": 2,
+      "text": "Inspiring leaders share leadership responsibilities—for example, by letting team members run or help run meetings. Sherry Wu of UCLA has done numerous field experiments comparing boss-led meetings with worker-led ones and has found that just 20 minutes a week of the latter boosts employee productivity and satisfaction and reduces turnover. I apply that in my doctoral seminars: Each week a different student helps guide the class discussion."
+    },
+    {
+      "passage_number": 3,
+      "text": "We all crave someone who values us, celebrates us, and guides us to be the best version of ourselves. Good mentoring requires understanding that different people have different needs at different times and really listening to what those needs are. It also involves sharing credit for successes and taking blame for failures, which makes us truly admired and respected."
+    },
+    {
+      "passage_number": 4,
+      "text": "How can you prepare to mentor? First, look to those below you in a hierarchy for new ideas and knowledge. Ting Zhang, Dan Wang, and I found that reflecting on a time when you learned from someone at a lower level can make you more engaged with others and more likely to offer thoughtful and well-calibrated advice, which enhances the mentee experience. Second, practice perspective taking, or looking at the world through the eyes of others, which has been shown to enhance empathy."
+    },
+    {
+      "passage_number": 5,
+      "text": "But how can you stay inspiring or become more so over time? My research points to four key actions: reflect, emulate, intend, and practice, or REIP. The acronym is a homonym for “reap” because I believe that leadership, like sowing seed, produces either a good or a bad crop."
+    },
+    {
+      "passage_number": 6,
+      "text": "Now turn your reflections and emulations into intentions. Make a commitment, even a small one, to a specific behavior you will adopt in the next month to be more visionary, a better exemplar, or a more effective mentor."
+    },
+    {
+      "passage_number": 7,
+      "text": "Here is one daily practice that is guaranteed to inspire those around you: Every morning, reach out to at least one coworker and praise that person for a task done well or say thank you for making your life easier. A CEO told me that it takes him only minutes a day over his morning coffee to elevate someone in his orbit—and it brightens not only that person’s day but also his own. His missives receive effusive, grateful replies that put a spring in his step. That illustrates the virtuous circle of inspirational leadership."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "The main purpose of the quotation from Confucius is to...",
+      "options": {
+        "A": "contrast ancient and modern leadership styles.",
+        "B": "argue that listening is more important than speaking.",
+        "C": "illustrate the value of active participation in learning and management.",
+        "D": "suggest that most employees have poor memories."
+      },
+      "answer": "C",
+      "explanation": "The quote progresses from forgetting (hearing), to remembering (seeing), to understanding (involvement). This directly supports the idea that involving team members—a key trait of inspiring leaders mentioned in the passage—is the most effective way to ensure true comprehension and engagement. Options A, B, and D are not directly supported by the quote's context in the passage.",
+      "score_improvement_tip": "When a passage includes a quote, always ask yourself: 'How does this quote support the author's main point in this specific paragraph?' Don't analyze the quote in isolation."
+    },
+    {
+      "question_number": 2,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "According to the passage, what is a direct outcome of allowing employees to lead meetings?",
+      "options": {
+        "A": "It requires more time from senior management.",
+        "B": "It is only effective in academic settings like doctoral seminars.",
+        "C": "It improves employee satisfaction and retention.",
+        "D": "It leads to shorter meetings."
+      },
+      "answer": "C",
+      "explanation": "The passage explicitly states that Sherry Wu's experiments found that worker-led meetings 'boosts employee productivity and satisfaction and reduces turnover.' 'Reduces turnover' is synonymous with improving retention. The other options are either contradicted by the text or not mentioned at all.",
+      "score_improvement_tip": "For 'according to the passage' questions, your goal is to find the answer that is stated almost word-for-word in the text. Avoid making inferences or assumptions."
+    },
+    {
+      "question_number": 3,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "As used in the text, 'celebrates' most nearly means...",
+      "options": {
+        "A": "commemorates.",
+        "B": "praises.",
+        "C": "parties with.",
+        "D": "tolerates."
+      },
+      "answer": "B",
+      "explanation": "In the context of a mentor who 'values us...and guides us,' the word 'celebrates' refers to acknowledging and honoring one's achievements and worth. 'Praises' is the best fit for this meaning. 'Commemorates' is too formal and usually applies to events. 'Parties with' is too literal. 'Tolerates' is the opposite of the intended meaning.",
+      "score_improvement_tip": "For Words in Context questions, plug each answer choice back into the sentence. The correct answer will fit the logical and tonal context of the surrounding text."
+    },
+    {
+      "question_number": 4,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 6,
+      "question": "Which of the following is the most effective way to combine the two sentences? 'Now turn your reflections and emulations into intentions. Make a commitment...to be more visionary, a better exemplar, or a more effective mentor.'",
+      "options": {
+        "A": "Turn your reflections and emulations into intentions, and making a commitment...",
+        "B": "Turn your reflections and emulations into intentions by making a commitment...",
+        "C": "Turn your reflections and emulations into intentions, you should make a commitment...",
+        "D": "Turn your reflections and emulations into intentions, but make a commitment..."
+      },
+      "answer": "B",
+      "explanation": "This question asks for the most logical and grammatical way to combine the sentences. Choice B correctly uses 'by' to show the relationship between the two actions: the commitment is the *method* by which one turns reflections into intentions. Choice A creates a parallelism error ('turn' and 'making'). Choice C creates a comma splice. Choice D introduces a contrast ('but') that doesn't fit the meaning.",
+      "score_improvement_tip": "When combining sentences, focus on the logical relationship between them. Are they showing cause-and-effect, contrast, or a means to an end? Choose the conjunction or phrasing that best expresses that relationship."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "The author's primary purpose in mentioning that 'REIP' is a homonym for 'reap' is to...",
+      "options": {
+        "A": "provide a simple mnemonic device for remembering the four actions.",
+        "B": "suggest that leadership skills are primarily useful in agricultural contexts.",
+        "C": "create an analogy to emphasize that leadership efforts yield results, good or bad.",
+        "D": "criticize leaders who do not produce a 'good crop' of followers."
+      },
+      "answer": "C",
+      "explanation": "The author explicitly explains the analogy: 'leadership, like sowing seed, produces either a good or a bad crop.' This shows the purpose is not just to be a mnemonic (A), but to use the metaphor of sowing and reaping to convey a deeper meaning about the consequences of one's leadership style. B and D are misinterpretations of the analogy.",
+      "score_improvement_tip": "When an author uses a literary device like an analogy or metaphor, look for the sentence where they explain its meaning. The purpose is usually tied to that explanation."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inference",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "Based on the passage, what can most reasonably be inferred about the author's view of traditional corporate hierarchies?",
+      "options": {
+        "A": "They are the most effective structures for ensuring accountability.",
+        "B": "They can be an obstacle to gaining valuable knowledge and developing empathy.",
+        "C": "They are necessary for providing clear career paths for employees.",
+        "D": "They are generally successful in promoting engagement and well-calibrated advice."
+      },
+      "answer": "B",
+      "explanation": "The author advises readers to 'look to those below you in a hierarchy for new ideas and knowledge' and notes that this reflection makes one 'more engaged' and 'more likely to offer thoughtful...advice.' This implies that a rigid, top-down view (a hallmark of traditional hierarchies) would prevent these positive outcomes. Therefore, it's reasonable to infer that the author sees these hierarchies as a potential obstacle.",
+      "score_improvement_tip": "For inference questions, you must find an answer that is not explicitly stated but is strongly suggested by the text. Look for the underlying assumption or implication of the author's statements."
+    },
+    {
+      "question_number": 7,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "A student is writing a paper on leadership development and wants to summarize the author's advice on how to become a better mentor. Which choice most effectively uses information from the passage to accomplish this goal?",
+      "options": {
+        "A": "Effective mentorship requires a two-pronged approach: being open to learning from subordinates and actively trying to understand colleagues' perspectives.",
+        "B": "According to research by Ting Zhang and Dan Wang, mentors should reflect on past experiences to become more engaged.",
+        "C": "To be a better mentor, one must first learn to practice empathy, which can be enhanced through specific exercises.",
+        "D": "The passage suggests that mentorship is primarily about offering thoughtful and well-calibrated advice to those at lower levels."
+      },
+      "answer": "A",
+      "explanation": "This choice is the most complete synthesis of the two key pieces of advice in the passage: 1) 'look to those below you... for new ideas' (learning from subordinates) and 2) 'practice perspective taking' (understanding colleagues' perspectives). The other options are too narrow. B only mentions the first point and focuses on the researchers. C only mentions the second point. D misrepresents mentorship as being only about giving advice.",
+      "score_improvement_tip": "Rhetorical Synthesis questions test your ability to see the big picture. Don't just pick an answer that is true; pick the one that best combines the key ideas from the text to fulfill the specific goal described in the question."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": ". The graph illustrates the findings of Sherry Wu mentioned in the passage. Which conclusion is supported by BOTH the text and the graph?",
+      "options": {
+        "A": "Worker-led meetings result in a 15% increase in productivity compared to boss-led meetings.",
+        "B": "The positive effects of worker-led meetings are contingent on them lasting exactly 20 minutes.",
+        "C": "Sharing leadership responsibilities, such as through worker-led meetings, is correlated with improved business outcomes.",
+        "D": "Doctoral seminars are the ideal environment for testing the effectiveness of worker-led discussions."
+      },
+      "answer": "C",
+      "explanation": "The text states that worker-led meetings 'boosts employee productivity and satisfaction and reduces turnover.' The graph quantifies this, showing increases in productivity and satisfaction and a decrease in turnover. Choice C accurately synthesizes this information by linking the action (sharing leadership) to the results (improved outcomes). Choice A is a correct interpretation of the graph but isn't explicitly stated in the text. Choice B is an overstatement; the text says 'just 20 minutes a week' produces the effect, not that it *must* be 20 minutes. Choice D incorrectly generalizes from the author's personal example.",
+      "score_improvement_tip": "For quantitative questions, you must integrate information. Find a statement that is supported by the general idea in the text AND the specific data in the graph. Be wary of choices that are supported by only one of the two sources."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "Which choice is the most effective version of the underlined portion of the sentence? 'His missives receive effusive, grateful replies that put a spring in his step, _that illustrates_ the virtuous circle of inspirational leadership.'",
+      "options": {
+        "A": "step, that illustrates",
+        "B": "step, which illustrates",
+        "C": "step, illustrating",
+        "D": "step; which illustrates"
+      },
+      "answer": "C",
+      "explanation": "The original sentence contains a comma splice and an unclear pronoun ('that'). Choice C correctly uses a participle phrase ('illustrating...') to modify the entire preceding clause. This creates a grammatically correct and logical sentence. Choice B is incorrect because 'which' should typically refer to the noun immediately preceding it ('step'), which is not what's doing the illustrating. Choice A is the original error. Choice D uses a semicolon incorrectly before 'which.'",
+      "score_improvement_tip": "High-level boundary questions often test modifying clauses. A participle phrase (ending in -ing or -ed) at the end of a sentence, set off by a comma, can modify the entire idea of the main clause. This is often an elegant way to fix a comma splice."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Text 2: 'Leadership is not a checklist of behaviors to be learned, but an innate quality of character. Great leaders possess an unteachable charisma and an intuitive grasp of human nature that cannot be replicated through practice or reflection. They are born, not made.' How would the author of Text 2 most likely respond to the 'REIP' framework described in the passage?",
+      "options": {
+        "A": "With agreement, because the 'REIP' framework is a useful tool for those born with leadership qualities.",
+        "B": "With skepticism, because the framework suggests leadership is a skill that can be systematically developed.",
+        "C": "With enthusiasm, because the 'emulate' step acknowledges the importance of charismatic leaders.",
+        "D": "With indifference, because the two texts are discussing different types of leadership."
+      },
+      "answer": "B",
+      "explanation": "Text 2 argues that leadership is 'innate' and 'unteachable,' and cannot be replicated through 'practice or reflection.' The 'REIP' framework is built on the opposite premise: that leadership can be improved through deliberate actions like reflect, emulate, intend, and practice. Therefore, the author of Text 2 would be highly skeptical of a framework that treats leadership as a learnable skill.",
+      "score_improvement_tip": "For Cross-Text Connections, first identify the core argument of each text. Then, look for points of direct agreement or disagreement. In this case, the conflict is between 'leadership is born' (Text 2) and 'leadership can be learned' (Passage)."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate a comprehensive mastery of all tested skills. They can consistently analyze complex texts, synthesize information from multiple sources (including graphics), understand subtle rhetorical nuances, and correctly identify and fix sophisticated errors in grammar and structure.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and analytical skills. They can typically identify main ideas, understand words in context, and correct common grammatical errors. They may, however, struggle with questions requiring deep inference, synthesis of multiple ideas, or analysis of complex sentence structures and rhetorical devices."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions are designed to differentiate top scorers. They require advanced reasoning skills, such as making subtle inferences, synthesizing information across texts or from a graphic, analyzing an author's rhetorical choices, or fixing complex sentence boundary issues.",
+    "medium_questions": "Medium questions assess core comprehension and analysis. They focus on understanding the function of a paragraph, defining nuanced vocabulary in context, and identifying and correcting moderately complex grammatical errors.",
+    "easy_questions": "Easy questions evaluate fundamental comprehension skills. They typically ask students to identify the main idea of a passage or locate explicitly stated details within the text, with minimal need for inference."
+  }
+}

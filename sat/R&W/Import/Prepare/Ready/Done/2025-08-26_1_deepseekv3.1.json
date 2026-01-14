@@ -1,0 +1,215 @@
+{
+  "article_title": "Day One",
+  "article_author": "Bon Iver, with Dijon and Flock of Dimes",
+  "article_date": "April 1, 2025",
+  "article_source": "THE NEW YORKER",
+  "article_category": "Poetry",
+  "article_tags": ["Introspection", "Struggle", "Memory", "Growth"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Been a long while now coming up<br>Thought we were past it, thought we’d patched it up<br>Thought the title had passed hands<br>Thought we’d had enough"
+    },
+    {
+      "passage_number": 2,
+      "text": "But the Sun’s gonna go ahead and tag right up<br>and we dont understand what we’re standing on<br>and we sure come in blind<br>With our timing"
+    },
+    {
+      "passage_number": 3,
+      "text": "So I’ve culled what I can’t tame<br>I have taken all that I can take<br>It got bad enough<br>I thought that I would leave . . ."
+    },
+    {
+      "passage_number": 4,
+      "text": "I wish you could take that right off!<br>All that shit that rips you right up<br>Then you’d know that we been taught all this from Day One . . .<br>from Day One"
+    },
+    {
+      "passage_number": 5,
+      "text": "Same old town and yer<br>parsing through<br>Signs of live and die for you<br>There’s a million ways<br>You’re falling thru<br>The cost of your mind"
+    },
+    {
+      "passage_number": 6,
+      "text": "And some may say that<br>you lack the stuff<br>and you burn it down and<br>clack your cuffs<br>But you may have to toughen up<br>While unlearning that lie"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "The repetition of 'Thought' in the passage primarily serves to convey the speaker's",
+      "options": {
+        "A": "confident assertions about a resolved conflict",
+        "B": "series of mistaken assumptions about a situation",
+        "C": "detailed recollection of past negotiations",
+        "D": "philosophical musings on the nature of time"
+      },
+      "answer": "B",
+      "explanation": "The anaphora of 'Thought' establishes a pattern of beliefs the speaker held, which are revealed to be incorrect by the contrasting conjunction 'But' that opens the next passage. This structure implies these were assumptions that proved false.",
+      "score_improvement_tip": "Pay close attention to structural cues like conjunctions and anaphora, as they often signal shifts in tone or reveal the author's intent."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "As used in line, 'tag right up' most nearly means",
+      "options": {
+        "A": "to label correctly",
+        "B": "to follow closely",
+        "C": "to rise as expected",
+        "D": "to touch briefly"
+      },
+      "answer": "C",
+      "explanation": "In this context, the Sun is personified. 'Tag right up' is an informal phrase meaning to rise or appear, as the sun does each day. This interpretation is supported by the theme of inevitability and natural cycles in the surrounding lines.",
+      "score_improvement_tip": "For difficult vocabulary-in-context questions, consider the subject (the Sun) and its typical actions. Eliminate choices that are too literal or don't align with the personification."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 3,
+      "question": "The speaker in the passage has primarily done which of the following?",
+      "options": {
+        "A": "Accepted an unavoidable situation",
+        "B": "Rejected a potential compromise",
+        "C": "Removed elements beyond his control",
+        "D": "Requested assistance from another"
+      },
+      "answer": "C",
+      "explanation": "The speaker states, 'I’ve culled what I can’t tame,' which directly means he has removed or selected out the things he cannot control. This is an act of setting boundaries, not acceptance or compromise.",
+      "score_improvement_tip": "Focus on the literal meaning of key verbs. 'Culled' is a precise word meaning to select from a group, usually to remove unwanted elements."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The shift in punctuation between 'Day One . . .' and 'from Day One' primarily functions to",
+      "options": {
+        "A": "indicate a hesitation in the speaker's voice",
+        "B": "emphasize and reinforce the central phrase",
+        "C": "separate two distinct ideas",
+        "D": "correct a grammatical error in the previous line"
+      },
+      "answer": "B",
+      "explanation": "The ellipsis creates a brief pause, building suspense or emphasizing gravity, before the phrase 'from Day One' is repeated on its own line. This repetition and structural isolation give the phrase significant weight, marking it as a central, thematic idea of the poem.",
+      "score_improvement_tip": "Always ask *why* an author uses a specific punctuation mark or formatting choice. These are deliberate rhetorical tools, not arbitrary."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "In the context of the passage, 'parsing through' most nearly means",
+      "options": {
+        "A": "ignoring completely",
+        "B": "analyzing meticulously",
+        "C": "traveling quickly",
+        "D": "requesting earnestly"
+      },
+      "answer": "B",
+      "explanation": "'Parsing' means to examine or analyze something in a careful, detailed way. The object of this analysis is 'Signs of live and die for you,' which are complex and likely metaphorical, requiring careful interpretation.",
+      "score_improvement_tip": "For verb phrases, identify the direct object. The nature of the object ('Signs') can provide a strong clue to the meaning of the verb ('parsing')."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 6,
+      "question": "The phrase 'clack your cuffs' most likely serves as a metaphor for",
+      "options": {
+        "A": "celebrating a hard-won victory",
+        "B": "performing a meaningless or empty gesture",
+        "C": "preparing for a formal event",
+        "D": "restraining oneself from action"
+      },
+      "answer": "B",
+      "explanation": "The action is paired with 'burn it down,' a destructive act. 'Clacking cuffs' evokes the sound of handcuffs, but since it's something the subject does to themselves, it suggests a performative, perhaps self-punishing or futile, action—a gesture without substance.",
+      "score_improvement_tip": "Interpret metaphors by examining the actions around them. Paired actions often share a common tone or purpose (e.g., destruction and empty performance)."
+    },
+    {
+      "question_number": 7,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The speaker's wish that the listener could 'take that right off' is best characterized as",
+      "options": {
+        "A": "a solution to a practical problem",
+        "B": "an empathetic desire for the listener's relief",
+        "C": "a criticism of the listener's weakness",
+        "D": "a literal instruction for removing clothing"
+      },
+      "answer": "B",
+      "explanation": "The wish is for the removal of 'All that shit that rips you right up.' This visceral language describes deep emotional pain. The speaker's desire for this pain to be taken away is fundamentally an expression of empathy and care, not a critique or literal command.",
+      "score_improvement_tip": "To understand rhetorical purpose, focus on the emotional valence of the language. 'Rips you right up' conveys acute pain, so a wish related to it is likely compassionate."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 6,
+      "question": "Which choice provides the best evidence for the answer to the previous question?",
+      "options": {
+        "A": "'and you burn it down and / clack your cuffs'",
+        "B": "'But you may have to toughen up'",
+        "C": "'While unlearning that lie'",
+        "D": "'And some may say that / you lack the stuff'"
+      },
+      "answer": "C",
+      "explanation": "The key to the previous answer is that the criticism ('you lack the stuff') is an external lie that the subject must 'unlearn.' This directly supports the idea that the poem is about internal growth and rejecting false external narratives, not heeding criticism.",
+      "score_improvement_tip": "In 'Command of Evidence' questions, the correct answer will often be the line that most directly states the conclusion you drew, not just a related detail."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "The non-standard grammar in 'we dont understand' is most likely used by the author to",
+      "options": {
+        "A": "signal a grammatical error within the narrative",
+        "B": "establish a formal and academic tone",
+        "C": "reflect a conversational or informal voice",
+        "D": "emphasize the speaker's lack of education"
+      },
+      "answer": "C",
+      "explanation": "Poetry often uses colloquial language and non-standard grammar to create a specific voice, rhythm, or sense of authenticity. The contraction 'dont' (missing an apostrophe) mimics informal speech, contributing to the poem's raw, conversational tone.",
+      "score_improvement_tip": "In literature, 'errors' in grammar and punctuation are almost always intentional stylistic choices. Analyze their effect on tone and voice."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The concept of being taught something 'from Day One' connects to the ideas in the rest of the poem by suggesting that",
+      "options": {
+        "A": "the current struggles are a break from early lessons",
+        "B": "the fundamental nature of the conflict is not new",
+        "C": "formal education is the root of the problem",
+        "D": "the solution is to return to one's origins"
+      },
+      "answer": "B",
+      "explanation": "The phrase 'from Day One' implies something fundamental, innate, or long-standing. This connects to the poem's themes of recurring struggles ('Same old town'), ingrained patterns of thought ('The cost of your mind'), and lies that must be 'unlearned.' It frames the conflict as deep-rooted and perennial.",
+      "score_improvement_tip": "For 'Cross-Text' questions, identify the overarching theme of the entire text. The correct answer will be the one that links a specific detail to that broader theme."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring 800 demonstrate mastery in analyzing complex poetic structure and nuanced language. They can infer subtle meanings from punctuation, metaphor, and repetition, and synthesize ideas across an entire text to understand deep thematic connections.",
+    "700_level_performance": "Students scoring 700 show strong literal comprehension and can make straightforward inferences. They may struggle with highly abstract metaphors, intentional grammatical choices, and synthesizing a unifying theme from disparate poetic images."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical skills specific to poetry, including analyzing metaphorical language, structural choices (punctuation, line breaks, repetition), and synthesizing thematic connections across stanzas.",
+    "medium_questions": "Medium questions assess the ability to make logical inferences based on evidence within a passage and to understand the purpose of specific details in relation to a larger point.",
+    "easy_questions": "Easy questions evaluate basic comprehension of the author's central action in a stanza and recognition of stylistic choices that affect tone."
+  }
+}

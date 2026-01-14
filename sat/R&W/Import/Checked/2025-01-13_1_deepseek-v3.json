@@ -1,0 +1,187 @@
+{
+    "article_title": "And They Lived Happily Ever After",
+    "article_author": "Yuval Noah Harari",
+    "article_date": "2011",
+    "article_source": "Sapiens: A Brief History of Humankind",
+    "article_category": "Book",
+    "article_tags": ["History", "Human Development","Happiness"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "THE LAST 500 YEARS HAVE WITNESSED A breathtaking series of revolutions. The earth has been united into a single ecological and historical sphere. The economy has grown exponentially, and humankind today enjoys the kind of wealth that used to be the stuff of fairy tales. Science and the Industrial Revolution have given humankind superhuman powers and practically limitless energy. The social order has been completely transformed, as have politics, daily life and human psychology."
+      },
+      {
+        "passage_number": 2,
+        "text": "But are we happier? Did the wealth humankind accumulated over the last five centuries translate into a new-found contentment? Did the discovery of inexhaustible energy resources open before us inexhaustible stores of bliss? Going further back, have the seventy or so turbulent millennia since the Cognitive Revolution made the world a better place to live? Was the late Neil Armstrong, whose footprint remains intact on the windless moon, happier than the nameless hunter-gatherer who 30,000 years ago left her handprint on a wall in Chauvet Cave? If not, what was the point of developing agriculture, cities, writing, coinage, empires, science and industry?"
+      },
+      {
+        "passage_number": 3,
+        "text": "Historians seldom ask such questions. They do not ask whether the citizens of Uruk and Babylon were happier than their foraging ancestors, whether the rise of Islam made Egyptians more pleased with their lives, or how the collapse of the European empires in Africa have influenced the happiness of countless millions. Yet these are the most important questions one can ask of history. Most current ideologies and political programmes are based on rather flimsy ideas concerning the real source of human happiness. Nationalists believe that political self-determination is essential for our happiness. Communists postulate that everyone would be blissful under the dictatorship of the proletariat. Capitalists maintain that only the free market can ensure the greatest happiness of the greatest number, by creating economic growth and material abundance and by teaching people to be self-reliant and enterprising."
+      }
+    ],
+    "questions": [
+      
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "What can be inferred about the author's view on human progress?",
+        "options": {
+          "A": "The author believes progress has made humans happier.",
+          "B": "The author questions whether progress has led to greater happiness.",
+          "C": "The author thinks progress is irrelevant to happiness.",
+          "D": "The author is certain that progress has not improved happiness."
+        },
+        "answer": "B",
+        "explanation": "The author poses questions about whether progress has led to greater happiness, indicating a questioning stance rather than a definitive conclusion.",
+        "score_improvement_tip": "Look for clues in the questions posed by the author to infer their viewpoint."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "As used in line 4, 'inexhaustible stores of bliss' most likely refers to:",
+        "options": {
+          "A": "Unlimited happiness",
+          "B": "Endless energy resources",
+          "C": "Infinite material wealth",
+          "D": "Boundless opportunities"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'inexhaustible stores of bliss' is used in the context of happiness, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to the context in which a phrase is used to determine its meaning."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which statement best supports the idea that historians often overlook questions of happiness?",
+        "options": {
+          "A": "Historians seldom ask such questions.",
+          "B": "Most current ideologies are based on flimsy ideas.",
+          "C": "Nationalists believe in political self-determination.",
+          "D": "Capitalists maintain that the free market ensures happiness."
+        },
+        "answer": "A",
+        "explanation": "The passage explicitly states that historians seldom ask questions about happiness, making A the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to support your answer."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What is the primary purpose of the third passage?",
+        "options": {
+          "A": "To criticize historians for ignoring happiness",
+          "B": "To compare different ideologies on happiness",
+          "C": "To argue that happiness is the most important historical question",
+          "D": "To explain the sources of human happiness"
+        },
+        "answer": "C",
+        "explanation": "The passage emphasizes the importance of questions about happiness in history, making C the correct answer.",
+        "score_improvement_tip": "Consider the overall message and purpose of the passage when answering purpose-based questions."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Which of the following best synthesizes the ideas in the third passage?",
+        "options": {
+          "A": "Historians should focus more on happiness as a central theme in history.",
+          "B": "Different ideologies have conflicting views on what makes people happy.",
+          "C": "Happiness is a complex issue that historians have largely ignored.",
+          "D": "The collapse of empires has had a significant impact on happiness."
+        },
+        "answer": "A",
+        "explanation": "The passage argues that questions about happiness are the most important in history, suggesting historians should focus more on this theme, making A the correct answer.",
+        "score_improvement_tip": "Synthesis questions require combining multiple ideas from the passage to form a coherent conclusion."
+      },
+      {
+        "question_number": 7,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which of the following sentences is grammatically correct?",
+        "options": {
+          "A": "The earth has been united into a single ecological and historical sphere.",
+          "B": "The earth has been united into a single ecological, and historical sphere.",
+          "C": "The earth has been united into a single ecological and, historical sphere.",
+          "D": "The earth has been united into a single ecological and historical, sphere."
+        },
+        "answer": "A",
+        "explanation": "Option A correctly uses commas and conjunctions to join two adjectives modifying the same noun.",
+        "score_improvement_tip": "Pay attention to the correct use of commas and conjunctions in compound structures."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "What can be inferred about the author's view on Neil Armstrong's happiness compared to the hunter-gatherer?",
+        "options": {
+          "A": "The author believes Armstrong was happier.",
+          "B": "The author believes the hunter-gatherer was happier.",
+          "C": "The author is uncertain about who was happier.",
+          "D": "The author thinks happiness cannot be compared."
+        },
+        "answer": "C",
+        "explanation": "The author poses the question without providing a definitive answer, indicating uncertainty, making C the correct answer.",
+        "score_improvement_tip": "Inference questions often require reading between the lines to understand the author's implied stance."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "How does the third passage relate to the second passage?",
+        "options": {
+          "A": "It provides examples of historical questions about happiness.",
+          "B": "It critiques the second passage's focus on happiness.",
+          "C": "It expands on the second passage's theme by discussing historians' neglect of happiness.",
+          "D": "It contrasts the second passage's ideas with different ideologies."
+        },
+        "answer": "C",
+        "explanation": "The third passage builds on the second by discussing how historians have overlooked questions about happiness, making C the correct answer.",
+        "score_improvement_tip": "Cross-text connection questions require understanding how different parts of the text relate to each other."
+      },
+      {
+        "question_number": 10,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Hard",
+        "passage": 1,
+        "question": "Which transition word best fits at the beginning of the second sentence in the first passage?",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "Moreover",
+          "D": "Consequently"
+        },
+        "answer": "C",
+        "explanation": "The second sentence adds to the idea of revolutionary changes, making 'Moreover' the most appropriate transition, making C the correct answer.",
+        "score_improvement_tip": "Transition words should logically connect ideas within the text."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

@@ -1,0 +1,231 @@
+{
+    "article_title": "Venus Rising",
+    "article_author": "Megan I. Gannon",
+    "article_date": "2022",
+    "article_source": "Popular Science",
+    "article_category": "Essay",
+    "article_tags": ["Venus", "Space Exploration", "NASA"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "While VERITAS would have its eyes on the ground, DAVINCI+—for Deep Atmosphere of Venus Investigations of Noble Gases, Chemistry, and Imaging (the plus sign added for this round of proposals)—is primarily designed to search for clues about the planet’s history in its opaque atmosphere. The concept was born out of a Venus summit in late 2007 and early 2008, but the current principal investigator, Jim Garvin, chief scientist at NASA’s Goddard Space Flight Center in Maryland, has been dreaming of a new expedition since he finished his Ph.D. in the 1980s."
+      },
+      {
+        "passage_number": 2,
+        "text": "The spacecraft would launch around 2029 and drop a parachute-equipped, aeroshell-protected spherical probe that would sail through the cloud cover. Using spectrometers similar to the ones developed for the chemistry lab aboard Curiosity, it would measure inert gases like krypton and xenon (think of them like fossils of the early processes that formed Venus’s atmosphere) as well as hydrogen isotopes, which could determine when and at what rates the planet lost the oceans it is suspected to have had in its early history."
+      },
+      {
+        "passage_number": 3,
+        "text": "Michael Way, a physical scientist at NASA’s Goddard Institute for Space Studies in New York, and his colleagues produced models in 2016 suggesting Venus not only had water before Earth did but also was covered in a shallow ocean for some 3 billion years. Those findings have energized researchers and revived the image of a wet world, at least in its past."
+      },
+      {
+        "passage_number": 4,
+        "text": "The DAVINCI+ team also proposes to put a camera on its descent vehicle to capture views of the surface far better than the Venera 9 images that hooked Garvin when he was a student. He’s convinced his spherical probe can see mountains at scales not possible from orbit. To prove it, he hired a UH-1 (Huey) helicopter test crew in August 2016 to take him for a series of daredevil rides over a quarry in Maryland."
+      },
+      {
+        "passage_number": 5,
+        "text": "Coloring in our image of Venus’s long-gone seas could help answer the Big Question. In the 260 years since Lomonosov watched the planet’s transit, scientists have developed telescopes so sophisticated they can observe the transit of faint planets in systems thousands of light-years away. Based on their size, their motion, and the wavelengths of light they emit, astronomers can estimate the conditions of the orbs."
+      },
+      {
+        "passage_number": 6,
+        "text": "Limaye is part of a contingent of Venus researchers interested in finding out whether its cloud layer could still host microbial life. In 2020, investigators reported in the journal Nature Astronomy seeing signatures of phosphine—a chemical known thus far only to come from biological sources—in the atmosphere. Though claims about the possible discovery didn’t pan out, the news helped to spotlight the planet as an overlooked astrobiology target."
+      },
+      {
+        "passage_number": 7,
+        "text": "The Indian Space Research Organization plans to fly its own radar-mapping orbiter at the end of 2024—and it’s not the only foreign space agency actively pursuing a Venus trip. The ESA intends to launch a satellite called EnVision in the early 2030s to look at recent geological activity. And Russia is considering a mission called Venera D that would sniff for signals of life."
+      },
+      {
+        "passage_number": 8,
+        "text": "Lauren Jozwiak, a VERITAS volcanologist at Johns Hopkins University who got her Ph.D. in 2016, says she was told to look elsewhere in her studies since there were few prospects for Venus. An influx of new data, though, will feed the next generation. 'There is so much that we don’t know about Venus,' she says."
+      },
+      {
+        "passage_number": 9,
+        "text": "In the early hours of June 2, 2021, Smrekar and Dyar were sitting in their respective kitchens on opposite sides of the country, texting back and forth. Neither had slept much. This was the morning they knew they’d find out which Discovery missions NASA had greenlit. Around five-thirty a.m. Pacific Daylight Time, Smrekar got the call: VERITAS had been approved."
+      },
+      {
+        "passage_number": 10,
+        "text": "When the agency phoned Garvin that same morning, he nearly fell off his chair. DAVINCI+ would be going to space too. The next few days were a blur—his team buzzing. Both missions had beaten out their competitors, spacecraft proposed to explore Jupiter’s moon Io and Neptune’s moon Triton. After a thirty-year drought of new NASA missions to Venus, two will rocket there within the decade."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the primary goal of the DAVINCI+ mission?",
+        "options": {
+          "A": "To map Venus's surface geology",
+          "B": "To study Venus's atmospheric history",
+          "C": "To search for microbial life",
+          "D": "To compare Venus with exoplanets"
+        },
+        "answer": "B",
+        "explanation": "The passage states DAVINCI+ is designed to 'search for clues about the planet’s history in its opaque atmosphere,' making B correct.",
+        "score_improvement_tip": "Focus on explicit details in the first sentences of technical passages."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "As used in the passage, 'daredevil' most nearly means:",
+        "options": {
+          "A": "Reckless",
+          "B": "Innovative",
+          "C": "Thrilling",
+          "D": "Scientific"
+        },
+        "answer": "A",
+        "explanation": "The context of helicopter rides mimicking a risky descent vehicle path supports 'reckless' as the meaning.",
+        "score_improvement_tip": "Use contextual actions (e.g., 'plunged toward the ground') to infer word meanings."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Why does the author compare inert gases to 'fossils'?",
+        "options": {
+          "A": "They are remnants of ancient atmospheric processes",
+          "B": "They are biologically significant",
+          "C": "They are rare in modern Venus",
+          "D": "They resemble dinosaur bones"
+        },
+        "answer": "A",
+        "explanation": "The analogy highlights their role as preserved evidence of early atmospheric formation.",
+        "score_improvement_tip": "Analyze metaphors by linking them to the passage's scientific context."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "What is the purpose of discussing exoplanets in this passage?",
+        "options": {
+          "A": "To contrast Venus with distant planets",
+          "B": "To emphasize the importance of understanding Venus",
+          "C": "To criticize current telescope technology",
+          "D": "To highlight the uniqueness of Earth"
+        },
+        "answer": "B",
+        "explanation": "The passage argues that studying Venus improves confidence in exoplanet research, making B correct.",
+        "score_improvement_tip": "Identify how analogies strengthen the author's argument."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "Which detail supports the idea that Venus was once habitable?",
+        "options": {
+          "A": "Models suggested a 3-billion-year ocean",
+          "B": "Hydrogen isotopes were measured",
+          "C": "It had water before Earth",
+          "D": "Researchers were energized"
+        },
+        "answer": "A",
+        "explanation": "The 3-billion-year ocean duration directly implies potential habitability.",
+        "score_improvement_tip": "Prioritize data-driven details for evidence questions."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What is the primary purpose of mentioning phosphine?",
+        "options": {
+          "A": "To confirm microbial life exists",
+          "B": "To illustrate ongoing scientific debate",
+          "C": "To criticize prior research methods",
+          "D": "To highlight Venus's atmospheric complexity"
+        },
+        "answer": "B",
+        "explanation": "The unresolved phosphine claims underscore debate and renewed interest in Venus as a research target.",
+        "score_improvement_tip": "Note how unresolved findings contribute to broader scientific narratives."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 7,
+        "question": "Which space agency plans to launch EnVision?",
+        "options": {
+          "A": "NASA",
+          "B": "ESA",
+          "C": "Indian Space Research Organization",
+          "D": "Roscosmos"
+        },
+        "answer": "B",
+        "explanation": "The passage explicitly states 'ESA intends to launch a satellite called EnVision.'",
+        "score_improvement_tip": "Scan for proper nouns and acronyms to locate factual answers."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 8,
+        "question": "What can be inferred about Lauren Jozwiak’s experience?",
+        "options": {
+          "A": "She faced skepticism about Venus research",
+          "B": "She discovered new volcanic data",
+          "C": "She led the VERITAS mission",
+          "D": "She criticized NASA's priorities"
+        },
+        "answer": "A",
+        "explanation": "She was told to 'look elsewhere' due to limited prospects, implying skepticism.",
+        "score_improvement_tip": "Infer challenges from phrases like 'few prospects.'"
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Garvin’s statement ('We’ve got this brilliant planet...') primarily serves to:",
+        "options": {
+          "A": "Express nostalgia for past missions",
+          "B": "Highlight Venus's scientific potential",
+          "C": "Criticize delayed exploration",
+          "D": "Compare Venus to exoplanets"
+        },
+        "answer": "B",
+        "explanation": "The quote emphasizes Venus's unique scientific value and readiness for exploration.",
+        "score_improvement_tip": "Focus on optimistic language (e.g., 'brilliant,' 'opportunity') in rhetorical questions."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "As used in the passage, 'greenlit' most nearly means:",
+        "options": {
+          "A": "Approved",
+          "B": "Delayed",
+          "C": "Designed",
+          "D": "Canceled"
+        },
+        "answer": "A",
+        "explanation": "The context of waiting for NASA’s decision confirms 'approved' as the meaning.",
+        "score_improvement_tip": "Use narrative context (e.g., 'call: VERITAS had been approved') to decode idioms."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of advanced analytical skills, including synthesizing complex scientific arguments and decoding nuanced vocabulary.",
+      "700_level_performance": "Students show strong comprehension of explicit details but may struggle with high-level inference or rhetorical analysis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test the ability to analyze metaphors, synthesize arguments, and infer unstated scientific implications.",
+      "medium_questions": "Medium questions assess contextual vocabulary and command of evidence in technical passages.",
+      "easy_questions": "Easy questions evaluate identification of explicit facts and mission objectives."
+    }
+  }

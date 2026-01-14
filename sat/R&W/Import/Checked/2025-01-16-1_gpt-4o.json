@@ -1,0 +1,118 @@
+{
+  "article_title": "The End Is Only A Beginning",
+  "article_author": "T. Coraghessan Boyle",
+  "article_date": "August 21, 2023",
+  "article_source": "The New Yorker",
+  "article_category": "Fiction",
+  "article_tags": ["Travel", "Introspection", "Modern Life"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Air France, first-class cabin, the boredom ameliorated by champagne and Cognac and the in-flight cuisine, which only the French, Germans, and Dutch still seemed to care about, though he wasn’t particularly hungry, not after three glasses of Taittinger, so he sat back and engaged with a new novel by one of his rivals, which so maddened him with its grace and fluidity that he finally had to put it aside and just stare out the window until the clouds below crept inside his skull and everything went pleasantly fuzzy, though he didn’t sleep."
+    },
+    {
+      "passage_number": 2,
+      "text": "Across the aisle from him, in her own pod, was a woman of thirty or so with a honed physique and a face that wasn’t conventionally pretty but was darkly erotic like that of a French actress from the sixties whose name he could never remember. Before takeoff, she’d talked on her phone in very bad Spanish to her maid or housekeeper or au pair about her daughter’s needs and expectations, then washed down two tiny white pills with her champagne and fallen unconscious."
+    },
+    {
+      "passage_number": 3,
+      "text": "The good news was that Mireille was waiting for him in the arrivals hall. She was his editor, the granddaughter of the man who had founded the publishing house, and since all editorial decisions were made in New York long before the manuscript reached her desk their relationship was relatively uncomplicated. She vetted the translation, and if it passed muster with her he was fine with that, because he wasn’t about to blunder through it himself, even with Google to fluently obfuscate things for him."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What can be inferred about the narrator’s feelings toward the novel he is reading?",
+      "options": {
+        "A": "He finds the novel boring.",
+        "B": "He is jealous of its quality.",
+        "C": "He admires its experimental structure.",
+        "D": "He feels nostalgic while reading it."
+      },
+      "answer": "B",
+      "explanation": "The text describes the narrator feeling 'maddened' by the novel’s 'grace and fluidity,' which indicates jealousy.",
+      "score_improvement_tip": "Focus on phrases that describe emotions or reactions to identify the narrator’s attitude."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "What does the term 'ameliorated' most nearly mean as used in the first passage?",
+      "options": {
+        "A": "Removed",
+        "B": "Improved",
+        "C": "Complicated",
+        "D": "Defined"
+      },
+      "answer": "B",
+      "explanation": "The boredom is 'ameliorated' by the luxurious environment, suggesting improvement or alleviation.",
+      "score_improvement_tip": "Use context to identify whether the word implies a positive, negative, or neutral action."
+    },
+    {
+      "question_number": 3,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "How does the description of the woman across the aisle contribute to the narrator’s perspective?",
+      "options": {
+        "A": "It highlights his insecurity about his own appearance.",
+        "B": "It emphasizes his habit of critical observation.",
+        "C": "It reveals his admiration for travel companions.",
+        "D": "It demonstrates his resentment toward luxury."
+      },
+      "answer": "B",
+      "explanation": "The narrator carefully critiques her physique and mannerisms, showcasing his sharp observational nature.",
+      "score_improvement_tip": "Consider how details about one character illuminate the narrator’s perspective."
+    },
+    {
+      "question_number": 4,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which of the following edits improves the grammatical clarity of the sentence: 'Before takeoff, she’d talked on her phone in very bad Spanish to her maid or housekeeper or au pair about her daughter’s needs and expectations, then washed down two tiny white pills with her champagne and fallen unconscious'?",
+      "options": {
+        "A": "Add 'and' after 'expectations.'",
+        "B": "Replace 'and' with a period after 'champagne.'",
+        "C": "Place a comma after 'expectations.'",
+        "D": "No changes needed."
+      },
+      "answer": "B",
+      "explanation": "Splitting the sentence improves clarity, especially by creating two distinct ideas.",
+      "score_improvement_tip": "Look for long sentences that may benefit from being divided for improved readability."
+    },
+    {
+      "question_number": 5,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Why does the narrator describe Mireille’s role as 'relatively uncomplicated'?",
+      "options": {
+        "A": "She seldom communicates with him directly.",
+        "B": "She only reviews translations of his work.",
+        "C": "She avoids interfering with his writing process.",
+        "D": "She prioritizes family connections over work."
+      },
+      "answer": "B",
+      "explanation": "The passage notes that editorial decisions are made elsewhere, and Mireille mainly evaluates translations.",
+      "score_improvement_tip": "Analyze functional relationships within the text to clarify structural details."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate precise comprehension, nuanced analysis, and the ability to synthesize ideas across the text.",
+    "700_level_performance": "Students scoring at this level exhibit strong comprehension but may falter on inferential or highly analytical questions."
+  },
+  "explanation_summary": {
+    "hard_questions": "These assess advanced inferential reasoning and precise language analysis.",
+    "medium_questions": "These focus on refining comprehension of connections and intermediate-level textual synthesis.",
+    "easy_questions": "These check explicit understanding and basic inference skills."
+  }
+}

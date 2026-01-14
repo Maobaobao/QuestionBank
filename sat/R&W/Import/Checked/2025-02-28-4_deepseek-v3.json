@@ -1,0 +1,231 @@
+{
+    "article_title": "Our Summer from Hell",
+    "article_author": "Jeff Goodell",
+    "article_date": "2022",
+    "article_source": "Rolling Stone",
+    "article_category": "Essay",
+    "article_tags": ["Climate Crisis", "Extreme Weather", "Fossil Fuels", "Policy"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Now you can see how it works, this whole climate collapse scenario that writers and scientists have been hollering about for years. In the space of a few short months, the Pacific Northwest was baked by an extreme heat wave, California was (and still is) consumed by wildfire and parched by drought, Tennessee was hit by seventeen inches of rain that caused devastating floods that killed twenty-two people, a major hurricane flattened towns and knocked out power for nearly a million people along the Gulf Coast and then moved north and drowned one of the richest cities in the world. All of this was in addition to battling a mutating virus that has already killed more than 645,000 Americans and may or may not be a preview of a new climate-driven pandemic era."
+      },
+      {
+        "passage_number": 2,
+        "text": "All this is happening with just 1°C of warming. “This is climate change,” climate scientist Andrew Dessler said in an interview on CNBC. “It’s just a small preview of what is going to happen if we don’t stop emitting greenhouse gases into the atmosphere. We really need to do that, or we are going to look back on this as the good old days.”"
+      },
+      {
+        "passage_number": 3,
+        "text": "Of course, terrible flooding in Bangladesh and China is also climate change, as are heat waves in India and Pakistan. But because this wild summer culminated in a flood of the media capital of the world, it has inspired a lot of media coverage and yet another round of questioning about whether this is the moment that Americans will begin to truly grapple with the future we have created for ourselves by our century-long fossil fuel binge. As Chris Cilizza at CNN put it: “Is this finally the moment we wake up to the climate crisis?”"
+      },
+      {
+        "passage_number": 4,
+        "text": "Fifteen years ago, I was out on a research vessel in the North Atlantic and asked a scientist a similar question. We were drilling sediment cores, looking for evidence of past climates in the shells of tiny organisms called forams that lived in ancient oceans. One evening as we sat out on the fantail of the ship, I asked Lloyd Keigwin, a geologist at Woods Hole Oceanographic Institute who was the chief scientist on the trip, what he thought it would take to wake Americans up to the risks of climate change. “When a major hurricane comes along and wipes out a great American city, they will wake up,” Keigwin confidently predicted."
+      },
+      {
+        "passage_number": 5,
+        "text": "Well, we’ve had Katrina, Sandy, Laura, Ida—I lose track of them all. It’s impossible to calculate how many houses have been destroyed, power lines downed, roads washed away, lives upended and lost."
+      },
+      {
+        "passage_number": 6,
+        "text": "And what has changed? Yes, we have bent down the carbon-emissions curve enough to make the truly apocalyptic climate nightmares (5° C of warming by 2100) less likely. Clean energy prices have fallen precipitously. We elected a president who now talks bluntly and frequently about the climate crisis and has committed to a zero-carbon grid by 2035. Places like Louisiana have invested billions in coastal resiliency projects. Electric bikes and scooters and cars are proliferating. Media-savvy scientists like Michael Mann, Andrea Dutton, Katharine Hayhoe, and Andrew Dessler are speaking ever more clearly about climate risks. Grassroots activist groups are gaining political power and learning how to use it. Climate warriors like former secretary of state John Kerry are jousting in the fields of diplomacy, trying, once again, to convince the Chinese to step up and show leadership in the upcoming international climate negotiations."
+      },
+      {
+        "passage_number": 7,
+        "text": "This is all good. This is all important. But if this is what it means to “wake up” to the risks of the climate crisis, then we truly are fucked."
+      },
+      {
+        "passage_number": 8,
+        "text": "I recently moved to Texas, which, according to the 2020 census, is one of the fastest growing states in the nation. I moved to Austin for love, not BBQ or to escape paying state income taxes, and there is much to admire about the state. But climate-wise, the view is bleak. It’s highways, strip malls, and big trucks as far as the eye can see. I have visited the big wind farms in the northwest part of the state and there are plenty of venture capital bros driving around in Teslas, but Texas has a governor who is more interested in regulating uteruses and militarizing the border than cutting carbon and preparing for life in a different climate. And just down the road is Houston, the oil capital of the world, where, despite all the talk about economic diversity, fossil fuel still reigns supreme."
+      },
+      {
+        "passage_number": 9,
+        "text": "And it’s not just Texas. The very day New York City was drowning, Senator Joe Manchin wrote an opinion piece for the Wall Street Journal, explaining why he would not support spending $3.5 trillion to help slow climate change. This from a politician who reportedly owns millions of dollars in coal stocks and whose state has probably contributed more carbon to the atmosphere than any other. Evidence of cluelessness and short-term greed is everywhere: Last year, billionaire investor Warren Buffett pumped $10 billion into natural gas pipelines. South Florida real estate is still booming, despite the obvious risks of storm surge and sea level rise. What writer and futurist Alex Steffen calls “the brittleness bubble” continues to expand."
+      },
+      {
+        "passage_number": 10,
+        "text": "Most important, there is zero accountability for the corporations who have made billions of dollars keeping America hooked on fossil fuels while undermining and distorting the urgency of the climate crisis. What price has ExxonMobil and Shell and BP paid for their years of hawking fuels that they knew very well would heat up the planet and cause wreckage and mayhem for generations to come? None, as far as I can tell. There are various lawsuits moving through the courts and activist shareholders are pushing them to think differently about the future, but basically they trashed the planet and got away with it and their only penance is to run commercials about what good citizens they are and what a good job they are doing “innovating for the future.” Meanwhile, the New York Times, whose climate coverage is exemplary, sees nothing wrong with creating and running ads from Big Oil. As writer Emily Atkin put it: “The NYT stopped shilling for cigarettes. Why won’t it stop shilling for fossil fuels?”"
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main idea of the passage?",
+        "options": {
+          "A": "The Pacific Northwest experienced extreme weather",
+          "B": "Climate change is causing widespread disasters",
+          "C": "The Gulf Coast was hit by a hurricane",
+          "D": "A mutating virus is the main concern"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on how climate change is causing widespread disasters, making B the correct answer.",
+        "score_improvement_tip": "Focus on the main subject and the author's primary point when identifying central ideas."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'preview' most nearly means:",
+        "options": {
+          "A": "A final outcome",
+          "B": "A warning sign",
+          "C": "A small sample",
+          "D": "A detailed analysis"
+        },
+        "answer": "C",
+        "explanation": "The term 'preview' is used to describe a small sample of what could happen if greenhouse gas emissions continue, making C the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of descriptive words."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "Based on the passage, what can be inferred about the media's role in climate change awareness?",
+        "options": {
+          "A": "The media has ignored climate change",
+          "B": "The media has amplified climate change coverage",
+          "C": "The media has downplayed climate change risks",
+          "D": "The media has focused only on local events"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that the media has amplified climate change coverage, especially after extreme weather events, making B the correct answer.",
+        "score_improvement_tip": "Use evidence from the text to support your inferences and avoid assumptions."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the passage?",
+        "options": {
+          "A": "To describe a research expedition",
+          "B": "To explain how hurricanes raise awareness of climate change",
+          "C": "To argue for more scientific research",
+          "D": "To compare past and present climates"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on how hurricanes and extreme weather events might raise awareness of climate change, making B the correct answer.",
+        "score_improvement_tip": "Identify the author's main purpose by analyzing the focus and tone of the passage."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 5,
+        "question": "Which evidence supports the claim that extreme weather events have caused significant damage?",
+        "options": {
+          "A": "The number of hurricanes has increased",
+          "B": "Houses, power lines, and roads have been destroyed",
+          "C": "Scientists are studying past climates",
+          "D": "The media has covered these events extensively"
+        },
+        "answer": "B",
+        "explanation": "The passage states that extreme weather events have destroyed houses, power lines, and roads, making B the correct answer.",
+        "score_improvement_tip": "Look for direct evidence in the text to support claims and answer choices."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "How does the passage connect climate change efforts to political and technological advancements?",
+        "options": {
+          "A": "Efforts are insufficient despite advancements",
+          "B": "Advancements have eliminated climate risks",
+          "C": "Political efforts have overshadowed technological progress",
+          "D": "Technological progress has stalled political efforts"
+        },
+        "answer": "A",
+        "explanation": "The passage suggests that despite political and technological advancements, efforts to address climate change are insufficient, making A the correct answer.",
+        "score_improvement_tip": "Analyze how different parts of the text relate to each other to answer cross-text connection questions."
+      },
+      {
+        "question_number": 7,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What is the primary function of the sentence 'But if this is what it means to “wake up” to the risks of the climate crisis, then we truly are fucked'?",
+        "options": {
+          "A": "To express optimism about climate efforts",
+          "B": "To emphasize the inadequacy of current efforts",
+          "C": "To criticize scientists for their inaction",
+          "D": "To argue for more media coverage"
+        },
+        "answer": "B",
+        "explanation": "The sentence emphasizes the inadequacy of current efforts to address climate change, making B the correct answer.",
+        "score_improvement_tip": "Pay attention to sentences that highlight the significance or inadequacy of a concept."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about Texas's approach to climate change?",
+        "options": {
+          "A": "Texas is a leader in renewable energy",
+          "B": "Texas prioritizes fossil fuels over climate action",
+          "C": "Texas has banned carbon emissions",
+          "D": "Texas is unaffected by climate change"
+        },
+        "answer": "B",
+        "explanation": "The passage suggests that Texas prioritizes fossil fuels and other issues over climate action, making B the correct answer.",
+        "score_improvement_tip": "Use specific details from the text to make accurate inferences."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "As used in the passage, 'brittleness bubble' most nearly means:",
+        "options": {
+          "A": "A fragile economic system",
+          "B": "A growing environmental risk",
+          "C": "A temporary solution to climate change",
+          "D": "A scientific theory about climate"
+        },
+        "answer": "B",
+        "explanation": "The term 'brittleness bubble' refers to the growing environmental risks associated with climate change, making B the correct answer.",
+        "score_improvement_tip": "Use context clues to determine the meaning of technical terms."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 10,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The role of corporations in climate change",
+          "B": "The impact of lawsuits on fossil fuel companies",
+          "C": "The media's coverage of climate change",
+          "D": "The future of renewable energy"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the role of corporations in climate change and their lack of accountability, making A the correct answer.",
+        "score_improvement_tip": "Identify the main focus by looking for repeated ideas or concepts in the passage."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can accurately interpret complex texts and make nuanced inferences.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle nuances in the text."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or make connections between different parts of the text.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and the author's purpose.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as main ideas and straightforward details."
+    }
+  }

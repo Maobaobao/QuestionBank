@@ -1,0 +1,440 @@
+{
+  "test_metadata": {
+    "focus_domains": ["Advanced Math"],
+    "focus_skills": ["Nonlinear functions"],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>5</mn><mi>x</mi><mo>-</mo><mn>8</mn><mo>=</mo><mn>17</mn></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "9",
+        "D": "25"
+      },
+      "answer": "B",
+      "explanation": "Add 8 to both sides: <math><mn>5</mn><mi>x</mi><mo>=</mo><mn>25</mn></math>. Divide by 5: <math><mi>x</mi><mo>=</mo><mn>5</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To solve linear equations, isolate the variable by performing inverse operations step by step.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Algebra",
+      "skill": "Linear functions",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation of a line is <math><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>4</mn></math>. What is the y-intercept of the line?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "7",
+        "D": "12"
+      },
+      "answer": "B",
+      "explanation": "The y-intercept is the constant term in the slope-intercept form <math><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, which is 4.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember that in the slope-intercept form, b represents the y-intercept.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' stroke-width='2' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' stroke-width='2' /><text x='190' y='295' font-size='12'>Time (seconds)</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Height (feet)</text><path d='M40 280 Q200 20 360 280' stroke='black' stroke-width='2' fill='none' /><text x='30' y='295' font-size='12'>0</text><text x='360' y='295' font-size='12'>4</text><text x='5' y='285' font-size='12'>0</text><text x='5' y='25' font-size='12'>40</text></svg>",
+      "question_chart_description": "A parabolic graph opening downward, representing the height of a ball over time.",
+      "question": "The graph shows the height, in feet, of a ball thrown upward as a function of time, in seconds. What is the best interpretation of the vertex of the graph in this context?",
+      "options": {
+        "A": "The initial height of the ball",
+        "B": "The maximum height the ball reaches",
+        "C": "The time when the ball hits the ground",
+        "D": "The speed of the ball"
+      },
+      "answer": "B",
+      "explanation": "The vertex of a downward-opening parabola represents the maximum point, which in this context is the highest height the ball attains.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' stroke-width='2' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' stroke-width='2' /><text x='190' y='295' font-size='12'>Time (seconds)</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Height (feet)</text><path d='M40 280 Q200 20 360 280' stroke='black' stroke-width='2' fill='none' /><circle cx='200' cy='20' r='5' fill='red' /><text x='210' y='30' font-size='12' fill='red'>Vertex (maximum height)</text><text x='30' y='295' font-size='12'>0</text><text x='360' y='295' font-size='12'>4</text><text x='5' y='285' font-size='12'>0</text><text x='5' y='25' font-size='12'>40</text></svg>",
+      "explanation_chart_description": "The parabola with the vertex highlighted in red, indicating the maximum height.",
+      "score_improvement_tip": "In quadratic functions representing real-world scenarios, identify what the vertex signifies based on the context.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Percentages",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A shirt costs $40. If it is on sale for 25% off, what is the sale price? Enter your answer as a decimal.",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "30",
+      "explanation": "25% of 40 is 10. Subtract: 40 - 10 = 30.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To find a percentage discount, calculate the discount amount and subtract from the original price.",
+      "additional_data": null
+    },
+    {
+      "question_number": 5,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the solution to the system of equations <math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>5</mn></math>, <math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>1</mn></math>?",
+      "options": {
+        "A": "<math><mo>(</mo><mn>2</mn><mo>,</mo><mn>3</mn><mo>)</mo></math>",
+        "B": "<math><mo>(</mo><mn>3</mn><mo>,</mo><mn>2</mn><mo>)</mo></math>",
+        "C": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mn>4</mn><mo>)</mo></math>",
+        "D": "<math><mo>(</mo><mn>4</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>"
+      },
+      "answer": "A",
+      "explanation": "Add the equations: <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>6</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>2</mn></math>. Substitute into first: <math><mn>2</mn><mo>+</mo><mi>y</mi><mo>=</mo><mn>5</mn></math>, <math><mi>y</mi><mo>=</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Use elimination method by adding or subtracting equations to solve systems of linear equations.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The function <math><mi>f</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>500</mn><mo>⋅</mo><msup><mn>1.05</mn><mi>t</mi></msup></math> models the value, in dollars, of an investment after <math><mi>t</mi></math> years. What does the number 1.05 represent in this context?",
+      "options": {
+        "A": "The initial value of the investment",
+        "B": "The annual growth rate as a decimal",
+        "C": "The number of years",
+        "D": "The total value after t years"
+      },
+      "answer": "B",
+      "explanation": "In the exponential growth model <math><mi>P</mi><mo>(</mo><mn>1</mn><mo>+</mo><mi>r</mi><mo>)</mo><msup></msup><mi>t</mi></math>, r is the growth rate, so 0.05 is 5%, and 1.05 is 1 + r.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In exponential functions, identify the base as 1 plus the growth rate for growth models.",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Advanced Math",
+      "skill": "Equivalent expressions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which of the following is equivalent to <math><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>9</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac></math>?",
+      "options": {
+        "A": "<math><mi>x</mi><mo>-</mo><mn>3</mn></math>",
+        "B": "<math><mi>x</mi><mo>+</mo><mn>3</mn></math>",
+        "C": "<math><mi>x</mi><mo>+</mo><mn>6</mn></math>",
+        "D": "<math><mi>x</mi><mo>+</mo><mn>3</mn></math>"
+      },
+      "answer": "D",
+      "explanation": "<math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>9</mn><mo>=</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></math>, so <math><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mi>x</mi><mo>-</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math>, for <math><mi>x</mi><mo>≠</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Factor numerator and denominator to simplify rational expressions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Area and volume formulas",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The radius of a circle is 6. What is the area of the circle? Use <math><mi>π</mi><mo>≈</mo><mn>3.14</mn></math> and round to the nearest integer.",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "113",
+      "explanation": "Area = <math><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>3.14</mn><mo>×</mo><mn>36</mn><mo>=</mo><mn>113.04</mn></math>, rounded to 113.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember the formula for the area of a circle is πr² and use approximation for π when specified.",
+      "additional_data": null
+    },
+    {
+      "question_number": 9,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Ratios, rates, proportional relationships, and units",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If 4 apples cost $2, how much do 10 apples cost?",
+      "options": {
+        "A": "$4",
+        "B": "$5",
+        "C": "$6",
+        "D": "$8"
+      },
+      "answer": "B",
+      "explanation": "Unit price = 2/4 = 0.5 per apple. For 10: 10 × 0.5 = 5.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Find the unit rate to solve proportional relationship problems.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Solve <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math>. What are the solutions?",
+      "options": {
+        "A": "x = 2, x = 3",
+        "B": "x = -2, x = -3",
+        "C": "x = 1, x = 6",
+        "D": "x = -1, x = -6"
+      },
+      "answer": "A",
+      "explanation": "Factor: <math><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>, so x=2 or x=3.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Factor quadratic equations to find roots when possible.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The product of two positive integers is 900. If the first integer is 4 times the second integer, what is the smaller integer?",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "15",
+      "explanation": "Let the smaller be y, then the larger is 4y, and 4y * y = 900. So 4y² = 900, y² = 225, y = 15 (since positive).",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Set up equations for word problems involving integer constraints and solve for the unknown.",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which of the following is the solution to the inequality <math><mn>2</mn><mi>x</mi><mo>-</mo><mn>3</mn><mo>></mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn></math>?",
+      "options": {
+        "A": "<math><mi>x</mi><mo><</mo><mo>-</mo><mn>3</mn></math>",
+        "B": "<math><mi>x</mi><mo>></mo><mo>-</mo><mn>3</mn></math>",
+        "C": "<math><mi>x</mi><mo><</mo><mn>3</mn></math>",
+        "D": "<math><mi>x</mi><mo>></mo><mn>3</mn></math>"
+      },
+      "answer": "A",
+      "explanation": "Subtract 2x: <math><mo>-</mo><mn>3</mn><mo>></mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>6</mn></math>. Subtract 6: <math><mo>-</mo><mn>9</mn><mo>></mo><mn>3</mn><mi>x</mi></math>. Divide by 3, reverse inequality: <math><mo>-</mo><mn>3</mn><mo><</mo><mi>x</mi></math>? Wait, -9 > 3x, divide by 3 (positive), -3 > x, or x < -3.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving inequalities, remember to reverse the inequality sign when multiplying or dividing by a negative number.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Advanced Math",
+      "skill": "Systems of equations in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation <math><mi>x</mi><mo>^</mo><mn>2</mn><mo>+</mo><mi>y</mi><mo>^</mo><mn>2</mn><mo>=</mo><mn>25</mn></math> represents a circle, and the equation <math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>5</mn></math> represents a line. What is the y-coordinate of the point of intersection with the smaller y-value? Enter as a decimal if necessary.",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "-5",
+      "explanation": "Substitute y = 2x - 5 into x² + y² = 25: x² + (2x - 5)² = 25 → x² + 4x² -20x +25 =25 →5x² -20x =0 →5x(x-4)=0 →x=0 or x=4. For x=0, y= -5, but check: 0 +25 =25, yes. For x=4, y=8-5=3, 16+9=25. Smaller y is -5",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Substitute the linear equation into the quadratic to solve systems involving nonlinear equations.",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2' /><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2' /><line x1='50' y1='50' x2='350' y2='250' stroke='black' stroke-width='2' /><text x='40' y='265' font-size='12'>A</text><text x='40' y='45' font-size='12'>B</text><text x='355' y='265' font-size='12'>C</text><text x='200' y='200' font-size='12'>30°</text><text x='80' y='80' font-size='12'>12</text></svg>",
+      "question_chart_description": "Right triangle ABC with right angle at A, angle at C is 30 degrees, side AB is 12.",
+      "question": "In the right triangle shown, what is the length of side AC?",
+      "options": {
+        "A": "6",
+        "B": "6√3",
+        "C": "12",
+        "D": "12√3"
+      },
+      "answer": "D",
+      "explanation": "In a 30-60-90 triangle, the side opposite 30° is half the hypotenuse. Here, hypotenuse is BC, no, right at A, angle at C 30°, so angle at B 60°. Side opposite to 30° is AB =12, wait, AB is from A to B, which is one leg, the vertical. If right at A, side opposite to C is AB. Angle at C is 30°, opposite is AB =12, hypotenuse is BC. So opposite 30° is 12, hypotenuse =2*12=24, then other leg AC =12√3. Yes, B is 6√3? Wait, no, opposite 30° is half hypotenuse, so 12 = half, hypotenuse 24, then leg AC = hypotenuse * (√3/2) =24*(√3/2)=12√3. So answer D.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2' /><line x1='50' y1='250' x2='50' y2='50' stroke='black' stroke-width='2' /><line x1='50' y1='50' x2='350' y2='250' stroke='black' stroke-width='2' /><text x='40' y='265' font-size='12'>A</text><text x='40' y='45' font-size='12'>B</text><text x='355' y='265' font-size='12'>C</text><text x='200' y='200' font-size='12'>30°</text><text x='80' y='80' font-size='12'>12</text><text x='50' y='160' font-size='12' fill='blue'>60°</text><text x='200' y='265' font-size='12' fill='red'>12√3</text></svg>",
+      "explanation_chart_description": "Right triangle with angles labeled and side AC highlighted.",
+      "score_improvement_tip": "Memorize the side ratios for 30-60-90 triangles: 1 : √3 : 2.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' /><text x='190' y='295' font-size='12'>Hours Studied</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Test Score</text><circle cx='40' cy='250' r='3' fill='black' /><circle cx='100' cy='200' r='3' fill='black' /><circle cx='160' cy='150' r='3' fill='black' /><circle cx='220' cy='100' r='3' fill='black' /><circle cx='280' cy='50' r='3' fill='black' /><line x1='30' y1='260' x2='290' y2='40' stroke='red' stroke-dasharray='5,5' /></svg>",
+      "question_chart_description": "Scatterplot showing positive correlation between hours studied and test score.",
+      "question": "The scatterplot shows test scores as a function of hours studied. Which of the following best describes the relationship?",
+      "options": {
+        "A": "Negative linear",
+        "B": "Positive linear",
+        "C": "No correlation",
+        "D": "Nonlinear"
+      },
+      "answer": "B",
+      "explanation": "The points show an increasing trend, indicating a positive linear relationship.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' /><text x='190' y='295' font-size='12'>Hours Studied</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Test Score</text><circle cx='40' cy='250' r='3' fill='black' /><circle cx='100' cy='200' r='3' fill='black' /><circle cx='160' cy='150' r='3' fill='black' /><circle cx='220' cy='100' r='3' fill='black' /><circle cx='280' cy='50' r='3' fill='black' /><line x1='30' y1='260' x2='290' y2='40' stroke='red' /><text x='300' y='50' font-size='12' fill='red'>Line of best fit</text></svg>",
+      "explanation_chart_description": "Scatterplot with line of best fit added in red.",
+      "score_improvement_tip": "Look for the overall trend in scatterplots to determine the type of correlation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' stroke-width='2' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' stroke-width='2' /><text x='190' y='295' font-size='12'>Time (years)</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Population</text><path d='M40 280 L80 240 L120 210 L160 185 L200 165 L240 150 L280 140 L320 132 L360 126' stroke='black' stroke-width='2' fill='none' /><text x='30' y='295' font-size='12'>0</text><text x='360' y='295' font-size='12'>8</text><text x='5' y='285' font-size='12'>1000</text><text x='5' y='25' font-size='12'>5000</text></svg>",
+      "question_chart_description": "A decreasing curve approaching a horizontal asymptote, representing population decline.",
+      "question": "The graph shows the population of a species as a function of time. What is the best interpretation of the horizontal asymptote in this context?",
+      "options": {
+        "A": "The initial population",
+        "B": "The minimum population the species can reach",
+        "C": "The rate of population decline",
+        "D": "The time when population stabilizes"
+      },
+      "answer": "B",
+      "explanation": "The horizontal asymptote represents the value the function approaches but never reaches, here the lowest population level.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white' /><line x1='20' y1='280' x2='380' y2='280' stroke='black' stroke-width='2' /><line x1='20' y1='280' x2='20' y2='20' stroke='black' stroke-width='2' /><text x='190' y='295' font-size='12'>Time (years)</text><text x='0' y='150' font-size='12' transform='rotate(-90 0 150)'>Population</text><path d='M40 280 L80 240 L120 210 L160 185 L200 165 L240 150 L280 140 L320 132 L360 126' stroke='black' stroke-width='2' fill='none' /><line x1='20' y1='120' x2='380' y2='120' stroke='red' stroke-dasharray='5,5' /><text x='300' y='115' font-size='12' fill='red'>Asymptote</text><text x='30' y='295' font-size='12'>0</text><text x='360' y='295' font-size='12'>8</text><text x='5' y='285' font-size='12'>1000</text><text x='5' y='25' font-size='12'>5000</text></svg>",
+      "explanation_chart_description": "The curve with the horizontal asymptote highlighted in red.",
+      "score_improvement_tip": "In graphs of rational or exponential decay functions, the asymptote indicates limiting behavior.",
+      "additional_data": null
+    },
+    {
+      "question_number": 17,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation of a circle is <math><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><msup><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>+</mo><mn>3</mn><mo>)</mo><msup><mn>2</mn></msup><mo>=</mo><mn>16</mn></math>. What is the radius of the circle?",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "4",
+      "explanation": "The standard form is <math><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><mo>)</mo><msup><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>-</mo><mi>k</mi><mo>)</mo><msup><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math>, so r² = 16, r = 4.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Identify the radius as the square root of the constant term in the standard circle equation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 18,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A bag contains 3 red balls and 7 blue balls. If two balls are drawn without replacement, what is the probability that both are red?",
+      "options": {
+        "A": "<math><mfrac><mn>3</mn><mn>35</mn></mfrac></math>",
+        "B": "<math><mfrac><mn>3</mn><mn>25</mn></mfrac></math>",
+        "C": "<math><mfrac><mn>1</mn><mn>15</mn></mfrac></math>",
+        "D": "<math><mfrac><mn>6</mn><mn>35</mn></mfrac></math>"
+      },
+      "answer": "C",
+      "explanation": "Probability first red: 3/10, second red: 2/9. Multiply: (3/10)*(2/9) = 6/90 = 1/15.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For without replacement, adjust the total and favorable after each draw.",
+      "additional_data": null
+    },
+    {
+      "question_number": 19,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Solve <math><msqrt><mi>x</mi><mo>+</mo><mn>4</mn></msqrt><mo>=</mo><mn>6</mn></math> for <math><mi>x</mi></math>.",
+      "options": {
+        "Correct Answer": ""
+      },
+      "answer": "32",
+      "explanation": "Isolate square root: <math><msqrt><mi>x</mi><mo>+</mo><mn>4</mn></msqrt><mo>=</mo><mn>6</mn></math>. Square both sides: <math><mi>x</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>36</mn></math>. Subtract 4: <math><mi>x</mi><mo>=</mo><mn>32</mn></math>. Check: <math><msqrt><mn>36</mn></msqrt><mo>=</mo><mn>6</mn></math>, yes.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "After solving radical equations, check solutions in the original equation to avoid extraneous roots.",
+      "additional_data": null
+    },
+    {
+      "question_number": 20,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The inequality <math><mn>−</mn><mn>2</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>≤</mo><mn>4</mn><mo>−</mo><mi>x</mi></math> is equivalent to which of the following?",
+      "options": {
+        "A": "<math><mi>x</mi><mo>≥</mo><mn>2</mn></math>",
+        "B": "<math><mi>x</mi><mo>≤</mo><mn>2</mn></math>",
+        "C": "<math><mi>x</mi><mo>≥</mo><mn>10</mn></math>",
+        "D": "<math><mi>x</mi><mo>≤</mo><mn>10</mn></math>"
+      },
+      "answer": "A",
+      "explanation": "Distribute: <math><mn>−</mn><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>≤</mo><mn>4</mn><mo>−</mo><mi>x</mi></math>. Add 2x: <math><mn>6</mn><mo>≤</mo><mn>4</mn><mo>+</mo><mi>x</mi></math>. Subtract 4: <math><mn>2</mn><mo>≤</mo><mi>x</mi></math>, or <math><mi>x</mi><mo>≥</mo><mn>2</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Carefully distribute negative signs and remember to reverse inequalities only when multiplying/dividing by negatives.",
+      "additional_data": null
+    }
+  ]
+}

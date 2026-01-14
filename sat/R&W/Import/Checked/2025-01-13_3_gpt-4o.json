@@ -1,0 +1,106 @@
+{
+    "article_title": "The End of Homo Sapiens",
+    "article_author": "Yuval Noah Harari",
+    "article_date": "2011",
+    "article_source": "Sapiens: A Brief History of Humankind",
+    "article_category": "Nonfiction",
+    "article_tags": ["History", "Human Development", "Intelligent Design"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "For billions of years, intelligent design was not even an option, because there was no intelligence which could design things. Microorganisms, which until quite recently were the only living things around, are capable of amazing feats. A microorganism belonging to one species can incorporate genetic codes from a completely different species into its cell and thereby gain new capabilities, such as resistance to antibiotics. Yet, as best we know, microorganisms have no consciousness, no aims in life, and no ability to plan ahead."
+      },
+      {
+        "passage_number": 2,
+        "text": "At some stage organisms such as giraffes, dolphins, chimpanzees and Neanderthals evolved consciousness and the ability to plan ahead. But even if a Neanderthal fantasised about fowls so fat and slow-moving that he could just scoop them up whenever he was hungry, he had no way of turning that fantasy into reality. He had to hunt the birds that had been naturally selected."
+      },
+      {
+        "passage_number": 3,
+        "text": "The first crack in the old regime appeared about 10,000 years ago, during the Agricultural Revolution. Sapiens who dreamed of fat, slow-moving chickens discovered that if they mated the fattest hen with the slowest cock, some of their offspring would be both fat and slow. If you mated those offspring with each other, you could produce a line of fat, slow birds. It was a race of chickens unknown to nature, produced by the intelligent design not of a god but of a human."
+      },
+      {
+        "passage_number": 4,
+        "text": "Today, the 4-billion-year-old regime of natural selection is facing a completely different challenge. In laboratories throughout the world, scientists are engineering living beings. They break the laws of natural selection with impunity, unbridled even by an organism’s original characteristics. Eduardo Kac, a Brazilian bio-artist, decided in 2000 to create a new work of art: a fluorescent green rabbit. Kac contacted a French laboratory and offered it a fee to engineer a radiant bunny according to his specifications. The French scientists took a run-of-the-mill white rabbit embryo, implanted in its DNA a gene taken from a green fluorescent jellyfish, and voilà! One green fluorescent rabbit for le monsieur. Kac named the rabbit Alba."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the central idea of the first passage?",
+        "options": {
+          "A": "Microorganisms have advanced consciousness.",
+          "B": "Microorganisms have surprising abilities but lack intelligence.",
+          "C": "Microorganisms can plan for the future.",
+          "D": "Antibiotic resistance is unique to certain species."
+        },
+        "answer": "B",
+        "explanation": "The passage highlights the impressive capabilities of microorganisms while emphasizing their lack of intelligence or foresight.",
+        "score_improvement_tip": "Focus on the overarching theme rather than isolated details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 3,
+        "question": "As used in line 2 of Passage 3, the word 'crack' most nearly means:",
+        "options": {
+          "A": "Fault",
+          "B": "Opening",
+          "C": "Gap",
+          "D": "Disruption"
+        },
+        "answer": "D",
+        "explanation": "The word 'crack' metaphorically represents a disruption or break in the previous order of natural selection.",
+        "score_improvement_tip": "When encountering figurative language, consider how the word fits the passage’s overall tone and content."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Which statement from the text best supports the idea that Sapiens created entirely new characteristics in other species?",
+        "options": {
+          "A": "'He had to hunt the birds that had been naturally selected.'",
+          "B": "'It was a race of chickens unknown to nature, produced by the intelligent design not of a god but of a human.'",
+          "C": "'They break the laws of natural selection with impunity.'",
+          "D": "'Sapiens could use selective breeding to detour around and accelerate the natural-selection processes.'"
+        },
+        "answer": "B",
+        "explanation": "This line explicitly discusses the creation of unique traits in chickens through human intervention.",
+        "score_improvement_tip": "Locate explicit evidence in the text that directly supports the claim being analyzed."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which transition word or phrase would best replace 'Still' at the beginning of Passage 4 to enhance logical flow?",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "Similarly",
+          "D": "Consequently"
+        },
+        "answer": "A",
+        "explanation": "The word 'However' captures the contrast between past human limitations and present advancements.",
+        "score_improvement_tip": "Pay attention to the relationship between ideas to choose the most suitable transition."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Exhibits mastery in inference, critical thinking, and complex synthesis of ideas.",
+      "700_level_performance": "Demonstrates strong comprehension and analytical skills but with occasional inconsistencies in high-level synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Require higher-order reasoning and the ability to synthesize ideas across multiple sections.",
+      "medium_questions": "Test understanding of relationships within and between ideas.",
+      "easy_questions": "Focus on identifying explicit information and central ideas."
+    }
+  }
+  

@@ -1,0 +1,219 @@
+{
+  "article_title": "Unnatural-selection",
+  "article_author": "Antonio Regalado",
+  "article_date": "September-October, 2024",
+  "article_source": "MIT Technology Review",
+  "article_category": "Science and Technology",
+  "article_tags": ["Gene Editing", "CRISPR", "Bioethics", "Human Evolution"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "If anyone did create an edited baby, it would raise moral and ethical issues, among the profoundest of which, Doudna had told me, was that doing so would be “changing human evolution.” Any gene alterations made to an embryo that successfully developed into a baby would get passed on to any children of its own, via what’s known as the germline. What kind of scientist would be bold enough to try that?"
+    },
+    {
+      "passage_number": 2,
+      "text": "Two years and nearly 8,000 miles in an airplane seat later, I found the answer. At a hotel in Guangzhou, China, I joined a documentary film crew for a meeting with a biophysicist named He Jiankui, who appeared with a retinue of advisors. During the meeting, He was immensely gregarious and spoke excitedly about his research on embryos of mice, monkeys, and humans, and about his eventual plans to improve human health by adding beneficial genes to people’s bodies from birth. Still imagining that such a step must lie at least some way off, I asked if the technology was truly ready for such an undertaking.\n\n“Ready,” He said. Then, after a laden pause: “Almost ready.”"
+    },
+    {
+      "passage_number": 3,
+      "text": "Four weeks later, I learned that he’d already done it, when I found data that He had placed online describing the genetic profiles of two gene-edited human fetuses—that is, ”CRISPR babies” in gestation— as well an explanation of his plan, which was to create humans immune to HIV. He had targeted a gene called CCR5, which in some people has a variation known to protect against HIV infection. It’s rare for numbers in a spreadsheet to make the hair on your arms stand up, although maybe some climatologists feel the same way seeing the latest Arctic temperatures. It appeared that something historic—and frightening—had already happened. In our story breaking the news that same day, I ventured that the birth of genetically tailored humans would be something between a medical breakthrough and the start of a slippery slope of human enhancement."
+    },
+    {
+      "passage_number": 4,
+      "text": "For his actions, He was later sentenced to three years in prison, and his scientific practices were roundly excoriated. The edits he made, on what proved to be twin girls (and a third baby, revealed later), had in fact been carelessly imposed, almost in an out-of-control fashion, according to his own data. And I was among a flock of critics—in the media and academia—who would subject He and his circle of advisors to Promethean-level torment via a daily stream of articles and exposés. Just this spring, Fyodor Urnov, a gene-editing specialist at the University of California, Berkeley, lashed out on X, calling He a scientific “pyromaniac” and comparing him to a Balrog, a demon from J.R.R. Tolkien’s The Lord of the Rings. It could seem as if He’s crime wasn’t just medical wrongdoing but daring to take the wheel of the very processes that brought you, me, and him into being."
+    },
+    {
+      "passage_number": 5,
+      "text": "Futurists who write about the destiny of humankind have imagined all sorts of changes. We’ll all be given auxiliary chromosomes loaded with genetic goodies, or maybe we’ll march through life as a member of a pod of identical clones. Perhaps sex will become outdated as we reproduce exclusively through our stem cells. Or human colonists on another planet will be isolated so long that they become their own species. The thing about He’s idea, though, is that he drew it from scientific realities close at hand. Just as some gene mutations cause awful, rare diseases, others are being discovered that lend a few people the ability to resist common ones, like diabetes, heart disease, Alzheimer’s—and HIV. Such beneficial, superpower-like traits might spread to the rest of humanity, given enough time. But why wait 100,000 years for natural selection to do its job? For a few hundred dollars in chemicals, you could try to install these changes in an embryo in 10 minutes. That is, in theory, the easiest way to go about making such changes— it’s just one cell to start with."
+    },
+    {
+      "passage_number": 6,
+      "text": "Editing human embryos is restricted in much of the world—and making an edited baby is flatly illegal in most countries surveyed by legal scholars. But advancing technology could render the embryo issue moot. New ways of adding CRISPR to the bodies of people already born— children and adults—could let them easily receive changes as well. Indeed, if you are curious what the human genome could look like in 125 years, it’s possible that many people will be the beneficiaries of multiple rare, but useful, gene mutations currently found in only small segments of the population. These could protect us against common diseases and infections, but eventually they could also yield frank improvements in other traits, such as height, metabolism, or even cognition. These changes would not be passed on genetically to people’s offspring, but if they were widely distributed, they too would become a form of human-directed self-evolution—easily as big a deal as the emergence of computer intelligence or the engineering of the physical world around us."
+    },
+    {
+      "passage_number": 7,
+      "text": "I was surprised to learn that even as He’s critics take issue with his methods, they see the basic stratagem as inevitable. When I asked Urnov, who helped coin the term “genome editing” in 2005, what the human genome could be like in, say, a century, he readily agreed that improvements using superpower genes will probably be widely introduced into adults—and embryos—as the technology to do so improves. But he warned that he doesn’t necessarily trust humanity to do things the right way. Some groups will probably obtain the health benefits before others. And commercial interests could eventually take the trend in unhelpful directions—much as algorithms keep his students’ noses pasted, unnaturally, to the screens of their mobile phones. “I would say my enthusiasm for what the human genome is going to be in 100 years is tempered by our history of a lack of moderation and wisdom,” he said. “You don’t need to be Aldous Huxley to start writing dystopias.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the passage, what is one major ethical concern raised by creating an edited baby?",
+      "options": {
+        "A": "It would involve altering animal embryos",
+        "B": "It would change human evolution",
+        "C": "It would require extensive travel",
+        "D": "It would focus only on rare diseases"
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that creating an edited baby would be 'changing human evolution,' highlighting this as a profound ethical issue.",
+      "score_improvement_tip": "Focus on identifying explicitly stated main ideas to build confidence in basic comprehension before tackling inferences."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'gregarious' most nearly means",
+      "options": {
+        "A": "sociable",
+        "B": "cautious",
+        "C": "secretive",
+        "D": "indifferent"
+      },
+      "answer": "A",
+      "explanation": "The context describes He as speaking excitedly and appearing with advisors, suggesting he is outgoing and sociable.",
+      "score_improvement_tip": "Use surrounding sentences to determine word meanings, especially when the word describes a person's behavior."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which detail from the passage best supports the idea that He's actions were groundbreaking?",
+      "options": {
+        "A": "The data described genetic profiles of edited fetuses",
+        "B": "The gene targeted was CCR5",
+        "C": "Climatologists see Arctic temperatures",
+        "D": "The story broke the news the same day"
+      },
+      "answer": "A",
+      "explanation": "The detail about data on gene-edited human fetuses directly evidences the historic nature of creating 'CRISPR babies.'",
+      "score_improvement_tip": "Scan for details that directly link to the claim, avoiding distractors that are tangential."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author's primary purpose in mentioning Fyodor Urnov's comment is to",
+      "options": {
+        "A": "illustrate the intensity of criticism against He",
+        "B": "describe a new gene-editing technique",
+        "C": "promote Tolkien's literature",
+        "D": "explain He's prison sentence"
+      },
+      "answer": "A",
+      "explanation": "Urnov's harsh labels like 'scientific pyromaniac' and the Balrog comparison emphasize the strong backlash from experts.",
+      "score_improvement_tip": "Consider how examples serve the overall argument, such as amplifying criticism."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text with the most logical transition?\nFuturists who write about the destiny of humankind have imagined all sorts of changes. _____, the thing about He’s idea, though, is that he drew it from scientific realities close at hand.",
+      "options": {
+        "A": "For example",
+        "B": "In contrast",
+        "C": "Additionally",
+        "D": "Therefore"
+      },
+      "answer": "B",
+      "explanation": "The transition contrasts futurists' speculative ideas with He's grounded approach based on real science.",
+      "score_improvement_tip": "Evaluate transitions by checking if they signal contrast, addition, or cause, based on sentence relationships."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the passage, the author implies that attempting to edit a human embryo would most likely be viewed as",
+      "options": {
+        "A": "a routine scientific procedure",
+        "B": "an act of audacious overreach",
+        "C": "a collaborative global effort",
+        "D": "a minor ethical dilemma"
+      },
+      "answer": "B",
+      "explanation": "The rhetorical question about what scientist would be 'bold enough' infers that such an act is seen as excessively daring and ethically fraught.",
+      "score_improvement_tip": "Practice inferring implied attitudes by analyzing rhetorical questions and tone for deeper analysis."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "If placed in conversation with Passage 7, the author's description of He's plan in this passage would most directly illustrate Urnov's concern about",
+      "options": {
+        "A": "lack of moderation in applying technology",
+        "B": "benefits of superpower genes",
+        "C": "improvements in adult gene editing",
+        "D": "history of genome editing terms"
+      },
+      "answer": "A",
+      "explanation": "He's rushed creation of HIV-immune humans exemplifies Urnov's worry about humanity's unwise rush into genome changes without restraint.",
+      "score_improvement_tip": "Connect ideas across passages by identifying shared themes, like ethical risks, to strengthen synthesis skills."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "While researching a topic, a student has taken the following notes:\n- Embryo editing is illegal in many countries.\n- New CRISPR methods could allow changes in adults.\n- Such changes might include protections against diseases.\n- These would not pass to offspring but could lead to self-evolution.\nThe student wants to emphasize the potential scale of adult gene editing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "options": {
+        "A": "Embryo editing restrictions exist, but adult methods could make widespread changes as significant as computer intelligence.",
+        "B": "Many countries ban edited babies, focusing instead on disease protections.",
+        "C": "CRISPR in adults won't affect offspring, unlike embryo edits.",
+        "D": "Legal scholars survey countries where editing is restricted."
+      },
+      "answer": "A",
+      "explanation": "This choice synthesizes the notes to highlight the transformative, evolutionary impact of adult editing despite restrictions.",
+      "score_improvement_tip": "Synthesize notes by selecting details that build toward the rhetorical goal, ignoring irrelevant ones."
+    },
+    {
+      "question_number": 9,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Futurists who write about the destiny of humankind have imagined all sorts of changes. We’ll all be given auxiliary chromosomes loaded with genetic goodies, or maybe we’ll march through life as a member of a pod of identical clones. Perhaps sex will become outdated as we reproduce exclusively through our stem cells. Or human colonists on another planet will be isolated so long that they become their own species. The thing about He’s idea, though, is that he drew it from scientific realities close at hand.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "Just as some gene mutations cause awful, rare diseases others are being discovered",
+        "B": "Just as some gene mutations cause awful rare diseases, others are being discovered",
+        "C": "Just as some gene mutations cause awful, rare diseases, others are being discovered",
+        "D": "Just as some gene mutations cause awful rare diseases others are being discovered"
+      },
+      "answer": "C",
+      "explanation": "The comma after 'diseases' correctly sets off the nonrestrictive phrase in a contrasting compound sentence.",
+      "score_improvement_tip": "Review punctuation in complex sentences to ensure clarity, especially in contrasts."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "As used in the passage, 'tempered' most nearly means",
+      "options": {
+        "A": "strengthened",
+        "B": "moderated",
+        "C": "ignored",
+        "D": "exaggerated"
+      },
+      "answer": "B",
+      "explanation": "Urnov's enthusiasm is 'tempered' by history, meaning it is restrained or moderated by concerns about moderation and wisdom.",
+      "score_improvement_tip": "For advanced vocabulary, consider emotional or attitudinal context to discern nuanced meanings."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in inferring complex implications, synthesizing cross-text ideas, and applying precise conventions in challenging contexts, demonstrating nuanced analysis and rhetorical mastery.",
+    "700_level_performance": "Students at this level handle core comprehension and evidence well but may falter on subtle inferences, advanced synthesis, or intricate structural analysis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge advanced inference, cross-text synthesis, rhetorical synthesis, and precise conventions, requiring deep analysis of implications and structures.",
+    "medium_questions": "Medium questions test textual evidence, purpose identification, and logical transitions, focusing on connecting details to broader ideas.",
+    "easy_questions": "Easy questions assess basic central ideas and straightforward word meanings, emphasizing explicit information extraction."
+  }
+}

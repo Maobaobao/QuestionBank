@@ -1,0 +1,215 @@
+{
+  "article_title": "Strategy in an Era of Abundant Expertise",
+  "article_author": "BOBBY YERRAMILLI-RAO",
+  "article_date": "March-April, 2025",
+  "article_source": "Harvard Business Review USA",
+  "article_category": "Essay",
+  "article_tags": ["Artificial Intelligence", "Business Strategy", "Digital Transformation", "Expertise", "Competitive Advantage"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Clearly the companies that are best at continually increasing their triple-product return will have the greatest chance of competitive success. But getting there is hard. It involves meeting digital transformation requirements, aligning teams around a new course of action, helping people across the company change their behavior to maximize the benefits of working with AI, and reallocating budgets. So how should companies proceed?<br><br>Let’s start with the assumption that organizations should be far along on the digital transformation journey, especially with the digitization of data, the adoption of cloud computing, and the establishment of security and governance protocols. Digital transformation can be a long process; expecting to complete it before trying to realize any benefits from AI is unrealistic. It’s best to begin with a small number of business processes, maybe even just one, in which AI can be easily deployed and where it has already proved valuable for other companies. Coding, customer service, marketing, and general productivity tasks are a few prime examples. Those processes usually have digitized data and software-centric workflows that make achieving AI-based improvements easier."
+    },
+    {
+      "passage_number": 2,
+      "text": "AI safety and governance are foundational to success as well. Given the risks of bias, misinformation, deep fakes, and cyberattacks, companies have to establish clear guidelines and principles to safeguard their AI efforts. Again, these are hard to create in the abstract and much easier when a specific business process is the focus. Trust and safety should be among the top priorities for any organization exploring artificial intelligence.<br><br>As with any transformation, persuading people and achieving organizational change can be even more challenging than technical implementation. In addition to the triedand- true principles of change management, an effective way to drive change in this case is to cultivate a group of employees who are early adopters of AI in select processes and empower them to become AI champions within the organization. They can serve as role models and peer mentors, accelerating adoption at every level of the company. However, the imperative that all employees learn AI cannot be overstated. Moderna’s success in rapidly deploying gen AI across its enterprise was enabled by the creation of an “AI academy”—a mandatory internal course that included 20 hours of training on AI and its business impact. Research shows that AI can fail at the front lines, and employee training is an important way to avoid that outcome."
+    },
+    {
+      "passage_number": 3,
+      "text": "Finally, a budget should be allocated for even early activities. As companies realize a greater triple-product return, the cost of using AI will be more than offset by productivity gains. Organizations will begin to regard AI as a core element in the budgets of all divisions, be they lines of business, functions, or the corporate center.<br><br>Coursera provides a great example of a company that started with a specific process—in this case coding—and now innovates rapidly and broadly with AI across a range of activities. When ChatGPT was introduced, Coursera’s CEO, Jeff Maggioncalda, quickly recognized the potential of gen AI and started bringing it into his company. He believed that Coursera’s software engineers needed to better understand emerging gen AI capabilities to truly create value. His company hired a firm that specialized in gen AI coding techniques to conduct training for its software developers. It also introduced an AI assistant that helped its engineers code more efficiently. Equipped with knowledge and tools, the teams at Coursera were able within just a year to incorporate AI capabilities into several products, such as translation, personalized learning, and automated course creation. By learning and doing, Coursera’s employees have positioned themselves to continue innovating and to stay ahead of the competition as new AI capabilities become available."
+    },
+    {
+      "passage_number": 4,
+      "text": "If companies derive value from providing a differentiated bundle of expertise, how can they continue to be relevant when improvements in AI’s core capabilities make some or all of that expertise more easily available to competitors and customers? What is the basis for value capture in an era of abundant expertise?<br><br>We believe that every company will need to reevaluate its strategy in this changing era and will have to ask itself three questions.<br><br>Which aspects of the problem we now solve for customers will customers use AI to solve themselves? Consider the work of travel agents. For many years customers have been able to find information about travel destinations and book reservations online. Now they can simply consult AI apps to create tailored travel itineraries based on their unique preferences. As AI’s ability to take action improves, it will be able to make reservations as well. Travel agents will need to reinvent themselves—perhaps by organizing unique events and experiences for their clients."
+    },
+    {
+      "passage_number": 5,
+      "text": "Which types of expertise that we currently possess will need to evolve most if we are to remain ahead of AI’s capabilities? Companies must continue to develop their unique expertise to provide value beyond what AI provides. For example, in the medical field AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ offices enter this new age, they will need to acquire nontechnical capabilities, such as empathy, caregiving, and working collaboratively with a team of healthcare professionals to design the right course of treatment for a patient.<br><br>Which assets can we build or augment to enhance our ability to stay competitive as AI advances? As AI comes to offer a broader range of expertise, companies will need to look to other sources of durable advantage. AI is currently unlikely to affect brands, customer relationships, ownership of scarce physical assets, and network effects. For example, a consumer-product designer can now use AI to create prototype designs to meet certain specifications. The designs are informed by the quality and nuance of the specifications, which will have been shaped by in-depth and insightfully designed customer research. The ability to gather that research may eventually become more differentiating than the raw ability to create designs. A deep and trusted relationship with customers could be the best way to underpin and sustain that capability."
+    },
+    {
+      "passage_number": 6,
+      "text": "Without question, companies will continue to use bundles of differentiated expertise and other hard-to-replicate assets to create and capture value. But the expertise and assets that proved valuable in the past will need to be reexamined as AI improves. Over time the organizations that fully exploit AI to rapidly adapt their operations and strategy are the ones that will thrive."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the text, what is one key assumption the author makes about organizations adopting AI?",
+      "options": {
+        "A": "They should complete digital transformation before starting AI initiatives.",
+        "B": "They should be far along in digital transformation, including data digitization.",
+        "C": "They must allocate budgets only after seeing productivity gains.",
+        "D": "They need to focus on all business processes simultaneously."
+      },
+      "answer": "B",
+      "explanation": "The text states that organizations should be far along on the digital transformation journey, especially with digitization of data, cloud computing, and security protocols, making B correct.",
+      "score_improvement_tip": "Identify explicit details by scanning for key phrases that match the question's focus, avoiding overgeneralizations."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "In the context of the passage, the word 'cultivate' most nearly means",
+      "options": {
+        "A": "farm",
+        "B": "develop",
+        "C": "harvest",
+        "D": "ignore"
+      },
+      "answer": "B",
+      "explanation": "The passage discusses cultivating a group of employees as early adopters, implying developing or fostering them, so B is the best fit.",
+      "score_improvement_tip": "Consider the surrounding sentences to determine how a word contributes to the overall meaning, rather than its most common definition."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main purpose of the discussion of Coursera in the text?",
+      "options": {
+        "A": "To illustrate a company that successfully integrated AI starting with a specific process.",
+        "B": "To argue that all companies should hire external firms for AI training.",
+        "C": "To show that AI is only useful for coding-related tasks.",
+        "D": "To emphasize the risks of rapid AI adoption without proper budgeting."
+      },
+      "answer": "A",
+      "explanation": "The text uses Coursera as an example of starting with coding and expanding AI use, supporting successful integration.",
+      "score_improvement_tip": "Look for textual evidence that directly supports the purpose, such as examples or outcomes described."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The author primarily uses the example of travel agents to",
+      "options": {
+        "A": "warn against overreliance on traditional business models in the face of AI.",
+        "B": "promote AI apps as superior to human services for all travel needs.",
+        "C": "describe a historical shift unrelated to current AI developments.",
+        "D": "suggest that travel agents will become obsolete without reinvention."
+      },
+      "answer": "D",
+      "explanation": "The example highlights how AI can handle tasks like itineraries, necessitating reinvention for travel agents to remain relevant.",
+      "score_improvement_tip": "Analyze how examples function within the argument, connecting them to the broader point being made."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "For example, in the medical field AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ offices enter this new age they will need",
+        "B": "For example, in the medical field AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ offices enter this new age; they will need",
+        "C": "For example, in the medical field AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ offices enter this new age, they will need",
+        "D": "For example, in the medical field AI can in some cases perform image-based diagnoses more accurately than physicians can. As doctors’ offices enter this new age they will need,"
+      },
+      "answer": "C",
+      "explanation": "The comma after 'age' is needed to separate the introductory clause from the independent clause, conforming to standard punctuation rules.",
+      "score_improvement_tip": "Review sentence structure for proper clause separation, ensuring commas are used where dependent clauses introduce independents."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Based on the text, the author would most likely agree with which one of the following principles about AI adoption?",
+      "options": {
+        "A": "Companies should prioritize broad implementation over targeted processes to maximize returns.",
+        "B": "Starting with processes like coding is ineffective due to their limited scope.",
+        "C": "Digital transformation must be partially underway to realistically benefit from AI.",
+        "D": "AI deployment should avoid areas with digitized data to challenge existing workflows."
+      },
+      "answer": "C",
+      "explanation": "The author assumes organizations should be far along in digital transformation and suggests starting small without waiting for completion, implying partial progress is key.",
+      "score_improvement_tip": "Draw inferences by connecting implied ideas across sentences, testing each option against the author's overall stance."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "While the first part of the passage emphasizes AI safety, the second part shifts to organizational change. How do these sections connect thematically?",
+      "options": {
+        "A": "Both highlight abstract challenges that are easier to address in specific contexts.",
+        "B": "The first dismisses risks, while the second focuses on technical solutions.",
+        "C": "Safety is portrayed as secondary to employee training in driving adoption.",
+        "D": "They contrast by showing governance as simple compared to persuasion."
+      },
+      "answer": "A",
+      "explanation": "Safety guidelines are hard in the abstract but easier with focus, similar to change management being challenging but aided by specific adopters.",
+      "score_improvement_tip": "Identify thematic links by comparing purposes and transitions between sections, looking for shared ideas."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "Which choice most logically completes the text as a transition to the Coursera example?",
+      "options": {
+        "A": "However, many companies fail to allocate budgets early, leading to stalled initiatives.",
+        "B": "In contrast, some organizations overlook budgeting in favor of immediate gains.",
+        "C": "For instance, one company demonstrates how early budgeting supports broad innovation.",
+        "D": "Nevertheless, budgeting remains optional for companies with high productivity."
+      },
+      "answer": "C",
+      "explanation": "The transition introduces Coursera as an example of starting small and innovating, aligning with budgeting for early activities leading to gains.",
+      "score_improvement_tip": "Select transitions that maintain logical flow and introduce examples effectively, ensuring coherence with preceding ideas."
+    },
+    {
+      "question_number": 9,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Suppose a graph showed that AI diagnostic accuracy exceeds physicians in 70% of image-based cases. How would this data affect the author's argument about evolving expertise?",
+      "options": {
+        "A": "It would weaken it by suggesting nontechnical skills are unnecessary.",
+        "B": "It would support it by emphasizing the need for doctors to develop capabilities like empathy.",
+        "C": "It would contradict it by proving AI cannot outperform humans in medicine.",
+        "D": "It would be irrelevant, as the author focuses on technical expertise only."
+      },
+      "answer": "B",
+      "explanation": "The author argues doctors need to evolve nontechnical skills as AI handles diagnoses better, so higher AI accuracy reinforces this shift.",
+      "score_improvement_tip": "Integrate hypothetical quantitative data with the text's claims, evaluating how it strengthens or challenges inferences."
+    },
+    {
+      "question_number": 10,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "The primary rhetorical effect of the concluding sentence is to",
+      "options": {
+        "A": "summarize the inevitability of AI replacing traditional assets entirely.",
+        "B": "underscore the long-term advantage of adaptive organizations in an AI-driven landscape.",
+        "C": "caution against rapid adaptation due to potential risks in operations.",
+        "D": "contrast past expertise with future irrelevance without AI exploitation."
+      },
+      "answer": "B",
+      "explanation": "The sentence emphasizes that organizations exploiting AI to adapt will thrive, providing a forward-looking emphasis on adaptation.",
+      "score_improvement_tip": "Examine how concluding elements reinforce the main thesis, identifying their persuasive impact on the reader."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level excel in advanced inference, cross-text synthesis, and rhetorical analysis, consistently identifying subtle connections and evaluating evidence with precision.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and detail recognition but may falter on nuanced inferences, complex transitions, or integrating quantitative evidence."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences, cross-text connections, rhetorical synthesis, and evidence integration, requiring deep analysis of implicit meanings and structures.",
+    "medium_questions": "Medium questions focus on main purposes, text structures, and conventions, testing the ability to interpret details and apply standard rules in context.",
+    "easy_questions": "Easy questions assess basic central ideas, explicit details, and word meanings, emphasizing direct comprehension from the text."
+  }
+}

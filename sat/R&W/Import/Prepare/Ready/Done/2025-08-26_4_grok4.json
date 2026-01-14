@@ -1,0 +1,215 @@
+{
+  "article_title": "FIGHTING THE SYSTEM",
+  "article_author": "LOUIS MENAND",
+  "article_date": "April 1, 2025",
+  "article_source": "The New Yorker",
+  "article_category": "Essay",
+  "article_tags": ["Supreme Court", "Desegregation", "School Funding", "Equal Protection", "Fundamental Rights"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "As Adams puts it, the Supreme Court treated school districts as though they were mini-states. But there is nothing more sovereign or God-given about school districts than there is about congressional districts. The boundaries are entirely a function of who is drawing the map."
+    },
+    {
+      "passage_number": 2,
+      "text": "Still, in a case decided two years after Swann, the Court doubled down. That case, San Antonio Independent School District v. Rodriguez, was not about desegregation. Much of American publicschool funding comes from local property taxes, which is why the schools in suburban Detroit were so much better than the schools in the city. Rodriguez challenged this practice on the ground that it produced unequal results, with poor districts having much less to spend on education than affluent districts. The least affluent school district in San Antonio, Edgewood, was about ninety per cent Mexican American and six per cent Black. The most affluent, Alamo Heights, was eighteen per cent Mexican American and less than one per cent Black. Per-pupil expenditure in Edgewood was $356; in Alamo Heights, it was $594."
+    },
+    {
+      "passage_number": 3,
+      "text": "The district court ruled that, because of this disparity, the plaintiffs had been denied equal protection. But the Supreme Court reversed the decision. The Court asked and answered two questions. The first was whether differences in wealth triggered “strict scrutiny” under the equal-protection clause. The Court said no. Poverty, unlike race, is not a “suspect class.” The poor have no special rights just because they’re poor. The second question was whether education is what courts call a fundamental right. Fundamental rights are rights the state is not supposed to deprive you of except under circumstances where the public good overwhelmingly outweighs the private harm. Some fundamental rights are enumerated in the Constitution: freedom of speech, the right to a jury trial, and so on. But some are not: the right to marry, to have custody over one’s children, to travel between states. When a fundamental right is at stake, courts are supposed to set a high bar for any encroachment on the right in question. In Rodriguez, however, the Court’s opinion, by Lewis Powell, held that education “is not among the rights afforded explicit protection under our Federal Constitution. Nor do we find any basis for saying it is implicitly so protected.”"
+    },
+    {
+      "passage_number": 4,
+      "text": "But hadn’t Brown been all about the right to education? “Today, education is perhaps the most important function of state and local governments,” Earl Warren had written for a unanimous Court. “It is doubtful that any child may reasonably be expected to succeed in life if he is denied the opportunity of an education. Such an opportunity, where the state has undertaken to provide it, is a right which must be made available to all on equal terms.” That sounds pretty fundamental."
+    },
+    {
+      "passage_number": 5,
+      "text": "Warren stopped short of explicitly saying so, however. There was a reason he didn’t, and Powell must have known what it was. Earlier in the century, the Supreme Court had declared “liberty of contract” to be a fundamental right and had used it to proclaim much New Deal legislation unconstitutional. Critics of the Court blamed it for inventing a right in order to pursue an economic agenda, and the Justices reversed their position after a few decades. Fundamental-rights talk was still highly unpopular in 1954. Warren did not want to go there. It would have looked as though the Court had an agenda."
+    },
+    {
+      "passage_number": 6,
+      "text": "The district court ruled that, because of this disparity, the plaintiffs had been denied equal protection. But the Supreme Court reversed the decision. The Court asked and answered two questions. The first was whether differences in wealth triggered “strict scrutiny” under the equal-protection clause. The Court said no. Poverty, unlike race, is not a “suspect class.” The poor have no special rights just because they’re poor. The second question was whether education is what courts call a fundamental right. Fundamental rights are rights the state is not supposed to deprive you of except under circumstances where the public good overwhelmingly outweighs the private harm. Some fundamental rights are enumerated in the Constitution: freedom of speech, the right to a jury trial, and so on. But some are not: the right to marry, to have custody over one’s children, to travel between states. When a fundamental right is at stake, courts are supposed to set a high bar for any encroachment on the right in question. In Rodriguez, however, the Court’s opinion, by Lewis Powell, held that education “is not among the rights afforded explicit protection under our Federal Constitution. Nor do we find any basis for saying it is implicitly so protected.”<br><br>By the time of Rodriguez, though, fundamental rights were back. The right to privacy was a Warren Court creation. Powell was not being completely forthright when he acted as though Brown had not set a precedent to defend education as a fundamental right."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the passage?",
+      "options": {
+        "A": "School districts are equivalent to sovereign states in legal terms.",
+        "B": "The Supreme Court views school districts as fixed and unchangeable.",
+        "C": "School district boundaries are arbitrary and determined by mapmakers.",
+        "D": "Congressional districts are more flexible than school districts."
+      },
+      "answer": "C",
+      "explanation": "The passage emphasizes that school districts are not inherently sovereign and their boundaries depend on who draws them, making C the correct choice.",
+      "score_improvement_tip": "Focus on identifying the author's primary assertion by summarizing the key comparison in the text."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'doubled down' most nearly means",
+      "options": {
+        "A": "reinforced a position.",
+        "B": "reversed a decision.",
+        "C": "compromised on an issue.",
+        "D": "ignored a precedent."
+      },
+      "answer": "A",
+      "explanation": "The phrase describes the Court strengthening its stance after Swann, aligning with 'reinforced a position.'",
+      "score_improvement_tip": "Consider how the phrase fits the overall narrative flow to determine its contextual meaning."
+    },
+    {
+      "question_number": 3,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "options": {
+        "A": "Much of American publicschool funding comes from local property taxes which is why",
+        "B": "Much of American publicschool funding comes from local property taxes, which is why",
+        "C": "Much of American publicschool funding comes from local property taxes. Which is why",
+        "D": "Much of American publicschool funding comes from local property taxes: which is why"
+      },
+      "answer": "B",
+      "explanation": "The comma correctly sets off the nonrestrictive clause 'which is why,' ensuring proper sentence structure.",
+      "score_improvement_tip": "Examine punctuation options for how they affect clause separation and readability."
+    },
+    {
+      "question_number": 4,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which choice best states the main purpose of the text?",
+      "options": {
+        "A": "To argue that poverty should be a suspect class.",
+        "B": "To explain the Supreme Court's reasoning in Rodriguez.",
+        "C": "To advocate for education as a fundamental right.",
+        "D": "To compare enumerated and unenumerated rights."
+      },
+      "answer": "B",
+      "explanation": "The passage details the Court's questions and conclusions in reversing the district court's ruling.",
+      "score_improvement_tip": "Identify the text's focus by noting the sequence of questions and answers provided."
+    },
+    {
+      "question_number": 5,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "Which choice completes the text with the most logical transition?",
+      "options": {
+        "A": "In fact,",
+        "B": "Nevertheless,",
+        "C": "For example,",
+        "D": "Therefore,"
+      },
+      "answer": "B",
+      "explanation": "The transition 'Nevertheless,' introduces a contrast between the Brown's emphasis on education and the failure to declare it fundamental.",
+      "score_improvement_tip": "Choose transitions that highlight contrasts or concessions in the argument's logic."
+    },
+    {
+      "question_number": 6,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "The main rhetorical effect of the author's description of fundamental rights is to",
+      "options": {
+        "A": "highlight the Court's inconsistency in applying strict scrutiny.",
+        "B": "illustrate why education was not deemed fundamental in Rodriguez.",
+        "C": "criticize the enumeration of rights in the Constitution.",
+        "D": "advocate for expanding unenumerated rights to include poverty."
+      },
+      "answer": "B",
+      "explanation": "The detailed explanation of fundamental rights serves to justify the Court's holding that education does not qualify as one.",
+      "score_improvement_tip": "Analyze how examples and definitions build toward the text's conclusion for rhetorical purpose."
+    },
+    {
+      "question_number": 7,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Based on the text, the author implies that Warren avoided declaring education a fundamental right primarily because",
+      "options": {
+        "A": "he believed it was not essential for success in life.",
+        "B": "it would associate the Court with controversial past decisions.",
+        "C": "New Deal legislation had already established education rights.",
+        "D": "fundamental rights were limited to those in the Constitution."
+      },
+      "answer": "B",
+      "explanation": "The text connects Warren's caution to the backlash against the Court's earlier use of 'liberty of contract,' suggesting avoidance of perceived agenda-driven rulings.",
+      "score_improvement_tip": "Draw inferences by linking historical context to the motivations described."
+    },
+    {
+      "question_number": 8,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Suppose the author of Passage 2 were to respond to the decision in Rodriguez described in Passage 1. The author would most likely argue that the Court's opinion",
+      "options": {
+        "A": "overlooked precedents from Brown and privacy rights.",
+        "B": "correctly applied strict scrutiny to wealth disparities.",
+        "C": "reinforced the unpopularity of fundamental-rights talk.",
+        "D": "aligned with Warren's explicit views on education."
+      },
+      "answer": "A",
+      "explanation": "Passage 2 criticizes Powell for not acknowledging Brown's implications and the return of fundamental rights like privacy.",
+      "score_improvement_tip": "Synthesize ideas across passages to infer potential responses or critiques."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "While revising an argumentative essay about school funding inequities, a student claims that local property taxes exacerbate racial and economic disparities. Which choice most effectively uses relevant evidence from the passage to illustrate the claim?",
+      "options": {
+        "A": "In Edgewood, per-pupil expenditure was $356, while in Alamo Heights it was $594, with Edgewood being mostly Mexican American and Black.",
+        "B": "The Supreme Court doubled down after Swann, deciding Rodriguez not about desegregation.",
+        "C": "Schools in suburban Detroit were better than in the city due to property taxes.",
+        "D": "Poor districts have less to spend than affluent ones, challenging unequal results."
+      },
+      "answer": "A",
+      "explanation": "This choice provides specific demographic and expenditure data linking funding to racial and economic disparities.",
+      "score_improvement_tip": "Select evidence that directly quantifies and connects disparities to the claim."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which version of the underlined portion most effectively sets up the explanation that follows?",
+      "options": {
+        "A": "There was a reason he didn’t, and Powell must have known what it was.",
+        "B": "He had a reason for not doing so, though Powell ignored it.",
+        "C": "The reason was clear, but Powell overlooked it entirely.",
+        "D": "Powell knew the reason, which Warren had considered."
+      },
+      "answer": "A",
+      "explanation": "This version directly introduces the historical reason without preempting the explanation, maintaining logical flow.",
+      "score_improvement_tip": "Ensure the setup phrase logically precedes and connects to the subsequent details without redundancy."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level exhibit exceptional command of advanced skills, including nuanced inferences, rhetorical analysis, and synthesis across texts, while accurately applying conventions in complex contexts.",
+    "700_level_performance": "Students at this level demonstrate solid understanding of core ideas and structures but may falter on subtle inferences, cross-text connections, or precise rhetorical revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferential reasoning, cross-text synthesis, and advanced rhetorical evaluations, requiring deep analysis of implications and structures.",
+    "medium_questions": "Medium questions test comprehension of purposes, evidence, and transitions, focusing on logical flow and contextual understanding.",
+    "easy_questions": "Easy questions assess basic identification of central ideas and word meanings directly supported by the text."
+  }
+}

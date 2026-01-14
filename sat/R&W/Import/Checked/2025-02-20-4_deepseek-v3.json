@@ -1,0 +1,231 @@
+{
+    "article_title": "The Myopia Generation",
+    "article_author": "Sarah Zhang",
+    "article_date": "2023",
+    "article_source": "The Atlantic",
+    "article_category": "Science",
+    "article_tags": ["Physics", "Quantum Gravity", "Cosmology", "String Theory"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Several new studies of UV-IR mixing and how it might solve naturalness problems refer back to two papers that appeared in 1999. “There is a growth of interest in these more exotic, non-EFT-like solutions to these problems,” said Patrick Draper, a professor at the University of Illinois, Urbana-Champaign, whose recent work picks up where one of the 1999 papers left off."
+      },
+      {
+        "passage_number": 2,
+        "text": "Draper and his colleagues study the CKN bound, named for the authors of the ’99 paper, Andrew Cohen, David B. Kaplan, and Ann Nelson. The authors thought about how, if you put particles in a box and heat it up, you can increase the energy of the particles only so much before the box collapses into a black hole. They calculated that the number of high-energy particle states you can fit in the box before it collapses is proportional to the box’s surface area raised to the three-fourths power, not the box’s volume, as you might think. They realized that this represented a strange UV-IR relationship. The size of the box, which sets the IR scale, severely limits the number of high-energy particle states within the box—the UV scale."
+      },
+      {
+        "passage_number": 3,
+        "text": "They then realized that if their same bound applies to our entire universe, it resolves the cosmological constant problem. In this scenario, the observable universe is like a very large box. And the number of high-energy particle states it can contain is proportional to the observable universe’s surface area to the three-fourths power, not the universe’s (much larger) volume."
+      },
+      {
+        "passage_number": 4,
+        "text": "That means the usual EFT calculation of the cosmological constant is too naive. That calculation tells the story that high-energy phenomena should appear when you zoom in on the fabric of space, and this should blow up the energy of space. But the CKN bound implies that there may be far, far less high-energy activity than the EFT calculation assumes—meaning precious few high-energy states available for particles to occupy. Cohen, Kaplan, and Nelson did a simple calculation showing that, for a box the size of our universe, their bound predicts more or less exactly the tiny value for the cosmological constant that’s observed."
+      },
+      {
+        "passage_number": 5,
+        "text": "Their calculation implies that big and small scales might correlate with each other in a way that becomes apparent when you look at an IR property of the whole universe, such as the cosmological constant. Draper and Nikita Blinov confirmed in another crude calculation last year that the CKN bound predicts the observed cosmological constant; they also showed that it does so without ruining the many successes of EFT in smaller-scale experiments."
+      },
+      {
+        "passage_number": 6,
+        "text": "The CKN bound doesn’t tell you why the UV and IR are correlated—why, that is, the size of the box (the IR) severely limits the number of high-energy states within the box (the UV). For that, you probably need to know quantum gravity. Other researchers have looked for answers in a specific theory of quantum gravity: string theory. Last summer, the string theorists Steven Abel and Keith Dienes showed how UV-IR mixing in string theory might address both the hierarchy and cosmological constant problems."
+      },
+      {
+        "passage_number": 7,
+        "text": "A candidate for the fundamental theory of gravity and everything else, string theory holds that all particles are, close up, little vibrating strings. Standard Model particles like photons and electrons are low-energy vibration modes of the fundamental string. But the string can wiggle more energetically as well, giving rise to an infinite spectrum of string states with ever-higher energies. The hierarchy problem, in this context, asks why corrections from these string states don’t inflate the Higgs, if there’s nothing like supersymmetry to protect it."
+      },
+      {
+        "passage_number": 8,
+        "text": "Dienes and Abel calculated that, because of a different symmetry of string theory called modular invariance, corrections from string states at all energies in the infinite spectrum from IR to UV will be correlated in just the right way to cancel out, keeping both the Higgs mass and the cosmological constant small. The researchers noted that this conspiracy between low- and high-energy string states doesn’t explain why the Higgs mass and the Planck energy are so widely separated to begin with, only that such a separation is stable. Still, in Craig’s opinion, “it’s a really good idea.”"
+      },
+      {
+        "passage_number": 9,
+        "text": "The new models represent a growing grab bag of UV-IR mixing ideas. Craig’s angle of attack traces back to the other 1999 paper, by the prominent theorist Nathan Seiberg of the Institute for Advanced Study and two coauthors. They studied situations where there’s a background magnetic field filling space. To get the gist of how UV-IR mixing arises here, imagine a pair of oppositely charged particles attached by a spring and flying through space, perpendicular to the magnetic field. As you crank up the field’s energy, the charged particles accelerate apart, stretching the spring. In this toy scenario, higher energies correspond to longer distances."
+      },
+      {
+        "passage_number": 10,
+        "text": "Seiberg and company found that the UV corrections in this situation have peculiar features that illustrate how the reductionist arrow can be spun round, so that the IR affects what happens in the UV. The model isn’t realistic, because the real universe doesn’t have a magnetic field imposing a background directionality. Still, Craig has been exploring whether anything like it could work as a solution to the hierarchy problem. Craig, Garcia Garcia, and Seth Koren have also jointly studied how an argument about quantum gravity called the weak gravity conjecture, if true, might impose consistency conditions that naturally require a huge separation between the Higgs mass and the Planck scale."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the passage?",
+        "options": {
+          "A": "The history of UV-IR mixing research",
+          "B": "The role of Patrick Draper in advancing UV-IR mixing studies",
+          "C": "The growing interest in non-EFT solutions to naturalness problems",
+          "D": "The publication of two influential papers in 1999"
+        },
+        "answer": "C",
+        "explanation": "The passage focuses on the growing interest in non-EFT solutions to naturalness problems, as highlighted by Patrick Draper’s work and references to the 1999 papers.",
+        "score_improvement_tip": "Identify the central subject of the passage and avoid being distracted by secondary details."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Easy",
+        "passage": 4,
+        "question": "As used in the passage, what does the word 'naive' most nearly mean?",
+        "options": {
+          "A": "Simplistic",
+          "B": "Innovative",
+          "C": "Accurate",
+          "D": "Complex"
+        },
+        "answer": "A",
+        "explanation": "In this context, 'naive' refers to the simplistic nature of the usual EFT calculation of the cosmological constant, which does not account for the complexities revealed by the CKN bound.",
+        "score_improvement_tip": "Use context clues to infer the meaning of words that describe the nature of scientific calculations or theories."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What can be inferred about the CKN bound’s implications for the universe?",
+        "options": {
+          "A": "It suggests that the universe’s volume is irrelevant to high-energy particle states.",
+          "B": "It implies that the universe’s surface area limits high-energy particle states.",
+          "C": "It shows that the universe’s volume determines the cosmological constant.",
+          "D": "It proves that the universe behaves like a black hole."
+        },
+        "answer": "B",
+        "explanation": "The CKN bound implies that the universe’s surface area, not its volume, limits the number of high-energy particle states, as described in the passage.",
+        "score_improvement_tip": "Look for implicit information that is not directly stated but can be logically inferred from the text."
+      },
+      {
+        "question_number": 4,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "What is the primary purpose of the discussion about the EFT calculation in the passage?",
+        "options": {
+          "A": "To highlight the limitations of the EFT calculation",
+          "B": "To promote the EFT calculation as the most accurate method",
+          "C": "To compare the EFT calculation with the CKN bound",
+          "D": "To explain the history of the EFT calculation"
+        },
+        "answer": "A",
+        "explanation": "The passage discusses how the EFT calculation is too simplistic and does not account for the complexities revealed by the CKN bound, highlighting its limitations.",
+        "score_improvement_tip": "Pay attention to the author's or expert's intent when analyzing statements or reflections in the text."
+      },
+      {
+        "question_number": 5,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which choice best describes the relationship between the CKN bound and EFT?",
+        "options": {
+          "A": "The CKN bound contradicts all findings of EFT.",
+          "B": "The CKN bound complements EFT by explaining observed phenomena.",
+          "C": "The CKN bound replaces EFT as the dominant theory.",
+          "D": "The CKN bound has no connection to EFT."
+        },
+        "answer": "B",
+        "explanation": "The CKN bound complements EFT by providing an explanation for the observed cosmological constant without undermining EFT’s successes in smaller-scale experiments.",
+        "score_improvement_tip": "Analyze the relationship between different theories or concepts to understand how they interact or complement each other."
+      },
+      {
+        "question_number": 6,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "Which piece of evidence best supports the idea that UV-IR mixing in string theory addresses the hierarchy problem?",
+        "options": {
+          "A": "String theory holds that all particles are vibrating strings.",
+          "B": "Modular invariance ensures corrections from string states cancel out.",
+          "C": "The Higgs mass and Planck energy are widely separated.",
+          "D": "String theory is a candidate for the fundamental theory of gravity."
+        },
+        "answer": "B",
+        "explanation": "The passage states that modular invariance in string theory ensures corrections from string states cancel out, addressing the hierarchy problem by keeping the Higgs mass small.",
+        "score_improvement_tip": "Identify direct textual evidence that supports the main idea or specific claims in the passage."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "How does the concept of modular invariance in string theory relate to the overall theme of UV-IR mixing?",
+        "options": {
+          "A": "It shows that UV and IR scales are independent of each other.",
+          "B": "It demonstrates how high-energy string states can destabilize the Higgs mass.",
+          "C": "It highlights the correlation between low- and high-energy string states.",
+          "D": "It proves that string theory is incompatible with the Standard Model."
+        },
+        "answer": "C",
+        "explanation": "Modular invariance in string theory illustrates the correlation between low- and high-energy string states, which is central to the theme of UV-IR mixing.",
+        "score_improvement_tip": "Analyze how different parts of the text connect to support or explain a central theme or idea."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What can be inferred about the researchers’ view of the separation between the Higgs mass and Planck energy?",
+        "options": {
+          "A": "They believe it is an unsolvable problem.",
+          "B": "They think it is stable but do not explain its origin.",
+          "C": "They argue that it is caused by supersymmetry.",
+          "D": "They claim it is irrelevant to the hierarchy problem."
+        },
+        "answer": "B",
+        "explanation": "The researchers note that modular invariance ensures the separation is stable but do not explain why it exists in the first place.",
+        "score_improvement_tip": "Use descriptive language and specific details in the text to infer researchers’ perspectives or conclusions."
+      },
+      {
+        "question_number": 9,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 9,
+        "question": "What is the primary purpose of the toy scenario involving oppositely charged particles?",
+        "options": {
+          "A": "To demonstrate how UV-IR mixing arises in a magnetic field",
+          "B": "To criticize the limitations of the CKN bound",
+          "C": "To promote the use of string theory in solving naturalness problems",
+          "D": "To explain the history of quantum gravity research"
+        },
+        "answer": "A",
+        "explanation": "The toy scenario illustrates how UV-IR mixing arises in the presence of a magnetic field, helping readers understand the concept in a simplified context.",
+        "score_improvement_tip": "Consider the broader context and implications of specific examples or scenarios in the text."
+      },
+      {
+        "question_number": 10,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "Which choice best maintains the grammatical and logical coherence of the following sentence? “Seiberg and company found that the UV corrections in this situation have peculiar features that illustrate how the reductionist arrow can be spun round, so that the IR affects what happens in the UV.”",
+        "options": {
+          "A": "NO CHANGE",
+          "B": "Seiberg and company found that the UV corrections in this situation have peculiar features, that illustrate how the reductionist arrow can be spun round, so that the IR affects what happens in the UV.",
+          "C": "Seiberg and company found that the UV corrections in this situation have peculiar features that illustrate how the reductionist arrow can be spun round so that the IR affects what happens in the UV.",
+          "D": "Seiberg and company found that the UV corrections in this situation have peculiar features that illustrate how the reductionist arrow can be spun round, so that the IR affects what happens in the UV"
+        },
+        "answer": "A",
+        "explanation": "The original sentence is grammatically correct and logically coherent, with proper punctuation and structure.",
+        "score_improvement_tip": "Ensure that sentences maintain proper grammatical structure and logical flow, especially when dealing with complex ideas."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

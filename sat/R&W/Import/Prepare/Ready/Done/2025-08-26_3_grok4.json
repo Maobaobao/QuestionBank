@@ -1,0 +1,215 @@
+{
+  "article_title": "DIRTY MINDS",
+  "article_author": "Nikhil Krishnan",
+  "article_date": "April 1, 2025",
+  "article_source": "The New Yorker",
+  "article_category": "Essay",
+  "article_tags": ["Brainwashing", "Korean War", "Communism", "Psychology", "History"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "The earliest appearances of the concept “brainwashing,” Lemov writes, occurred in the mid-twentieth century, in the files of the Office of Strategic Services, a precursor of the C.I.A. The term came to prominence owing in large part to the writings of an American journalist named Edward Hunter. He claimed that it was a rendering of a Chinese phrase, but it may have been, as he elsewhere claimed, a coinage of his own to describe Chinese persuasion techniques."
+    },
+    {
+      "passage_number": 2,
+      "text": "These techniques were most famously applied during the Korean War. As a prisoner of war, Morris R. Wills faced a gamut of privations—he was left malnourished and consigned to filthy conditions amid the ever-present threat of execution. Horror alternated with boredom. Conditions improved when Wills was transferred to what was called Camp One. The food got better, letters could be sent home, and there were even volleyball games."
+    },
+    {
+      "passage_number": 3,
+      "text": "The earliest appearances of the concept “brainwashing,” Lemov writes, occurred in the mid-twentieth century, in the files of the Office of Strategic Services, a precursor of the C.I.A. The term came to prominence owing in large part to the writings of an American journalist named Edward Hunter. He claimed that it was a rendering of a Chinese phrase, but it may have been, as he elsewhere claimed, a coinage of his own to describe Chinese persuasion techniques.<br><br>That was, it seems, an early stage of a procedure known as reëducation. Wills was identified as a member of the exploited classes, a promising target for the method. Reflecting on his experiences many years later, he said, “Brainwashing is not done with electrodes stuck to your head.” It was, rather, “a long, horrible process by which a man slowly—step by step, idea by idea—becomes totally convinced, as I was, that the Chinese Communists have unlocked the secret to man’s happiness and that the United States is run by rich bankers, McCarthy types, and ‘imperialist aggressors.’”"
+    },
+    {
+      "passage_number": 4,
+      "text": "The theory behind this method, as articulated by Chairman Mao, didn’t sound so bad. People could not be forced to become Marxists, Mao wrote. He recommended, instead, “democratic” methods of “discussion, criticism, persuasion, and education.” An important stage of the process was called “speaking bitterness.” American G.I.s, like the Chinese peasants on whom the method had first been tried, had a great deal of bitterness to speak: of racism and poverty back home, and of discrimination within the armed forces. Wills was made to introspect, to write an autobiography. He and other P.O.W.s were subjected to hours of lectures on Marxist theory."
+    },
+    {
+      "passage_number": 5,
+      "text": "Faced with the demand to justify “the American system,” Wills—unable to articulate what that even was—found himself moving in what his captors called a Progressive (as opposed to Reactionary) direction. American society was rotting, he came to believe; the Chinese way was the future. He chose not to be repatriated. But, where other prisoners who made the same decision were sent to work on farms and in paper mills, he was sent to the People’s University in Beijing. The brainwashing process was never complete. Ostentatious acts of “repentance” were repeatedly demanded—Wills had already had to participate in “self-criticism” seminars. He was now taught more about Marxism and the history of China. He even witnessed a public execution. But he ended up staying in China for twelve years."
+    },
+    {
+      "passage_number": 6,
+      "text": "Wills’s retrospective accounts of his experience, once he was back in the United States and in a position to reflect on what had been done to him, are illuminating. It is plain that his Chinese captors had succeeded, at least for a time, in producing a genuine change of mind. He was, as he himself put it, “totally convinced.”"
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "According to the passage, what was the likely origin of the term 'brainwashing'?",
+      "options": {
+        "A": "A direct translation from a Chinese phrase",
+        "B": "A coinage by Edward Hunter to describe Chinese techniques",
+        "C": "A term from C.I.A. files in the early twentieth century",
+        "D": "A concept developed by the Office of Strategic Services"
+      },
+      "answer": "B",
+      "explanation": "The passage states that Edward Hunter may have coined the term himself to describe Chinese persuasion techniques, despite claiming it was a rendering of a Chinese phrase.",
+      "score_improvement_tip": "Focus on explicit details in the text to identify origins or definitions without overcomplicating the interpretation."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 2,
+      "question": "As used in the passage, 'gamut' most nearly means",
+      "options": {
+        "A": "variety",
+        "B": "severity",
+        "C": "duration",
+        "D": "origin"
+      },
+      "answer": "A",
+      "explanation": "The phrase 'gamut of privations' refers to a range or variety of hardships, such as malnourishment and filthy conditions.",
+      "score_improvement_tip": "Use surrounding context to determine the meaning of words, especially when they describe a sequence or list of items."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual)",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which detail from the Passage 2 best supports the idea that brainwashing is a gradual process?",
+      "options": {
+        "A": "Wills was identified as a member of the exploited classes",
+        "B": "Brainwashing is not done with electrodes stuck to your head",
+        "C": "A long, horrible process by which a man slowly—step by step, idea by idea—becomes totally convinced",
+        "D": "The Chinese Communists have unlocked the secret to man’s happiness"
+      },
+      "answer": "C",
+      "explanation": "This quote directly describes brainwashing as a slow, step-by-step process leading to conviction, providing textual evidence for its gradual nature.",
+      "score_improvement_tip": "Scan for quotes or phrases that directly match the question's focus to strengthen evidence-based answers."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The primary purpose of mentioning Mao's theory in the passage is to",
+      "options": {
+        "A": "contrast it with American democratic methods",
+        "B": "explain the underlying philosophy of the reeducation process",
+        "C": "criticize the use of force in ideological conversion",
+        "D": "highlight the similarities between Chinese and American education"
+      },
+      "answer": "B",
+      "explanation": "The passage introduces Mao's ideas on 'democratic' methods to articulate the theory behind the brainwashing method applied to prisoners.",
+      "score_improvement_tip": "Identify how specific sections contribute to the overall narrative or argument to understand structural purposes."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>Faced with the demand to justify “the American system,” Wills—unable to articulate what that even was—found himself moving in what his captors called a Progressive ______ American society was rotting, he came to believe; the Chinese way was the future.",
+      "options": {
+        "A": "(as opposed to Reactionary) direction,",
+        "B": "(as opposed to Reactionary) direction;",
+        "C": "(as opposed to Reactionary) direction:",
+        "D": "(as opposed to Reactionary) direction."
+      },
+      "answer": "D",
+      "explanation": "The sentence requires a period to properly separate the independent clause from the following one, conforming to punctuation conventions for boundaries.",
+      "score_improvement_tip": "Review sentence structures to ensure proper punctuation separates independent clauses without unnecessary connectors."
+    },
+    {
+      "question_number": 6,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Hard",
+      "passage": 6,
+      "question": "Based on the passage, the author would most likely agree that Wills's experience demonstrates which of the following about brainwashing?",
+      "options": {
+        "A": "It can produce temporary but authentic ideological shifts",
+        "B": "It relies primarily on physical coercion rather than psychological methods",
+        "C": "It is ineffective without complete isolation from one's home country",
+        "D": "It leads to permanent changes that cannot be reversed upon reflection"
+      },
+      "answer": "A",
+      "explanation": "The passage notes that Wills's captors succeeded 'at least for a time' in changing his mind, implying a genuine but temporary effect, as he later reflected critically.",
+      "score_improvement_tip": "Draw inferences by connecting retrospective reflections to initial experiences, avoiding assumptions beyond the text."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "If the author of Passage 2 were to respond to the description in Passage 1, they would most likely argue that the term 'brainwashing' is apt because it captures",
+      "options": {
+        "A": "the violent and coercive nature of the techniques",
+        "B": "the subtle, incremental persuasion leading to conviction",
+        "C": "the historical origins in mid-twentieth-century intelligence",
+        "D": "the journalistic exaggeration by Edward Hunter"
+      },
+      "answer": "B",
+      "explanation": "Passage 2 describes brainwashing as a slow, idea-by-idea process, connecting to Passage 1's focus on persuasion techniques rather than force.",
+      "score_improvement_tip": "Synthesize ideas across passages by identifying thematic links, such as methods of persuasion."
+    },
+    {
+      "question_number": 8,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 4,
+      "question": "The student wants to emphasize the non-coercive appearance of Mao's methods. Which choice most effectively uses relevant information from the notes to accomplish this goal?<br>While researching a paper, a student develops the following notes.<br>• Mao advocated 'democratic' methods like discussion and persuasion.<br>• These methods were applied to P.O.W.s through lectures and self-reflection.<br>• The goal was voluntary conversion to Marxism.<br>• In practice, this involved speaking bitterness about personal grievances.",
+      "options": {
+        "A": "Mao's theory promoted force, but in practice, it used lectures on Marxism.",
+        "B": "Although sounding benign, Mao's 'democratic' methods of discussion, criticism, persuasion, and education aimed at voluntary Marxist conversion through introspective activities like speaking bitterness.",
+        "C": "Mao rejected persuasion, favoring instead direct education on Chinese history.",
+        "D": "The methods were coercive, as evidenced by the lectures and autobiographies required of P.O.W.s."
+      },
+      "answer": "B",
+      "explanation": "This choice synthesizes the notes to highlight the seemingly non-coercive 'democratic' approach while noting its persuasive elements.",
+      "score_improvement_tip": "Integrate notes to support a specific rhetorical goal by selecting details that align without introducing contradictions."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which choice completes the text with the most logical transition?<br>As a prisoner of war, Morris R. Wills faced a gamut of privations—he was left malnourished and consigned to filthy conditions amid the ever-present threat of execution. Horror alternated with boredom. ______ Conditions improved when Wills was transferred to what was called Camp One.",
+      "options": {
+        "A": "In addition,",
+        "B": "Nevertheless,",
+        "C": "For example,",
+        "D": "Consequently,"
+      },
+      "answer": "B",
+      "explanation": " 'Nevertheless' provides a contrast between the initial horrors and the subsequent improvement in conditions, enhancing logical flow.",
+      "score_improvement_tip": "Choose transitions that reflect relationships like contrast when conditions change unexpectedly."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 5,
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?<br>The brainwashing process was never complete. Ostentatious acts of “repentance” were repeatedly demanded—Wills had already had to participate in “self-criticism” seminars. He was now taught more about Marxism and the history of China. He even witnessed a public execution. ______ he ended up staying in China for twelve years.",
+      "options": {
+        "A": "But",
+        "B": "Because",
+        "C": "Since",
+        "D": "While"
+      },
+      "answer": "A",
+      "explanation": " 'But' introduces a contrast between the ongoing demands and the outcome of Wills staying in China, maintaining structural sense.",
+      "score_improvement_tip": "Ensure connectors reflect the intended logical relationship, such as opposition, to preserve sentence coherence."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level exhibit exceptional command of advanced skills, including nuanced inferences, rhetorical synthesis, and cross-text analysis, while accurately applying conventions in complex contexts.",
+    "700_level_performance": "Students at this level demonstrate solid comprehension and evidence use but may falter on harder inferences, synthesis, or subtle structural elements."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge students with inferences, cross-text connections, rhetorical synthesis, and advanced conventions, requiring deep analysis and integration of ideas.",
+    "medium_questions": "Medium questions focus on command of evidence, text purpose, and basic boundaries, testing comprehension and contextual application.",
+    "easy_questions": "Easy questions assess central details and words in context, emphasizing direct identification of explicit information."
+  }
+}

@@ -1,0 +1,231 @@
+{
+    "article_title": "These Precious Days",
+    "article_author": "Ann Patchett",
+    "article_date": "2022",
+    "article_source": "Harper’s",
+    "article_category": "Essay",
+    "article_tags": ["Cancer", "Friendship", "Memoir"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Someone wound the clock and suddenly the second hand, so long suspended, began to tick again, pushing us forward. Sooki let my friends with the plane know that she would be there on Thursday. She had to pack her boxes the next day, Tuesday. Wednesday was chemo. She’d scarcely left the house for more than three months, and yet it was impossible to push the world back into the Mary Poppins suitcase."
+      },
+      {
+        "passage_number": 2,
+        "text": "On her last night we sat in my office after yoga and I asked her every last question I could think of—when did she work on the documentary about George Romero, and when did she marry Ken? What was the line of children’s clothing called? When was she first diagnosed with pancreatic cancer? How had she known something was wrong? All this time I’d been afraid of prying, only to discover that Sooki was happy to talk, to tell me about the bats, the sailboat to St. Barts, the desert in Tan-Tan, the surgery."
+      },
+      {
+        "passage_number": 3,
+        "text": "She told me that part of the reason she’d been hesitant to stay with us was that she didn’t want to trade on Tom’s friendship with me. That she’d always been so careful not to cross any lines, not to advance herself through connections she’d made through him."
+      },
+      {
+        "passage_number": 4,
+        "text": "“Not to advance your cancer treatment? Are you serious? Can you imagine Tom sitting at home saying, ‘I can’t believe Sooki used my connections to get into a clinical trial in Nashville’?”"
+      },
+      {
+        "passage_number": 5,
+        "text": "She told me how lovely it had been to lay down the burden of her own vigilance. That at home she felt responsible for overseeing every aspect of her treatment, researching cures, double-checking medical orders—she had caught a few harrowing errors along the way, near misses—but here she knew that Dr. Bendell and Karl always had their eyes on her. She had their protection, and that knowledge had opened up so much time in the day."
+      },
+      {
+        "passage_number": 6,
+        "text": "We talked about the nightmare of health insurance—and how the percentage of treatment costs she and Ken had to pay out of pocket had wiped out their retirement, had wiped out everything. “I should have planned better,” she said."
+      },
+      {
+        "passage_number": 7,
+        "text": "On Thursday morning I started to cry while walking Sparky. It came out of nowhere, like one of those weird storms that had plagued us in the spring. I never cry, and yet I had plans to do nothing else for the rest of the day and maybe the rest of the week."
+      },
+      {
+        "passage_number": 8,
+        "text": "Sooki washed her sheets and towels, cleaned the bathroom, vacuumed. She lugged her suitcase out to the car without my knowing it. When she came upstairs ready to go she was wearing the black-velvet coat with the peonies on it."
+      },
+      {
+        "passage_number": 9,
+        "text": "Karl had gone back to work by this point, but he canceled his afternoon appointments to drive us to the hangar where my friends kept their plane. We were early, they were late. I was grateful for both of those things. I was grateful."
+      },
+      {
+        "passage_number": 10,
+        "text": "My friends arrived and we waved at one another from a distance as they gathered Sooki up. Out on the tarmac, I could see her again exactly as she was, resplendent in her velvet coat, her black beret. Sooki, who was light and life and color itself. A minute later everyone was on the plane and gone."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main focus of the first passage?",
+        "options": {
+          "A": "The preparation for Sooki's departure",
+          "B": "The description of a Mary Poppins suitcase",
+          "C": "The ticking of a clock",
+          "D": "The process of packing boxes"
+        },
+        "answer": "A",
+        "explanation": "The passage primarily discusses Sooki's preparations for her departure, including packing and scheduling chemo.",
+        "score_improvement_tip": "Focus on the main actions and subjects in the passage to identify the central idea."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, what does 'prying' most nearly mean?",
+        "options": {
+          "A": "Asking intrusive questions",
+          "B": "Physically opening something",
+          "C": "Investigating secretly",
+          "D": "Expressing curiosity"
+        },
+        "answer": "A",
+        "explanation": "In this context, 'prying' refers to asking personal or intrusive questions, which the narrator had been hesitant to do.",
+        "score_improvement_tip": "Use the surrounding sentences to infer the meaning of unfamiliar words or phrases."
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What can be inferred about Sooki's relationship with Tom?",
+        "options": {
+          "A": "They are business partners",
+          "B": "They have a close personal friendship",
+          "C": "They are estranged",
+          "D": "They are family members"
+        },
+        "answer": "B",
+        "explanation": "Sooki's concern about not wanting to 'trade on Tom’s friendship' suggests a close personal relationship.",
+        "score_improvement_tip": "Look for subtle clues in the text that reveal relationships and motivations."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What rhetorical purpose does the narrator’s question serve in this passage?",
+        "options": {
+          "A": "To express disbelief",
+          "B": "To criticize Sooki's decisions",
+          "C": "To emphasize the importance of connections",
+          "D": "To highlight Tom's generosity"
+        },
+        "answer": "A",
+        "explanation": "The narrator's question serves to express disbelief at Sooki's reluctance to use connections for her cancer treatment.",
+        "score_improvement_tip": "Analyze the tone and intent behind rhetorical questions to understand their purpose."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 5,
+        "question": "Which detail best supports the idea that Sooki felt relieved during her stay?",
+        "options": {
+          "A": "She caught a few harrowing errors",
+          "B": "She had their protection",
+          "C": "She researched cures",
+          "D": "She double-checked medical orders"
+        },
+        "answer": "B",
+        "explanation": "The phrase 'she had their protection' indicates that Sooki felt relieved and secure during her stay.",
+        "score_improvement_tip": "Identify specific textual evidence that directly supports the main idea."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What is the primary purpose of this passage?",
+        "options": {
+          "A": "To describe the financial impact of cancer treatment",
+          "B": "To criticize the healthcare system",
+          "C": "To highlight Sooki's regret",
+          "D": "To emphasize the importance of planning"
+        },
+        "answer": "A",
+        "explanation": "The passage focuses on the financial devastation caused by cancer treatment, as evidenced by Sooki's statement about her retirement being wiped out.",
+        "score_improvement_tip": "Determine the author's intent by analyzing the main topic and supporting details."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "What can be inferred about the narrator's emotional state?",
+        "options": {
+          "A": "She is usually emotional",
+          "B": "She is overwhelmed by sadness",
+          "C": "She is indifferent to Sooki's departure",
+          "D": "She is relieved Sooki is leaving"
+        },
+        "answer": "B",
+        "explanation": "The narrator's sudden crying and plans to cry for the rest of the day suggest she is overwhelmed by sadness.",
+        "score_improvement_tip": "Use emotional cues and actions to infer the narrator's state of mind."
+      },
+      {
+        "question_number": 8,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "As used in the passage, what does 'resplendent' most nearly mean?",
+        "options": {
+          "A": "Shining brightly",
+          "B": "Dressed elegantly",
+          "C": "Appearing tired",
+          "D": "Looking ordinary"
+        },
+        "answer": "A",
+        "explanation": "In this context, 'resplendent' describes Sooki as shining brightly, emphasizing her vibrant appearance.",
+        "score_improvement_tip": "Use descriptive language and context to determine the meaning of advanced vocabulary."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which word or phrase best indicates a shift in time?",
+        "options": {
+          "A": "By this point",
+          "B": "But he canceled",
+          "C": "We were early",
+          "D": "I was grateful"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'by this point' indicates a shift in time, marking a change in the sequence of events.",
+        "score_improvement_tip": "Look for transitional phrases that signal changes in time, location, or focus."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Hard",
+        "passage": 10,
+        "question": "What is the main idea of the final passage?",
+        "options": {
+          "A": "The narrator's gratitude",
+          "B": "Sooki's vibrant personality",
+          "C": "The departure of Sooki",
+          "D": "The description of the plane"
+        },
+        "answer": "C",
+        "explanation": "The passage focuses on Sooki's departure, describing her final moments and the narrator's emotional response.",
+        "score_improvement_tip": "Identify the central event or subject in the passage to determine the main idea."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+    }
+  }

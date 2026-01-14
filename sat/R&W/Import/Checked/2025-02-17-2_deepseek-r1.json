@@ -1,0 +1,231 @@
+{
+    "article_title": "The Methane Hunters",
+    "article_author": "Zachary R. Mider",
+    "article_date": "2022",
+    "article_source": "Bloomberg Green with Bloomberg Businessweek",
+    "article_category": "Essay",
+    "article_tags": ["Methane", "Oil Industry", "Climate Change"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "Given the scale of the Permian, the thousands of wells, tanks, flares, hatches, separators, compressors, and plants in use, unforeseeable and unavoidable things are happening all the time. “Things won’t work like they’re supposed to work on paper,” Lyon says. “It takes sometimes a while for people to realize that. There may even be disincentives for them to work. If they get bonuses based on how much oil they pump, then yeah, they’re incentivized to go as fast as possible and not worry about emissions.”"
+      },
+      {
+        "passage_number": 2,
+        "text": "The contractor who found Lyon’s unlit flares is a sixty-six-year-old former oilman named David Furry. Years ago, he pioneered the use of infrared cameras to find gas leaks, and he runs a small detection business catering mostly to oil and gas companies. Furry doesn’t consider himself an environmentalist, but he’s realistic about the scale of the pollution he’s documented. He estimates that about one in five sites he checks has some kind of emission.<br><br>One afternoon in May, in his office behind a shuttered gun shop in Early, Texas, Furry tucked a wad of Copenhagen Long Cut tobacco behind his lip and reflected on the future of the Permian. He’d recently gotten a call from a gas exporter wondering how much it would cost to check suppliers’ wells for leaks. That way the exporter could market “low-emissions” gas, akin to a fair-trade label on coffee."
+      },
+      {
+        "passage_number": 3,
+        "text": "“I was raised out there,” Furry said. “And you know, in the old days, when you had an oil spill, you’d throw a little dirt over it. Cover it up. Nowadays, things are different. But the thing about emissions is people can’t see ’em. They’re not thinking about emissions.” Furry tapped a finger to his temple. “The industry as a whole is going to have to be retrained to think emissions. And some are already starting. But not all.”"
+      },
+      {
+        "passage_number": 4,
+        "text": "BP Plc, the former British Petroleum, has long positioned itself as more climate-conscious than its rivals, and it’s been at pains to improve its image in the United States since it caused a gargantuan oil spill in the Gulf of Mexico in 2010. BP acquired BHP’s assets in the Permian in 2018. When it assumed control the following year, the wells were flaring about 16 percent of the gas they produced, one of the highest rates in the basin. “We asked ourselves one question,” said David Lawler, the head of BP’s U.S. operations, in a blog post in April. “How can we do this differently?”"
+      },
+      {
+        "passage_number": 5,
+        "text": "Some changes came right away. BP began disclosing its flaring activity at State Pacific to the state and sought permits to flare there and at dozens of other wells—steps that BHP, like many operators in Texas, hadn’t bothered with. BHP said in a statement that it strove to limit flaring and emissions in the Permian and that it “sought appropriate permits.”"
+      },
+      {
+        "passage_number": 6,
+        "text": "At the same time, BP began replumbing the operation to eliminate the need to flare. Rather than rely on those touchy machines at each well site, it started building centralized compression stations with more reliable electric motors. BP estimates that the project will cost more than $1 billion and will eventually pay for itself through the sale of gas that would otherwise be wasted. The effort has already reduced its flaring in the basin to less than 2 percent of production. In his blog post, Lawler said BP would end routine flaring at onshore U.S. operations completely by 2025."
+      },
+      {
+        "passage_number": 7,
+        "text": "While BP’s efforts in the Permian may be the most high-profile, almost every company of any size is announcing a plan to lower emissions and cut flaring. Some have renounced the practice of bringing wells online before a gas-gathering pipeline is in place and are rolling out costly monitoring programs. After testing eight technologies, Exxon Mobil Corp. said this year that it’s hiring a company that shoots lasers from an airplane to spot methane leaks."
+      },
+      {
+        "passage_number": 8,
+        "text": "In another era, oil producers could have safely ignored environmental critics such as Wilson and Lyon. But just a few months after the French gas deal was canceled, something even more shocking hit executive boardrooms: Exxon’s shareholders voted to replace three board members, handing a victory to critics who said the company wasn’t doing enough to prepare for a low-carbon future. Lyon talks frequently to Wall Street investors. They always ask the same question these days, he says: Who has their emissions under control, and who doesn’t?"
+      },
+      {
+        "passage_number": 9,
+        "text": "Regulation is starting to catch up, though unevenly. While Texas hasn’t taken significant action on either flaring or methane, the New Mexico Environment Department, after consultation with EDF, is phasing in limits on both. A federal methane rule, which applied to a limited number of oil facilities, was restored this year after being gutted by the Trump administration. Now the EPA is crafting a rule that would apply to more wells."
+      },
+      {
+        "passage_number": 10,
+        "text": "In May, Lyon’s team published the latest findings from that network of sensors installed on mobile-phone towers throughout the basin. Methane emissions plunged in April 2020 as the pandemic put the world economy on ice. But by the end of last summer, levels were already as high as they were when the year began. The stoves in the desert had switched back on."
+      }
+    ],
+    "questions": [
+      {
+        "question_number": 1,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "What is the main challenge in controlling emissions in the Permian Basin?",
+        "options": {
+          "A": "Lack of detection technology",
+          "B": "Worker incentives prioritizing production",
+          "C": "Inadequate government permits",
+          "D": "Public visibility of pollution"
+        },
+        "answer": "B",
+        "explanation": "The passage states workers are incentivized to prioritize oil production over emissions control through bonus structures.",
+        "score_improvement_tip": "Identify key phrases about systemic challenges in operational descriptions."
+      },
+      {
+        "question_number": 2,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "As used in the passage, 'low-emissions gas' marketing is compared to:",
+        "options": {
+          "A": "Organic farming certifications",
+          "B": "Fair-trade coffee labels",
+          "C": "Carbon offset programs",
+          "D": "Renewable energy branding"
+        },
+        "answer": "B",
+        "explanation": "The text explicitly compares it to 'a fair-trade label on coffee.'",
+        "score_improvement_tip": "Watch for direct analogies using phrases like 'akin to.'"
+      },
+      {
+        "question_number": 3,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "What does Furry imply about the industry's historical approach to emissions?",
+        "options": {
+          "A": "Prioritized public relations over solutions",
+          "B": "Treated emissions like visible oil spills",
+          "C": "Lacked technical capability for detection",
+          "D": "Viewed emissions as an acceptable externality"
+        },
+        "answer": "D",
+        "explanation": "Furry's comparison to covering oil spills with dirt suggests emissions were historically ignored as invisible externalities.",
+        "score_improvement_tip": "Analyze historical analogies to infer unstated attitudes."
+      },
+      {
+        "question_number": 4,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "What rhetorical purpose does the $1 billion cost figure serve?",
+        "options": {
+          "A": "Criticize BP's excessive spending",
+          "B": "Emphasize the scale of infrastructure changes",
+          "C": "Compare costs to competitor budgets",
+          "D": "Highlight taxpayer burdens"
+        },
+        "answer": "B",
+        "explanation": "The figure underscores the magnitude of BP's operational overhaul to reduce flaring.",
+        "score_improvement_tip": "Quantitative details often emphasize scale/commitment in arguments."
+      },
+      {
+        "question_number": 5,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence",
+        "difficulty": "Medium",
+        "passage": 7,
+        "question": "Which detail best supports Exxon's approach to methane detection?",
+        "options": {
+          "A": "Rolling out costly monitoring programs",
+          "B": "Shooting lasers from airplanes",
+          "C": "Hiring third-party contractors",
+          "D": "Testing eight technologies"
+        },
+        "answer": "B",
+        "explanation": "The passage explicitly states Exxon uses airplane-mounted lasers for leak detection.",
+        "score_improvement_tip": "Match specific technical solutions to company actions."
+      },
+      {
+        "question_number": 6,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Hard",
+        "passage": 8,
+        "question": "What is the significance of Exxon's shareholder vote?",
+        "options": {
+          "A": "Shows declining oil demand",
+          "B": "Reveals investor climate concerns",
+          "C": "Highlights management conflicts",
+          "D": "Demonstrates regulatory failure"
+        },
+        "answer": "B",
+        "explanation": "The vote reflects investor pressure for climate action, a major shift in industry dynamics.",
+        "score_improvement_tip": "Connect corporate governance events to broader thematic shifts."
+      },
+      {
+        "question_number": 7,
+        "domain": "Information and Ideas",
+        "skill": "Central Ideas and Details",
+        "difficulty": "Easy",
+        "passage": 9,
+        "question": "Which state has implemented methane limits?",
+        "options": {
+          "A": "Texas",
+          "B": "New Mexico",
+          "C": "Louisiana",
+          "D": "California"
+        },
+        "answer": "B",
+        "explanation": "The passage explicitly states New Mexico phased in limits after EDF consultations.",
+        "score_improvement_tip": "Scan for proper nouns when locating factual answers."
+      },
+      {
+        "question_number": 8,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Medium",
+        "passage": 10,
+        "question": "What does the May 2021 sensor data imply about emission reductions?",
+        "options": {
+          "A": "Permanent decline achieved",
+          "B": "Tied to economic activity",
+          "C": "Result of new satellites",
+          "D": "Caused by regulation"
+        },
+        "answer": "B",
+        "explanation": "Emissions rebounded post-pandemic, linking reductions to temporary economic slowdown.",
+        "score_improvement_tip": "Correlate emission trends with contextual events like COVID-19."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Why does the author mention BP's 2010 oil spill?",
+        "options": {
+          "A": "Contrast past/present environmental records",
+          "B": "Explain acquisition costs",
+          "C": "Criticize cleanup efforts",
+          "D": "Highlight regulatory penalties"
+        },
+        "answer": "A",
+        "explanation": "The reference establishes BP's motivation to improve its environmental image post-crisis.",
+        "score_improvement_tip": "Historical references often contextualize current motivations."
+      },
+      {
+        "question_number": 10,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 6,
+        "question": "As used in the passage, 'replumbing' most nearly means:",
+        "options": {
+          "A": "Repairing existing equipment",
+          "B": "Overhauling infrastructure systems",
+          "C": "Increasing pipeline capacity",
+          "D": "Reducing operational costs"
+        },
+        "answer": "B",
+        "explanation": "In context, 'replumbing' refers to systemic infrastructure changes to centralize compression.",
+        "score_improvement_tip": "Technical metaphors often describe large-scale operational changes."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students demonstrate mastery in analyzing complex industry dynamics, decoding technical jargon, and synthesizing arguments about economic-environmental tensions.",
+      "700_level_performance": "Students show strong comprehension of explicit details but may struggle with inferring corporate motivations or rhetorical strategies in technical passages."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test analysis of corporate decision-making, rhetorical strategies in environmental reporting, and inferences about industry trends.",
+      "medium_questions": "Medium questions assess understanding of cause-effect relationships and technical vocabulary in industrial contexts.",
+      "easy_questions": "Easy questions evaluate identification of explicit facts, proper nouns, and numerical data."
+    }
+  }

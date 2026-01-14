@@ -1,0 +1,223 @@
+{
+  "article_title": "Having a child in the digital age",
+  "article_author": "Jessica Hamzelou",
+  "article_date": "March-April, 2025",
+  "article_source": "MIT Technology Review",
+  "article_category": "Essay",
+  "article_tags": ["Pregnancy", "Digital Technology", "Natural Childbirth", "Ultrasound", "Period-Tracking Apps"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "In the book I explore how technologies like ultrasound are used as essentially narrative devices, shaping the way that people think about their bodies and their pregnancies. Ultrasound is odd because it’s a medical technology that’s used to diagnose dangerous and scary conditions, but prospective parents are encouraged to view it as a kind of entertainment service while it’s happening. These commercial sonogram clinics interest me because they promise to completely banish the medical associations of the technology and elevate it into a pure consumer experience."
+    },
+    {
+      "passage_number": 2,
+      "text": "You write about “natural” childbirth, which, on the face of it, would seem counter to the digital age. As you note, the movement has always been about storytelling, and the story that it’s telling is really about pain.<br><br>When I was pregnant, I became really fascinated with people who discuss freebirth online, which is a practice on the very extreme end of “natural” childbirth rituals—where people give birth at home unassisted, with no obstetrician, midwife, or doula present. Sometimes they also refuse ultrasounds, vaccinations, or all prenatal care. I was interested in how this refusal of medical technology was being technologically promoted, through podcasts, YouTube videos, and Facebook groups."
+    },
+    {
+      "passage_number": 3,
+      "text": "It struck me that a lot of the freebirth influencers I saw were interested in exerting supreme control over their pregnancies and children, leaving nothing under the power of medical experts or government regulators. And they were also interested in controlling the narratives of their births—making sure that the moment their children came into the world was staged with compelling imagery that centered them as the protagonist of the event. Video evidence of the most extreme examples—like the woman who freebirthed into the ocean—could go viral and launch the freebirther’s personal brand as a digital wellness guru in her own right."
+    },
+    {
+      "passage_number": 4,
+      "text": "The phrase “natural childbirth” was coined by a British doctor, Grantly Dick-Read, in the 1920s. There’s a very funny section in his book for prospective mothers where he complains that women keep telling each other that childbirth hurts, and he claimed that the very idea that childbirth hurts was what created the pain, because birthing women were acting too tense. Dick-Read, like many of his contemporaries, had a racist theory that women he called “primitive” experienced no pain in childbirth because they hadn’t been exposed to white middle-class education and technologies. When I read his work, I was fascinated by the fact that he also described birth as a kind of performance, even back then. He claimed that undisturbed childbirths were totally painless, and he coached women through labor in an attempt to achieve them. Painless childbirth was pitched as a reward for reaching this peak state of natural femininity."
+    },
+    {
+      "passage_number": 5,
+      "text": "He was really into eugenics, by the way! I see a lot of him in the current presentation of “natural” childbirth online-(proponents) are still invested in a kind of denial, or suppression, of a woman’s actual experience in the pursuit of some unattainable ideal. Recently, I saw one Instagram post from a woman who claimed to have had a supernaturally pain-free childbirth, and she looks so pained and miserable in the photos, it’s absurd."
+    },
+    {
+      "passage_number": 6,
+      "text": "I wanted to ask you about Clue and Flo, two very different period-tracking apps. Their contrasting origin stories are striking.<br><br>I downloaded Flo as my period-tracking app many years ago for one reason: It was the first app that came up when I searched in the app store. Later, when I looked into its origins, I found that Flo was created by two brothers, cisgender men who do not menstruate, and that it had quickly outperformed and outearned an existing period-tracking app, Clue, which was created by a woman, Ida Tin, a few years earlier."
+    },
+    {
+      "passage_number": 7,
+      "text": "The elements that make an app profitable and successful are not the same as the ones that users may actually want or need. My experience with Flo, especially after I became pregnant, was that it seemed designed to get me to open the app as frequently as possible, even if it didn’t have any new information to provide me about my pregnancy. Flo pitches itself as a kind of artificial nurse, even though it can’t actually examine you or your baby, but this kind of digital substitute has also become increasingly powerful as inequities in maternity care widen and decent care becomes less accessible."
+    },
+    {
+      "passage_number": 8,
+      "text": "One of the features of Flo I spent a lot of time with was its “Secret Chats” area, where anonymous users come together to go off about pregnancy. It was actually really fun, and it kept me coming back to Flo again and again, especially when I wasn’t discussing my pregnancy with people in real life. But it was also the place where I learned that digital connections are not nearly as helpful as physical connections; you can’t come over and help the anonymous secret chat friend soothe her baby.<br><br>I’d asked Ida Tin if she considered adding a social or chat element to Clue, and she told me that she decided against it because it’s impossible to stem the misinformation that surfaces in a space like that."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the primary function of ultrasound as described in the passage?",
+      "options": {
+        "A": "A tool for diagnosing medical conditions only",
+        "B": "A narrative device that shapes perceptions of pregnancy",
+        "C": "An entertainment service exclusively for parents",
+        "D": "A consumer product without medical associations"
+      },
+      "answer": "B",
+      "explanation": "The passage explicitly states that ultrasounds are used as narrative devices shaping how people think about their bodies and pregnancies, making B the correct choice.",
+      "score_improvement_tip": "Focus on identifying the main idea by locating key phrases that summarize the author's primary point."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Words in Context",
+      "difficulty": "Easy",
+      "passage": 6,
+      "question": "As used in the passage, 'outperformed' most nearly means",
+      "options": {
+        "A": "surpassed in success",
+        "B": "acted better than",
+        "C": "competed against",
+        "D": "imitated closely"
+      },
+      "answer": "A",
+      "explanation": "The context discusses Flo quickly outperforming and outearning Clue, indicating it surpassed Clue in market success.",
+      "score_improvement_tip": "Examine surrounding words to determine the precise meaning of a term in its specific context."
+    },
+    {
+      "question_number": 3,
+      "domain": "Information and Ideas",
+      "skill": "Inferences",
+      "difficulty": "Medium",
+      "passage": 2,
+      "question": "Based on the passage, the author implies that freebirth discussions online primarily serve to",
+      "options": {
+        "A": "promote medical interventions during childbirth",
+        "B": "highlight the dangers of refusing prenatal care",
+        "C": "spread the refusal of medical technology via digital platforms",
+        "D": "encourage professional assistance in home births"
+      },
+      "answer": "C",
+      "explanation": "The author notes interest in how refusal of medical technology is promoted through podcasts, videos, and groups, implying digital platforms spread this practice.",
+      "score_improvement_tip": "Draw logical inferences by connecting stated details to unstated but implied conclusions."
+    },
+    {
+      "question_number": 4,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 4,
+      "question": "The primary purpose of mentioning Dick-Read's racist theory in the passage is to",
+      "options": {
+        "A": "criticize modern natural childbirth advocates",
+        "B": "provide historical context for the origins of natural childbirth",
+        "C": "argue against painless childbirth claims",
+        "D": "highlight advancements in medical technology"
+      },
+      "answer": "B",
+      "explanation": "The theory is included as part of explaining Dick-Read's views and the historical foundation of natural childbirth.",
+      "score_improvement_tip": "Analyze how specific details contribute to the overall structure and intent of the text."
+    },
+    {
+      "question_number": 5,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Medium",
+      "passage": 5,
+      "question": "Which version of the underlined portion best conforms to Standard English conventions? 'I see a lot of him in the current presentation of “natural” childbirth online-(proponents) are still invested in a kind of denial'",
+      "options": {
+        "A": "online-(proponents) are",
+        "B": "online: proponents are",
+        "C": "online, proponents are",
+        "D": "online. Proponents are"
+      },
+      "answer": "B",
+      "explanation": "A colon is appropriate to introduce an explanation or elaboration following 'online,' clarifying the sentence structure.",
+      "score_improvement_tip": "Review punctuation rules for introducing lists or explanations to ensure clarity."
+    },
+    {
+      "question_number": 6,
+      "domain": "Expression of Ideas",
+      "skill": "Rhetorical Synthesis",
+      "difficulty": "Hard",
+      "passage": 3,
+      "question": "To improve the rhetorical effectiveness of the passage, the author could best add which of the following details?",
+      "options": {
+        "A": "A statistic on the number of freebirth videos that go viral",
+        "B": "A counterexample of a freebirth that did not involve digital promotion",
+        "C": "An explanation of how medical experts view freebirth",
+        "D": "A description of the risks associated with unassisted births"
+      },
+      "answer": "A",
+      "explanation": "Adding a statistic would provide quantitative evidence to support the claim about viral videos launching personal brands, enhancing credibility and synthesis.",
+      "score_improvement_tip": "Consider how additional evidence can strengthen arguments by synthesizing new information with existing claims."
+    },
+    {
+      "question_number": 7,
+      "domain": "Craft and Structure",
+      "skill": "Cross-Text Connections",
+      "difficulty": "Hard",
+      "passage": 8,
+      "question": "If the author of Passage 8 were to respond to the claims in Passage 7 about Flo's role as a digital substitute, she would most likely argue that",
+      "options": {
+        "A": "digital features like chats exacerbate misinformation without providing real help",
+        "B": "apps like Flo reduce inequities by offering accessible information",
+        "C": "social elements in apps are essential for user engagement",
+        "D": "physical connections are overrated compared to digital ones"
+      },
+      "answer": "A",
+      "explanation": "The passage highlights the fun but limited help of digital chats and Ida Tin's decision against them due to misinformation, connecting critically to Flo's substitute role.",
+      "score_improvement_tip": "Practice linking ideas across texts by identifying potential agreements or conflicts in perspectives."
+    },
+    {
+      "question_number": 8,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence",
+      "difficulty": "Hard",
+      "passage": 7,
+      "question": "Which quotation from the passage best supports the idea that Flo prioritizes user engagement over useful information?",
+      "options": {
+        "A": "'The elements that make an app profitable and successful are not the same as the ones that users may actually want or need.'",
+        "B": "'My experience with Flo... was that it seemed designed to get me to open the app as frequently as possible, even if it didn’t have any new information to provide me about my pregnancy.'",
+        "C": "'Flo pitches itself as a kind of artificial nurse, even though it can’t actually examine you or your baby.'",
+        "D": "'this kind of digital substitute has also become increasingly powerful as inequities in maternity care widen'"
+      },
+      "answer": "B",
+      "explanation": "This quote directly evidences the app's design to encourage frequent openings without new info, supporting engagement over utility.",
+      "score_improvement_tip": "Select evidence that precisely matches the claim by evaluating how well each option aligns."
+    },
+    {
+      "question_number": 9,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 1,
+      "question": "Which transition word or phrase, if inserted at the beginning of the sentence 'These commercial sonogram clinics interest me because they promise to completely banish the medical associations of the technology,' would best connect it to the previous sentence?",
+      "options": {
+        "A": "However",
+        "B": "In particular",
+        "C": "Consequently",
+        "D": "Nevertheless"
+      },
+      "answer": "B",
+      "explanation": " 'In particular' effectively specifies and connects the clinics as a focused example of ultrasound's entertainment aspect discussed previously.",
+      "score_improvement_tip": "Choose transitions that logically bridge ideas, considering the relationship like exemplification or contrast."
+    },
+    {
+      "question_number": 10,
+      "domain": "Standard English Conventions",
+      "skill": "Form, Structure, and Sense",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "To improve the sense and structure of the sentence 'Sometimes they also refuse ultrasounds, vaccinations, or all prenatal care,' which revision best maintains parallelism?",
+      "options": {
+        "A": "Sometimes they also refuse ultrasounds, vaccinations, or receiving all prenatal care.",
+        "B": "Sometimes they also refuse ultrasounds, vaccinating, or all prenatal care.",
+        "C": "Sometimes they also refuse ultrasounds, vaccinations, or to have all prenatal care.",
+        "D": "Sometimes they also refuse having ultrasounds, vaccinations, or all prenatal care."
+      },
+      "answer": "A",
+      "explanation": "The revision uses consistent noun forms ('ultrasounds,' 'vaccinations,' 'receiving all prenatal care') to maintain parallel structure in the list.",
+      "score_improvement_tip": "Ensure parallel structure in lists by matching grammatical forms for clarity and logical flow."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students at this level exhibit exceptional command of advanced skills, including nuanced inferences, rhetorical analysis, and precise application of conventions in complex contexts.",
+    "700_level_performance": "Students at this level demonstrate solid understanding of core skills but may falter on subtle inferences, cross-text synthesis, or advanced rhetorical revisions."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions challenge advanced reasoning, such as synthesizing rhetorical elements, making cross-text connections, and applying conventions to intricate structures.",
+    "medium_questions": "Medium questions test comprehension of implications, text purposes, and basic conventions like boundaries.",
+    "easy_questions": "Easy questions assess fundamental identification of central ideas and word meanings in direct contexts."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "article_title": "Calibrating the Classroom",
+  "article_author": "Arian Khameneh",
+  "article_date": "May-June, 2023",
+  "article_source": "MIT Technology Review",
+  "article_category": "Education Technology",
+  "article_tags": ["Education", "Mental Health", "Technology", "Data Tracking", "School Safety"],
+  "passage_list": [
+    {
+      "passage_number": 1,
+      "text": "Woof isn’t the only well-being platform making inroads in Danish schools. Platforms like Bloomsights, Moods, and Klassetrivsel (Danish for \u201cclassroom well-being\u201d) are also getting traction. Each takes a more data-intensive and less anonymous approach than Woof, tracking and identifying schoolchildren individually. Bloomsights and Klassetrivsel even go as far as generating \u201csociograms\u201d\u2014network diagrams that display the children\u2019s relationships with each other in detail."
+    },
+    {
+      "passage_number": 2,
+      "text": "Bloomsights turns self-reported data from the same individuals over time into indicators including \u201csigns of loneliness,\u201d \u201cacadmic mindset,\u201d and \u201csigns of bullying.\u201d Bloomsights is also used in the US, where some school districts are including it as part of an \u201cearly warning system\u201d for identifying potential school shooters. The company\u2019s US operations are based in Colorado. Cofounder Adam Rockenbach says the hope in bringing Bloomsights to the US was to spread the Scandinavian values of well-being and community. He asserts that the app is not meant to be a dystopian \u201cBig Brother\u201d but an extension of what teachers already do."
+    },
+    {
+      "passage_number": 3,
+      "text": "\u201cYou notice the student is coming into class, and maybe they\u2019re coming to class late more frequently than before, and they look a little disheveled,\u201d he says. \u201cA good teacher is going to go find two or three minutes to connect with that student: \u2018Hey, it seems like there\u2019s something off here. Is there any way I can help you?\u2019\u201d Citing his experiences as a teacher in inner-city schools in Los Angeles for six years, Rockenbach says it can be a challenge to know what is really going on with children who struggle in an environment that might be marked by gang violence and poverty. He says Bloomsights can help in situations where the signals are not so clear."
+    },
+    {
+      "passage_number": 4,
+      "text": "Rockenbach believes that anonymous data only makes early intervention more difficult, since it creates more work for teachers and educators in trying to identify who has problems and needs help. For this reason, he thinks collecting individual data is a necessity. The program, which operates through a web app, takes self-reporting measurements similar to Woof\u2019s: monthly surveys of students, measuring various indicators of mental and physical well-being and students\u2019 evaluation of their learning environment."
+    }
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Information and Ideas",
+      "skill": "Central Ideas and Details",
+      "difficulty": "Easy",
+      "passage": 1,
+      "question": "What is the main idea of the first passage?",
+      "options": {
+        "A": "The introduction of well-being platforms in schools",
+        "B": "The role of teachers in Danish schools",
+        "C": "The comparison between Woof and other platforms",
+        "D": "The use of sociograms to track student relationships"
+      },
+      "answer": "A",
+      "explanation": "The passage introduces various well-being platforms being implemented in Danish schools, focusing on their shared goal of tracking and improving student well-being.",
+      "score_improvement_tip": "Always focus on the primary theme or concept introduced in the passage when identifying the main idea."
+    },
+    {
+      "question_number": 2,
+      "domain": "Craft and Structure",
+      "skill": "Text Structure and Purpose",
+      "difficulty": "Medium",
+      "passage": 1,
+      "question": "What is the purpose of mentioning \"sociograms\" in the first passage?",
+      "options": {
+        "A": "To explain a limitation of existing well-being platforms",
+        "B": "To highlight the detailed data collected by some platforms",
+        "C": "To criticize the use of complex technology in classrooms",
+        "D": "To suggest a benefit unique to Woof"
+      },
+      "answer": "B",
+      "explanation": "The reference to \"sociograms\" illustrates the level of detail in the data collected by platforms like Bloomsights and Klassetrivsel.",
+      "score_improvement_tip": "When analyzing purpose questions, consider how specific details support the overall message of the passage."
+    },
+    {
+      "question_number": 3,
+      "domain": "Standard English Conventions",
+      "skill": "Boundaries",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which revision, if any, improves the clarity of the phrase \"academic mindset\"?",
+      "options": {
+        "A": "academic perspective",
+        "B": "scholarly mindset",
+        "C": "student attitude",
+        "D": "no change"
+      },
+      "answer": "C",
+      "explanation": "\"Student attitude\" is a clearer and more direct phrasing that aligns with the context of the passage.",
+      "score_improvement_tip": "Evaluate each option carefully to determine which phrase communicates the original intent most effectively."
+    },
+    {
+      "question_number": 4,
+      "domain": "Expression of Ideas",
+      "skill": "Transitions",
+      "difficulty": "Hard",
+      "passage": 2,
+      "question": "Which sentence would best connect the second and third paragraphs of Passage 2?",
+      "options": {
+        "A": "This approach is inspired by Scandinavian principles.",
+        "B": "The move to US classrooms required careful consideration of new cultural contexts.",
+        "C": "Bloomsights demonstrates the potential of technology in well-being initiatives.",
+        "D": "Teachers can leverage these tools to support holistic learning experiences."
+      },
+      "answer": "B",
+      "explanation": "Option B bridges the explanation of Bloomsights' US introduction with its reception in new educational and cultural contexts.",
+      "score_improvement_tip": "When evaluating transition questions, consider how both paragraphs align and choose the option that creates the smoothest flow."
+    },
+    {
+      "question_number": 5,
+      "domain": "Information and Ideas",
+      "skill": "Command of Evidence (Textual, Quantitative)",
+      "difficulty": "Medium",
+      "passage": 3,
+      "question": "Which detail best supports Rockenbach\u2019s assertion that early intervention can address unseen student challenges?",
+      "options": {
+        "A": "You notice the student is coming into class late more frequently.",
+        "B": "He says Bloomsights can help in situations where the signals are not so clear.",
+        "C": "Citing his experiences as a teacher in inner-city schools.",
+        "D": "Children often struggle with the impact of poverty and gang violence."
+      },
+      "answer": "B",
+      "explanation": "This detail highlights the effectiveness of Bloomsights in identifying challenges that may not be immediately apparent, aligning with Rockenbach's point about intervention.",
+      "score_improvement_tip": "Always connect textual evidence directly to the claim being made."
+    }
+  ],
+  "scoring_guidelines": {
+    "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning.",
+    "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis."
+  },
+  "explanation_summary": {
+    "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning or analyze complex text structures.",
+    "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas and details.",
+    "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text."
+  }
+}

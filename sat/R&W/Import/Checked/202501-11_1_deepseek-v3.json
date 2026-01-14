@@ -1,0 +1,191 @@
+{
+    "article_title": "The Case for Strategic Modesty",
+    "article_author": "Shalena Srna, Alixandra Barasch, and Deborah A.",
+    "article_date": "November-December 2023",
+    "article_source": "Harvard Business Review",
+    "article_category": "Essay",
+    "article_tags": ["Psychology", "Cooperation", "Social Media", "Consumption"],
+    "passage_list": [
+      {
+        "passage_number": 1,
+        "text": "In 1899 the economist and sociologist Thorstein Veblen introduced the concept of conspicuous consumption, or the flaunting of one’s wealth to gain status and recognition. New research finds a context in which people are better off holding back: when cooperation is at a premium."
+      },
+      {
+        "passage_number": 2,
+        "text": "In the first of several online experiments, 303 participants from all over the world were recruited to play a variation of the Prisoner’s Dilemma— a game in which people can cooperate for mutual benefit or betray their partner for personal gain. Each was first shown an avatar supposedly designed by his or her partner. Half the avatars wore a shirt with a prominent logo of a luxury brand; the other half had shirts that were plain but otherwise identical. Just 45% of the participants whose partners had a status-signaling avatar played the game cooperatively, compared with 57% of those whose partners had a modestly dressed avatar."
+      },
+      {
+        "passage_number": 3,
+        "text": "The next experiment found the same pattern even when participants were allowed to dress an avatar of their own from a slate of outfits and chose clothing with a luxury brand. And when people were asked to evaluate 'John Thompson' for a cooperative social-media community, they were more likely to give him a thumbs-up when he had a modest profile than when he posted about luxury items or experiences."
+      },
+      {
+        "passage_number": 4,
+        "text": "Other experiments in the series suggest that people recognize the strategic value of modesty when they need to appear cooperative. For example, when asked to imagine that they wanted to join an online group and had to choose a profile picture that either included or omitted a luxury logo, just 27% of participants who were told that the group emphasized cooperation included the logo, compared with 43% of participants who weren’t told of that priority. 'Even though conspicuous consumption is a strategic behavior with assumed positive signal value… it also conveys a boastful self-interest, which is incompatible, in people’s minds, with prosociality,' the researchers write. 'Because prosociality is critical for cooperation, the signal value of conspicuous consumption flips from positive to negative in this situation.' These insights are especially important in the era of social media, they note, given how widely people can broadcast their consumption choices."
+      }
+    ],
+    "questions": [
+      
+      {
+        "question_number": 2,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Textual)",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "What evidence supports the claim that modesty encourages cooperation?",
+        "options": {
+          "A": "Participants chose luxury-branded avatars more often.",
+          "B": "57% of participants cooperated when their partner's avatar was modest.",
+          "C": "Participants preferred plain shirts over luxury-branded ones.",
+          "D": "The Prisoner’s Dilemma game was played online."
+        },
+        "answer": "B",
+        "explanation": "The passage states that 57% of participants cooperated when their partner's avatar was modest, compared to 45% when it was luxury-branded, supporting the claim that modesty encourages cooperation.",
+        "score_improvement_tip": "Look for specific data or statistics in the text that directly support the claim."
+      },
+      {
+        "question_number": 3,
+        "domain": "Craft and Structure",
+        "skill": "Words in Context",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "As used in the passage, what does the term 'prosociality' most likely mean?",
+        "options": {
+          "A": "Self-interest",
+          "B": "Cooperative behavior",
+          "C": "Luxury consumption",
+          "D": "Social media activity"
+        },
+        "answer": "B",
+        "explanation": "The passage contrasts 'prosociality' with 'boastful self-interest,' indicating that it refers to cooperative behavior.",
+        "score_improvement_tip": "Use context clues, such as contrasting ideas, to infer the meaning of unfamiliar terms."
+      },
+      {
+        "question_number": 4,
+        "domain": "Information and Ideas",
+        "skill": "Inferences",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "What can be inferred about conspicuous consumption in cooperative settings?",
+        "options": {
+          "A": "It is always beneficial.",
+          "B": "It is viewed as incompatible with cooperation.",
+          "C": "It has no impact on social perceptions.",
+          "D": "It is more common in online groups."
+        },
+        "answer": "B",
+        "explanation": "The passage states that conspicuous consumption conveys 'boastful self-interest,' which is incompatible with prosociality and cooperation, making B the correct answer.",
+        "score_improvement_tip": "Inference questions require connecting ideas in the text to draw a logical conclusion."
+      },
+      {
+        "question_number": 5,
+        "domain": "Craft and Structure",
+        "skill": "Text Structure and Purpose",
+        "difficulty": "Medium",
+        "passage": 2,
+        "question": "What is the primary purpose of the second passage?",
+        "options": {
+          "A": "To describe the rules of the Prisoner’s Dilemma",
+          "B": "To present experimental results on cooperation and modesty",
+          "C": "To criticize the use of luxury brands",
+          "D": "To explain the design of avatars"
+        },
+        "answer": "B",
+        "explanation": "The passage focuses on presenting the results of an experiment that examines the relationship between modesty and cooperation, making B the correct answer.",
+        "score_improvement_tip": "Identify the main focus of the passage, which often reveals its purpose."
+      },
+      {
+        "question_number": 6,
+        "domain": "Expression of Ideas",
+        "skill": "Rhetorical Synthesis",
+        "difficulty": "Hard",
+        "passage": 4,
+        "question": "Which choice best summarizes the researchers' conclusion about conspicuous consumption?",
+        "options": {
+          "A": "It is always a positive signal.",
+          "B": "Its value depends on the context.",
+          "C": "It is irrelevant in social media.",
+          "D": "It is universally disliked."
+        },
+        "answer": "B",
+        "explanation": "The researchers conclude that conspicuous consumption has positive signal value in some contexts but becomes negative in cooperative settings, making B the correct answer.",
+        "score_improvement_tip": "Synthesis questions require combining multiple ideas from the text to identify the best summary."
+      },
+      {
+        "question_number": 7,
+        "domain": "Craft and Structure",
+        "skill": "Cross-Text Connections",
+        "difficulty": "Hard",
+        "passage": 3,
+        "question": "How does the third passage relate to the second passage?",
+        "options": {
+          "A": "It contradicts the findings of the second passage.",
+          "B": "It provides additional evidence supporting the second passage.",
+          "C": "It introduces a new topic unrelated to the second passage.",
+          "D": "It criticizes the methodology of the second passage."
+        },
+        "answer": "B",
+        "explanation": "The third passage reinforces the findings of the second passage by showing that the pattern of modesty encouraging cooperation persists even when participants choose their own avatars.",
+        "score_improvement_tip": "Look for connections between passages, such as supporting evidence or contrasting ideas."
+      },
+      {
+        "question_number": 8,
+        "domain": "Standard English Conventions",
+        "skill": "Boundaries",
+        "difficulty": "Easy",
+        "passage": 1,
+        "question": "Which choice best completes the sentence? 'In 1899, Thorstein Veblen introduced the concept of conspicuous consumption, _______.'",
+        "options": {
+          "A": "or the flaunting of one’s wealth to gain status and recognition",
+          "B": "and the flaunting of one’s wealth to gain status and recognition",
+          "C": "but the flaunting of one’s wealth to gain status and recognition",
+          "D": "so the flaunting of one’s wealth to gain status and recognition"
+        },
+        "answer": "A",
+        "explanation": "The phrase 'or the flaunting of one’s wealth to gain status and recognition' correctly defines the concept of conspicuous consumption, making A the correct answer.",
+        "score_improvement_tip": "Pay attention to punctuation and conjunctions that clarify relationships between ideas."
+      },
+      {
+        "question_number": 9,
+        "domain": "Expression of Ideas",
+        "skill": "Transitions",
+        "difficulty": "Medium",
+        "passage": 4,
+        "question": "Which transition word or phrase best fits at the beginning of the sentence? '_______, conspicuous consumption is a strategic behavior with assumed positive signal value.'",
+        "options": {
+          "A": "However",
+          "B": "Therefore",
+          "C": "For example",
+          "D": "Even though"
+        },
+        "answer": "D",
+        "explanation": "The sentence contrasts the positive signal value of conspicuous consumption with its negative implications in cooperative settings, making 'Even though' the correct transition.",
+        "score_improvement_tip": "Choose transitions that accurately reflect the relationship between ideas in the sentence."
+      },
+      {
+        "question_number": 10,
+        "domain": "Information and Ideas",
+        "skill": "Command of Evidence (Quantitative)",
+        "difficulty": "Hard",
+        "passage": 2,
+        "question": "Based on the data in the passage, what percentage of participants cooperated when their partner's avatar was luxury-branded?",
+        "options": {
+          "A": "45%",
+          "B": "57%",
+          "C": "27%",
+          "D": "43%"
+        },
+        "answer": "A",
+        "explanation": "The passage states that 45% of participants cooperated when their partner's avatar was luxury-branded, making A the correct answer.",
+        "score_improvement_tip": "For quantitative questions, locate the specific data point in the text and match it to the correct option."
+      }
+    ],
+    "scoring_guidelines": {
+      "800_level_performance": "Students scoring at this level demonstrate mastery of all tested skills, including advanced analysis, synthesis, and reasoning. They can interpret complex texts, make nuanced inferences, and apply vocabulary in context with precision.",
+      "700_level_performance": "Students scoring at this level show strong comprehension and reasoning skills but may struggle with higher-level analysis and synthesis. They can identify main ideas and details but may miss subtle connections or inferences."
+    },
+    "explanation_summary": {
+      "hard_questions": "Hard questions test advanced analytical and reasoning skills, often requiring students to infer meaning, analyze complex text structures, or synthesize information across passages.",
+      "medium_questions": "Medium questions assess comprehension and vocabulary in context, with a focus on understanding main ideas, details, and transitions.",
+      "easy_questions": "Easy questions evaluate basic comprehension and the ability to identify explicit information in the text, such as definitions or straightforward data points."
+    }
+  }
