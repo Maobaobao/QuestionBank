@@ -8,9 +8,9 @@
     ],
     "total_questions": 20,
     "difficulty_distribution": {
-      "easy": 4,
-      "medium": 6,
-      "hard": 10
+      "easy": 5,
+      "medium": 7,
+      "hard": 8
     },
     "question_type_distribution": {
       "multiple_choice": 15,
@@ -339,7 +339,7 @@
       "question_number": 19,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Two-variable data: models and scatter-plots",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "MCQ",
       "question": "A data set shows that for every 1 unit increase in <math><mi>x</mi></math>, the value of <math><mi>y</mi></math> increases by approximately 5. A second data set shows that for every 1 unit increase in <math><mi>x</mi></math>, the first differences of <math><mi>y</mi></math> are increasing. Which models are most appropriate for the two data sets respectively?",
       "question_chart_svg": null,
@@ -358,7 +358,7 @@
       "question_number": 20,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Two-variable data: models and scatter-plots",
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "question_type": "MCQ",
       "question": "A scatterplot shows a strong positive linear relationship between the number of hours spent training and marathon completion speed (in km/h). Which of the following is a valid conclusion?",
       "question_chart_svg": null,

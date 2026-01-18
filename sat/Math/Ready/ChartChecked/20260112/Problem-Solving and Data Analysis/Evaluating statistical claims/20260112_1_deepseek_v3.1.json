@@ -1,55 +1,24 @@
-# **SAT Math Test Questions Verifier - Final Report**
-
-## **PART 1: VERIFICATION REPORT**
-
-```markdown
-# Math Test JSON Verification Report
-
-## Summary
-- **Total Questions:** 20
-- **Issues Found:** 12
-- **Critical Errors:** 6 (mathematical/logical errors, missing questions)
-- **Minor Issues/Warnings:** 6 (formatting, labeling, redundancy)
-
-## Detailed Issue Log
-| Q# | Category | Issue Description | Proposed Correction |
-| :-- | :--- | :--- | :--- |
-| 11 | Duplicate Question | Question 11 appears twice with different content. The first instance has an incomplete explanation and seems to be a draft. | Remove the first Q11 (with incomplete explanation) and keep only the second, valid Q11. |
-| 11 (second) | Skill Mismatch | Skill "Systems of 2 linear equations in 2 variables" should match metadata's "Algebra" focus. Domain is correct. | Keep as is; skill is appropriate. |
-| 12 | Explanation Flaw | Explanation initially expresses uncertainty about leading coefficient `a`, then correctly notes it's 1 from the given function definition. The explanation contains "scratchpad" thinking. | Remove the hesitant reasoning ("Wait, perhaps...", "Without a...") and present the final, confident solution directly. |
-| 15 | Duplicate Question | Question 15 appears twice with identical content but different answers (first says 1, second says 5). The second version is correct. | Remove the first Q15. Keep the second Q15 with answer "5". |
-| 16 | Mathematical Error / Question Design | Original question (with list 4,5,6,7,m,n) leads to possible sums (5,11,17) that don't match any options. The question is unsolvable as presented. | Replace with the provided corrected version (list 2,5,7,9,m,n) and change type to SPR. |
-| 16 (corrected) | Formatting | Corrected Q16 is SPR but options field is `null`. Should be empty object `{}` or `null`. | Change `"options": null` to `"options": {}` for consistency with other SPR questions. |
-| 17 | Answer Ambiguity | Answer is ±7, but only positive 7 is in options. This is acceptable for SAT. | Keep as is. |
-| 18 | Mathematical Error / Question Design | Original question contains contradictory geometry (isosceles triangle with altitude giving unequal splits 30° and 40°). The problem is impossible. | Replace with the provided corrected version (simple angle sum). |
-| 18 (corrected) | Skill Mismatch | New question is very simple (angle sum). Difficulty "Hard" is now inappropriate. | Change difficulty to "Easy". |
-| 19 | Mathematical Error / Question Design | Original question (find possible x) has multiple correct answers (A and B). The problem is flawed. | Replace with the provided corrected version (find possible y). |
-| 19 (corrected) | Explanation Flaw | Explanation for corrected question is overly complex and discusses unbounded region, which is unnecessary. | Simplify explanation to focus on testing each y-value against the inequalities for some x ≤ 3. |
-| 20 | Skill Mapping | Skill "Probability and conditional probability" is not listed in test_metadata's `focus_skills`. | This is acceptable; tests can include additional skills. |
-
-## Metadata Consistency Findings
-- **Total Questions:** Declared 20, actual count in array is 22 due to duplicates. After deduplication: 20 ✓
-- **Difficulty Distribution:** Declared: Easy=4, Medium=6, Hard=10. Actual after corrections: Easy=5, Medium=6, Hard=9. Minor discrepancy accepted.
-- **Question Type Distribution:** Declared: MCQ=15, SPR=5. Actual after corrections: MCQ=14, SPR=6. Minor discrepancy accepted.
-- **Focus Skills:** All skills in questions are generally aligned with the broad `focus_domains`. Some specific skills (e.g., Probability) are not listed but appear; this is acceptable.
-```
-
-## **PART 2: CORRECTED JSON FILE**
-
-```json
 {
   "test_metadata": {
-    "focus_domains": ["Problem-Solving and Data Analysis", "Advanced Math", "Algebra"],
-    "focus_skills": ["Evaluating statistical claims: observational studies and experiments", "Equivalent expressions", "Linear equations in 2 variables"],
+    "focus_domains": [
+      "Problem-Solving and Data Analysis",
+      "Advanced Math",
+      "Algebra"
+    ],
+    "focus_skills": [
+      "Evaluating statistical claims: observational studies and experiments",
+      "Equivalent expressions",
+      "Linear equations in 2 variables"
+    ],
     "total_questions": 20,
     "difficulty_distribution": {
-      "easy": 5,
-      "medium": 6,
-      "hard": 9
+      "easy": 10,
+      "medium": 3,
+      "hard": 7
     },
     "question_type_distribution": {
-      "multiple_choice": 14,
-      "student_produced_response": 6
+      "multiple_choice": 15,
+      "student_produced_response": 5
     }
   },
   "questions": [
@@ -167,7 +136,7 @@
       "question_number": 6,
       "domain": "Advanced Math",
       "skill": "Nonlinear equations in 1 variable",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
@@ -189,20 +158,20 @@
       "question_number": 7,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Two-variable data: models and scatterplots",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' style='stroke:black;stroke-width:2'/><line x1='50' y1='250' x2='50' y2='50' style='stroke:black;stroke-width:2'/><text x='200' y='280' font-size='14'>Study Hours</text><text x='15' y='150' font-size='14' transform='rotate(-90 15,150)'>Test Score</text><circle cx='80' cy='190' r='4' fill='blue'/><circle cx='120' cy='170' r='4' fill='blue'/><circle cx='160' cy='150' r='4' fill='blue'/><circle cx='200' cy='130' r='4' fill='blue'/><circle cx='240' cy='110' r='4' fill='blue'/><circle cx='280' cy='90' r='4' fill='blue'/><circle cx='320' cy='70' r='4' fill='blue'/></svg>",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' style='stroke:black;stroke-width:2'/><line x1='50' y1='250' x2='50' y2='50' style='stroke:black;stroke-width:2'/><text x='200' y='280' font-size='14'>Study Hours</text><text x='15' y='150' font-size='14' transform='rotate(-90 15,150)'>Test Score</text><circle cx='80' cy='70' r='4' fill='blue'/><circle cx='120' cy='90' r='4' fill='blue'/><circle cx='160' cy='110' r='4' fill='blue'/><circle cx='200' cy='130' r='4' fill='blue'/><circle cx='240' cy='150' r='4' fill='blue'/><circle cx='280' cy='170' r='4' fill='blue'/><circle cx='320' cy='190' r='4' fill='blue'/></svg>",
       "question_chart_description": "Scatterplot of test score (vertical axis) vs. study hours (horizontal axis). The 7 points show a strong negative linear trend.",
       "question": "The scatterplot above shows the relationship between weekly study hours and test scores for 7 students. A line of best fit has been drawn (not shown). Based on the scatterplot, which of the following is the most likely correlation coefficient, <math><mi>r</mi></math>?",
       "options": {
         "A": "<math><mi>r</mi><mo>=</mo><mo>-</mo><mn>0.95</mn></math>",
-        "B": "<math><mi>r</mi><mo>=</mo><mo>-</mo><mn>0.45</mn></math>",
+        "B": "<math><mi>r</mi><mo>=</mo><mn>0.45</mn></math>",
         "C": "<math><mi>r</mi><mo>=</mo><mn>0.10</mn></math>",
         "D": "<math><mi>r</mi><mo>=</mo><mn>0.85</mn></math>"
       },
       "answer": "A",
       "explanation": "The points show a clear downward trend, forming a nearly straight line. This indicates a strong negative linear correlation. A correlation coefficient near -1 (like -0.95) represents a strong negative relationship.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' style='stroke:black;stroke-width:2'/><line x1='50' y1='250' x2='50' y2='50' style='stroke:black;stroke-width:2'/><text x='200' y='280' font-size='14'>Study Hours</text><text x='15' y='150' font-size='14' transform='rotate(-90 15,150)'>Test Score</text><circle cx='80' cy='190' r='4' fill='blue'/><circle cx='120' cy='170' r='4' fill='blue'/><circle cx='160' cy='150' r='4' fill='blue'/><circle cx='200' cy='130' r='4' fill='blue'/><circle cx='240' cy='110' r='4' fill='blue'/><circle cx='280' cy='90' r='4' fill='blue'/><circle cx='320' cy='70' r='4' fill='blue'/><line x1='70' y1='200' x2='330' y2='80' style='stroke:red;stroke-width:2;stroke-dasharray:5,5'/></svg>",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' style='stroke:black;stroke-width:2'/><line x1='50' y1='250' x2='50' y2='50' style='stroke:black;stroke-width:2'/><text x='200' y='280' font-size='14'>Study Hours</text><text x='15' y='150' font-size='14' transform='rotate(-90 15,150)'>Test Score</text><circle cx='80' cy='70' r='4' fill='blue'/><circle cx='120' cy='90' r='4' fill='blue'/><circle cx='160' cy='110' r='4' fill='blue'/><circle cx='200' cy='130' r='4' fill='blue'/><circle cx='240' cy='150' r='4' fill='blue'/><circle cx='280' cy='170' r='4' fill='blue'/><circle cx='320' cy='190' r='4' fill='blue'/><line x1='70' y1='60' x2='330' y2='200' style='stroke:red;stroke-width:2;stroke-dasharray:5,5'/></svg>",
       "explanation_chart_description": "Same scatterplot with a dashed red line of best fit showing a strong negative slope.",
       "score_improvement_tip": "Correlation coefficient <math><mi>r</mi></math> measures the strength and direction of a linear relationship. Values close to +1 or -1 indicate a strong linear trend; values near 0 indicate a weak or no linear trend.",
       "additional_data": null
@@ -211,7 +180,7 @@
       "question_number": 8,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Evaluating statistical claims: observational studies and experiments",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
@@ -233,11 +202,11 @@
       "question_number": 9,
       "domain": "Geometry and Trigonometry",
       "skill": "Right triangles and trigonometry",
-      "difficulty": "Medium",
+      "difficulty": "Easy",
       "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,200 300,200 100,100' style='fill:none;stroke:black;stroke-width:2'/><text x='95' y='195' font-size='14'>A</text><text x='305' y='205' font-size='14'>B</text><text x='95' y='95' font-size='14'>C</text><text x='200' y='205' font-size='12'>15</text><text x='110' y='150' font-size='12'>8</text></svg>",
-      "question_chart_description": "Right triangle ABC, where angle C is the right angle. Side BC (horizontal) is length 15, side AC (vertical) is length 8. Angle A is at the bottom left.",
-      "question": "In right triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math> shown above, <math><mi>A</mi><mi>C</mi><mo>=</mo><mn>8</mn></math> and <math><mi>B</mi><mi>C</mi><mo>=</mo><mn>15</mn></math>. What is <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,250 220,250 220,70' style='fill:none;stroke:black;stroke-width:2'/><rect x='200' y='230' width='20' height='20' style='fill:none;stroke:black;stroke-width:1'/><text x='80' y='260' font-size='14'>A</text><text x='225' y='260' font-size='14'>C</text><text x='225' y='65' font-size='14'>B</text><text x='230' y='160' font-size='14'>15</text><text x='150' y='270' font-size='14'>8</text></svg>",
+      "question_chart_description": "Right triangle ABC with the right angle at C (bottom right). Side AC (horizontal bottom) is length 8. Side BC (vertical right) is length 15. Angle A is at the bottom left.",
+      "question": "In right triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math> shown above, the right angle is at <math><mi>C</mi></math>. If <math><mi>A</mi><mi>C</mi><mo>=</mo><mn>8</mn></math> and <math><mi>B</mi><mi>C</mi><mo>=</mo><mn>15</mn></math>, what is <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>?",
       "options": {
         "A": "<math><mfrac><mn>8</mn><mn>15</mn></mfrac></math>",
         "B": "<math><mfrac><mn>15</mn><mn>8</mn></mfrac></math>",
@@ -245,22 +214,22 @@
         "D": "<math><mfrac><mn>15</mn><mn>17</mn></mfrac></math>"
       },
       "answer": "B",
-      "explanation": "In right triangle ABC, angle A is opposite side BC and adjacent to side AC. By definition, <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mtext>opposite</mtext></mrow><mrow><mtext>adjacent</mtext></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi>C</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mfrac><mn>15</mn><mn>8</mn></mfrac></math>.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,200 300,200 100,100' style='fill:none;stroke:black;stroke-width:2'/><text x='95' y='195' font-size='14'>A</text><text x='305' y='205' font-size='14'>B</text><text x='95' y='95' font-size='14'>C</text><text x='200' y='205' font-size='12'>15 (Opposite to A)</text><text x='110' y='150' font-size='12'>8 (Adjacent to A)</text></svg>",
-      "explanation_chart_description": "Same triangle with sides labeled 'Opposite to A' and 'Adjacent to A'.",
-      "score_improvement_tip": "SOH CAH TOA: Tangent = Opposite / Adjacent. Correctly identify which sides are opposite and adjacent relative to the angle in question.",
+      "explanation": "In right triangle ABC, <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo></math> is the ratio of the length of the opposite side to the length of the adjacent side. Relative to angle A, the opposite side is <math><mi>B</mi><mi>C</mi></math> (length 15) and the adjacent side is <math><mi>A</mi><mi>C</mi></math> (length 8). Therefore, <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>15</mn><mn>8</mn></mfrac></math>.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='100,250 220,250 220,70' style='fill:none;stroke:black;stroke-width:2'/><rect x='200' y='230' width='20' height='20' style='fill:none;stroke:black;stroke-width:1'/><text x='80' y='260' font-size='14'>A</text><text x='225' y='260' font-size='14'>C</text><text x='225' y='65' font-size='14'>B</text><text x='230' y='160' font-size='12'>15 (Opposite)</text><text x='120' y='270' font-size='12'>8 (Adjacent)</text></svg>",
+      "explanation_chart_description": "The same right triangle labeled to show that relative to Angle A (bottom left), the side of length 15 is Opposite and the side of length 8 is Adjacent.",
+      "score_improvement_tip": "Remember SOH CAH TOA. For Tangent, identify the angle first, then find the Opposite leg (across from it) and the Adjacent leg (touching it, but not the hypotenuse).",
       "additional_data": null
     },
     {
       "question_number": 10,
       "domain": "Advanced Math",
       "skill": "Equivalent expressions",
-      "difficulty": "Medium",
+      "difficulty": "Hard",
       "question_type": "SPR",
       "question_chart_svg": null,
       "question_chart_description": null,
       "question": "If <math><mo>(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mi>k</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>m</mi><mi>x</mi><mo>-</mo><mn>24</mn></math> for all values of <math><mi>x</mi></math>, what is the value of <math><mi>m</mi></math>?",
-      "options": {},
+      "options": null,
       "answer": "-2",
       "explanation": "Expand the left side: <math><mo>(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mi>k</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>k</mi><mi>x</mi><mo>+</mo><mn>4</mn><mi>x</mi><mo>-</mo><mn>4</mn><mi>k</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mo>(</mo><mn>4</mn><mo>-</mo><mi>k</mi><mo>)</mo><mi>x</mi><mo>-</mo><mn>4</mn><mi>k</mi></math>. This must equal <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>m</mi><mi>x</mi><mo>-</mo><mn>24</mn></math> for all <math><mi>x</mi></math>. So, constant terms: <math><mo>-</mo><mn>4</mn><mi>k</mi><mo>=</mo><mo>-</mo><mn>24</mn></math> → <math><mi>k</mi><mo>=</mo><mn>6</mn></math>. Coefficient of x: <math><mn>4</mn><mo>-</mo><mi>k</mi><mo>=</mo><mi>m</mi></math>. Substituting <math><mi>k</mi><mo>=</mo><mn>6</mn></math> gives <math><mi>m</mi><mo>=</mo><mn>4</mn><mo>-</mo><mn>6</mn><mo>=</mo><mo>-</mo><mn>2</mn></math>.",
       "explanation_chart_svg": null,
@@ -294,12 +263,12 @@
       "question_number": 12,
       "domain": "Advanced Math",
       "skill": "Nonlinear functions",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "SPR",
       "question_chart_svg": null,
       "question_chart_description": null,
       "question": "The function <math><mi>f</mi></math> is defined by <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math>. In the xy-plane, the graph of <math><mi>f</mi></math> intersects the x-axis at the points <math><mo>(</mo><mn>2</mn><mo>,</mo><mn>0</mn><mo>)</mo></math> and <math><mo>(</mo><mn>8</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>. What is the value of <math><mi>f</mi><mo>(</mo><mn>0</mn><mo>)</mo></math>?",
-      "options": {},
+      "options": null,
       "answer": "16",
       "explanation": "Since the x-intercepts are 2 and 8, and the leading coefficient is 1, the quadratic can be written as <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>8</mn><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>10</mn><mi>x</mi><mo>+</mo><mn>16</mn></math>. Therefore, <math><mi>f</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mn>16</mn></math>.",
       "explanation_chart_svg": null,
@@ -311,22 +280,22 @@
       "question_number": 13,
       "domain": "Geometry and Trigonometry",
       "skill": "Circles",
-      "difficulty": "Hard",
+      "difficulty": "Easy",
       "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='260' y2='230' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='265' y='235' font-size='12'>C</text><text x='195' y='145' font-size='12'>A</text><text x='250' y='120' font-size='12'>100°</text></svg>",
-      "question_chart_description": "Circle with center A. Points B and C lie on the circle. Line segments AB and AC are radii. Angle BAC is labeled 100°.",
-      "question": "In the figure above, point <math><mi>A</mi></math> is the center of the circle, and the measure of angle <math><mi>B</mi><mi>A</mi><mi>C</mi></math> is <math><mn>100</mn><mo>°</mo></math>. What is the measure of minor arc <math><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>⌢</mo></mover></math>?",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='183' y2='248' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='175' y='265' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='220' y='190' font-size='12'>100°</text></svg>",
+      "question_chart_description": "Circle with center A. Point B is on the right edge. Point C is on the bottom-left edge, creating a wide obtuse central angle BAC labeled 100°.",
+      "question": "In the figure above, point <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math> is the center of the circle, and the measure of angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>A</mi><mi>C</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#176;</mo></math>. What is the measure of minor arc <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>&#8994;</mo></mover></math>?",
       "options": {
-        "A": "50°",
-        "B": "80°",
-        "C": "100°",
-        "D": "260°"
+        "A": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mo>&#176;</mo></math>",
+        "B": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>80</mn><mo>&#176;</mo></math>",
+        "C": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#176;</mo></math>",
+        "D": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>260</mn><mo>&#176;</mo></math>"
       },
       "answer": "C",
-      "explanation": "The measure of a minor arc is equal to the measure of its central angle. Since angle BAC is the central angle that intercepts arc BC, the measure of minor arc BC is also 100°.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='260' y2='230' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='265' y='235' font-size='12'>C</text><text x='195' y='145' font-size='12'>A</text><text x='250' y='120' font-size='12'>100° (Central Angle)</text><path d='M300,150 A100,100 0 0,0 260,230' style='fill:none;stroke:red;stroke-width:3'/><text x='280' y='200' font-size='12' fill='red'>Arc BC = 100°</text></svg>",
-      "explanation_chart_description": "Same circle with central angle BAC highlighted and minor arc BC drawn in red, labeled as 100°.",
-      "score_improvement_tip": "In a circle, the measure of an arc equals the measure of its central angle. For a minor arc, it's the smaller angle (less than 180°).",
+      "explanation": "The measure of a minor arc is defined as the measure of its corresponding central angle. Since angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>A</mi><mi>C</mi></math> is the central angle (<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#176;</mo></math>) that intercepts arc <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>&#8994;</mo></mover></math>, the measure of minor arc <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>&#8994;</mo></mover></math> is also <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>100</mn><mo>&#176;</mo></math>.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='183' y2='248' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='175' y='265' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='220' y='190' font-size='12'>100°</text><path d='M300,150 A100,100 0 0,1 183,248' style='fill:none;stroke:red;stroke-width:3'/><text x='260' y='220' font-size='12' fill='red'>Arc BC = 100°</text></svg>",
+      "explanation_chart_description": "The same circle with the central angle BAC shown as obtuse. The minor arc BC is highlighted in red and labeled as 100°.",
+      "score_improvement_tip": "Remember: Central Angle = Minor Arc Measure. If the vertex of the angle is at the center of the circle, the angle and the arc it 'eats' are equal in degrees.",
       "additional_data": null
     },
     {
@@ -355,12 +324,12 @@
       "question_number": 15,
       "domain": "Advanced Math",
       "skill": "Equivalent expressions",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "SPR",
       "question_chart_svg": null,
       "question_chart_description": null,
       "question": "If <math><mfrac><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>9</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mi>a</mi></mrow><mrow><mi>x</mi><mo>-</mo><mi>b</mi></mrow></mfrac></math> for all <math><mi>x</mi><mo>></mo><mn>3</mn></math>, where <math><mi>a</mi></math> and <math><mi>b</mi></math> are constants, what is the value of <math><mi>a</mi><mo>+</mo><mi>b</mi></math>?",
-      "options": {},
+      "options": null,
       "answer": "5",
       "explanation": "Factor numerator: <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>9</mn><mo>=</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></math>. Factor denominator: <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>5</mn><mi>x</mi><mo>+</mo><mn>6</mn><mo>=</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></math>. So the left side simplifies to <math><mfrac><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>3</mn></mrow><mrow><mi>x</mi><mo>-</mo><mn>2</mn></mrow></mfrac></math> for <math><mi>x</mi><mo>≠</mo><mn>2</mn><mo>,</mo><mn>3</mn></math>. Since <math><mi>x</mi><mo>></mo><mn>3</mn></math>, the cancellation is valid. Comparing to <math><mfrac><mrow><mi>x</mi><mo>+</mo><mi>a</mi></mrow><mrow><mi>x</mi><mo>-</mo><mi>b</mi></mrow></mfrac></math>, we get <math><mi>a</mi><mo>=</mo><mn>3</mn></math> and <math><mi>b</mi><mo>=</mo><mn>2</mn></math>. Therefore, <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>5</mn></math>.",
       "explanation_chart_svg": null,
@@ -377,7 +346,7 @@
       "question_chart_svg": null,
       "question_chart_description": null,
       "question": "The list <math><mn>2</mn><mo>,</mo><mn>5</mn><mo>,</mo><mn>7</mn><mo>,</mo><mn>9</mn><mo>,</mo><mi>m</mi><mo>,</mo><mi>n</mi></math> consists of six different positive integers. If the mean of the list is equal to its median, what is one possible value of <math><mi>m</mi><mo>+</mo><mi>n</mi></math>?",
-      "options": {},
+      "options": null,
       "answer": "25",
       "explanation": "Consider the case where both <math><mi>m</mi></math> and <math><mi>n</mi></math> are greater than 9. Then the sorted list is 2, 5, 7, 9, m, n. The median is the average of the third and fourth numbers: <math><mfrac><mrow><mn>7</mn><mo>+</mo><mn>9</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>8</mn></math>. The mean is <math><mfrac><mrow><mn>2</mn><mo>+</mo><mn>5</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>9</mn><mo>+</mo><mi>m</mi><mo>+</mo><mi>n</mi></mrow><mn>6</mn></mfrac><mo>=</mo><mfrac><mrow><mn>23</mn><mo>+</mo><mi>m</mi><mo>+</mo><mi>n</mi></mrow><mn>6</mn></mfrac></math>. Setting mean = median: <math><mfrac><mrow><mn>23</mn><mo>+</mo><mi>m</mi><mo>+</mo><mi>n</mi></mrow><mn>6</mn></mfrac><mo>=</mo><mn>8</mn></math> → <math><mn>23</mn><mo>+</mo><mi>m</mi><mo>+</mo><mi>n</mi><mo>=</mo><mn>48</mn></math> → <math><mi>m</mi><mo>+</mo><mi>n</mi><mo>=</mo><mn>25</mn></math>. One possible pair is m=10, n=15 (sum 25). Thus, 25 is a possible value.",
       "explanation_chart_svg": null,
@@ -401,7 +370,7 @@
         "D": "13"
       },
       "answer": "B",
-      "explanation": "We have <math><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></math> and <math><mi>a</mi><mi>b</mi><mo>=</mo><mn>12</mn></math>. Note that <math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><msup><mrow></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mo>(</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>)</mo><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>=</mo><mn>25</mn><mo>+</mo><mn>2</mn><mo>(</mo><mn>12</mn><mo>)</mo><mo>=</mo><mn>25</mn><mo>+</mo><mn>24</mn><mo>=</mo><mn>49</mn></math>. So <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mo>±</mo><mn>7</mn></math>. Since the question likely expects a positive sum (and the answer choices are positive), the value is 7.",
+      "explanation": "We have <math><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></math> and <math><mi>a</mi><mi>b</mi><mo>=</mo><mn>12</mn></math>. Note that <math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><msup><mrow></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mo>(</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>)</mo><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>=</mo><mn>25</mn><mo>+</mo><mn>2</mn><mo>(</mo><mn>12</mn><mo>)</mo><mo>=</mo><mn>25</mn><mo>+</mo><mn>24</mn><mo>=</mo><mn>49</mn></math>. So <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mo>±</mo><mn>7</mn></math>. Since the question likely expects a positive sum (and the answer choices are positive), the value is 7. Also, note that a and b could be 3 and 4 or -3 and -4, but the sum magnitude is 7.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "For systems involving squares and products, look for identities like <math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><msup><mrow></mrow><mn>2</mn></msup><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><mn>2</mn><mi>a</mi><mi>b</mi><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></math> to find the sum without solving for a and b individually.",
@@ -413,13 +382,13 @@
       "skill": "Lines, angles, and triangles",
       "difficulty": "Easy",
       "question_type": "SPR",
-      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='150,100 250,100 200,250' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='100' x2='200' y2='250' style='stroke:black;stroke-width:2'/><text x='145' y='95' font-size='14'>A</text><text x='255' y='95' font-size='14'>B</text><text x='200' y='260' font-size='14'>C</text><text x='200' y='80' font-size='14'>D</text><text x='180' y='130' font-size='12'>30°</text><text x='220' y='130' font-size='12'>40°</text></svg>",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='150,100 250,100 200,250' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='100' x2='200' y2='250' style='stroke:black;stroke-width:2'/><text x='145' y='95' font-size='14'>A</text><text x='255' y='95' font-size='14'>B</text><text x='200' y='270' font-size='14'>C</text><text x='200' y='90' font-size='14'>D</text><text x='185' y='220' font-size='12'>30°</text><text x='215' y='220' font-size='12'>40°</text></svg>",
       "question_chart_description": "Triangle ABC with CD as an altitude from C to AB. Angle ACD is 30°, angle BCD is 40°.",
-      "question": "In the figure above, in triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math>, <math><mi>C</mi><mi>D</mi></math> is an altitude from <math><mi>C</mi></math> to side <math><mi>A</mi><mi>B</mi></math>. If the measure of angle <math><mi>A</mi><mi>C</mi><mi>D</mi></math> is <math><mn>30</mn><mo>°</mo></math> and the measure of angle <math><mi>B</mi><mi>C</mi><mi>D</mi></math> is <math><mn>40</mn><mo>°</mo></math>, what is the measure, in degrees, of angle <math><mi>A</mi><mi>C</mi><mi>B</mi></math>?",
-      "options": {},
+      "question": "In the figure above, in triangle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi></math>, <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>D</mi></math> is an altitude from <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math> to side <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi></math>. If the measure of angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi><mi>D</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mo>&#176;</mo></math> and the measure of angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>C</mi><mi>D</mi></math> is <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>40</mn><mo>&#176;</mo></math>, what is the measure, in degrees, of angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi><mi>B</mi></math>?",
+      "options": null,
       "answer": "70",
-      "explanation": "Angle ACB is the sum of angles ACD and BCD. Therefore, measure of angle ACB = 30° + 40° = 70°.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='150,100 250,100 200,250' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='100' x2='200' y2='250' style='stroke:black;stroke-width:2'/><text x='145' y='95' font-size='14'>A</text><text x='255' y='95' font-size='14'>B</text><text x='200' y='260' font-size='14'>C</text><text x='200' y='80' font-size='14'>D</text><text x='180' y='130' font-size='12' fill='red'>30°</text><text x='220' y='130' font-size='12' fill='red'>40°</text><text x='190' y='200' font-size='14' fill='blue'>∠ACB = 30°+40° = 70°</text></svg>",
+      "explanation": "Angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi><mi>B</mi></math> is the sum of angles <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi><mi>D</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mi>C</mi><mi>D</mi></math>. Therefore, measure of angle <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>C</mi><mi>B</mi><mo>=</mo><mn>30</mn><mo>&#176;</mo><mo>+</mo><mn>40</mn><mo>&#176;</mo><mo>=</mo><mn>70</mn><mo>&#176;</mo></math>.",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='150,100 250,100 200,250' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='100' x2='200' y2='250' style='stroke:black;stroke-width:2'/><text x='145' y='95' font-size='14'>A</text><text x='255' y='95' font-size='14'>B</text><text x='200' y='270' font-size='14'>C</text><text x='200' y='90' font-size='14'>D</text><text x='185' y='220' font-size='12' fill='red'>30°</text><text x='215' y='220' font-size='12' fill='red'>40°</text><text x='190' y='290' font-size='14' fill='blue'>∠ACB = 70°</text></svg>",
       "explanation_chart_description": "Same figure with angles ACD and BCD highlighted in red, and their sum indicated as angle ACB = 70°.",
       "score_improvement_tip": "Sometimes, the solution is straightforward: an angle composed of two adjacent angles is their sum. Don't overcomplicate if no other information is given.",
       "additional_data": null
@@ -470,49 +439,3 @@
     }
   ]
 }
-```
-
----
-
-# SAT Math Question Difficulty Auditor - Final Report
-
-## 1. Difficulty Distribution Summary
-
-| Difficulty | Declared (From JSON) | Audited (After Analysis) | Match Status |
-|------------|----------------------|--------------------------|--------------|
-| **Easy** | 5 | 6 | +1 |
-| **Medium** | 6 | 7 | +1 |
-| **Hard** | 9 | 7 | -2 |
-| **Total** | 20 | 20 | |
-
-**Alignment Score:** 85% (17/20 questions correctly labeled)
-
-## 2. Mislabeled Questions Log
-
-Three questions were found to have incorrect difficulty labels:
-
-| Q# | Assigned Difficulty | Assessed Difficulty | Reason for Reclassification |
-| :-- | :--- | :--- | :--- |
-| 10 | Medium | Hard | Requires polynomial expansion, coefficient matching, and solving a system for constants. This is a 3+ step abstract reasoning task typical of Hard questions. |
-| 12 | Hard | Medium | While it involves quadratic functions, the solution path is straightforward: use factored form with given roots and evaluate at x=0. This is a standard 2-step application. |
-| 18 | Easy | Hard | Despite being a simple angle sum (30°+40°), the problem is presented as a geometry figure with an altitude, creating visual complexity. However, the core solution is indeed one step, so the initial "Easy" was correct. My earlier reclassification to Easy in the correction was accurate. |
-
-**Correction:** Q18 is correctly labeled as Easy in the corrected JSON. The mislabeled questions are only Q10 and Q12.
-
-## 3. Detailed Analysis
-
-### Well-Calibrated Questions:
-- **Q1-4 (Easy):** Perfectly calibrated. Direct, one-step applications of basic algebra, geometry, percentages, and statistics.
-- **Q5-9 (Medium):** Correctly labeled. These require combining concepts (point-slope form, factoring quadratics, interpreting scatterplots, SOHCAHTOA, generalizing survey results).
-- **Q11, 13-17, 19-20 (Hard):** Appropriately labeled. These involve systems with parameters, statistical inference in experiments, rational expression simplification with domain restrictions, mean/median reasoning with unknowns, nonlinear systems, and multi-step probability.
-
-### Borderline/Notable Cases:
-- **Q7 (Medium):** Could be argued as Easy since it only asks for correlation coefficient interpretation from a described scatterplot. However, requiring visualization from an SVG and understanding "strong negative" justifies Medium.
-- **Q16 (Hard):** Correct. Requires strategic case analysis for mean=median with unknowns.
-- **Q19 (Hard):** Correct. Testing values within a system of inequalities requires understanding the solution region, though some might find it Medium.
-
-### Critical Finding:
-The test has a good spread of difficulty. The main calibration issue is that **Q10** is under-labeled (should be Hard), and **Q12** is over-labeled (should be Medium). The corrected distribution (6 Easy, 7 Medium, 7 Hard) remains challenging but more accurately reflects SAT standards.
-
----
-**Audit Complete.** The majority of questions are well-calibrated. Minor adjustments to Q10 and Q12 would perfect the difficulty alignment.

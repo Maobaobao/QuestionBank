@@ -1,0 +1,22 @@
+{
+  "question_number": 13,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='183' y2='248' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='175' y='265' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='220' y='190' font-size='12'>100°</text></svg>",
+  "question_chart_description": "Circle with center A. Point B is on the right edge. Point C is on the bottom-left edge, creating a wide obtuse central angle BAC labeled 100°.",
+  "question": "In the figure above, point <math><mi>A</mi></math> is the center of the circle, and the measure of angle <math><mi>B</mi><mi>A</mi><mi>C</mi></math> is <math><mn>100</mn><mo>°</mo></math>. What is the measure of minor arc <math><mover><mrow><mi>B</mi><mi>C</mi></mrow><mo>⌢</mo></mover></math>?",
+  "options": {
+    "A": "50°",
+    "B": "80°",
+    "C": "100°",
+    "D": "260°"
+  },
+  "answer": "C",
+  "explanation": "The measure of a minor arc is defined as the measure of its corresponding central angle. Since angle BAC is the central angle ($100^{circ}$) that intercepts arc BC, the measure of minor arc BC is also $100^{\circ}$.",
+  "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><circle cx='200' cy='150' r='100' style='fill:none;stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='300' y2='150' style='stroke:black;stroke-width:2'/><line x1='200' y1='150' x2='183' y2='248' style='stroke:black;stroke-width:2'/><text x='305' y='155' font-size='12'>B</text><text x='175' y='265' font-size='12'>C</text><text x='195' y='140' font-size='12'>A</text><text x='220' y='190' font-size='12'>100°</text><path d='M300,150 A100,100 0 0,1 183,248' style='fill:none;stroke:red;stroke-width:3'/><text x='260' y='220' font-size='12' fill='red'>Arc BC = 100°</text></svg>",
+  "explanation_chart_description": "The same circle with the central angle BAC shown as obtuse. The minor arc BC is highlighted in red and labeled as 100°.",
+  "score_improvement_tip": "Remember: Central Angle = Minor Arc Measure. If the vertex of the angle is at the center of the circle, the angle and the arc it 'eats' are equal in degrees.",
+  "additional_data": null
+}

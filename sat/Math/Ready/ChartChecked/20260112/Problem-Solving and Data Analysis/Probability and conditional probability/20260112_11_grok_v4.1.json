@@ -195,7 +195,7 @@
       "question_chart_description": null,
       "question": "In a group of 40 birds, 25 are finches and 15 are sparrows. If 10 finches and 5 sparrows can fly long distances, what is the probability that a randomly selected bird can fly long distances? Express as a fraction.",
       "options": null,
-      "answer": "<math><mfrac><mn>15</mn><mn>40</mn></mfrac></math>",
+      "answer": "<math><mfrac><mn>3</mn><mn>8</mn></mfrac></math>",
       "explanation": "Total that can fly long: 10 + 5 = 15. Total birds: 40. Probability: <math><mfrac><mn>15</mn><mn>40</mn></mfrac><mo>=</mo><mfrac><mn>3</mn><mn>8</mn></mfrac></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
@@ -264,7 +264,7 @@
       "additional_data": null
     },
     {
-      "question_number": 13,
+     "question_number": 13,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -273,13 +273,13 @@
       "question_chart_description": null,
       "question": "A test is positive 90% of the time for diseased people and 5% for healthy. If 2% of the population has the disease, what is the probability a person has the disease given a positive test?",
       "options": {
-        "A": "<math><mfrac><mn>18</mn><mn>113</mn></mfrac></math>",
+        "A": "<math><mfrac><mn>18</mn><mn>67</mn></mfrac></math>",
         "B": "<math><mfrac><mn>9</mn><mn>50</mn></mfrac></math>",
         "C": "<math><mfrac><mn>90</mn><mn>100</mn></mfrac></math>",
         "D": "<math><mfrac><mn>2</mn><mn>100</mn></mfrac></math>"
       },
       "answer": "A",
-      "explanation": "P(D|Pos) = [0.9 * 0.02] / [0.9*0.02 + 0.05*0.98] = 0.018 / (0.018 + 0.049) = 0.018 / 0.067 ≈ <math><mfrac><mn>18</mn><mn>113</mn></mfrac></math>.",
+      "explanation": "P(D|Pos) = [0.9 * 0.02] / [0.9 * 0.02 + 0.05 * 0.98] = 0.018 / (0.018 + 0.049) = 0.018 / 0.067 = <math><mfrac><mn>18</mn><mn>67</mn></mfrac></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "Incorporate base rates in calculations to avoid base rate fallacy in conditional probability.",
@@ -433,8 +433,6 @@
       "question_chart_description": null,
       "question": "In a poll, 40% of 500 voters support candidate X. If P(support X | urban) = 0.5 and 60% are urban, what is P(support X | rural)? Express as a decimal to three places.",
       "options": null,
-      "answer": "0.333",
-      "explanation": "P(U) = 0.6, P(R) = 0.4. P(X|U) = 0.5. P(X) = 0.4. P(X and U) = 0.5*0.6 = 0.3. P(X and R) = 0.4 - 0.3 = 0.1. P(X|R) = 0.1 / 0.4 = 0.25. Wait, mistake in calc. Wait, total support 40% of 500 = 200. But P(X) = 0.4. P(X|U) = 0.5, U=300 (0.6*500), so X and U = 0.5*300 = 150. X and R = 200 - 150 = 50. R=200, P(X|R) = 50/200 = 0.25. Wait, to make 0.333, perhaps adjust numbers. Wait, let P(X) = 0.3, then P(X and U) = 0.5*0.6 = 0.3, but 0.3=0.3, then P(X and R) = 0. Wait, let's set P(X) = 0.4, but to get 0.333, perhaps P(U)=0.75 or something. Wait, let's keep as is, but perhaps change to P(X)=0.32, but to fit, let's set answer 0.25. Wait, better change question to match 0.333. Change P(X)=0.4, P(X|U)=0.45, then P(X and U) = 0.45*0.6 = 0.27. P(X and R) = 0.4 - 0.27 = 0.13. P(X|R) = 0.13 / 0.4 = 0.325 ≈0.325, close. To get 0.333, P(X and U) = 0.5*0.6 = 0.3, set P(X)=0.4, then P(X and R) = 0.4 - 0.3 = 0.1, 0.1/0.4 = 0.25. Let's set P(X|U)=0.5, P(U)=0.5, P(X)=0.4, then P(X and U) = 0.5*0.5 = 0.25, P(X and R) = 0.4 - 0.25 = 0.15, P(R)=0.5, P(X|R)=0.15/0.5 = 0.3. Still not. To get 0.333, let P(U)=0.6, P(X|U)=0.5, P(X and U)=0.3, set P(X)=0.4, P(X and R)=0.1, P(R)=0.4, 0.1/0.4 = 0.25. To get 0.333, set P(X and R)=0.1332, but for fraction 1/3=0.333, set numbers to fit. Let P(R)=0.4, P(X and R)=0.1332, but for exact, assume 500 voters, U=300, R=200, P(X|U)=0.5, X from U = 150, total X = 200 (0.4*500), X from R = 50, P(X|R)=50/200=0.25. To get 1/3, set total X = 220, but to make it 0.333, perhaps change P(X)=0.333, but let's set the answer to 0.25, change to 0.25.",
       "answer": "0.25",
       "explanation": "P(U) = 0.6, P(R) = 0.4. P(X|U) = 0.5, P(X and U) = 0.5*0.6 = 0.3. P(X) = 0.4, P(X and R) = 0.4 - 0.3 = 0.1. P(X|R) = 0.1 / 0.4 = 0.25.",
       "explanation_chart_svg": null,
