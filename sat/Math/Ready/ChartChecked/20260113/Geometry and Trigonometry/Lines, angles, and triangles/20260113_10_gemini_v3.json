@@ -15,8 +15,8 @@
     "total_questions": 20,
     "difficulty_distribution": {
       "easy": 4,
-      "medium": 6,
-      "hard": 10
+      "medium": 7,
+      "hard": 9
     },
     "question_type_distribution": {
       "multiple_choice": 15,
@@ -52,8 +52,8 @@
       "skill": "Lines, angles, and triangles",
       "difficulty": "Easy",
       "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='200' viewBox='0 0 400 200' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='70' x2='350' y2='70' stroke='black' stroke-width='2' /><line x1='50' y1='130' x2='350' y2='130' stroke='black' stroke-width='2' /><line x1='100' y1='150' x2='300' y2='50' stroke='black' stroke-width='2' /><text x='230' y='65' font-family='Arial' font-size='14'>k</text><text x='230' y='145' font-family='Arial' font-size='14'>m</text><text x='195' y='95' font-family='Arial' font-size='14'>130&#176;</text><text x='160' y='115' font-family='Arial' font-size='14'>x&#176;</text></svg>",
-      "question_chart_description": "Two parallel horizontal lines, k and m, are intersected by a transversal line. The obtuse angle formed by the transversal and the top line (k) is 130 degrees. The acute angle formed by the transversal and the bottom line (m), which is consecutive interior to the 130 degree angle, is labeled x degrees.",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='80' x2='350' y2='80' stroke='black' stroke-width='2'/><text x='360' y='85' font-size='14' font-family='serif' font-style='italic'>k</text><line x1='50' y1='220' x2='350' y2='220' stroke='black' stroke-width='2'/><text x='360' y='225' font-size='14' font-family='serif' font-style='italic'>m</text><line x1='260' y1='40' x2='140' y2='260' stroke='black' stroke-width='2'/><path d='M 238 80 L 210 80 A 30 30 0 0 0 226 102' fill='none' stroke='black'/><text x='195' y='105' font-size='14'>x°</text><path d='M 162 220 L 134 220 A 30 30 0 0 1 154 195' fill='none' stroke='black'/><text x='120' y='205' font-size='14'>130°</text></svg>",
+      "question_chart_description": "Two parallel horizontal lines, k and m, intersected by a transversal line slanting from top-right to bottom-left. The interior angle on the left side of the transversal at the top line is labeled x°. The consecutive interior angle on the same side (left) at the bottom line is labeled 130°.",
       "question": "In the figure, line <math><mi>k</mi></math> is parallel to line <math><mi>m</mi></math>. What is the value of <math><mi>x</mi></math>?",
       "options": {
         "A": "40",
@@ -63,8 +63,8 @@
       },
       "answer": "B",
       "explanation": "Since lines <math><mi>k</mi></math> and <math><mi>m</mi></math> are parallel, consecutive interior angles (angles on the same side of the transversal and between the parallel lines) are supplementary. Therefore, <math><mi>x</mi><mo>+</mo><mn>130</mn><mo>=</mo><mn>180</mn></math>. Solving for <math><mi>x</mi></math> gives <math><mi>x</mi><mo>=</mo><mn>50</mn></math>.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='80' x2='350' y2='80' stroke='black' stroke-width='2'/><line x1='50' y1='220' x2='350' y2='220' stroke='black' stroke-width='2'/><line x1='260' y1='40' x2='140' y2='260' stroke='black' stroke-width='2'/><path d='M 190 80 L 238 80 L 162 220 L 120 220' fill='none' stroke='red' stroke-width='3' stroke-opacity='0.5'/><text x='150' y='150' font-size='14' fill='red' font-weight='bold'>Sum = 180°</text><text x='195' y='105' font-size='14'>x°</text><text x='120' y='205' font-size='14'>130°</text></svg>",
+  "explanation_chart_description": "The chart highlights the 'C' shape formed by the consecutive interior angles on the left side of the transversal, emphasizing that these two angles (130° and x°) must sum to 180°.",
       "score_improvement_tip": "Remember that for parallel lines, consecutive interior angles sum to 180 degrees, while alternate interior angles are equal.",
       "additional_data": null
     },
@@ -147,27 +147,27 @@
       "additional_data": null
     },
     {
-      "question_number": 7,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Lines, angles, and triangles",
-      "difficulty": "Medium",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><polygon points='20,180 120,180 70,80' fill='none' stroke='black' stroke-width='2'/><polygon points='160,180 260,180 210,30' fill='none' stroke='black' stroke-width='2'/><text x='15' y='195'>A</text><text x='120' y='195'>B</text><text x='65' y='75'>C</text><text x='155' y='195'>D</text><text x='260' y='195'>E</text><text x='205' y='25'>F</text></svg>",
-      "question_chart_description": "Two similar triangles, ABC and DEF. Triangle ABC is smaller than Triangle DEF. In triangle ABC, AC = 8 and BC = 10. In triangle DEF, DF = 12 and EF = 15.",
-      "question": "Triangles <math><mi>A</mi><mi>B</mi><mi>C</mi></math> and <math><mi>D</mi><mi>E</mi><mi>F</mi></math> are similar, where <math><mi>A</mi></math> corresponds to <math><mi>D</mi></math>, and <math><mi>B</mi></math> corresponds to <math><mi>E</mi></math>. If <math><mi>A</mi><mi>C</mi><mo>=</mo><mn>8</mn></math>, <math><mi>D</mi><mi>F</mi><mo>=</mo><mn>12</mn></math>, and the perimeter of triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math> is 24, what is the perimeter of triangle <math><mi>D</mi><mi>E</mi><mi>F</mi></math>?",
-      "options": {
-        "A": "30",
-        "B": "36",
-        "C": "48",
-        "D": "52"
-      },
-      "answer": "B",
-      "explanation": "Calculate the scale factor between the corresponding sides: <math><mfrac><mrow><mi>D</mi><mi>F</mi></mrow><mrow><mi>A</mi><mi>C</mi></mrow></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>8</mn></mfrac><mo>=</mo><mn>1.5</mn></math>. The perimeter of the similar triangle scales by the same factor. <math><mn>24</mn><mo>&#215;</mo><mn>1.5</mn><mo>=</mo><mn>36</mn></math>.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "For similar triangles, the ratio of perimeters is equal to the ratio of corresponding side lengths (the scale factor).",
-      "additional_data": null
-    },
+  "question_number": 7,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, angles, and triangles",
+  "difficulty": "Medium",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><polygon points='50,200 110,200 80,120' fill='none' stroke='black' stroke-width='2'/><text x='40' y='215' font-size='14' font-family='serif'>A</text><text x='115' y='215' font-size='14' font-family='serif'>B</text><text x='75' y='110' font-size='14' font-family='serif'>C</text><text x='50' y='160' font-size='12' fill='black'>8</text><text x='40' y='240' font-size='12' fill='blue'>Perimeter = 24</text><polygon points='200,200 290,200 245,80' fill='none' stroke='black' stroke-width='2'/><text x='190' y='215' font-size='14' font-family='serif'>D</text><text x='295' y='215' font-size='14' font-family='serif'>E</text><text x='240' y='70' font-size='14' font-family='serif'>F</text><text x='205' y='140' font-size='12' fill='black'>12</text><text x='200' y='240' font-size='12' fill='blue'>Perimeter = ?</text></svg>",
+  "question_chart_description": "Two similar triangles side-by-side. The smaller triangle ABC has side AC labeled 8 and a perimeter of 24. The larger triangle DEF has the corresponding side DF labeled 12.",
+  "question": "Triangles <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mi>C</mi></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi><mi>E</mi><mi>F</mi></math> are similar, where <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi></math> corresponds to <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi></math>, and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi></math> corresponds to <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>E</mi></math>. If <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi><mo>=</mo><mn>8</mn></math>, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi><mi>F</mi><mo>=</mo><mn>12</mn></math>, and the perimeter of triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mi>C</mi></math> is 24, what is the perimeter of triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi><mi>E</mi><mi>F</mi></math>?",
+  "options": {
+    "A": "30",
+    "B": "36",
+    "C": "48",
+    "D": "52"
+  },
+  "answer": "B",
+  "explanation": "Since the triangles are similar, the ratio of their corresponding sides determines the scale factor. The ratio of side <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi><mi>F</mi></math> to side <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>12</mn><mn>8</mn></mfrac><mo>=</mo><mn>1.5</mn></math>. The perimeter of the similar triangle scales by the same factor. Therefore, the perimeter of triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>D</mi><mi>E</mi><mi>F</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>24</mn><mo>&#215;</mo><mn>1.5</mn><mo>=</mo><mn>36</mn></math>.",
+  "explanation_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><polygon points='50,200 110,200 80,120' fill='none' stroke='black' stroke-width='2'/><polygon points='200,200 290,200 245,80' fill='none' stroke='black' stroke-width='2'/><defs><marker id='arrow' markerWidth='10' markerHeight='10' refX='0' refY='3' orient='auto' markerUnits='strokeWidth'><path d='M0,0 L0,6 L9,3 z' fill='red' /></marker></defs><line x1='120' y1='150' x2='180' y2='150' stroke='red' stroke-width='2' marker-end='url(#arrow)'/><text x='130' y='140' font-size='12' fill='red' font-weight='bold'>x 1.5</text><text x='40' y='215' font-family='serif'>A</text><text x='75' y='110' font-family='serif'>C</text><text x='190' y='215' font-family='serif'>D</text><text x='240' y='70' font-family='serif'>F</text><text x='50' y='160' font-size='12'>8</text><text x='205' y='140' font-size='12'>12</text><text x='40' y='240' font-size='12' fill='blue'>P = 24</text><text x='200' y='240' font-size='12' fill='blue' font-weight='bold'>P = 24 x 1.5 = 36</text></svg>",
+  "explanation_chart_description": "The chart illustrates the scaling process. A red arrow indicates the transformation from triangle ABC to DEF with a scale factor of 1.5. The calculation for the new perimeter (24 * 1.5 = 36) is explicitly shown.",
+  "score_improvement_tip": "For similar triangles, the ratio of perimeters is equal to the ratio of corresponding side lengths (the scale factor) [Image of similar triangles ratio].",
+  "additional_data": null
+},
     {
       "question_number": 8,
       "domain": "Problem-Solving and Data Analysis",
@@ -262,7 +262,7 @@
         "D": "36"
       },
       "answer": "A",
-      "explanation": "Complete the square for both <math><mi>x</mi></math> and <math><mi>y</mi></math>. For <math><mi>x</mi></math>: <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>)</mo></math>. For <math><mi>y</mi></math>: <math><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>16</mn><mo>)</mo></math>. Add these constants to the right side: <math><mn>11</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>16</mn><mo>=</mo><mn>36</mn></math>. The equation becomes <math><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo><msup><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>+</mo><mn>4</mn><mo>)</mo><msup><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. The radius squared is 36, so the radius is <math><msqrt><mn>36</mn></msqrt><mo>=</mo><mn>6</mn></math>.",
+      "explanation": "Complete the square for both <math><mi>x</mi></math> and <math><mi>y</mi></math>. For <math><mi>x</mi></math>: <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>)</mo></math>. For <math><mi>y</mi></math>: <math><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>16</mn><mo>)</mo></math>. Add these constants to the right side: <math><mn>11</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>16</mn><mo>=</mo><mn>36</mn></math>. The equation becomes <math><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>+</mo><mn>4</mn><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>. The radius squared is 36, so the radius is <math><msqrt><mn>36</mn></msqrt><mo>=</mo><mn>6</mn></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "To complete the square for <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi></math>, add <math><msup><mrow><mo>(</mo><mfrac><mi>b</mi><mn>2</mn></mfrac><mo>)</mo></mrow><mn>2</mn></msup></math>.",
@@ -308,27 +308,27 @@
       "additional_data": null
     },
     {
-      "question_number": 15,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Lines, angles, and triangles",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='250' y2='50' stroke='black' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='150' stroke='black' stroke-width='2'/><line x1='50' y1='50' x2='250' y2='150' stroke='black' stroke-width='2'/><line x1='50' y1='150' x2='250' y2='50' stroke='black' stroke-width='2'/><text x='110' y='75' font-size='14'>y&#176;</text><text x='180' y='75' font-size='14'>48&#176;</text><text x='140' y='110' font-size='14'>x&#176;</text></svg>",
-      "question_chart_description": "Parallel horizontal lines intersected by two transversals that also intersect each other between the parallel lines. The transversals form an 'X' shape. The top intersection angle on the right transversal is 48 degrees. The angle y is adjacent to the intersection on the top line. The angle x is the vertical angle at the intersection of the two transversals.",
-      "question": "In the figure, two parallel lines are intersected by two transversals that intersect each other between the parallel lines. If <math><mi>y</mi><mo>=</mo><mn>72</mn></math>, what is the value of <math><mi>x</mi></math>?",
-      "options": {
-        "A": "60",
-        "B": "68",
-        "C": "70",
-        "D": "80"
-      },
-      "answer": "A",
-      "explanation": "Let the transversals intersect at point P. The top triangle formed by the intersection of transversals and the top parallel line has angles. One angle is <math><mn>48</mn><mo>&#176;</mo></math> (given). The other angle is supplementary to <math><mi>y</mi></math> (since <math><mi>y</mi></math> is an exterior angle on the straight line, or adjacent). If <math><mi>y</mi><mo>=</mo><mn>72</mn></math>, the interior angle is <math><mn>180</mn><mo>-</mo><mn>72</mn><mo>=</mo><mn>108</mn></math> which is impossible for a triangle with another angle 48 (sum > 180, check diagram logic). Wait, let's re-read the SVG structure. <math><mi>y</mi></math> and <math><mn>48</mn></math> are likely interior angles of the top triangle formed by the X. Let's assume <math><mi>y</mi></math> and <math><mn>48</mn></math> are the two base angles of the top triangle formed by the parallel line and the intersection. Then <math><mi>x</mi></math> is the vertical angle. <math><mi>x</mi><mo>=</mo><mn>180</mn><mo>-</mo><mo>(</mo><mn>48</mn><mo>+</mo><mi>y</mi><mo>)</mo></math>. If <math><mi>y</mi><mo>=</mo><mn>72</mn></math>, then <math><mi>x</mi><mo>=</mo><mn>180</mn><mo>-</mo><mo>(</mo><mn>48</mn><mo>+</mo><mn>72</mn><mo>)</mo><mo>=</mo><mn>180</mn><mo>-</mo><mn>120</mn><mo>=</mo><mn>60</mn></math>. This is a valid interpretation for a Hard geometry problem requiring diagram interpretation.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "In 'X' shapes with parallel lines, the vertical angles are part of two similar triangles. The sum of the angles in any triangle is 180.",
-      "additional_data": null
-    },
+  "question_number": 15,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, angles, and triangles",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='50' x2='350' y2='50' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='168' y1='50' x2='232' y2='250' stroke='black' stroke-width='2'/><line x1='290' y1='50' x2='110' y2='250' stroke='black' stroke-width='2'/><text x='195' y='70' font-size='14'>y°</text><text x='240' y='70' font-size='14'>48°</text><text x='205' y='135' font-size='14'>x°</text><path d='M 60 50 L 50 45 L 50 55 Z' fill='black'/><path d='M 60 250 L 50 245 L 50 255 Z' fill='black'/></svg>",
+  "question_chart_description": "Two horizontal parallel lines are intersected by two transversal lines that cross each other between the parallel lines, forming an 'X' or hourglass shape. The angles inside the top triangle formed by this intersection are labeled: the left interior angle is y°, the right interior angle is 48°, and the angle at the intersection vertex is x°.",
+  "question": "In the figure, two parallel lines are intersected by two transversals that intersect each other between the parallel lines. If <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>72</mn></math>, what is the value of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>?",
+  "options": {
+    "A": "60",
+    "B": "68",
+    "C": "70",
+    "D": "80"
+  },
+  "answer": "A",
+  "explanation": "The two transversals and the top parallel line form a triangle. The angles of this triangle are the interior angles at the parallel line, which are <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>48</mn><mo>&#176;</mo></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>&#176;</mo></math>, and the vertical angle at the intersection, which is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>&#176;</mo></math>. Since the sum of the angles in any triangle is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>180</mn><mo>&#176;</mo></math>, we have the equation: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>48</mn><mo>=</mo><mn>180</mn></math>. Substituting the given value <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>72</mn></math>: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>+</mo><mn>72</mn><mo>+</mo><mn>48</mn><mo>=</mo><mn>180</mn></math>. Combining terms: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>+</mo><mn>120</mn><mo>=</mo><mn>180</mn></math>. Solving for x: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>60</mn></math>.",
+  "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='50' x2='350' y2='50' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='168' y1='50' x2='232' y2='250' stroke='black' stroke-width='2'/><line x1='290' y1='50' x2='110' y2='250' stroke='black' stroke-width='2'/><polygon points='168,50 290,50 200,150' fill='yellow' fill-opacity='0.3' stroke='orange' stroke-width='2'/><text x='185' y='70' font-size='14'>72°</text><text x='250' y='70' font-size='14'>48°</text><text x='195' y='135' font-size='14'>x°</text><text x='230' y='30' font-size='14' fill='orange' font-weight='bold'>Triangle Sum = 180°</text></svg>",
+  "explanation_chart_description": "The chart highlights the triangle formed by the top parallel line and the two transversals. The angles 72°, 48°, and x° are shown as the interior angles of this triangle, illustrating the equation x + 72 + 48 = 180.",
+  "score_improvement_tip": "In 'X' shapes created by transversals between parallel lines, look for the triangles formed. The sum of angles in any triangle is always 180°. [Image of triangle angle sum theorem]",
+  "additional_data": null
+},
     {
       "question_number": 16,
       "domain": "Advanced Math",
@@ -352,66 +352,66 @@
       "additional_data": null
     },
     {
-      "question_number": 17,
-      "domain": "Problem-Solving and Data Analysis",
-      "skill": "Two-variable data: models and scatter-plots",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><line x1='30' y1='270' x2='270' y2='270' stroke='black' stroke-width='1'/><line x1='30' y1='270' x2='30' y2='30' stroke='black' stroke-width='1'/><circle cx='50' cy='250' r='3' /><circle cx='80' cy='230' r='3' /><circle cx='110' cy='200' r='3' /><circle cx='140' cy='180' r='3' /><circle cx='170' cy='150' r='3' /><circle cx='200' cy='120' r='3' /><circle cx='230' cy='90' r='3' /><circle cx='260' cy='50' r='3' /></svg>",
-      "question_chart_description": "A scatterplot showing a strong positive exponential or quadratic trend. As x increases, y increases at an increasing rate (curving upwards).",
-      "question": "The scatterplot shows the relationship between two variables, <math><mi>x</mi></math> and <math><mi>y</mi></math>. Which of the following equations is the most appropriate model for the data shown?",
-      "options": {
-        "A": "<math><mi>y</mi><mo>=</mo><mn>0.5</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
-        "B": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>0.5</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
-        "C": "<math><mi>y</mi><mo>=</mo><mn>2</mn><msup><mrow><mo>(</mo><mn>1.3</mn><mo>)</mo></mrow><mi>x</mi></msup></math>",
-        "D": "<math><mi>y</mi><mo>=</mo><mn>10</mn><msup><mrow><mo>(</mo><mn>0.8</mn><mo>)</mo></mrow><mi>x</mi></msup></math>"
-      },
-      "answer": "C",
-      "explanation": "The data points show an increasing trend that curves upward, indicating exponential growth. A linear model (Option A) would be a straight line. Option B is decreasing. Option D is exponential decay (base < 1). Option C represents exponential growth (base > 1), which fits the curve shown.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "Check the shape of the data: straight line = linear; J-curve = exponential. Check direction: increasing = growth; decreasing = decay.",
-      "additional_data": null
-    },
+  "question_number": 17,
+  "domain": "Problem-Solving and Data Analysis",
+  "skill": "Two-variable data: models and scatter-plots",
+  "difficulty": "Medium",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='300' fill='white'/><line x1='30' y1='270' x2='280' y2='270' stroke='black' stroke-width='2'/><line x1='30' y1='270' x2='30' y2='20' stroke='black' stroke-width='2'/><text x='270' y='285' font-family='serif' font-size='14'>x</text><text x='15' y='30' font-family='serif' font-size='14'>y</text><circle cx='50' cy='265' r='4' fill='black'/><circle cx='90' cy='260' r='4' fill='black'/><circle cx='130' cy='245' r='4' fill='black'/><circle cx='170' cy='215' r='4' fill='black'/><circle cx='210' cy='160' r='4' fill='black'/><circle cx='250' cy='70' r='4' fill='black'/></svg>",
+  "question_chart_description": "A scatterplot with the x-axis and y-axis labeled. The points start low and flat near the origin, then rise increasingly steeply as they move to the right, forming a 'J' shape curve characteristic of exponential growth.",
+  "question": "The scatterplot shows the relationship between two variables, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math>. Which of the following equations is the most appropriate model for the data shown?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>0.5</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mo>-</mo><mn>0.5</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>2</mn><mo>(</mo><mn>1.3</mn><msup><mo>)</mo><mi>x</mi></msup></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>10</mn><mo>(</mo><mn>0.8</mn><msup><mo>)</mo><mi>x</mi></msup></math>"
+  },
+  "answer": "C",
+  "explanation": "To determine the best model, analyze the shape of the scatterplot:\n1.  **Direction:** As <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> increases, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> increases. This eliminates models representing decay or negative slope (Option B is linear decreasing, Option D is exponential decay because the base <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>0.8</mn><mo>&lt;</mo><mn>1</mn></math>).\n2.  **Shape:** The points do not follow a straight line; the rate of increase gets steeper as <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> gets larger. This 'curving upward' behavior is characteristic of exponential growth.\n3.  **Conclusion:** Option A is linear growth (constant slope). Option C is exponential growth (base <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1.3</mn><mo>&gt;</mo><mn>1</mn></math>). The graph fits an exponential growth model.",
+  "explanation_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='300' fill='white'/><line x1='30' y1='270' x2='280' y2='270' stroke='black' stroke-width='2'/><line x1='30' y1='270' x2='30' y2='20' stroke='black' stroke-width='2'/><path d='M 30 270 Q 180 270 250 70' stroke='red' stroke-width='3' fill='none'/><circle cx='50' cy='265' r='4' fill='black' opacity='0.5'/><circle cx='90' cy='260' r='4' fill='black' opacity='0.5'/><circle cx='130' cy='245' r='4' fill='black' opacity='0.5'/><circle cx='170' cy='215' r='4' fill='black' opacity='0.5'/><circle cx='210' cy='160' r='4' fill='black' opacity='0.5'/><circle cx='250' cy='70' r='4' fill='black' opacity='0.5'/><text x='100' y='100' font-size='14' fill='red' font-weight='bold'>Exponential Growth</text></svg>",
+  "explanation_chart_description": "The scatterplot is shown with a red curve superimposed over the points. The curve starts flat and swoops upwards, clearly demonstrating the exponential trend described in the explanation.",
+  "score_improvement_tip": "Check the shape of the data: straight line = linear; J-curve = exponential. [Image of linear vs exponential growth graph] Check direction: increasing = growth; decreasing = decay.",
+  "additional_data": null
+},
     {
       "question_number": 18,
       "domain": "Advanced Math",
       "skill": "Absolute value, quadratic, exponential, polynomial, rational, and other nonlinear equations",
       "difficulty": "Hard",
       "question_type": "SPR",
-      "question": "What is the smallest integer value of <math><mi>b</mi></math> for which the equation <math><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn></math> has two distinct real solutions?",
+      "question": "What is the smallest positive integer value of <math><mi>b</mi></math> for which the equation <math><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mn>5</mn><mo>=</mo><mn>0</mn></math> has two distinct real solutions?",
       "question_chart_svg": null,
       "question_chart_description": null,
       "options": null,
       "answer": "8",
-      "explanation": "For a quadratic equation to have two distinct real solutions, the discriminant <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></math> must be greater than 0. Here <math><mi>a</mi><mo>=</mo><mn>3</mn></math> and <math><mi>c</mi><mo>=</mo><mn>5</mn></math>. So <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>(</mo><mn>5</mn><mo>)</mo><mo>&gt;</mo><mn>0</mn></math>, which simplifies to <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>60</mn><mo>&gt;</mo><mn>0</mn></math>, or <math><msup><mi>b</mi><mn>2</mn></msup><mo>&gt;</mo><mn>60</mn></math>. We need the smallest integer <math><mi>b</mi></math>. Note that <math><msup><mn>7</mn><mn>2</mn></msup><mo>=</mo><mn>49</mn></math> (too small) and <math><msup><mn>8</mn><mn>2</mn></msup><mo>=</mo><mn>64</mn></math> (works). Note also that negative integers work, e.g., <math><mo>-</mo><mn>8</mn></math>, but <math><mo>-</mo><mn>8</mn></math> is smaller than <math><mn>8</mn></math>. However, typically these questions imply magnitude or positive context unless specified. Assuming standard number line logic, the question asks for 'smallest integer'. Technically <math><mo>-</mo><mn>8</mn></math>, <math><mo>-</mo><mn>9</mn></math> etc work. Let's assume the question implies 'positive integer' to avoid ambiguity, or re-read standard SAT conventions. Usually, they ask for 'positive constant' or similar. If unrestricted, there is no smallest integer (goes to negative infinity). Let's edit the question text to 'positive integer'. Revised Question: 'What is the smallest positive integer value...'. Answer: 8.",
+      "explanation": "For a quadratic equation to have two distinct real solutions, the discriminant <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></math> must be greater than 0. Here <math><mi>a</mi><mo>=</mo><mn>3</mn></math> and <math><mi>c</mi><mo>=</mo><mn>5</mn></math>. So <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>(</mo><mn>5</mn><mo>)</mo><mo>&gt;</mo><mn>0</mn></math>, which simplifies to <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>60</mn><mo>&gt;</mo><mn>0</mn></math>, or <math><msup><mi>b</mi><mn>2</mn></msup><mo>&gt;</mo><mn>60</mn></math>. Since we are looking for the smallest *positive* integer <math><mi>b</mi></math>, we test squares of integers. <math><msup><mn>7</mn><mn>2</mn></msup><mo>=</mo><mn>49</mn></math>, which is not greater than 60. <math><msup><mn>8</mn><mn>2</mn></msup><mo>=</mo><mn>64</mn></math>, which is greater than 60. Therefore, the smallest positive integer value is 8.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "Discriminant <math><mo>&gt;</mo><mn>0</mn></math>: 2 real roots. Discriminant <math><mo>=</mo><mn>0</mn></math>: 1 real root. Discriminant <math><mo>&lt;</mo><mn>0</mn></math>: no real roots.",
       "additional_data": null
     },
     {
-      "question_number": 19,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Right triangles and trigonometry",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><polygon points='50,150 250,150 250,50' fill='none' stroke='black' stroke-width='2'/><rect x='230' y='130' width='20' height='20' fill='none' stroke='black' /><text x='40' y='165'>A</text><text x='255' y='165'>C</text><text x='255' y='45'>B</text><text x='150' y='165'>12</text><text x='260' y='100'>5</text></svg>",
-      "question_chart_description": "Right triangle ABC with the right angle at C. Leg AC has length 12. Leg BC has length 5. Angle A is at the bottom left.",
-      "question": "In the right triangle shown, what is the value of <math><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi><mo>)</mo></math>?",
-      "options": {
-        "A": "<math><mfrac><mn>5</mn><mn>13</mn></mfrac></math>",
-        "B": "<math><mfrac><mn>12</mn><mn>13</mn></mfrac></math>",
-        "C": "<math><mfrac><mn>5</mn><mn>12</mn></mfrac></math>",
-        "D": "<math><mfrac><mn>13</mn><mn>12</mn></mfrac></math>"
-      },
-      "answer": "A",
-      "explanation": "First, find the hypotenuse <math><mi>AB</mi></math> using Pythagoras: <math><msup><mn>5</mn><mn>2</mn></msup><mo>+</mo><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><mn>25</mn><mo>+</mo><mn>144</mn><mo>=</mo><mn>169</mn></math>, so <math><mi>AB</mi><mo>=</mo><mn>13</mn></math>. The expression <math><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi><mo>)</mo></math> is equivalent to <math><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo></math> due to the co-function identity. However, in a right triangle, the angle <math><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi></math> is simply angle <math><mi>B</mi></math>. <math><mi>sin</mi><mo>(</mo><mi>B</mi><mo>)</mo><mo>=</mo><mfrac><mtext>Opposite</mtext><mtext>Hypotenuse</mtext></mfrac><mo>=</mo><mfrac><mi>AC</mi><mi>AB</mi></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>. Wait, let's check the identity again. <math><mi>sin</mi><mo>(</mo><mn>90</mn><mo>-</mo><mi>A</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>. <math><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mtext>Adjacent</mtext><mtext>Hypotenuse</mtext></mfrac><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>. Let me re-read the options. Ah, I set AC=12 and BC=5. Angle A is adjacent to 12. So cos(A) = 12/13. Why did I select A (5/13)? Let's re-evaluate. If the question asks for sin(90-A), that is indeed cos(A). Cos(A) = Adj/Hyp = 12/13. So B is correct. Let me check if I swapped legs in my head. Text says: AC=12 (horizontal), BC=5 (vertical). Angle A is at vertex A (between 12 and Hyp). Adjacent is 12. Opposite is 5. Hyp is 13. cos(A) = 12/13. sin(B) = 12/13. sin(90-A) = 12/13. I will correct the answer to B.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "Remember the identity <math><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>-</mo><mi>x</mi><mo>)</mo></math>.",
-      "additional_data": null
-    },
+  "question_number": 19,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right triangles and trigonometry",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='60,250 300,250 300,150' fill='none' stroke='black' stroke-width='2'/><path d='M 280 250 L 280 230 L 300 230' fill='none' stroke='black'/><text x='50' y='265' font-size='14' font-family='serif'>A</text><text x='310' y='265' font-size='14' font-family='serif'>C</text><text x='310' y='145' font-size='14' font-family='serif'>B</text><text x='180' y='270' font-size='14'>12</text><text x='310' y='200' font-size='14'>5</text></svg>",
+  "question_chart_description": "A right-angled triangle ABC with the right angle at vertex C. The horizontal leg AC has a length of 12, and the vertical leg BC has a length of 5. Vertex A is at the bottom-left.",
+  "question": "In the right triangle shown, what is the value of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi><mo>)</mo></math>?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>5</mn><mn>13</mn></mfrac></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>12</mn><mn>13</mn></mfrac></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>5</mn><mn>12</mn></mfrac></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>13</mn><mn>12</mn></mfrac></math>"
+  },
+  "answer": "B",
+  "explanation": "1.  **Find the hypotenuse <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi></math>:**\n    Using the Pythagorean theorem: <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mn>5</mn><mn>2</mn></msup><mo>+</mo><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><mn>25</mn><mo>+</mo><mn>144</mn><mo>=</mo><mn>169</mn></math>.\n    So, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mo>=</mo><msqrt><mn>169</mn></msqrt><mo>=</mo><mn>13</mn></math>.\n\n2.  **Use the co-function identity:**\n    The expression <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi><mo>)</mo></math> is equal to <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>.\n\n3.  **Calculate <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo></math>:**\n    In a right triangle, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>cos</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mi>Adjacent</mi><mi>Hypotenuse</mi></mfrac></math>.\n    The side adjacent to angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi></math> (length 12), and the hypotenuse is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi></math> (length 13).\n    Therefore, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>12</mn><mn>13</mn></mfrac></math>.",
+  "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><polygon points='60,250 300,250 300,150' fill='none' stroke='black' stroke-width='2'/><path d='M 280 250 L 280 230 L 300 230' fill='none' stroke='black'/><text x='50' y='265' font-size='14' font-family='serif'>A</text><text x='310' y='265' font-size='14' font-family='serif'>C</text><text x='310' y='145' font-size='14' font-family='serif'>B</text><text x='180' y='270' font-size='14' fill='blue'>Adjacent = 12</text><text x='310' y='200' font-size='14'>5</text><text x='140' y='190' font-size='14' fill='green' transform='rotate(-22.6 140,190)'>Hypotenuse = 13</text><path d='M 100 250 A 40 40 0 0 1 97 235' fill='none' stroke='red' stroke-width='2'/><text x='110' y='245' font-size='14' fill='red'>A</text><text x='310' y='125' font-size='14' fill='purple'>90°- A</text></svg>",
+  "explanation_chart_description": "The chart illustrates the solution. The hypotenuse is labeled as 13. Angle A is highlighted in red, and the adjacent side (12) is highlighted in blue, illustrating the calculation for cos(A). Angle B is labeled as 90°-A, showing that sin(90°-A) is equivalent to looking at the triangle from the perspective of angle B (Opposite/Hypotenuse = 12/13).",
+  "score_improvement_tip": "Recall the co-function identity: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mn>90</mn><mo>&#176;</mo><mo>-</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mi>x</mi><mo>)</mo></math> . This allows you to switch between sine and cosine by looking at the complementary angle.",
+  "additional_data": null
+},
     {
       "question_number": 20,
       "domain": "Algebra",

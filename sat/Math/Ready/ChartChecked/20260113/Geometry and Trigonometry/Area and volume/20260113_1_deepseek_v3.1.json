@@ -4,9 +4,9 @@
     "focus_skills": ["Nonlinear functions", "Area and volume"],
     "total_questions": 20,
     "difficulty_distribution": {
-      "easy": 4,
-      "medium": 6,
-      "hard": 10
+      "easy": 5,
+      "medium": 7,
+      "hard": 8
     },
     "question_type_distribution": {
       "multiple_choice": 15,
@@ -55,7 +55,7 @@
       "explanation": "If <math><mi>s</mi></math> is the side length, then <math><msup><mi>s</mi><mn>2</mn></msup><mo>=</mo><mn>144</mn></math>. Taking the positive square root gives <math><mi>s</mi><mo>=</mo><mn>12</mn></math> cm.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
-      "score_improvement_tip": "For squares, side length is the square root of the area. Don’t confuse with perimeter, which is 4 times the side length.",
+      "score_improvement_tip": "For squares, side length is the square root of the area. Don\u2019t confuse with perimeter, which is 4 times the side length.",
       "additional_data": null
     },
     {
@@ -135,7 +135,7 @@
         "D": "588"
       },
       "answer": "C",
-      "explanation": "Volume = <math><msup><mi>s</mi><mn>3</mn></msup><mo>=</mo><mn>343</mn></math>, so side length <math><mi>s</mi><mo>=</mo><mn>7</mn></math> cm. Surface area = <math><mn>6</mn><msup><mi>s</mi><mn>2</mn></msup><mo>=</mo><mn>6</mn><mo>×</mo><mn>49</mn><mo>=</mo><mn>294</mn></math> cm<math><msup></msup></math>.",
+      "explanation": "Volume = <math><msup><mi>s</mi><mn>3</mn></msup><mo>=</mo><mn>343</mn></math>, so side length <math><mi>s</mi><mo>=</mo><mn>7</mn></math> cm. Surface area = <math><mn>6</mn><msup><mi>s</mi><mn>2</mn></msup><mo>=</mo><mn>6</mn><mo>×</mo><mn>49</mn><mo>=</mo><mn>294</mn><msup><mi> cm</mi><mn>2</mn></msup></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "For a cube: Volume = <math><msup><mi>s</mi><mn>3</mn></msup></math>, Surface Area = <math><mn>6</mn><msup><mi>s</mi><mn>2</mn></msup></math>. Work step-by-step.",
@@ -159,49 +159,49 @@
       "additional_data": null
     },
     {
-      "question_number": 8,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Right triangles and trigonometry",
-      "difficulty": "Medium",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='200' fill='white'/><polygon points='60,150 240,150 240,50' fill='none' stroke='black' stroke-width='2'/><text x='55' y='165' font-size='14'>B</text><text x='245' y='165' font-size='14'>C</text><text x='245' y='45' font-size='14'>A</text><text x='150' y='130' font-size='14'>12</text><text x='200' y='100' font-size='14'>13</text><text x='140' y='70' font-size='14'>x</text></svg>",
-      "question_chart_description": "Right triangle ABC with right angle at B. Side AB = x, side BC = 12, hypotenuse AC = 13.",
-      "question": "In right triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math>, angle <math><mi>B</mi></math> is the right angle, <math><mi>B</mi><mi>C</mi><mo>=</mo><mn>12</mn></math>, and <math><mi>A</mi><mi>C</mi><mo>=</mo><mn>13</mn></math>. What is the length of <math><mi>A</mi><mi>B</mi></math>?",
-      "options": {
-        "A": "1",
-        "B": "5",
-        "C": "17",
-        "D": "25"
-      },
-      "answer": "B",
-      "explanation": "By the Pythagorean Theorem: <math><msup><mrow><mi>A</mi><mi>B</mi></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mi>B</mi><mi>C</mi></mrow><mn>2</mn></msup><mo>=</mo><msup><mrow><mi>A</mi><mi>C</mi></mrow><mn>2</mn></msup></math> → <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><msup><mn>13</mn><mn>2</mn></msup></math> → <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>144</mn><mo>=</mo><mn>169</mn></math> → <math><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></math> → <math><mi>x</mi><mo>=</mo><mn>5</mn></math>.",
-      "explanation_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='200' fill='white'/><polygon points='60,150 240,150 240,50' fill='none' stroke='black' stroke-width='2'/><text x='55' y='165' font-size='14'>B</text><text x='245' y='165' font-size='14'>C</text><text x='245' y='45' font-size='14'>A</text><text x='150' y='130' font-size='14'>12</text><text x='200' y='100' font-size='14'>13</text><text x='140' y='70' font-size='14'>5</text><text x='180' y='120' font-size='12' fill='red'>AB² + BC² = AC²</text></svg>",
-      "explanation_chart_description": "Right triangle with sides labeled and Pythagorean equation shown.",
-      "score_improvement_tip": "Know the Pythagorean Theorem: a² + b² = c², where c is the hypotenuse. Always identify which side is the hypotenuse first.",
-      "additional_data": null
-    },
+  "question_number": 8,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right triangles and trigonometry",
+  "difficulty": "Medium",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='200' fill='white'/><polygon points='60,50 60,150 240,150' fill='none' stroke='black' stroke-width='2'/><polyline points='60,140 70,140 70,150' fill='none' stroke='black' stroke-width='1'/><text x='40' y='165' font-size='14' font-weight='bold'>B</text><text x='245' y='165' font-size='14' font-weight='bold'>C</text><text x='40' y='45' font-size='14' font-weight='bold'>A</text><text x='150' y='170' font-size='14'>12</text><text x='160' y='95' font-size='14'>13</text><text x='40' y='105' font-size='14'>x</text></svg>",
+  "question_chart_description": "Right triangle ABC with the right angle at vertex B. The vertical side AB is labeled x, the horizontal side BC is labeled 12, and the diagonal hypotenuse AC is labeled 13.",
+  "question": "In right triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mi>C</mi></math>, angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi></math> is the right angle, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi><mi>C</mi><mo>=</mo><mn>12</mn></math>, and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi><mo>=</mo><mn>13</mn></math>. What is the length of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi></math>?",
+  "options": {
+    "A": "1",
+    "B": "5",
+    "C": "17",
+    "D": "25"
+  },
+  "answer": "B",
+  "explanation": "By the Pythagorean Theorem: <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mi>A</mi><mi>B</mi></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mi>B</mi><mi>C</mi></mrow><mn>2</mn></msup><mo>=</mo><msup><mrow><mi>A</mi><mi>C</mi></mrow><mn>2</mn></msup></math> implies <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><msup><mn>13</mn><mn>2</mn></msup></math>. Solving for x: <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>144</mn><mo>=</mo><mn>169</mn></math> which leads to <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>25</mn></math>, so <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>5</mn></math>.",
+  "explanation_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='200' fill='white'/><polygon points='60,50 60,150 240,150' fill='none' stroke='black' stroke-width='2'/><polyline points='60,140 70,140 70,150' fill='none' stroke='black' stroke-width='1'/><text x='40' y='165' font-size='14' font-weight='bold'>B</text><text x='245' y='165' font-size='14' font-weight='bold'>C</text><text x='40' y='45' font-size='14' font-weight='bold'>A</text><text x='150' y='170' font-size='14'>12</text><text x='160' y='95' font-size='14'>13</text><text x='40' y='105' font-size='14' fill='red' font-weight='bold'>5</text><text x='130' y='50' font-size='12' fill='red'>AB² + BC² = AC²</text></svg>",
+  "explanation_chart_description": "Right triangle with the solution x=5 labeled in red. The Pythagorean equation is displayed.",
+  "score_improvement_tip": "Know the Pythagorean Theorem: a² + b² = c², where c is the hypotenuse (the side opposite the right angle).",
+  "additional_data": null
+},
     {
-      "question_number": 9,
-      "domain": "Problem-Solving and Data Analysis",
-      "skill": "One-variable data: distributions and measures of center and spread",
-      "difficulty": "Medium",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='350' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='50' stroke='black' stroke-width='2'/><text x='200' y='225' font-size='14'>Score</text><text x='30' y='125' font-size='14' transform='rotate(-90,30,125)'>Frequency</text><rect x='70' y='150' width='40' height='50' fill='lightgray' stroke='black'/><rect x='130' y='100' width='40' height='100' fill='lightgray' stroke='black'/><rect x='190' y='120' width='40' height='80' fill='lightgray' stroke='black'/><rect x='250' y='80' width='40' height='120' fill='lightgray' stroke='black'/><rect x='310' y='130' width='40' height='70' fill='lightgray' stroke='black'/><text x='90' y='165' font-size='12'>2</text><text x='150' y='115' font-size='12'>4</text><text x='210' y='135' font-size='12'>5</text><text x='270' y='95' font-size='12'>7</text><text x='330' y='145' font-size='12'>3</text><text x='90' y='210' font-size='12'>60-69</text><text x='150' y='210' font-size='12'>70-79</text><text x='210' y='210' font-size='12'>80-89</text><text x='270' y='210' font-size='12'>90-99</text><text x='330' y='210' font-size='12'>100-109</text></svg>",
-      "question_chart_description": "Histogram showing frequency distribution of test scores in intervals: 60-69: 2, 70-79: 4, 80-89: 5, 90-99: 7, 100-109: 3.",
-      "question": "The histogram shows the distribution of test scores for a class. How many students scored below 80?",
-      "options": {
-        "A": "4",
-        "B": "6",
-        "C": "10",
-        "D": "18"
-      },
-      "answer": "B",
-      "explanation": "Scores below 80 are in the intervals 60-69 and 70-79. Frequencies are 2 and 4, respectively. Total = 2 + 4 = 6 students.",
-      "explanation_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='350' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='50' stroke='black' stroke-width='2'/><text x='200' y='225' font-size='14'>Score</text><text x='30' y='125' font-size='14' transform='rotate(-90,30,125)'>Frequency</text><rect x='70' y='150' width='40' height='50' fill='lightblue' stroke='black'/><rect x='130' y='100' width='40' height='100' fill='lightblue' stroke='black'/><rect x='190' y='120' width='40' height='80' fill='lightgray' stroke='black'/><rect x='250' y='80' width='40' height='120' fill='lightgray' stroke='black'/><rect x='310' y='130' width='40' height='70' fill='lightgray' stroke='black'/><text x='90' y='165' font-size='12'>2</text><text x='150' y='115' font-size='12'>4</text><text x='210' y='135' font-size='12'>5</text><text x='270' y='95' font-size='12'>7</text><text x='330' y='145' font-size='12'>3</text><text x='90' y='210' font-size='12'>60-69</text><text x='150' y='210' font-size='12'>70-79</text><text x='210' y='210' font-size='12'>80-89</text><text x='270' y='210' font-size='12'>90-99</text><text x='330' y='210' font-size='12'>100-109</text><text x='200' y='30' font-size='14' fill='blue'>Scores < 80: 2 + 4 = 6 students</text></svg>",
-      "explanation_chart_description": "Histogram with first two bars highlighted in blue, showing sum of frequencies for scores below 80.",
-      "score_improvement_tip": "Read histograms carefully. Identify which bars correspond to the condition (e.g., 'below 80') and sum their frequencies.",
-      "additional_data": null
-    },
+  "question_number": 9,
+  "domain": "Problem-Solving and Data Analysis",
+  "skill": "One-variable data: distributions and measures of center and spread",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='370' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='30' stroke='black' stroke-width='2'/><text x='210' y='240' font-size='14' text-anchor='middle'>Score Range</text><text x='30' y='115' font-size='14' transform='rotate(-90,30,115)' text-anchor='middle'>Frequency</text><rect x='70' y='160' width='40' height='40' fill='lightgray' stroke='black'/><rect x='130' y='120' width='40' height='80' fill='lightgray' stroke='black'/><rect x='190' y='100' width='40' height='100' fill='lightgray' stroke='black'/><rect x='250' y='60' width='40' height='140' fill='lightgray' stroke='black'/><rect x='310' y='140' width='40' height='60' fill='lightgray' stroke='black'/><text x='90' y='155' font-size='12' text-anchor='middle'>2</text><text x='150' y='115' font-size='12' text-anchor='middle'>4</text><text x='210' y='95' font-size='12' text-anchor='middle'>5</text><text x='270' y='55' font-size='12' text-anchor='middle'>7</text><text x='330' y='135' font-size='12' text-anchor='middle'>3</text><text x='90' y='215' font-size='10' text-anchor='middle'>60-69</text><text x='150' y='215' font-size='10' text-anchor='middle'>70-79</text><text x='210' y='215' font-size='10' text-anchor='middle'>80-89</text><text x='270' y='215' font-size='10' text-anchor='middle'>90-99</text><text x='330' y='215' font-size='10' text-anchor='middle'>100-109</text></svg>",
+  "question_chart_description": "Histogram showing frequency distribution of test scores. The x-axis represents score ranges and the y-axis represents frequency. The bar heights correspond to the following data: 60-69: 2, 70-79: 4, 80-89: 5, 90-99: 7, 100-109: 3.",
+  "question": "The histogram shows the distribution of test scores for a class. How many students scored below <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>80</mn></math>?",
+  "options": {
+    "A": "4",
+    "B": "6",
+    "C": "10",
+    "D": "18"
+  },
+  "answer": "B",
+  "explanation": "Scores below <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>80</mn></math> are contained in the intervals <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>60</mn><mtext>-</mtext><mn>69</mn></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>70</mn><mtext>-</mtext><mn>79</mn></math>. The frequencies for these intervals are <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>2</mn></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>4</mn></math>, respectively. Calculating the total: <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>2</mn><mo>+</mo><mn>4</mn><mo>=</mo><mn>6</mn></math> students.",
+  "explanation_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='370' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='30' stroke='black' stroke-width='2'/><text x='210' y='240' font-size='14' text-anchor='middle'>Score Range</text><text x='30' y='115' font-size='14' transform='rotate(-90,30,115)' text-anchor='middle'>Frequency</text><rect x='70' y='160' width='40' height='40' fill='lightblue' stroke='black'/><rect x='130' y='120' width='40' height='80' fill='lightblue' stroke='black'/><rect x='190' y='100' width='40' height='100' fill='lightgray' stroke='black'/><rect x='250' y='60' width='40' height='140' fill='lightgray' stroke='black'/><rect x='310' y='140' width='40' height='60' fill='lightgray' stroke='black'/><text x='90' y='155' font-size='12' text-anchor='middle'>2</text><text x='150' y='115' font-size='12' text-anchor='middle'>4</text><text x='210' y='95' font-size='12' text-anchor='middle'>5</text><text x='270' y='55' font-size='12' text-anchor='middle'>7</text><text x='330' y='135' font-size='12' text-anchor='middle'>3</text><text x='90' y='215' font-size='10' text-anchor='middle'>60-69</text><text x='150' y='215' font-size='10' text-anchor='middle'>70-79</text><text x='210' y='215' font-size='10' text-anchor='middle'>80-89</text><text x='270' y='215' font-size='10' text-anchor='middle'>90-99</text><text x='330' y='215' font-size='10' text-anchor='middle'>100-109</text><text x='250' y='30' font-size='14' fill='blue' text-anchor='middle'>Scores &lt; 80: 2 + 4 = 6</text></svg>",
+  "explanation_chart_description": "Histogram with the first two bars (intervals 60-69 and 70-79) highlighted in light blue to indicate the sum of their frequencies.",
+  "score_improvement_tip": "Read histograms carefully. Identify which bars correspond to the condition (e.g., 'below 80') and sum their frequencies.",
+  "additional_data": null
+},
     {
       "question_number": 10,
       "domain": "Advanced Math",
@@ -266,7 +266,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "If <math><mn>3</mn><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>=</mo><mn>17</mn></math> and <math><mn>5</mn><mi>a</mi><mo>−</mo><mi>b</mi><mo>=</mo><mn>8</mn></math>, what is the value of <math><mi>a</mi><mo>+</mo><mi>b</mi></math>?",
+      "question": "If <math><mn>3</mn><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>=</mo><mn>13</mn></math> and <math><mn>5</mn><mi>a</mi><mo>−</mo><mi>b</mi><mo>=</mo><mn>13</mn></math>, what is the value of <math><mi>a</mi><mo>+</mo><mi>b</mi></math>?",
       "options": {
         "A": "3",
         "B": "4",
@@ -274,7 +274,7 @@
         "D": "6"
       },
       "answer": "C",
-      "explanation": "Solve the system. Multiply the second equation by 2: <math><mn>10</mn><mi>a</mi><mo>−</mo><mn>2</mn><mi>b</mi><mo>=</mo><mn>16</mn></math>. Add to the first: <math><mo>(</mo><mn>3</mn><mi>a</mi><mo>+</mo><mn>2</mn><mi>b</mi><mo>)</mo><mo>+</mo><mo>(</mo><mn>10</mn><mi>a</mi><mo>−</mo><mn>2</mn><mi>b</mi><mo>)</mo><mo>=</mo><mn>17</mn><mo>+</mo><mn>16</mn></math> → <math><mn>13</mn><mi>a</mi><mo>=</mo><mn>33</mn></math> → <math><mi>a</mi><mo>=</mo><mfrac><mn>33</mn><mn>13</mn></mfrac></math>. Substitute into <math><mn>5</mn><mi>a</mi><mo>−</mo><mi>b</mi><mo>=</mo><mn>8</mn></math>: <math><mn>5</mn><mo>(</mo><mfrac><mn>33</mn><mn>13</mn></mfrac><mo>)</mo><mo>−</mo><mi>b</mi><mo>=</mo><mn>8</mn></math> → <math><mfrac><mn>165</mn><mn>13</mn></mfrac><mo>−</mo><mi>b</mi><mo>=</mo><mfrac><mn>104</mn><mn>13</mn></mfrac></math> → <math><mi>b</mi><mo>=</mo><mfrac><mn>61</mn><mn>13</mn></mfrac></math>. Then <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mfrac><mn>33</mn><mn>13</mn></mfrac><mo>+</mo><mfrac><mn>61</mn><mn>13</mn></mfrac><mo>=</mo><mfrac><mn>94</mn><mn>13</mn></mfrac></math>, which simplifies to approximately 7.23, but none match. Let's re-check: 13a = 33 → a = 33/13. 5a - b = 8 → 165/13 - b = 104/13 → b = 61/13. a+b = 94/13 ≈ 7.23. That's not an option. Perhaps they want integer? Let's solve differently: From 5a - b = 8, b = 5a - 8. Substitute into first: 3a + 2(5a - 8) = 17 → 3a + 10a - 16 = 17 → 13a = 33 → a = 33/13. Same result. There may be a misstep. Alternatively, maybe we can find a+b directly: Multiply second by 2: 10a - 2b = 16. Add to first: 13a = 33 → a = 33/13. Then from 5a - b = 8: b = 5a - 8 = 165/13 - 104/13 = 61/13. a+b = 94/13. That's not matching options. Let's check original equations: 3a+2b=17, 5a-b=8. Multiply second by 2: 10a-2b=16. Add: 13a=33, correct. Maybe the intended answer is 5? Let's see if a+b=5 works: If a+b=5, then b=5-a. Substitute: 3a+2(5-a)=17 → 3a+10-2a=17 → a=7, b=-2. Check second: 5(7)-(-2)=35+2=37 ≠ 8. So no. Possibly answer is C (5) if there's a trick? Let's solve correctly: a=33/13 ≈ 2.538, b=61/13 ≈ 4.692, sum ≈ 7.23. None of A-D match. This suggests I should pick the closest integer? 7.23 is not close to 5. Let's re-examine the problem: Perhaps the equations are 3a+2b=17 and 5a-b=8. Multiply second by 2: 10a-2b=16. Add: 13a=33 → a=33/13. Then b=5a-8=165/13-104/13=61/13. a+b=94/13 ≈ 7.23. That's not an option. Perhaps the answer is not an integer. But the options are integers. Maybe I mis-copied. Let's solve using elimination to find a+b directly: Let S = a+b. We have 3a+2b=17 and 5a-b=8. Express b = S - a. Substitute into both? That's messy. Alternatively, note that (3a+2b) + (5a-b) = 8a + b = 25. And we want a+b. That doesn't help. Let's solve for a and b exactly: a=33/13, b=61/13. Sum=94/13. That's not in the options. Could the equations be 3a+2b=17 and 5a+b=8? Then multiply second by 2: 10a+2b=16. Subtract first: 7a = -1 → a=-1/7, b=8-5a=8+5/7=61/7, sum=60/7 ≈ 8.57. Not matching. Given the options, the only plausible integer sum from typical SAT systems is 5. Let's assume there is a typo in my solving? Let's check: If a=3, b=4, then 3(3)+2(4)=9+8=17, and 5(3)-4=15-4=11≠8. If a=2, b=5.5: 6+11=17, 10-5.5=4.5≠8. If a=4, b=2.5: 12+5=17, 20-2.5=17.5≠8. None work. I'll proceed assuming the correct solution yields a+b=5, perhaps from a different pair. For the sake of this JSON, I'll keep answer C and adjust explanation accordingly, but note the inconsistency. Alternatively, I'll change the numbers to make it clean: Let's use equations: 2a+3b=17 and 4a-b=8. Then solving gives a=3, b=2, sum=5. That works. I'll update question accordingly.",
+      "explanation": "From the second equation, <math><mi>b</mi><mo>=</mo><mn>5</mn><mi>a</mi><mo>−</mo><mn>13</mn></math>. Substitute into the first: <math><mn>3</mn><mi>a</mi><mo>+</mo><mn>2</mn><mo>(</mo><mn>5</mn><mi>a</mi><mo>−</mo><mn>13</mn><mo>)</mo><mo>=</mo><mn>13</mn></math> → <math><mn>3</mn><mi>a</mi><mo>+</mo><mn>10</mn><mi>a</mi><mo>−</mo><mn>26</mn><mo>=</mo><mn>13</mn></math> → <math><mn>13</mn><mi>a</mi><mo>=</mo><mn>39</mn></math> → <math><mi>a</mi><mo>=</mo><mn>3</mn></math>. Then <math><mi>b</mi><mo>=</mo><mn>5</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>−</mo><mn>13</mn><mo>=</mo><mn>15</mn><mo>−</mo><mn>13</mn><mo>=</mo><mn>2</mn></math>. Thus, <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mn>3</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>5</mn></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "When solving systems, sometimes you can find a combination of equations that gives the desired expression directly, without solving for each variable individually.",
@@ -303,22 +303,22 @@
       "additional_data": null
     },
     {
-      "question_number": 15,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Lines, angles, and triangles",
-      "difficulty": "Hard",
-      "question_type": "SPR",
-      "question_chart_svg": "<svg width='350' height='250' viewBox='0 0 350 250' xmlns='http://www.w3.org/2000/svg'><rect width='350' height='250' fill='white'/><line x1='50' y1='200' x2='300' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='50' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='200' y2='50' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='300' y2='200' stroke='black' stroke-width='2'/><text x='45' y='215' font-size='14'>A</text><text x='195' y='40' font-size='14'>B</text><text x='305' y='215' font-size='14'>C</text><text x='20' y='200' font-size='14'>D</text><text x='120' y='180' font-size='14'>72°</text><text x='230' y='140' font-size='14'>x°</text><text x='80' y='120' font-size='14'>y°</text></svg>",
-      "question_chart_description": "Triangle ABC with point D on AC such that BD is drawn. Angle ADB = 72°, angle BDC = x°, angle ABD = y°. AD = DC.",
-      "question": "In the figure, <math><mi>A</mi><mi>D</mi><mo>=</mo><mi>D</mi><mi>C</mi></math>. The measure of angle <math><mi>A</mi><mi>D</mi><mi>B</mi></math> is <math><mn>72</mn><mo>°</mo></math>. What is the value of <math><mi>x</mi></math>, the measure of angle <math><mi>B</mi><mi>D</mi><mi>C</mi></math>?",
-      "options": null,
-      "answer": "108",
-      "explanation": "Angles ADB and BDC are supplementary because they form a straight line along AC. So <math><mi>x</mi><mo>=</mo><mn>180</mn><mo>−</mo><mn>72</mn><mo>=</mo><mn>108</mn></math>.",
-      "explanation_chart_svg": "<svg width='350' height='250' viewBox='0 0 350 250' xmlns='http://www.w3.org/2000/svg'><rect width='350' height='250' fill='white'/><line x1='50' y1='200' x2='300' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='50' y2='50' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='200' y2='50' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='300' y2='200' stroke='black' stroke-width='2'/><text x='45' y='215' font-size='14'>A</text><text x='195' y='40' font-size='14'>B</text><text x='305' y='215' font-size='14'>C</text><text x='20' y='200' font-size='14'>D</text><text x='120' y='180' font-size='14'>72°</text><text x='230' y='140' font-size='14'>108°</text><text x='80' y='120' font-size='14'>y°</text><line x1='50' y1='200' x2='300' y2='200' stroke='blue' stroke-width='3' stroke-dasharray='5,5'/></svg>",
-      "explanation_chart_description": "Line AC is a straight line (dashed blue). Angles ADB and BDC are supplementary.",
-      "score_improvement_tip": "Identify straight lines and linear pairs—angles that form a straight line sum to 180°.",
-      "additional_data": null
-    },
+  "question_number": 15,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Lines, angles, and triangles",
+  "difficulty": "Easy",
+  "question_type": "SPR",
+  "question_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='350' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='160' y2='50' stroke='black' stroke-width='2'/><line x1='350' y1='200' x2='160' y2='50' stroke='black' stroke-width='2'/><line x1='160' y1='50' x2='200' y2='200' stroke='black' stroke-width='2'/><text x='40' y='215' font-size='14' font-weight='bold'>A</text><text x='355' y='215' font-size='14' font-weight='bold'>C</text><text x='195' y='220' font-size='14' font-weight='bold'>D</text><text x='155' y='40' font-size='14' font-weight='bold'>B</text><path d='M190 200 A 30 30 0 0 0 176 178' fill='none' stroke='black'/><text x='150' y='190' font-size='12'>72°</text><path d='M210 200 A 30 30 0 0 1 205 173' fill='none' stroke='black'/><text x='220' y='190' font-size='12'>x°</text><text x='155' y='80' font-size='12'>y°</text><line x1='125' y1='195' x2='125' y2='205' stroke='black' stroke-width='2'/><line x1='275' y1='195' x2='275' y2='205' stroke='black' stroke-width='2'/></svg>",
+  "question_chart_description": "Triangle ABC with point D on the base AC. Line segment BD connects vertex B to D. The segments AD and DC are marked as equal. Angle ADB is labeled 72°, angle BDC is labeled x°, and angle ABD is labeled y°.",
+  "question": "In the figure, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>D</mi><mo>=</mo><mi>D</mi><mi>C</mi></math>. The measure of angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>D</mi><mi>B</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>72</mn><mo>°</mo></math>. What is the value of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>, the measure of angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi><mi>D</mi><mi>C</mi></math>?",
+  "options": null,
+  "answer": "108",
+  "explanation": "Angles <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>D</mi><mi>B</mi></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi><mi>D</mi><mi>C</mi></math> are a linear pair because they lie on the straight line <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi></math>. Therefore, they sum to <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>180</mn><mo>°</mo></math>. We calculate <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>180</mn><mo>−</mo><mn>72</mn><mo>=</mo><mn>108</mn></math>.",
+  "explanation_chart_svg": "<svg width='400' height='250' viewBox='0 0 400 250' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='250' fill='white'/><line x1='50' y1='200' x2='350' y2='200' stroke='black' stroke-width='2'/><line x1='50' y1='200' x2='160' y2='50' stroke='black' stroke-width='2'/><line x1='350' y1='200' x2='160' y2='50' stroke='black' stroke-width='2'/><line x1='160' y1='50' x2='200' y2='200' stroke='black' stroke-width='2'/><text x='40' y='215' font-size='14' font-weight='bold'>A</text><text x='355' y='215' font-size='14' font-weight='bold'>C</text><text x='195' y='220' font-size='14' font-weight='bold'>D</text><text x='155' y='40' font-size='14' font-weight='bold'>B</text><path d='M170 200 A 30 30 0 1 1 230 200' fill='none' stroke='blue' stroke-dasharray='4,4'/><text x='150' y='190' font-size='12'>72°</text><text x='220' y='190' font-size='12' fill='red' font-weight='bold'>108°</text><line x1='125' y1='195' x2='125' y2='205' stroke='black' stroke-width='2'/><line x1='275' y1='195' x2='275' y2='205' stroke='black' stroke-width='2'/></svg>",
+  "explanation_chart_description": "The previous triangle with the straight angle at D highlighted in blue, showing that the two angles sum to 180 degrees. The solution 108 is shown in red.",
+  "score_improvement_tip": "Look for linear pairs: Angles that form a straight line always add up to 180°.",
+  "additional_data": null
+},
     {
       "question_number": 16,
       "domain": "Problem-Solving and Data Analysis",
@@ -367,7 +367,7 @@
       "question_number": 18,
       "domain": "Geometry and Trigonometry",
       "skill": "Area and volume",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "SPR",
       "question_chart_svg": null,
       "question_chart_description": null,
@@ -384,7 +384,7 @@
       "question_number": 19,
       "domain": "Algebra",
       "skill": "Linear inequalities in 1 or 2 variables",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
@@ -403,26 +403,26 @@
       "additional_data": null
     },
     {
-      "question_number": 20,
-      "domain": "Advanced Math",
-      "skill": "Nonlinear functions",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100,250 L 150,150 L 200,100 L 250,150 L 300,250' fill='none' stroke='blue' stroke-width='3'/><text x='350' y='265' font-size='14'>x</text><text x='190' y='40' font-size='14'>y</text><text x='100' y='270' font-size='12'>-2</text><text x='150' y='270' font-size='12'>-1</text><text x='200' y='270' font-size='12'>0</text><text x='250' y='270' font-size='12'>1</text><text x='300' y='270' font-size='12'>2</text><circle cx='150' cy='150' r='5' fill='red'/><circle cx='250' cy='150' r='5' fill='red'/></svg>",
-      "question_chart_description": "Graph of a parabola opening upward, with vertex at (0,100), passing through points approximately at (-2,250), (-1,150), (0,100), (1,150), (2,250). Points at x = -1 and x = 1 are marked.",
-      "question": "The graph of the quadratic function <math><mi>f</mi></math> is a parabola that passes through the points <math><mo>(</mo><mo>−</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math> and <math><mo>(</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math>. Which of the following could be the vertex of the parabola?",
-      "options": {
-        "A": "(−1, 100)",
-        "B": "(0, 100)",
-        "C": "(1, 100)",
-        "D": "(0, 150)"
-      },
-      "answer": "B",
-      "explanation": "Since the parabola is symmetric and passes through (−1,150) and (1,150), the axis of symmetry is the vertical line halfway between x = −1 and x = 1, which is x = 0. The vertex lies on this axis, so its x-coordinate is 0. Only options B and D have x = 0. Since the y-values at x = ±1 are 150 and the vertex is the minimum point (parabola opens upward), the vertex y-value must be less than 150. Thus, (0,100) is correct.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100,250 L 150,150 L 200,100 L 250,150 L 300,250' fill='none' stroke='blue' stroke-width='3'/><text x='350' y='265' font-size='14'>x</text><text x='190' y='40' font-size='14'>y</text><text x='100' y='270' font-size='12'>-2</text><text x='150' y='270' font-size='12'>-1</text><text x='200' y='270' font-size='12'>0</text><text x='250' y='270' font-size='12'>1</text><text x='300' y='270' font-size='12'>2</text><circle cx='150' cy='150' r='5' fill='red'/><circle cx='250' cy='150' r='5' fill='red'/><line x1='200' y1='50' x2='200' y2='250' stroke='green' stroke-width='2' stroke-dasharray='5,5'/><circle cx='200' cy='100' r='6' fill='green' stroke='black' stroke-width='2'/><text x='210' y='90' font-size='14' fill='green'>Vertex (0,100)</text></svg>",
-      "explanation_chart_description": "Parabola with axis of symmetry x=0 (green dashed line) and vertex at (0,100) marked in green.",
-      "score_improvement_tip": "Use symmetry: if a parabola passes through two points with the same y-coordinate, the axis of symmetry is exactly halfway between their x-coordinates.",
-      "additional_data": null
-    }
+  "question_number": 20,
+  "domain": "Advanced Math",
+  "skill": "Nonlinear functions",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100,100 Q 200,300 300,100' fill='none' stroke='blue' stroke-width='3'/><text x='350' y='265' font-size='14' font-family='serif'>x</text><text x='190' y='40' font-size='14' font-family='serif'>y</text><text x='100' y='270' font-size='12' text-anchor='middle'>-2</text><text x='150' y='270' font-size='12' text-anchor='middle'>-1</text><text x='200' y='270' font-size='12' text-anchor='middle'>0</text><text x='250' y='270' font-size='12' text-anchor='middle'>1</text><text x='300' y='270' font-size='12' text-anchor='middle'>2</text><circle cx='150' cy='175' r='5' fill='red'/><circle cx='250' cy='175' r='5' fill='red'/><text x='185' y='205' font-size='10' text-anchor='end'>100</text><text x='185' y='180' font-size='10' text-anchor='end'>150</text></svg>",
+  "question_chart_description": "Graph of a parabola opening upward with its vertex on the y-axis at (0, 100). The curve passes through the marked points (-1, 150) and (1, 150).",
+  "question": "The graph of the quadratic function <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>f</mi></math> is a parabola that passes through the points <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math>. Which of the following could be the vertex of the parabola?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>100</mn><mo>)</mo></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>0</mn><mo>,</mo><mn>100</mn><mo>)</mo></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>1</mn><mo>,</mo><mn>100</mn><mo>)</mo></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>0</mn><mo>,</mo><mn>150</mn><mo>)</mo></math>"
+  },
+  "answer": "B",
+  "explanation": "Since the parabola is symmetric and passes through <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mo>-</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>1</mn><mo>,</mo><mn>150</mn><mo>)</mo></math>, the axis of symmetry is the vertical line halfway between <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mo>-</mo><mn>1</mn></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>1</mn></math>, which is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>0</mn></math>. The vertex lies on this axis, so its x-coordinate is 0. Only options B and D have <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>0</mn></math>. Since the y-values at <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mo>±</mo><mn>1</mn></math> are 150 and the vertex is the minimum point (parabola opens upward), the vertex y-value must be less than 150. Thus, <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>0</mn><mo>,</mo><mn>100</mn><mo>)</mo></math> is correct.",
+  "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='300' fill='white'/><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='200' y1='50' x2='200' y2='250' stroke='black' stroke-width='2'/><path d='M 100,100 Q 200,300 300,100' fill='none' stroke='blue' stroke-width='3'/><text x='350' y='265' font-size='14' font-family='serif'>x</text><text x='190' y='40' font-size='14' font-family='serif'>y</text><text x='100' y='270' font-size='12' text-anchor='middle'>-2</text><text x='150' y='270' font-size='12' text-anchor='middle'>-1</text><text x='200' y='270' font-size='12' text-anchor='middle'>0</text><text x='250' y='270' font-size='12' text-anchor='middle'>1</text><text x='300' y='270' font-size='12' text-anchor='middle'>2</text><circle cx='150' cy='175' r='5' fill='red'/><circle cx='250' cy='175' r='5' fill='red'/><line x1='200' y1='50' x2='200' y2='250' stroke='green' stroke-width='2' stroke-dasharray='5,5'/><circle cx='200' cy='200' r='6' fill='green' stroke='black' stroke-width='2'/><text x='215' y='205' font-size='14' fill='green' font-weight='bold'>Vertex (0,100)</text></svg>",
+  "explanation_chart_description": "The parabola is shown with its axis of symmetry at x=0 (dashed green line). The vertex is highlighted in green at the minimum point (0,100), which lies equidistant from the two red points at y=150.",
+  "score_improvement_tip": "Use symmetry: if a parabola passes through two points with the same y-coordinate, the axis of symmetry is exactly halfway between their x-coordinates.",
+  "additional_data": null
+}
   ]
 }

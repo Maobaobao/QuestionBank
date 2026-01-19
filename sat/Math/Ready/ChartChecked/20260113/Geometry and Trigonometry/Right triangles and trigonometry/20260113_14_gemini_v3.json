@@ -15,12 +15,12 @@
     "total_questions": 20,
     "difficulty_distribution": {
       "easy": 4,
-      "medium": 6,
-      "hard": 10
+      "medium": 7,
+      "hard": 9
     },
     "question_type_distribution": {
-      "multiple_choice": 15,
-      "student_produced_response": 5
+      "multiple_choice": 14,
+      "student_produced_response": 6
     }
   },
   "questions": [
@@ -233,7 +233,7 @@
       "question_number": 11,
       "domain": "Algebra",
       "skill": "Linear functions",
-      "difficulty": "Hard",
+      "difficulty": "Medium",
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
@@ -296,22 +296,22 @@
       "additional_data": null
     },
     {
-      "question_number": 14,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Right triangles and trigonometry",
-      "difficulty": "Hard",
-      "question_type": "SPR",
-      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><polygon points='50,150 200,150 50,50' fill='none' stroke='black' stroke-width='2' /><rect x='50' y='135' width='15' height='15' fill='none' stroke='black' /><text x='35' y='100' font-family='Arial'>A</text><text x='210' y='160' font-family='Arial'>C</text><text x='35' y='160' font-family='Arial'>B</text></svg>",
-      "question_chart_description": "Right triangle ABC with right angle at B. A is the top vertex, C is the right vertex.",
-      "question": "In right triangle <math><mi>A</mi><mi>B</mi><mi>C</mi></math> with right angle <math><mi>B</mi></math>, <math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>. If the hypotenuse <math><mi>A</mi><mi>C</mi></math> is 39 units long, what is the perimeter of the triangle?",
-      "options": null,
-      "answer": "90",
-      "explanation": "<math><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>B</mi><mi>C</mi></mrow><mrow><mi>A</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>. This suggests the sides are multiples of a 5-12-13 triangle. The hypotenuse ratio is 13. The actual hypotenuse is 39. Scale factor <math><mi>k</mi><mo>=</mo><mfrac><mn>39</mn><mn>13</mn></mfrac><mo>=</mo><mn>3</mn></math>. The legs are <math><mn>5</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>15</mn></math> and <math><mn>12</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>36</mn></math>. Perimeter = <math><mn>15</mn><mo>+</mo><mn>36</mn><mo>+</mo><mn>39</mn><mo>=</mo><mn>90</mn></math>.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "Recognize primitive Pythagorean triples (5-12-13) to quickly determine scale factors.",
-      "additional_data": null
-    },
+  "question_number": 14,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right triangles and trigonometry",
+  "difficulty": "Hard",
+  "question_type": "SPR",
+  "question_chart_svg": "<svg width='300' height='250' viewBox='0 0 300 250' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='250' fill='white' /><polygon points='50,220 125,220 50,40' fill='none' stroke='black' stroke-width='2' /><rect x='50' y='205' width='15' height='15' fill='none' stroke='black' /><text x='45' y='30' font-family='serif' font-size='16'>A</text><text x='130' y='230' font-family='serif' font-size='16'>C</text><text x='30' y='230' font-family='serif' font-size='16'>B</text><text x='95' y='140' font-family='serif' font-size='14'>39</text></svg>",
+  "question_chart_description": "A right triangle ABC with the right angle at vertex B. Segment AB is the longer vertical leg, and segment BC is the shorter horizontal leg. Vertex A is at the top, B is at the bottom-left, and C is at the bottom-right. The hypotenuse AC is labeled 39.",
+  "question": "In right triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mi>C</mi></math> with right angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi></math>, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>. If the hypotenuse <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>C</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>39</mn></math> units long, what is the perimeter of the triangle?",
+  "options": null,
+  "answer": "90",
+  "explanation": "We are given <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>tan</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>o</mi><mi>p</mi><mi>p</mi></mrow><mrow><mi>a</mi><mi>d</mi><mi>j</mi></mrow></mfrac><mo>=</mo><mfrac><mrow><mi>B</mi><mi>C</mi></mrow><mrow><mi>A</mi><mi>B</mi></mrow></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>12</mn></mfrac></math>. This implies the triangle's sides correspond to the Pythagorean triple <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>5</mn><mo>-</mo><mn>12</mn><mo>-</mo><mn>13</mn></math>. The ratio of the hypotenuse in the primitive triple is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>13</mn></math>, but the actual hypotenuse is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>39</mn></math>. We find the scale factor <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi></math> by dividing the actual length by the triple length: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi><mo>=</mo><mfrac><mn>39</mn><mn>13</mn></mfrac><mo>=</mo><mn>3</mn></math>.  Multiplying the legs of the primitive triple by <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn></math>, we get the actual side lengths: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>A</mi><mi>B</mi><mo>=</mo><mn>12</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>36</mn></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>B</mi><mi>C</mi><mo>=</mo><mn>5</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>15</mn></math>. The perimeter is the sum of all sides: <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>15</mn><mo>+</mo><mn>36</mn><mo>+</mo><mn>39</mn><mo>=</mo><mn>90</mn></math>.",
+  "explanation_chart_svg": "<svg width='300' height='250' viewBox='0 0 300 250' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='250' fill='white' /><polygon points='50,220 125,220 50,40' fill='none' stroke='black' stroke-width='2' /><rect x='50' y='205' width='15' height='15' fill='none' stroke='black' /><text x='45' y='30' font-family='serif' font-size='16'>A</text><text x='130' y='230' font-family='serif' font-size='16'>C</text><text x='30' y='230' font-family='serif' font-size='16'>B</text><text x='30' y='140' font-family='serif' font-size='14' fill='red'>36</text><text x='80' y='240' font-family='serif' font-size='14' fill='red'>15</text><text x='95' y='140' font-family='serif' font-size='14'>39</text></svg>",
+  "explanation_chart_description": "The same right triangle with the calculated leg lengths labeled in red: leg AB is 36 and leg BC is 15.",
+  "score_improvement_tip": "Memorize common Pythagorean triples like 3-4-5, 5-12-13, and 8-15-17. If you see a ratio matching these, check the scale factor immediately.",
+  "additional_data": null
+},
     {
       "question_number": 15,
       "domain": "Advanced Math",
@@ -335,27 +335,27 @@
       "additional_data": null
     },
     {
-      "question_number": 16,
-      "domain": "Problem-Solving and Data Analysis",
-      "skill": "Two-variable data: models and scatter-plots",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='300' fill='white' stroke='black'/><line x1='30' y1='270' x2='270' y2='270' stroke='black' stroke-width='2'/><line x1='30' y1='270' x2='30' y2='30' stroke='black' stroke-width='2'/><circle cx='50' cy='250' r='3' fill='black'/><circle cx='70' cy='230' r='3' fill='black'/><circle cx='90' cy='210' r='3' fill='black'/><circle cx='110' cy='190' r='3' fill='black'/><circle cx='130' cy='170' r='3' fill='black'/><circle cx='150' cy='150' r='3' fill='black'/><circle cx='170' cy='130' r='3' fill='black'/><circle cx='190' cy='110' r='3' fill='black'/><circle cx='210' cy='90' r='3' fill='black'/><circle cx='230' cy='70' r='3' fill='black'/><line x1='30' y1='270' x2='250' y2='50' stroke='red' stroke-dasharray='5,5'/></svg>",
-      "question_chart_description": "Scatterplot with points showing a strong positive linear correlation. A line of best fit passes approximately through (30, 270) in SVG coordinates (representing origin) to (250, 50).",
-      "question": "A scatterplot showing the relationship between variables <math><mi>x</mi></math> and <math><mi>y</mi></math> is shown along with a line of best fit. Which equation best models the data?",
-      "options": {
-        "A": "<math><mi>y</mi><mo>=</mo><mn>0.9</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
-        "B": "<math><mi>y</mi><mo>=</mo><mo>-</mo><mn>0.9</mn><mi>x</mi><mo>+</mo><mn>30</mn></math>",
-        "C": "<math><mi>y</mi><mo>=</mo><mn>2.5</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
-        "D": "<math><mi>y</mi><mo>=</mo><mn>10</mn><msup><mrow><mo>(</mo><mn>1.5</mn><mo>)</mo></mrow><mi>x</mi></msup></math>"
-      },
-      "answer": "A",
-      "explanation": "The points go up from left to right, indicating a positive slope. The data appears linear, not exponential. Slope is approximately rise/run. Between two points on the visualized line, the y-value increases as x increases. Option A is the only linear equation with a positive slope.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "First check the direction (positive/negative slope) and shape (linear/curve) to eliminate options.",
-      "additional_data": null
-    },
+  "question_number": 16,
+  "domain": "Problem-Solving and Data Analysis",
+  "skill": "Two-variable data: models and scatter-plots",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='300' fill='white' /><line x1='40' y1='260' x2='280' y2='260' stroke='black' stroke-width='2'/><line x1='40' y1='260' x2='40' y2='20' stroke='black' stroke-width='2'/><text x='35' y='280' font-size='12'>0</text><text x='140' y='280' font-size='12'>10</text><text x='240' y='280' font-size='12'>20</text><text x='20' y='265' font-size='12'>0</text><text x='15' y='160' font-size='12'>10</text><text x='15' y='60' font-size='12'>20</text><circle cx='60' cy='238' r='3' fill='black'/><circle cx='80' cy='220' r='3' fill='black'/><circle cx='100' cy='195' r='3' fill='black'/><circle cx='120' cy='185' r='3' fill='black'/><circle cx='140' cy='160' r='3' fill='black'/><circle cx='160' cy='150' r='3' fill='black'/><circle cx='180' cy='125' r='3' fill='black'/><circle cx='200' cy='110' r='3' fill='black'/><circle cx='220' cy='95' r='3' fill='black'/><circle cx='240' cy='75' r='3' fill='black'/><line x1='40' y1='240' x2='260' y2='42' stroke='red' stroke-dasharray='5,5' stroke-width='2'/></svg>",
+  "question_chart_description": "A scatterplot with an x-axis and y-axis labeled from 0 to 20. The points are clustered in a narrow band rising from the bottom-left to the top-right. A line of best fit (dashed red) passes roughly through (0, 2) and (20, 20), indicating a positive slope of approximately 1.",
+  "question": "A scatterplot showing the relationship between variables <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> is shown along with a line of best fit. Which equation best models the data?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>0.9</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mo>-</mo><mn>0.9</mn><mi>x</mi><mo>+</mo><mn>30</mn></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>2.5</mn><mi>x</mi><mo>+</mo><mn>10</mn></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>10</mn><msup><mrow><mo>(</mo><mn>1.5</mn><mo>)</mo></mrow><mi>x</mi></msup></math>"
+  },
+  "answer": "A",
+  "explanation": "To determine the best model, analyze the shape and direction of the points.  <br>1. **Direction:** The points rise from left to right, indicating a positive slope. This eliminates Option B (negative slope).<br>2. **Shape:** The pattern is linear (straight line), not curved. This eliminates Option D (exponential).<br>3. **Slope Magnitude:** The line rises roughly 1 unit of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> for every 1 unit of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> (e.g., from <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>0</mn></math> to <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>20</mn></math>, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> goes from <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>&#x2248;</mo><mn>2</mn></math> to <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>&#x2248;</mo><mn>20</mn></math>). This corresponds to a slope near 1. Option C has a slope of 2.5, which would be much steeper. Option A (<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>slope</mi><mo>=</mo><mn>0.9</mn></math>) fits the visual data best.",
+  "explanation_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><rect width='300' height='300' fill='white' /><line x1='40' y1='260' x2='280' y2='260' stroke='black' stroke-width='2'/><line x1='40' y1='260' x2='40' y2='20' stroke='black' stroke-width='2'/><text x='35' y='280' font-size='12'>0</text><text x='140' y='280' font-size='12'>10</text><text x='240' y='280' font-size='12'>20</text><text x='20' y='265' font-size='12'>0</text><text x='15' y='160' font-size='12'>10</text><text x='15' y='60' font-size='12'>20</text><line x1='40' y1='240' x2='260' y2='42' stroke='red' stroke-dasharray='5,5' stroke-width='2'/><text x='100' y='120' font-size='14' fill='red' font-weight='bold'>Slope &#x2248; 1</text><path d='M 140 150 L 180 150 L 180 114' fill='none' stroke='blue' stroke-width='2'/><text x='150' y='165' font-size='12' fill='blue'>run</text><text x='185' y='140' font-size='12' fill='blue'>rise</text></svg>",
+  "explanation_chart_description": "The scatterplot with annotations showing the 'rise' and 'run' of the line of best fit, visually demonstrating a slope closer to 1 (0.9) than to 2.5.",
+  "score_improvement_tip": "Check the slope direction (positive/negative) first, then estimate the steepness (rise over run) to distinguish between remaining positive linear options.",
+  "additional_data": null
+},
     {
       "question_number": 17,
       "domain": "Geometry and Trigonometry",

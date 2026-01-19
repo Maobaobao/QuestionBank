@@ -19,8 +19,8 @@
       "hard": 10
     },
     "question_type_distribution": {
-      "multiple_choice": 15,
-      "student_produced_response": 5
+      "multiple_choice": 14,
+      "student_produced_response": 6
     }
   },
   "questions": [
@@ -124,8 +124,8 @@
       },
       "answer": "B",
       "explanation": "Set the equations equal: <math><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mo>-</mo><mi>x</mi><mo>+</mo><mn>7</mn></math>. Add <math><mi>x</mi></math> to both sides: <math><mn>3</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>7</mn></math>. Subtract 1: <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>6</mn></math>. Divide by 3: <math><mi>x</mi><mo>=</mo><mn>2</mn></math>.",
-      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><line x1='0' y1='150' x2='400' y2='150' stroke='black' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='300' stroke='black' stroke-width='1'/><line x1='100' y1='250' x2='300' y2='50' stroke='blue' stroke-width='2'/><line x1='100' y1='50' x2='300' y2='250' stroke='red' stroke-width='2'/><circle cx='240' cy='110' r='4' fill='black'/><text x='250' y='100' font-size='12'>(2, 5)</text></svg>",
-      "explanation_chart_description": "Graph of two intersecting lines. The line y=2x+1 has a positive slope and the line y=-x+7 has a negative slope. They intersect at the point (2, 5).",
+      "explanation_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><line x1='0' y1='150' x2='400' y2='150' stroke='black' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='300' stroke='black' stroke-width='1'/><line x1='160' y1='210' x2='260' y2='10' stroke='blue' stroke-width='2'/><line x1='160' y1='-30' x2='360' y2='170' stroke='red' stroke-width='2'/><circle cx='240' cy='50' r='4' fill='black'/><text x='250' y='50' font-size='12'>(2, 5)</text></svg>",
+      "explanation_chart_description": "Graph of two intersecting lines. The line y=2x+1 (blue) has a positive slope and the line y=-x+7 (red) has a negative slope. They intersect at the point (2, 5).",
       "score_improvement_tip": "When both equations are solved for y, set them equal to each other to solve for x immediately.",
       "additional_data": null
     },
@@ -323,27 +323,27 @@
       "additional_data": null
     },
     {
-      "question_number": 15,
-      "domain": "Geometry and Trigonometry",
-      "skill": "Circles",
-      "difficulty": "Hard",
-      "question_type": "MCQ",
-      "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='0' x2='150' y2='300' stroke='black' stroke-width='1'/><line x1='0' y1='150' x2='300' y2='150' stroke='black' stroke-width='1'/><circle cx='150' cy='150' r='50' fill='none' stroke='black' stroke-width='2'/><line x1='150' y1='150' x2='190' y2='120' stroke='blue' stroke-width='2' stroke-dasharray='4'/><circle cx='190' cy='120' r='3' fill='red'/><line x1='150' y1='66.6' x2='230' y2='173.3' stroke='green' stroke-width='2'/><text x='160' y='145' font-size='12'>C(2, -3)</text><text x='200' y='115' font-size='12'>P(5, 1)</text></svg>",
-      "question_chart_description": "Circle with center C and a tangent line passing through point P on the circle. The radius CP is perpendicular to the tangent line.",
-      "question": "A circle in the <math><mi>x</mi><mi>y</mi></math>-plane has its center at <math><mo>(</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo></math>. A line is tangent to this circle at the point <math><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>. What is the slope of this tangent line?",
-      "options": {
-        "A": "<math><mfrac><mn>4</mn><mn>3</mn></mfrac></math>",
-        "B": "<math><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
-        "C": "<math><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
-        "D": "<math><mo>-</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></math>"
-      },
-      "answer": "C",
-      "explanation": "First, find the slope of the radius connecting the center <math><mo>(</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo></math> to the point of tangency <math><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>: <math><mi>m</mi><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>5</mn><mo>-</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></math>. The tangent line is perpendicular to the radius, so its slope is the negative reciprocal: <math><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "Tangent lines to a circle are always perpendicular to the radius at the point of contact. Perpendicular slopes are negative reciprocals.",
-      "additional_data": null
-    },
+  "question_number": 15,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Circles",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='400' height='350' viewBox='0 0 400 350' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='350' fill='white'/><defs><pattern id='grid' width='30' height='30' patternUnits='userSpaceOnUse'><path d='M 30 0 L 0 0 0 30' fill='none' stroke='lightgray' stroke-width='0.5'/></pattern></defs><rect width='400' height='350' fill='url(#grid)'/><line x1='100' y1='0' x2='100' y2='350' stroke='black' stroke-width='2'/><line x1='0' y1='150' x2='400' y2='150' stroke='black' stroke-width='2'/><text x='385' y='165' font-size='14' font-family='serif'>x</text><text x='85' y='15' font-size='14' font-family='serif'>y</text><text x='85' y='165' font-size='14' font-family='serif'>O</text><circle cx='160' cy='240' r='150' fill='none' stroke='black' stroke-width='1.5' opacity='0.6'/><line x1='160' y1='240' x2='250' y2='120' stroke='blue' stroke-width='2' stroke-dasharray='5,5'/><line x1='130' y1='30' x2='370' y2='210' stroke='red' stroke-width='2'/><circle cx='160' cy='240' r='4' fill='black'/><text x='140' y='260' font-size='12' font-weight='bold'>C(2, -3)</text><circle cx='250' cy='120' r='4' fill='black'/><text x='260' y='115' font-size='12' font-weight='bold'>P(5, 1)</text></svg>",
+  "question_chart_description": "A circle graphed in the xy-plane with its center C at (2, -3). A radius is drawn from C to point P(5, 1) on the circle. A red tangent line passes through P.",
+  "question": "A circle in the <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mi>y</mi></math>-plane has its center at <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo></math>. A line is tangent to this circle at the point <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>. What is the slope of this tangent line?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>4</mn><mn>3</mn></mfrac></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>-</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></math>"
+  },
+  "answer": "C",
+  "explanation": "First, find the slope of the radius connecting the center <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>C</mi><mo>(</mo><mn>2</mn><mo>,</mo><mo>-</mo><mn>3</mn><mo>)</mo></math> to the point of tangency <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>P</mi><mo>(</mo><mn>5</mn><mo>,</mo><mn>1</mn><mo>)</mo></math>. The slope formula is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>m</mi><mo>=</mo><mfrac><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><msub><mi>y</mi><mn>1</mn></msub></mrow><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfrac></math>. Substituting the points: <math xmlns='http://www.w3.org/1998/Math/MathML'><msub><mi>m</mi><mi>radius</mi></msub><mo>=</mo><mfrac><mrow><mn>1</mn><mo>-</mo><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mrow><mn>5</mn><mo>-</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>4</mn><mn>3</mn></mfrac></math>. The tangent line is perpendicular to the radius at the point of contact. The slope of the tangent line is the negative reciprocal of the radius slope: <math xmlns='http://www.w3.org/1998/Math/MathML'><msub><mi>m</mi><mi>tangent</mi></msub><mo>=</mo><mo>-</mo><mfrac><mn>1</mn><mrow><mn>4</mn><mo>/</mo><mn>3</mn></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mn>3</mn><mn>4</mn></mfrac></math>.",
+  "explanation_chart_svg": "<svg width='400' height='350' viewBox='0 0 400 350' xmlns='http://www.w3.org/2000/svg'><rect width='400' height='350' fill='white'/><line x1='100' y1='0' x2='100' y2='350' stroke='black' stroke-width='2'/><line x1='0' y1='150' x2='400' y2='150' stroke='black' stroke-width='2'/><line x1='160' y1='240' x2='250' y2='120' stroke='blue' stroke-width='2' stroke-dasharray='5,5'/><line x1='130' y1='30' x2='370' y2='210' stroke='red' stroke-width='2'/><path d='M 238 129 L 229 141 L 241 132' fill='none' stroke='black' stroke-width='1.5'/><circle cx='160' cy='240' r='4' fill='black'/><text x='130' y='255' font-size='12'>C(2, -3)</text><circle cx='250' cy='120' r='4' fill='black'/><text x='260' y='115' font-size='12'>P(5, 1)</text><path d='M 160 240 L 250 240 L 250 120' fill='none' stroke='blue' opacity='0.5'/><text x='205' y='255' font-size='12' fill='blue'>3</text><text x='255' y='180' font-size='12' fill='blue'>4</text><text x='180' y='200' font-size='12' fill='blue' transform='rotate(-53 180,200)'>Slope = 4/3</text><text x='300' y='150' font-size='12' fill='red' font-weight='bold'>Perpendicular Slope = -3/4</text></svg>",
+  "explanation_chart_description": "The chart highlights the perpendicular relationship between the radius and the tangent line. A slope triangle on the radius shows a rise of 4 and a run of 3, corresponding to a slope of 4/3. The tangent line is shown perpendicular to the radius.",
+  "score_improvement_tip": "Tangent lines to a circle are always perpendicular to the radius at the point of contact. If the slope of the radius is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>m</mi></math>, the slope of the tangent line is <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>-</mo><mfrac><mn>1</mn><mi>m</mi></mfrac></math>.",
+  "additional_data": null
+},
     {
       "question_number": 16,
       "domain": "Advanced Math",
