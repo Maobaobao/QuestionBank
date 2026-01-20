@@ -470,3 +470,29 @@
 }
 
 ```
+
+## SAT Math Question Difficulty Audit
+
+### 1. Difficulty Distribution Summary
+- **Declared Distribution:** Easy 4, Medium 6, Hard 10
+- **Audited Distribution:** Easy 8, Medium 11, Hard 1
+- **Alignment Score:** 45% (9/20)
+
+### 2. Mislabeled Questions Log
+
+| Q# | Assigned Difficulty | Assessed Difficulty | Reason for Reclassification |
+| :-- | :--- | :--- | :--- |
+| 6 | Medium | Easy | Routine distribution and combining like terms only. |
+| 8 | Medium | Easy | Direct slope computation from two points. |
+| 11 | Hard | Medium | No-solution condition via matching coefficients and constants. |
+| 13 | Hard | Medium | Conditional probability with a restricted denominator; standard setup. |
+| 14 | Hard | Medium | Completing the square to find radius is procedural. |
+| 15 | Hard | Medium | Set functions equal and check discriminant; standard quadratic analysis. |
+| 16 | Hard | Medium | Translate two constraints into inequalities; typical modeling. |
+| 17 | Hard | Easy | Interpret slope as speed in a linear model. |
+| 18 | Hard | Medium | Similar triangles with a 1/2 scale factor. |
+| 19 | Hard | Easy | Horizontal shift does not change minimum value. |
+| 20 | Hard | Medium | Set up rate-time equation; multi-step but routine. |
+
+### 3. Detailed Analysis (Optional)
+- Q12 is appropriately Hard because it requires squaring, solving, and rejecting an extraneous root.
