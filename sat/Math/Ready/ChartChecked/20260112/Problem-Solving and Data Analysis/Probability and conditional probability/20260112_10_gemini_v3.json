@@ -6,9 +6,9 @@
     "focus_skills": [
       "Probability and conditional probability"
     ],
-    "total_questions": 20,
+    "total_questions": 19,
     "difficulty_distribution": {
-      "easy": 5,
+      "easy": 4,
       "medium": 7,
       "hard": 8
     },
@@ -63,7 +63,7 @@
   "additional_data": null
     },
     {
-      "question_number": 4,
+      "question_number": 3,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Easy",
@@ -85,7 +85,7 @@
       "additional_data": null
     },
     {
-      "question_number": 5,
+      "question_number": 4,
   "domain": "Problem-Solving and Data Analysis",
   "skill": "Probability and conditional probability",
   "difficulty": "Medium",
@@ -107,7 +107,7 @@
   "additional_data": null
     },
     {
-      "question_number": 6,
+      "question_number": 5,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Medium",
@@ -129,7 +129,7 @@
       "additional_data": null
     },
     {
-      "question_number": 7,
+      "question_number": 6,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Medium",
@@ -151,7 +151,7 @@
       "additional_data": null
     },
     {
-      "question_number": 8,
+      "question_number": 7,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Medium",
@@ -173,7 +173,7 @@
       "additional_data": null
     },
     {
-      "question_number": 9,
+      "question_number": 8,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Medium",
@@ -190,7 +190,7 @@
       "additional_data": null
     },
     {
-      "question_number": 10,
+      "question_number": 9,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Medium",
@@ -207,7 +207,7 @@
       "additional_data": null
     },
     {
-      "question_number": 11,
+      "question_number": 10,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -229,7 +229,7 @@
       "additional_data": null
     },
     {
-      "question_number": 12,
+      "question_number": 11,
   "domain": "Problem-Solving and Data Analysis",
   "skill": "Probability and conditional probability",
   "difficulty": "Hard",
@@ -251,7 +251,7 @@
   "additional_data": null
     },
     {
-      "question_number": 13,
+      "question_number": 12,
   "domain": "Problem-Solving and Data Analysis",
   "skill": "Probability and conditional probability",
   "difficulty": "Hard",
@@ -273,7 +273,7 @@
   "additional_data": null
     },
     {
-      "question_number": 14,
+      "question_number": 13,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -295,7 +295,7 @@
       "additional_data": null
     },
     {
-      "question_number": 15,
+      "question_number": 14,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -317,7 +317,7 @@
       "additional_data": null
     },
     {
-      "question_number": 16,
+      "question_number": 15,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -334,7 +334,7 @@
       "additional_data": null
     },
     {
-      "question_number": 17,
+      "question_number": 16,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -351,7 +351,7 @@
       "additional_data": null
     },
     {
-      "question_number": 18,
+      "question_number": 17,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Hard",
@@ -368,7 +368,7 @@
       "additional_data": null
     },
     {
-      "question_number": 19,
+      "question_number": 18,
   "domain": "Problem-Solving and Data Analysis",
   "skill": "Probability and conditional probability",
   "difficulty": "Medium",
@@ -390,7 +390,7 @@
   "additional_data": null
     },
     {
-      "question_number": 20,
+      "question_number": 19,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Probability and conditional probability",
       "difficulty": "Easy",

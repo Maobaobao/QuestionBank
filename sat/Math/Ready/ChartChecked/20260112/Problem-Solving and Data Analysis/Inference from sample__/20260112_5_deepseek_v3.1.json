@@ -391,23 +391,6 @@
       "additional_data": null
     },
     {
-      "question_number": 18,
-      "domain": "Algebra",
-      "skill": "Linear functions",
-      "difficulty": "Hard",
-      "question_type": "SPR",
-      "question_chart_svg": null,
-      "question_chart_description": null,
-      "question": "The function <math><mi>f</mi></math> is defined by <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, where <math><mi>a</mi></math> and <math><mi>b</mi></math> are constants. If <math><mi>f</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>10</mn></math> and <math><mi>f</mi><mo>(</mo><mn>5</mn><mo>)</mo><mo>=</mo><mn>16</mn></math>, what is the value of <math><mi>f</mi><mo>(</mo><mn>8</mn><mo>)</mo></math>?",
-      "options": null,
-      "answer": "22",
-      "explanation": "Slope <math><mi>a</mi><mo>=</mo><mfrac><mrow><mi>f</mi><mo>(</mo><mn>5</mn><mo>)</mo><mo>−</mo><mi>f</mi><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mrow><mn>5</mn><mo>−</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><mn>16</mn><mo>−</mo><mn>10</mn></mrow><mn>3</mn></mfrac><mo>=</mo><mn>2</mn></math>. Then <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>b</mi></math>. Use f(2)=10: <math><mn>2</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>+</mo><mi>b</mi><mo>=</mo><mn>10</mn></math> → <math><mn>4</mn><mo>+</mo><mi>b</mi><mo>=</mo><mn>10</mn></math> → <math><mi>b</mi><mo>=</mo><mn>6</mn></math>. So <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>6</mn></math>. Then <math><mi>f</mi><mo>(</mo><mn>8</mn><mo>)</mo><mo>=</mo><mn>2</mn><mo>(</mo><mn>8</mn><mo>)</mo><mo>+</mo><mn>6</mn><mo>=</mo><mn>22</mn></math>.",
-      "explanation_chart_svg": null,
-      "explanation_chart_description": null,
-      "score_improvement_tip": "For a linear function, the slope is constant. Use two points to find the slope and y-intercept, then predict any other point.",
-      "additional_data": null
-    },
-    {
       "question_number": 19,
       "domain": "Problem-Solving and Data Analysis",
       "skill": "Two-variable data: models and scatter-plots",
