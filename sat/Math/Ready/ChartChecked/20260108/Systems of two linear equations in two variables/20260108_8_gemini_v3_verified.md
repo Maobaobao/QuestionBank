@@ -277,7 +277,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "In the system of equations below, <math><mi>k</mi></math> is a constant. If the system has infinitely many solutions, what is the value of <math><mi>k</mi></math>?\n<math><mn>3</mn><mi>x</mi><mo>+</mo><mi>k</mi><mi>y</mi><mo>=</mo><mn>12</mn></math>\n<math><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn></math>",
+      "question": "In the system of equations below, <math><mi>k</mi></math> is a constant. If the system has infinitely many solutions, what is the value of <math><mi>k</mi></math>?<br><math><mn>3</mn><mi>x</mi><mo>+</mo><mi>k</mi><mi>y</mi><mo>=</mo><mn>12</mn></math><br><math><mi>x</mi><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn></math>",
       "options": {
         "A": "3",
         "B": "4",

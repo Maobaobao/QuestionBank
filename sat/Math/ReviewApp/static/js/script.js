@@ -172,11 +172,11 @@ document.addEventListener('DOMContentLoaded', function() {
     function parseMarkdown(text) {
         if (!text) return '';
         // 1. Replace <br> tags with newlines
-        let cleanText = text.replace(/<br\s*\/?>/gi, '\n');
+        let cleanText = text.replace(/<br\s*\/?>/gi, '<br>');
         
         // 2. Ensure a blank line exists after a table to prevent following text from merging into the table
         // Matches a line ending with '|' followed by a newline, where the next line does NOT start with '|'
-        cleanText = cleanText.replace(/(\|\s*\n)(?![|])/g, '$1\n');
+        cleanText = cleanText.replace(/(\|\s*<br>)(?![|])/g, '$1<br>');
         
         return marked.parse(cleanText);
     }

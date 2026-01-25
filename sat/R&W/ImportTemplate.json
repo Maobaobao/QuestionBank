@@ -8,15 +8,15 @@
     "passage_list": [
       {
         "passage_number": 1,
-        "text": "text.\ntext1.\ntext2.\ntext3."
+        "text": "text.<br>text1.<br>text2.<br>text3."
       },
       {
         "passage_number": 2,
-        "text": "text.\ntext1.\ntext2.\ntext3."
+        "text": "text.<br>text1.<br>text2.<br>text3."
       },
       {
         "passage_number": 3,
-        "text": "text.\ntext1.\ntext2.\ntext3."
+        "text": "text.<br>text1.<br>text2.<br>text3."
       }
     ],
     "questions": [

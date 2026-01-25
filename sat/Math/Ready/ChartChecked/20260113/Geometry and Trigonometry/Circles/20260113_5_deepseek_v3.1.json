@@ -271,7 +271,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "If <math><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></math> is the solution to the system of equations below, what is the value of <math><mi>a</mi><mo>·</mo><mi>b</mi></math>?<br/><math><mn>2</mn><mi>a</mi><mo>+</mo><mn>3</mn><mi>b</mi><mo>=</mo><mn>8</mn></math><br/><math><mn>4</mn><mi>a</mi><mo>−</mo><mi>b</mi><mo>=</mo><mn>2</mn></math>",
+      "question": "If <math><mo>(</mo><mi>a</mi><mo>,</mo><mi>b</mi><mo>)</mo></math> is the solution to the system of equations below, what is the value of <math><mi>a</mi><mo>·</mo><mi>b</mi></math>?<br><math><mn>2</mn><mi>a</mi><mo>+</mo><mn>3</mn><mi>b</mi><mo>=</mo><mn>8</mn></math><br><math><mn>4</mn><mi>a</mi><mo>−</mo><mi>b</mi><mo>=</mo><mn>2</mn></math>",
       "options": {
         "A": "<math><mn>1</mn></math>",
         "B": "<math><mn>2</mn></math>",

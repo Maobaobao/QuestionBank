@@ -12,7 +12,7 @@
     },
     {
       "passage_number": 2,
-      "text": "Two years and nearly 8,000 miles in an airplane seat later, I found the answer. At a hotel in Guangzhou, China, I joined a documentary film crew for a meeting with a biophysicist named He Jiankui, who appeared with a retinue of advisors. During the meeting, He was immensely gregarious and spoke excitedly about his research on embryos of mice, monkeys, and humans, and about his eventual plans to improve human health by adding beneficial genes to people’s bodies from birth. Still imagining that such a step must lie at least some way off, I asked if the technology was truly ready for such an undertaking.\n\n“Ready,” He said. Then, after a laden pause: “Almost ready.”"
+      "text": "Two years and nearly 8,000 miles in an airplane seat later, I found the answer. At a hotel in Guangzhou, China, I joined a documentary film crew for a meeting with a biophysicist named He Jiankui, who appeared with a retinue of advisors. During the meeting, He was immensely gregarious and spoke excitedly about his research on embryos of mice, monkeys, and humans, and about his eventual plans to improve human health by adding beneficial genes to people’s bodies from birth. Still imagining that such a step must lie at least some way off, I asked if the technology was truly ready for such an undertaking.<br><br>“Ready,” He said. Then, after a laden pause: “Almost ready.”"
     },
     {
       "passage_number": 3,
@@ -110,7 +110,7 @@
       "skill": "Transitions",
       "difficulty": "Medium",
       "passage": 5,
-      "question": "Which choice completes the text with the most logical transition?\nFuturists who write about the destiny of humankind have imagined all sorts of changes. _____, the thing about He’s idea, though, is that he drew it from scientific realities close at hand.",
+      "question": "Which choice completes the text with the most logical transition?<br>Futurists who write about the destiny of humankind have imagined all sorts of changes. _____, the thing about He’s idea, though, is that he drew it from scientific realities close at hand.",
       "options": {
         "A": "For example",
         "B": "In contrast",
@@ -161,7 +161,7 @@
       "skill": "Rhetorical Synthesis",
       "difficulty": "Hard",
       "passage": 6,
-      "question": "While researching a topic, a student has taken the following notes:\n- Embryo editing is illegal in many countries.\n- New CRISPR methods could allow changes in adults.\n- Such changes might include protections against diseases.\n- These would not pass to offspring but could lead to self-evolution.\nThe student wants to emphasize the potential scale of adult gene editing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "question": "While researching a topic, a student has taken the following notes:<br>- Embryo editing is illegal in many countries.<br>- New CRISPR methods could allow changes in adults.<br>- Such changes might include protections against diseases.<br>- These would not pass to offspring but could lead to self-evolution.<br>The student wants to emphasize the potential scale of adult gene editing. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
       "options": {
         "A": "Embryo editing restrictions exist, but adult methods could make widespread changes as significant as computer intelligence.",
         "B": "Many countries ban edited babies, focusing instead on disease protections.",
@@ -178,7 +178,7 @@
       "skill": "Boundaries",
       "difficulty": "Hard",
       "passage": 5,
-      "question": "Futurists who write about the destiny of humankind have imagined all sorts of changes. We’ll all be given auxiliary chromosomes loaded with genetic goodies, or maybe we’ll march through life as a member of a pod of identical clones. Perhaps sex will become outdated as we reproduce exclusively through our stem cells. Or human colonists on another planet will be isolated so long that they become their own species. The thing about He’s idea, though, is that he drew it from scientific realities close at hand.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+      "question": "Futurists who write about the destiny of humankind have imagined all sorts of changes. We’ll all be given auxiliary chromosomes loaded with genetic goodies, or maybe we’ll march through life as a member of a pod of identical clones. Perhaps sex will become outdated as we reproduce exclusively through our stem cells. Or human colonists on another planet will be isolated so long that they become their own species. The thing about He’s idea, though, is that he drew it from scientific realities close at hand.<br>Which choice completes the text so that it conforms to the conventions of Standard English?",
       "options": {
         "A": "Just as some gene mutations cause awful, rare diseases others are being discovered",
         "B": "Just as some gene mutations cause awful rare diseases, others are being discovered",

@@ -1,0 +1,450 @@
+{
+  "test_metadata": {
+    "focus_domains": [
+      "Problem-Solving and Data Analysis",
+      "Algebra",
+      "Advanced Math",
+      "Geometry and Trigonometry"
+    ],
+    "focus_skills": [
+      "Ratios, rates, proportional relationships, and units",
+      "Linear equations in 1 variable",
+      "Nonlinear functions",
+      "Right triangles and trigonometry"
+    ],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 6,
+      "medium": 9,
+      "hard": 5
+    },
+    "question_type_distribution": {
+      "multiple_choice": 15,
+      "student_produced_response": 5
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Ratios, rates, proportional relationships, and units",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A certain recipe requires <math><mn>3</mn></math> cups of flour for every <math><mn>2</mn></math> cups of sugar. If a baker uses <math><mn>18</mn></math> cups of flour, how many cups of sugar should be used to maintain the same ratio?",
+      "options": {
+        "A": "6",
+        "B": "9",
+        "C": "12",
+        "D": "27"
+      },
+      "answer": "C",
+      "explanation": "The ratio of flour to sugar is <math><mfrac><mn>3</mn><mn>2</mn></mfrac></math>. Let <math><mi>s</mi></math> be the amount of sugar. Setting up the proportion: <math><mfrac><mn>3</mn><mn>2</mn></mfrac><mo>=</mo><mfrac><mn>18</mn><mi>s</mi></mfrac></math>. Cross-multiplying gives <math><mn>3</mn><mi>s</mi><mo>=</mo><mn>36</mn></math>, so <math><mi>s</mi><mo>=</mo><mn>12</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Identify the ratio and set up a proportion to solve for the missing value efficiently.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the value of <math><mi>k</mi></math> if <math><mn>4</mn><mo>(</mo><mi>k</mi><mo>-</mo><mn>3</mn><mo>)</mo><mo>=</mo><mn>20</mn></math>?",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "8",
+        "D": "11"
+      },
+      "answer": "C",
+      "explanation": "Divide both sides by 4: <math><mi>k</mi><mo>-</mo><mn>3</mn><mo>=</mo><mn>5</mn></math>. Add 3 to both sides: <math><mi>k</mi><mo>=</mo><mn>8</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Divide by the constant outside the parentheses first to simplify the equation quickly.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Area and volume formulas",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg viewBox='0 0 200 150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='40' width='100' height='70' fill='none' stroke='black' stroke-width='2'/><text x='100' y='30' text-anchor='middle'>10</text><text x='160' y='80'>h</text></svg>",
+      "question_chart_description": "A rectangle with a length of 10 and height h.",
+      "question": "The area of the rectangle shown is <math><mn>70</mn></math> square units. What is the value of <math><mi>h</mi></math>?",
+      "options": null,
+      "answer": "7",
+      "explanation": "The area of a rectangle is length times height: <math><mn>10</mn><mo>×</mo><mi>h</mi><mo>=</mo><mn>70</mn></math>. Dividing by 10 gives <math><mi>h</mi><mo>=</mo><mn>7</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember that Area = length × width (or height) for any rectangle.",
+      "additional_data": {
+        "numeric_format": "integer"
+      }
+    },
+    {
+      "question_number": 4,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Percentages",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A jacket is originally priced at <math><mo>$</mo><mn>80</mn></math>. If the price is reduced by <math><mn>25</mn><mo>%</mo></math>, what is the new price of the jacket?",
+      "options": {
+        "A": "$20",
+        "B": "$55",
+        "C": "$60",
+        "D": "$75"
+      },
+      "answer": "C",
+      "explanation": "A 25% reduction means the new price is 75% of the original: <math><mn>0.75</mn><mo>×</mo><mn>80</mn><mo>=</mo><mn>60</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To find a discounted price, multiply the original price by (1 - discount rate).",
+      "additional_data": null
+    },
+    {
+  "question_number": 5,
+  "domain": "Algebra",
+  "skill": "Linear functions",
+  "difficulty": "Easy",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><defs><marker id='arrowhead' markerWidth='10' markerHeight='7' refX='0' refY='3.5' orient='auto'><polygon points='0 0, 10 3.5, 0 7' fill='black'/></marker></defs><line x1='40' y1='190' x2='40' y2='10' stroke='black' stroke-width='1' marker-end='url(#arrowhead)'/><line x1='10' y1='180' x2='190' y2='180' stroke='black' stroke-width='1' marker-end='url(#arrowhead)'/><text x='180' y='195' font-family='sans-serif' font-size='12'>x</text><text x='25' y='20' font-family='sans-serif' font-size='12'>y</text><line x1='40' y1='150' x2='190' y2='150' stroke='lightgray' stroke-dasharray='4'/><line x1='160' y1='180' x2='160' y2='10' stroke='lightgray' stroke-dasharray='4'/><line x1='20' y1='165' x2='180' y2='45' stroke='blue' stroke-width='2'/><circle cx='40' cy='150' r='4' fill='red'/><circle cx='160' cy='60' r='4' fill='red'/><text x='48' y='145' font-family='sans-serif' font-size='12' fill='black'>(0, 2)</text><text x='130' y='50' font-family='sans-serif' font-size='12' fill='black'>(3, 8)</text></svg>",
+  "question_chart_description": "A coordinate plane with a blue line passing through two red points labeled (0, 2) and (3, 8).",
+  "question": "Which of the following equations represents the line shown in the graph?",
+  "options": {
+    "A": "<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
+    "B": "<math><mi>y</mi><mo>=</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>",
+    "C": "<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></math>",
+    "D": "<math><mi>y</mi><mo>=</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>"
+  },
+  "answer": "A",
+  "explanation": "The y-intercept is 2. The slope is <math><mfrac><mrow><mn>8</mn><mo>-</mo><mn>2</mn></mrow><mrow><mn>3</mn><mo>-</mo><mn>0</mn></mrow></mfrac><mo>=</mo><mfrac><mn>6</mn><mn>3</mn></mfrac><mo>=</mo><mn>2</mn></math>. Thus, the equation is <math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn></math>.",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "Use the slope formula <math><mi>m</mi><mo>=</mo><mfrac><mrow><msub><mi>y</mi><mn>2</mn></msub><mo>-</mo><msub><mi>y</mi><mn>1</mn></msub></mrow><mrow><msub><mi>x</mi><mn>2</mn></msub><mo>-</mo><msub><mi>x</mi><mn>1</mn></msub></mrow></mfrac></math> and the y-intercept from the graph.",
+  "additional_data": null
+},
+    {
+      "question_number": 6,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The function <math><mi>f</mi></math> is defined by <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn></math>. What is the minimum value of <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>?",
+      "options": {
+        "A": "-2",
+        "B": "-1",
+        "C": "3",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "The x-coordinate of the vertex is <math><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mi>b</mi><mrow><mn>2</mn><mi>a</mi></mrow></mfrac><mo>=</mo><mo>-</mo><mfrac><mrow><mo>-</mo><mn>6</mn></mrow><mn>2</mn></mfrac><mo>=</mo><mn>3</mn></math>. The minimum value is <math><mi>f</mi><mo>(</mo><mn>3</mn><mo>)</mo><mo>=</mo><msup><mn>3</mn><mn>2</mn></msup><mo>-</mo><mn>6</mn><mo>(</mo><mn>3</mn><mo>)</mo><mo>+</mo><mn>8</mn><mo>=</mo><mn>9</mn><mo>-</mo><mn>18</mn><mo>+</mo><mn>8</mn><mo>=</mo><mo>-</mo><mn>1</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For a quadratic <math><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>b</mi><mi>x</mi><mo>+</mo><mi>c</mi></math>, the vertex occurs at <math><mi>x</mi><mo>=</mo><mo>-</mo><mfrac><mi>b</mi><mrow><mn>2</mn><mi>a</mi></mrow></mfrac></math>.",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A bag contains 5 red marbles, 7 blue marbles, and 8 green marbles. If one marble is selected at random, what is the probability that it is blue?",
+      "options": null,
+      "answer": "0.35",
+      "explanation": "Total marbles = <math><mn>5</mn><mo>+</mo><mn>7</mn><mo>+</mo><mn>8</mn><mo>=</mo><mn>20</mn></math>. Probability of blue = <math><mfrac><mn>7</mn><mn>20</mn></mfrac><mo>=</mo><mn>0.35</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Probability is always (favorable outcomes) / (total possible outcomes).",
+      "additional_data": {
+        "numeric_format": "decimal"
+      }
+    },
+    {
+      "question_number": 8,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Consider the system of equations:<br><math><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>10</mn></math><br><math><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>2</mn></math><br>What is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "answer": "B",
+      "explanation": "Add the two equations: <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi>x</mi><mo>-</mo><mi>y</mi><mo>)</mo><mo>=</mo><mn>10</mn><mo>+</mo><mn>2</mn></math> leads to <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>12</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>4</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The elimination method is often faster than substitution when coefficients of one variable are opposites.",
+      "additional_data": null
+    },
+    {
+  "question_number": 9,
+  "domain": "Geometry and Trigonometry",
+  "skill": "Right triangles and trigonometry",
+  "difficulty": "Medium",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='200' height='200' viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><path d='M 40 160 L 130 160 L 40 40 Z' fill='none' stroke='black' stroke-width='2'/><rect x='40' y='150' width='10' height='10' fill='none' stroke='black'/><path d='M 40 60 A 20 20 0 0 1 50 64' fill='none' stroke='black'/><text x='25' y='160' font-family='Arial' font-size='14'>Q</text><text x='135' y='160' font-family='Arial' font-size='14'>R</text><text x='25' y='35' font-family='Arial' font-size='14'>P</text><text x='95' y='100' font-family='Arial' font-size='14'>15</text></svg>",
+  "question_chart_description": "A right triangle PQR with the right angle at vertex Q. Vertex P is at the top and vertex R is at the bottom right. The hypotenuse PR is labeled 15. The angle at vertex P is marked.",
+  "question": "In the right triangle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>P</mi><mi>Q</mi><mi>R</mi></math> shown, the right angle is at <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi></math> and the length of the hypotenuse <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>P</mi><mi>R</mi></math> is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>15</mn></math>. If <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mi>P</mi><mo>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></math>, what is the length of side <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mi>R</mi></math>?",
+  "options": {
+    "A": "9",
+    "B": "10",
+    "C": "12",
+    "D": "25"
+  },
+  "answer": "A",
+  "explanation": "The sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse. For angle <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>P</mi></math>, the opposite side is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mi>R</mi></math> and the hypotenuse is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>P</mi><mi>R</mi></math>.<br><br>1. Set up the equation using the definition of sine:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><mi>sin</mi><mo>(</mo><mi>P</mi><mo>)</mo><mo>=</mo><mfrac><mrow><mi>Q</mi><mi>R</mi></mrow><mrow><mi>P</mi><mi>R</mi></mrow></mfrac></math><br><br>2. Substitute the given values:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>=</mo><mfrac><mrow><mi>Q</mi><mi>R</mi></mrow><mn>15</mn></mfrac></math><br><br>3. Solve for <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mi>R</mi></math>:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><mi>Q</mi><mi>R</mi><mo>=</mo><mn>15</mn><mo>×</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>=</mo><mn>9</mn></math>.",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "Remember SOH CAH TOA: Sine = Opposite/Hypotenuse. Identifying the correct sides relative to the angle is the first step.",
+  "additional_data": null
+},
+    {
+      "question_number": 10,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "One-variable data: distributions and measures of center and spread",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The mean of a set of five numbers is 12. If a sixth number, 18, is added to the set, what is the new mean?",
+      "options": null,
+      "answer": "13",
+      "explanation": "Original sum = <math><mn>12</mn><mo>×</mo><mn>5</mn><mo>=</mo><mn>60</mn></math>. New sum = <math><mn>60</mn><mo>+</mo><mn>18</mn><mo>=</mo><mn>78</mn></math>. New mean = <math><mn>78</mn><mo>/</mo><mn>6</mn><mo>=</mo><mn>13</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember that Total Sum = Mean × Number of items.",
+      "additional_data": {
+        "numeric_format": "integer"
+      }
+    },
+    {
+  "question_number": 11,
+  "domain": "Advanced Math",
+  "skill": "Equivalent expressions",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": null,
+  "question_chart_description": null,
+  "question": "Which of the following is equivalent to <math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>4</mn><mi>x</mi></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfrac><mo>-</mo><mfrac><mn>2</mn><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math> for <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>&gt;</mo><mn>1</mn></math>?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mn>2</mn><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfrac></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></mrow></mfrac></math>"
+  },
+  "answer": "A",
+  "explanation": "To subtract the rational expressions, we first need a common denominator.<br><br>1. <strong>Factor the denominators:</strong><br>The first denominator <math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn></math> is a difference of squares and factors into <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>.<br>The second denominator is <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>-</mo><mn>1</mn></math>.<br>The Least Common Denominator (LCD) is <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>.<br><br>2. <strong>Rewrite the expressions:</strong><br>Multiply the numerator and denominator of the second fraction by <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>4</mn><mi>x</mi></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac><mo>-</mo><mfrac><mrow><mn>2</mn><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br><br>3. <strong>Combine and simplify the numerator:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mo>=</mo><mfrac><mrow><mn>4</mn><mi>x</mi><mo>-</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mo>=</mo><mfrac><mrow><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br><br>4. <strong>Factor the numerator and cancel:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mfrac><mrow><mn>2</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></mrow><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mfrac></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mo>=</mo><mfrac><mn>2</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac></math>",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "When subtracting rational expressions, factor the denominators first to find the LCD. Be careful to distribute the negative sign to all terms in the second numerator.",
+  "additional_data": null
+},
+    {
+  "question_number": 12,
+  "domain": "Advanced Math",
+  "skill": "Nonlinear equations in 1 variable",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": null,
+  "question_chart_description": null,
+  "question": "What is the solution set of the equation <math xmlns='http://www.w3.org/1998/Math/MathML'><msqrt><mn>3</mn><mi>x</mi><mo>+</mo><mn>13</mn></msqrt><mo>-</mo><mi>x</mi><mo>=</mo><mn>3</mn></math>?",
+  "options": {
+    "A": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>{</mo><mn>1</mn><mo>}</mo></math>",
+    "B": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>{</mo><mo>-</mo><mn>4</mn><mo>,</mo><mn>1</mn><mo>}</mo></math>",
+    "C": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>{</mo><mo>-</mo><mn>4</mn><mo>}</mo></math>",
+    "D": "<math xmlns='http://www.w3.org/1998/Math/MathML'><mo>{</mo><mn>1</mn><mo>,</mo><mn>4</mn><mo>}</mo></math>"
+  },
+  "answer": "A",
+  "explanation": "To solve the radical equation, isolate the radical and then square both sides.<br><br>1. <strong>Isolate the radical:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><msqrt><mn>3</mn><mi>x</mi><mo>+</mo><mn>13</mn></msqrt><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math><br><br>2. <strong>Square both sides:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><msup><mrow><mo>(</mo><msqrt><mn>3</mn><mi>x</mi><mo>+</mo><mn>13</mn></msqrt><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><msup><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mi>x</mi><mo>+</mo><mn>13</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn></math><br><br>3. <strong>Set to zero and factor:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>0</mn><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>-</mo><mn>4</mn></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>0</mn><mo>=</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>4</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo></math><br>Possible solutions: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mo>-</mo><mn>4</mn></math>, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>1</mn></math>.<br><br>4. <strong>Check for extraneous solutions:</strong><br>For <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>1</mn></math>:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><msqrt><mn>3</mn><mo>(</mo><mn>1</mn><mo>)</mo><mo>+</mo><mn>13</mn></msqrt><mo>-</mo><mn>1</mn><mo>=</mo><msqrt><mn>16</mn></msqrt><mo>-</mo><mn>1</mn><mo>=</mo><mn>4</mn><mo>-</mo><mn>1</mn><mo>=</mo><mn>3</mn></math>. (Valid)<br>For <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mo>-</mo><mn>4</mn></math>:<br><math xmlns='http://www.w3.org/1998/Math/MathML'><msqrt><mn>3</mn><mo>(</mo><mo>-</mo><mn>4</mn><mo>)</mo><mo>+</mo><mn>13</mn></msqrt><mo>-</mo><mo>(</mo><mo>-</mo><mn>4</mn><mo>)</mo><mo>=</mo><msqrt><mn>1</mn></msqrt><mo>+</mo><mn>4</mn><mo>=</mo><mn>1</mn><mo>+</mo><mn>4</mn><mo>=</mo><mn>5</mn><mo>≠</mo><mn>3</mn></math>. (Extraneous)<br><br>The only valid solution is <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>1</mn></math>.",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "When solving radical equations, squaring both sides can introduce false (extraneous) solutions. Always plug your answers back into the original equation to verify.",
+  "additional_data": null
+},
+    {
+      "question_number": 13,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A circle in the xy-plane has the equation <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>10</mn><mi>y</mi><mo>=</mo><mo>-</mo><mn>20</mn></math>. What is the radius of the circle?",
+      "options": {
+        "A": "3",
+        "B": "9",
+        "C": "<math><msqrt><mn>20</mn></msqrt></math>",
+        "D": "<math><msqrt><mn>29</mn></msqrt></math>"
+      },
+      "answer": "A",
+      "explanation": "Complete the square for x and y: <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>4</mn><mo>)</mo><mo>+</mo><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>10</mn><mi>y</mi><mo>+</mo><mn>25</mn><mo>)</mo><mo>=</mo><mo>-</mo><mn>20</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>25</mn></math>. This gives <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>+</mo><mn>5</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn></math>. The radius is <math><msqrt><mn>9</mn></msqrt><mo>=</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Completing the square allows you to find the center (h, k) and radius r from the general form of a circle's equation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mi>y</mi><mo>&gt;</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn></math> and <math><mi>y</mi><mo>&lt;</mo><mo>-</mo><mi>x</mi><mo>+</mo><mn>9</mn></math>, which of the following ordered pairs <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math> is a solution to the system?",
+      "options": {
+        "A": "(0, 2)",
+        "B": "(2, 8)",
+        "C": "(4, 5)",
+        "D": "(1, 6)"
+      },
+      "answer": "D",
+      "explanation": "Test (1, 6): <math><mn>6</mn><mo>&gt;</mo><mn>2</mn><mo>(</mo><mn>1</mn><mo>)</mo><mo>+</mo><mn>3</mn></math> (6 > 5 is True) and <math><mn>6</mn><mo>&lt;</mo><mo>-</mo><mn>1</mn><mo>+</mo><mn>9</mn></math> (6 < 8 is True).",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Plug the given options into the inequalities to see which one satisfies both conditions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A survey of 400 randomly selected residents in a town found that 60% support a new park. The margin of error is ±4%. Which of the following is the most appropriate conclusion?",
+      "options": {
+        "A": "Exactly 60% of all residents support the park.",
+        "B": "Between 56% and 64% of all residents support the park.",
+        "C": "The survey is invalid because it didn't include every resident.",
+        "D": "At least 64% of residents support the park."
+      },
+      "answer": "B",
+      "explanation": "The margin of error defines a range around the sample statistic (60% - 4% to 60% + 4%) within which the true population parameter is likely to fall.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The margin of error provides a range, not a single exact value, for the population parameter.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Advanced Math",
+      "skill": "Systems of equations in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The graph of the system consisting of <math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>7</mn></math> and <math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn></math> intersects at exactly one point <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>. What is the value of <math><mi>x</mi></math>?",
+      "options": null,
+      "answer": "3",
+      "explanation": "Set equations equal: <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>7</mn><mo>=</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>2</mn></math>. <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>9</mn><mo>=</mo><mn>0</mn></math>. This is <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>0</mn></math>, so <math><mi>x</mi><mo>=</mo><mn>3</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When a line is tangent to a parabola, the resulting quadratic equation has exactly one solution.",
+      "additional_data": {
+        "numeric_format": "integer"
+      }
+    },
+    {
+  "question_number": 17,
+  "domain": "Problem-Solving and Data Analysis",
+  "skill": "Two-variable data: models and scatter-plots",
+  "difficulty": "Medium",
+  "question_type": "MCQ",
+  "question_chart_svg": "<svg width='350' height='300' viewBox='0 0 350 300' xmlns='http://www.w3.org/2000/svg'><rect width='350' height='300' fill='white'/><defs><marker id='arrowhead' markerWidth='10' markerHeight='7' refX='0' refY='3.5' orient='auto'><polygon points='0 0, 10 3.5, 0 7' fill='black'/></marker></defs><line x1='50' y1='250' x2='320' y2='250' stroke='black' stroke-width='2' marker-end='url(#arrowhead)'/><line x1='50' y1='250' x2='50' y2='30' stroke='black' stroke-width='2' marker-end='url(#arrowhead)'/><text x='185' y='290' font-family='Arial' font-size='14' text-anchor='middle'>Weight Attached (lbs)</text><text x='15' y='140' font-family='Arial' font-size='14' transform='rotate(-90,15,140)' text-anchor='middle'>Length of Spring (cm)</text><circle cx='80' cy='200' r='4' fill='black'/><circle cx='130' cy='160' r='4' fill='black'/><circle cx='180' cy='130' r='4' fill='black'/><circle cx='230' cy='90' r='4' fill='black'/><line x1='50' y1='230' x2='300' y2='30' stroke='blue' stroke-width='2' stroke-dasharray='5,5'/></svg>",
+  "question_chart_description": "A scatterplot showing a positive linear relationship between Weight Attached (x-axis) and Length of Spring (y-axis). A line of best fit starts at a y-intercept greater than 0 and rises steadily.",
+  "question": "The scatterplot above shows the relationship between the weight attached to a spring, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> pounds, and the total length of the spring, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> centimeters. The line of best fit for the data is given by the equation <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mn>0.8</mn><mi>x</mi><mo>+</mo><mn>12</mn></math>. Which of the following is the best interpretation of the number <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>0.8</mn></math> in this context?",
+  "options": {
+    "A": "The length of the spring when no weight is attached is 0.8 centimeters.",
+    "B": "The length of the spring increases by 0.8 centimeters for every 1 pound increase in weight.",
+    "C": "The length of the spring increases by 1 centimeter for every 0.8 pound increase in weight.",
+    "D": "The weight attached increases by 0.8 pounds for every 1 centimeter increase in length."
+  },
+  "answer": "B",
+  "explanation": "The equation of the line of best fit is in the slope-intercept form <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, where <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>m</mi></math> is the slope and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>b</mi></math> is the y-intercept. Here, <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>m</mi><mo>=</mo><mn>0.8</mn></math>. The slope represents the rate of change of the dependent variable (<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math>, Length) with respect to the independent variable (<math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>, Weight). Therefore, <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>0.8</mn></math> means the spring's length increases by 0.8 cm for every 1 lb of weight added. Option A refers to the y-intercept (<math xmlns='http://www.w3.org/1998/Math/MathML'><mn>12</mn></math>).",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "In linear models <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>: <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>m</mi></math> is the unit rate (change in <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> per 1 <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>), and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>b</mi></math> is the starting amount (value of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>y</mi></math> when <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi><mo>=</mo><mn>0</mn></math>).",
+  "additional_data": null
+},
+    {
+      "question_number": 18,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In triangle ABC, the measure of angle B is <math><mn>90</mn><mo>°</mo></math>. If <math><mi>sin</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac></math>, what is the value of <math><mi>cos</mi><mo>(</mo><mi>C</mi><mo>)</mo></math>?",
+      "options": null,
+      "answer": "0.6",
+      "explanation": "In a right triangle, the sine of one acute angle is equal to the cosine of the other acute angle: <math><mi>sin</mi><mo>(</mo><mi>A</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>-</mo><mi>A</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mi>C</mi><mo>)</mo></math>. Thus, <math><mi>cos</mi><mo>(</mo><mi>C</mi><mo>)</mo><mo>=</mo><mfrac><mn>3</mn><mn>5</mn></mfrac><mo>=</mo><mn>0.6</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "The complementary angle theorem states that <math><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>cos</mi><mo>(</mo><mn>90</mn><mo>°</mo><mo>-</mo><mi>x</mi><mo>)</mo></math>.",
+      "additional_data": {
+        "numeric_format": "decimal"
+      }
+    },
+    {
+  "question_number": 19,
+  "domain": "Algebra",
+  "skill": "Linear equations in 1 variable",
+  "difficulty": "Hard",
+  "question_type": "MCQ",
+  "question_chart_svg": null,
+  "question_chart_description": null,
+  "question": "In the equation <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mo>(</mo><mi>k</mi><mi>x</mi><mo>-</mo><mn>2</mn><mo>)</mo><mo>+</mo><mn>5</mn><mo>=</mo><mn>12</mn><mi>x</mi><mo>+</mo><mi>n</mi></math>, constants <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi></math> and <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>n</mi></math> are real numbers. If the equation has infinitely many solutions for <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>, what is the value of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi><mi>n</mi></math>?",
+  "options": {
+    "A": "-4",
+    "B": "-3",
+    "C": "4",
+    "D": "12"
+  },
+  "answer": "A",
+  "explanation": "For a linear equation to have infinitely many solutions, the expressions on both sides of the equal sign must be identical (an identity). This means the coefficient of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> on the left must equal the coefficient of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math> on the right, and the constant term on the left must equal the constant term on the right.<br><br>1. <strong>Simplify the left side:</strong><br>Distribute the 3: <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mo>(</mo><mi>k</mi><mi>x</mi><mo>)</mo><mo>-</mo><mn>3</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>+</mo><mn>5</mn></math><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mi>k</mi><mi>x</mi><mo>-</mo><mn>6</mn><mo>+</mo><mn>5</mn></math><br>Combine constants: <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mi>k</mi><mi>x</mi><mo>-</mo><mn>1</mn></math><br><br>2. <strong>Set up the identity:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mi>k</mi><mi>x</mi><mo>-</mo><mn>1</mn><mo>=</mo><mn>12</mn><mi>x</mi><mo>+</mo><mi>n</mi></math><br><br>3. <strong>Equate coefficients and constants:</strong><br>- Coefficients of <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>x</mi></math>: <math xmlns='http://www.w3.org/1998/Math/MathML'><mn>3</mn><mi>k</mi><mo>=</mo><mn>12</mn></math> <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>⇒</mo></math> <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi><mo>=</mo><mn>4</mn></math><br>- Constant terms: <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>-</mo><mn>1</mn><mo>=</mo><mi>n</mi></math> <math xmlns='http://www.w3.org/1998/Math/MathML'><mo>⇒</mo></math> <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>n</mi><mo>=</mo><mo>-</mo><mn>1</mn></math><br><br>4. <strong>Calculate <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi><mi>n</mi></math>:</strong><br><math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k</mi><mi>n</mi><mo>=</mo><mo>(</mo><mn>4</mn><mo>)</mo><mo>(</mo><mo>-</mo><mn>1</mn><mo>)</mo><mo>=</mo><mo>-</mo><mn>4</mn></math>.",
+  "explanation_chart_svg": null,
+  "explanation_chart_description": null,
+  "score_improvement_tip": "When an equation has 'infinitely many solutions,' it means the lines are identical. Simplify both sides and set the slope term equal to the slope term, and the constant term equal to the constant term.",
+  "additional_data": null
+},
+    {
+      "question_number": 20,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "An exponential function <math><mi>g</mi></math> is defined by <math><mi>g</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>x</mi></msup></math>, where <math><mi>a</mi></math> and <math><mi>b</mi></math> are constants. If <math><mi>g</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mn>5</mn></math> and <math><mi>g</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>80</mn></math>, what is the value of <math><mi>b</mi></math>?",
+      "options": null,
+      "answer": "4",
+      "explanation": "<math><mi>g</mi><mo>(</mo><mn>0</mn><mo>)</mo><mo>=</mo><mi>a</mi><msup><mi>b</mi><mn>0</mn></msup><mo>=</mo><mn>5</mn></math>, so <math><mi>a</mi><mo>=</mo><mn>5</mn></math>. Then <math><mi>g</mi><mo>(</mo><mn>2</mn><mo>)</mo><mo>=</mo><mn>5</mn><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>80</mn></math>. <math><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><mn>16</mn></math>. Since the base of an exponential function must be positive, <math><mi>b</mi><mo>=</mo><mn>4</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "In <math><mi>y</mi><mo>=</mo><mi>a</mi><msup><mi>b</mi><mi>x</mi></msup></math>, <math><mi>a</mi></math> is always the y-intercept (the value when x = 0).",
+      "additional_data": {
+        "numeric_format": "integer"
+      }
+    }
+  ]
+}

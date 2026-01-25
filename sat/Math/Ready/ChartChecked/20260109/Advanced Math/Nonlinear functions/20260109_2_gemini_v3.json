@@ -260,7 +260,7 @@
       "question_type": "SPR",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "The system of equations below has no solution. What is the value of <math><mi>k</mi></math>?\n<math><mi>k</mi><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>12</mn></math>\n<math><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>20</mn></math>",
+      "question": "The system of equations below has no solution. What is the value of <math><mi>k</mi></math>?<br><math><mi>k</mi><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>12</mn></math><br><math><mn>4</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>=</mo><mn>20</mn></math>",
       "options": null,
       "answer": "2",
       "explanation": "For a system to have no solution, the lines must be parallel, meaning their slopes are equal but intercepts differ. Rewrite the second equation: <math><mn>6</mn><mi>y</mi><mo>=</mo><mo>−</mo><mn>4</mn><mi>x</mi><mo>+</mo><mn>20</mn></math> -> <math><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mfrac><mn>10</mn><mn>3</mn></mfrac></math>. The slope is <math><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math>. The first equation is <math><mn>3</mn><mi>y</mi><mo>=</mo><mo>−</mo><mi>k</mi><mi>x</mi><mo>+</mo><mn>12</mn></math> -> <math><mi>y</mi><mo>=</mo><mo>−</mo><mfrac><mi>k</mi><mn>3</mn></mfrac><mi>x</mi><mo>+</mo><mn>4</mn></math>. Equating slopes: <math><mo>−</mo><mfrac><mi>k</mi><mn>3</mn></mfrac><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math> implies <math><mi>k</mi><mo>=</mo><mn>2</mn></math>.",

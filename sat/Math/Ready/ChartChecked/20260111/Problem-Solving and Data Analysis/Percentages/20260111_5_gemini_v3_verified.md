@@ -1,0 +1,505 @@
+# Math Test JSON Verification Report
+
+## Summary
+
+* **Total Questions:** 20
+* **Issues Found:** 4
+* **Critical Errors:** 2
+* **Minor Issues/Warnings:** 2
+
+## Detailed Issue Log
+
+| Q# | Category | Issue Description | Proposed Correction |
+| --- | --- | --- | --- |
+| Metadata | Metadata Inconsistency | The `focus_skills` list in `test_metadata` is incomplete. It lists only 5 skills, whereas the questions cover 14 distinct skills (e.g., "Circles", "Probability", "Right triangles" are missing). | Update `focus_skills` to include all skills present in the question set. |
+| Metadata | Metadata Inconsistency | `question_type_distribution` lists 15 MCQs and 5 SPRs, but the actual count is 14 MCQs and 6 SPRs. | Update `question_type_distribution` to `{"multiple_choice": 14, "student_produced_response": 6}`. |
+| 13 | Explanation Flaw / Content Error | The explanation contains "scratchpad" thinking (e.g., "Wait, let's recheck options...", "Is there a trick? No."). It also proposes changing the question to a new equation but fails to update the `question` field in the JSON. The logic ends with a sum of 0, but the `answer` key is set to "C" (1.5). | 1. Update the `question` text to the new equation derived in the scratchpad: .<br><br>2. Change `answer` to "B" (0).<br><br>3. Rewrite the `explanation` to be a clean, direct mathematical derivation of the solution. |
+| 13 | Mathematical Error | The original question text  has a solution of  (sum=1), which does not match the Answer "C" (1.5) or the scratchpad's final conclusion of 0. | (Resolved by the correction above which standardizes the question and answer to the consistent "Sum = 0" version). |
+
+## Metadata Consistency Findings
+
+* The `focus_domains` list was accurate.
+* The `difficulty_distribution` was accurate.
+* The `question_type_distribution` was inaccurate (corrected).
+* The `focus_skills` list was significantly incomplete (corrected).
+
+---
+
+# Corrected JSON File
+
+```json
+{
+  "test_metadata": {
+    "focus_domains": [
+      "Algebra",
+      "Advanced Math",
+      "Problem-Solving and Data Analysis",
+      "Geometry and Trigonometry"
+    ],
+    "focus_skills": [
+      "Linear equations in 1 variable",
+      "Percentages",
+      "One-variable data: distributions and measures of center and spread",
+      "Area and volume formulas",
+      "Systems of 2 linear equations in 2 variables",
+      "Equivalent expressions",
+      "Two-variable data: models and scatter-plots",
+      "Probability and conditional probability",
+      "Nonlinear functions",
+      "Right triangles and trigonometry",
+      "Linear inequalities in 1 or 2 variables",
+      "Nonlinear equations in 1 variable",
+      "Inference from sample statistics and margin of error",
+      "Circles"
+    ],
+    "total_questions": 20,
+    "difficulty_distribution": {
+      "easy": 4,
+      "medium": 6,
+      "hard": 10
+    },
+    "question_type_distribution": {
+      "multiple_choice": 14,
+      "student_produced_response": 6
+    }
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "domain": "Algebra",
+      "skill": "Linear equations in 1 variable",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mn>4</mn><mi>x</mi><mo>-</mo><mn>9</mn><mo>=</mo><mn>11</mn></math>, what is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5",
+        "D": "20"
+      },
+      "answer": "C",
+      "explanation": "Add 9 to both sides of the equation: <math><mn>4</mn><mi>x</mi><mo>=</mo><mn>20</mn></math>. Divide both sides by 4: <math><mi>x</mi><mo>=</mo><mn>5</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Isolate the variable term first by performing inverse operations on the constants.",
+      "additional_data": null
+    },
+    {
+      "question_number": 2,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Percentages",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A biology class consists of 25 students. If 20% of the students are majoring in Botany, how many students in the class are majoring in Botany?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "50"
+      },
+      "answer": "A",
+      "explanation": "To find 20% of 25, multiply 25 by the decimal equivalent of 20%, which is 0.20. <math><mn>25</mn><mo>×</mo><mn>0.20</mn><mo>=</mo><mn>5</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Translate 'percent of' directly to multiplication by a decimal: 20% of x becomes 0.20x.",
+      "additional_data": null
+    },
+    {
+      "question_number": 3,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "One-variable data: distributions and measures of center and spread",
+      "difficulty": "Easy",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='250' x2='350' y2='250' stroke='black' stroke-width='2'/><line x1='50' y1='250' x2='50' y2='20' stroke='black' stroke-width='2'/><text x='10' y='30' font-family='Arial' font-size='12'>10</text><text x='10' y='76' font-family='Arial' font-size='12'>8</text><text x='10' y='122' font-family='Arial' font-size='12'>6</text><text x='10' y='168' font-family='Arial' font-size='12'>4</text><text x='10' y='214' font-family='Arial' font-size='12'>2</text><text x='10' y='250' font-family='Arial' font-size='12'>0</text><rect x='70' y='135' width='40' height='115' fill='#4a90e2'/><text x='80' y='270' font-family='Arial' font-size='12'>Mon</text><rect x='130' y='66' width='40' height='184' fill='#4a90e2'/><text x='140' y='270' font-family='Arial' font-size='12'>Tue</text><rect x='190' y='158' width='40' height='92' fill='#4a90e2'/><text x='200' y='270' font-family='Arial' font-size='12'>Wed</text><rect x='250' y='112' width='40' height='138' fill='#4a90e2'/><text x='260' y='270' font-family='Arial' font-size='12'>Thu</text><text x='150' y='290' font-family='Arial' font-size='14' font-weight='bold'>Books Sold</text></svg>",
+      "question_chart_description": "Bar chart showing books sold over four days. Monday: 5, Tuesday: 8, Wednesday: 4, Thursday: 6.",
+      "question": "The bar chart shows the number of books sold by a small bookstore from Monday to Thursday. What is the total number of books sold over these four days?",
+      "options": {
+        "A": "18",
+        "B": "21",
+        "C": "23",
+        "D": "25"
+      },
+      "answer": "C",
+      "explanation": "Read the values from the height of each bar: Monday = 5, Tuesday = 8, Wednesday = 4, Thursday = 6. Sum them up: <math><mn>5</mn><mo>+</mo><mn>8</mn><mo>+</mo><mn>4</mn><mo>+</mo><mn>6</mn><mo>=</mo><mn>23</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When interpreting bar charts, carefully trace the top of each bar to the y-axis to ensure you read the correct value.",
+      "additional_data": null
+    },
+    {
+      "question_number": 4,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Area and volume formulas",
+      "difficulty": "Easy",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A rectangular swimming pool has a length of 12 meters, a width of 5 meters, and a depth of 2 meters. What is the volume of the pool in cubic meters?",
+      "options": null,
+      "answer": "120",
+      "explanation": "The volume <math><mi>V</mi></math> of a rectangular prism is calculated as <math><mi>V</mi><mo>=</mo><mi>l</mi><mo>×</mo><mi>w</mi><mo>×</mo><mi>h</mi></math>. Substituting the given values: <math><mi>V</mi><mo>=</mo><mn>12</mn><mo>×</mo><mn>5</mn><mo>×</mo><mn>2</mn><mo>=</mo><mn>120</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Memorize the volume formulas for common shapes like prisms, cylinders, and spheres.",
+      "additional_data": null
+    },
+    {
+      "question_number": 5,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The system of equations below is satisfied by the ordered pair <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>.<br><math><mtable><mtr><mtd><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>14</mn></mtd></mtr><mtr><mtd><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>4</mn></mtd></mtr></mtable></math><br>What is the value of <math><mi>x</mi></math>?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "10"
+      },
+      "answer": "C",
+      "explanation": "Add the two equations together to eliminate <math><mi>y</mi></math>: <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>)</mo><mo>+</mo><mo>(</mo><mi>x</mi><mo>-</mo><mi>y</mi><mo>)</mo><mo>=</mo><mn>14</mn><mo>+</mo><mn>4</mn></math>, which simplifies to <math><mn>3</mn><mi>x</mi><mo>=</mo><mn>18</mn></math>. Dividing by 3 gives <math><mi>x</mi><mo>=</mo><mn>6</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When coefficients of a variable are opposites (like +y and -y), adding the equations is the fastest method.",
+      "additional_data": null
+    },
+    {
+      "question_number": 6,
+      "domain": "Advanced Math",
+      "skill": "Equivalent expressions",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "Which of the following is equivalent to the expression <math><mo>(</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>5</mn><mo>)</mo><mo>(</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>5</mn><mo>)</mo></math>?",
+      "options": {
+        "A": "4x^2 - 25",
+        "B": "4x^2 - 10x - 25",
+        "C": "2x^2 - 25",
+        "D": "4x^2 + 25"
+      },
+      "answer": "A",
+      "explanation": "This follows the difference of squares pattern <math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><mo>(</mo><mi>a</mi><mo>-</mo><mi>b</mi><mo>)</mo><mo>=</mo><msup><mi>a</mi><mn>2</mn></msup><mo>-</mo><msup><mi>b</mi><mn>2</mn></msup></math>. Here <math><mi>a</mi><mo>=</mo><mn>2</mn><mi>x</mi></math> and <math><mi>b</mi><mo>=</mo><mn>5</mn></math>. Squaring both terms gives <math><msup><mrow><mo>(</mo><mn>2</mn><mi>x</mi><mo>)</mo></mrow><mn>2</mn></msup><mo>-</mo><msup><mn>5</mn><mn>2</mn></msup><mo>=</mo><mn>4</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>25</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Recognize the 'Difference of Squares' pattern instantly to save time on algebraic expansion.",
+      "additional_data": null
+    },
+    {
+      "question_number": 7,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Two-variable data: models and scatter-plots",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><line x1='40' y1='260' x2='360' y2='260' stroke='black' stroke-width='2'/><line x1='40' y1='260' x2='40' y2='20' stroke='black' stroke-width='2'/><text x='180' y='290' font-family='Arial' font-size='12'>Hours Studied</text><text x='10' y='150' transform='rotate(-90 10,150)' font-family='Arial' font-size='12'>Test Score</text><circle cx='80' cy='220' r='3' fill='black'/><circle cx='110' cy='200' r='3' fill='black'/><circle cx='150' cy='170' r='3' fill='black'/><circle cx='200' cy='140' r='3' fill='black'/><circle cx='250' cy='110' r='3' fill='black'/><circle cx='290' cy='90' r='3' fill='black'/><circle cx='340' cy='60' r='3' fill='black'/><line x1='40' y1='246' x2='360' y2='46' stroke='red' stroke-dasharray='5,5' stroke-width='2'/></svg>",
+      "question_chart_description": "Scatterplot with hours studied on x-axis and test score on y-axis, showing a strong positive linear correlation. A line of best fit is shown.",
+      "question": "The scatterplot shows the relationship between hours studied and test scores for a group of students. A line of best fit is also shown. Which of the following is the best estimate for the slope of the line of best fit?",
+      "options": {
+        "A": "-5",
+        "B": "0.5",
+        "C": "5",
+        "D": "50"
+      },
+      "answer": "C",
+      "explanation": "Looking at the line, for every increase in hours (x), the score (y) goes up significantly. By visual approximation, an increase of 1 hour typically corresponds to an increase of about 5-10 points. 0.5 is too shallow, 50 is too steep, and -5 is negative (slope is positive). A slope of 5 is the most reasonable estimate.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To estimate slope from a graph, pick two points on the line of best fit and calculate rise over run.",
+      "additional_data": null
+    },
+    {
+      "question_number": 8,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Probability and conditional probability",
+      "difficulty": "Medium",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The table below summarizes the results of a survey about preferred travel destinations.<br><br>| | Beach | Mountain | Total |<br>|---|---|---|---|<br>| Adults | 45 | 30 | 75 |<br>| Children | 25 | 50 | 75 |<br>| Total | 70 | 80 | 150 |<br><br>If a person is selected at random from those who prefer the Mountain, what is the probability that the person is an adult?",
+      "options": {
+        "A": "30/150",
+        "B": "30/75",
+        "C": "30/80",
+        "D": "75/150"
+      },
+      "answer": "C",
+      "explanation": "The condition 'from those who prefer the Mountain' limits the denominator to the Mountain column total, which is 80. The number of adults in this category is 30. Thus, the probability is <math><mfrac><mn>30</mn><mn>80</mn></mfrac></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Pay close attention to the 'given' condition or the specific group mentioned (e.g., 'of those who prefer mountains') to determine the correct denominator.",
+      "additional_data": null
+    },
+    {
+      "question_number": 9,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A population of bacteria doubles every 3 hours. If the initial population is 100, what will the population be after 9 hours?",
+      "options": null,
+      "answer": "800",
+      "explanation": "The growth can be modeled as <math><mn>100</mn><mo>×</mo><msup><mn>2</mn><mi>n</mi></msup></math>, where <math><mi>n</mi></math> is the number of doubling periods. In 9 hours, there are <math><mfrac><mn>9</mn><mn>3</mn></mfrac><mo>=</mo><mn>3</mn></math> doubling periods. The population is <math><mn>100</mn><mo>×</mo><msup><mn>2</mn><mn>3</mn></msup><mo>=</mo><mn>100</mn><mo>×</mo><mn>8</mn><mo>=</mo><mn>800</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "For exponential growth, determine the number of time periods (t/k) and apply it as the exponent to the growth factor.",
+      "additional_data": null
+    },
+    {
+      "question_number": 10,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Right triangles and trigonometry",
+      "difficulty": "Medium",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><polygon points='50,150 250,150 50,50' fill='none' stroke='black' stroke-width='2'/><rect x='50' y='130' width='20' height='20' fill='none' stroke='black'/><text x='150' y='170' font-family='Arial' font-size='14'>12</text><text x='20' y='100' font-family='Arial' font-size='14'>5</text><text x='160' y='90' font-family='Arial' font-size='14'>c</text></svg>",
+      "question_chart_description": "A right-angled triangle with vertical leg 5 and horizontal leg 12. Hypotenuse is labeled c.",
+      "question": "In the right triangle shown, the lengths of the legs are 5 and 12. What is the length of the hypotenuse, <math><mi>c</mi></math>?",
+      "options": null,
+      "answer": "13",
+      "explanation": "Using the Pythagorean theorem <math><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup></math>: <math><msup><mn>5</mn><mn>2</mn></msup><mo>+</mo><msup><mn>12</mn><mn>2</mn></msup><mo>=</mo><msup><mi>c</mi><mn>2</mn></msup></math>. <math><mn>25</mn><mo>+</mo><mn>144</mn><mo>=</mo><mn>169</mn></math>. <math><mi>c</mi><mo>=</mo><msqrt><mn>169</mn></msqrt><mo>=</mo><mn>13</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Remember common Pythagorean triples like 3-4-5, 5-12-13, and 8-15-17 to solve these without calculation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 11,
+      "domain": "Algebra",
+      "skill": "Linear inequalities in 1 or 2 variables",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A cargo truck has a maximum weight limit of 5,000 pounds. The truck carries a driver weighing 200 pounds and boxes that weigh 40 pounds each. If <math><mi>b</mi></math> represents the number of boxes, which inequality represents the maximum number of boxes the truck can carry safely?",
+      "options": {
+        "A": "40b + 200 < 5,000",
+        "B": "40b + 200 ≤ 5,000",
+        "C": "40b - 200 ≤ 5,000",
+        "D": "200b + 40 ≤ 5,000"
+      },
+      "answer": "B",
+      "explanation": "The total weight is the driver's weight plus the weight of the boxes: <math><mn>200</mn><mo>+</mo><mn>40</mn><mi>b</mi></math>. The limit is 5,000 pounds, and since it can equal the limit, we use <math><mo>≤</mo></math>. Thus, <math><mn>40</mn><mi>b</mi><mo>+</mo><mn>200</mn><mo>≤</mo><mn>5,000</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Pay attention to keywords like 'maximum' or 'at most' to determine whether to use < or ≤.",
+      "additional_data": null
+    },
+    {
+      "question_number": 12,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear functions",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'><line x1='200' y1='0' x2='200' y2='300' stroke='black' stroke-width='1'/><line x1='0' y1='150' x2='400' y2='150' stroke='black' stroke-width='1'/><path d='M 100 50 Q 200 250 300 50' fill='none' stroke='blue' stroke-width='2'/><text x='210' y='20' font-family='Arial' font-size='12'>y</text><text x='380' y='140' font-family='Arial' font-size='12'>x</text></svg>",
+      "question_chart_description": "Graph of a parabola opening upwards with its vertex at (0, -4) on a standard coordinate plane.",
+      "question": "The graph of the function <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>c</mi></math> is shown in the xy-plane. If the graph passes through the point <math><mo>(</mo><mn>2</mn><mo>,</mo><mn>0</mn><mo>)</mo></math> and the vertex is at <math><mo>(</mo><mn>0</mn><mo>,</mo><mo>-</mo><mn>4</mn><mo>)</mo></math>, what is the value of <math><mi>f</mi><mo>(</mo><mn>4</mn><mo>)</mo></math>?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "16",
+        "D": "20"
+      },
+      "answer": "B",
+      "explanation": "The vertex form is <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>a</mi><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></math>. Using the point <math><mo>(</mo><mn>2</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>: <math><mn>0</mn><mo>=</mo><mi>a</mi><msup><mrow><mo>(</mo><mn>2</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>-</mo><mn>4</mn></math> implies <math><mn>4</mn><mi>a</mi><mo>=</mo><mn>4</mn></math>, so <math><mi>a</mi><mo>=</mo><mn>1</mn></math>. The function is <math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn></math>. <math><mi>f</mi><mo>(</mo><mn>4</mn><mo>)</mo><mo>=</mo><msup><mn>4</mn><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>=</mo><mn>16</mn><mo>-</mo><mn>4</mn><mo>=</mo><mn>12</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Identify the vertex <math><mo>(</mo><mi>h</mi><mo>,</mo><mi>k</mi><mo>)</mo></math> first to establish the structure of the quadratic equation.",
+      "additional_data": null
+    },
+    {
+      "question_number": 13,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "What is the sum of the solutions to the equation <math><mfrac><mn>1</mn><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow></mfrac><mo>+</mo><mfrac><mn>1</mn><mrow><mi>x</mi><mo>-</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mn>3</mn><mi>x</mi></mfrac></math>?",
+      "options": {
+        "A": "-3",
+        "B": "0",
+        "C": "1.5",
+        "D": "9"
+      },
+      "answer": "B",
+      "explanation": "Multiply the entire equation by the least common denominator <math><mi>x</mi><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math> to eliminate the fractions: <math><mi>x</mi><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>+</mo><mi>x</mi><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo><mo>=</mo><mn>3</mn><mo>(</mo><mi>x</mi><mo>-</mo><mn>1</mn><mo>)</mo><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></math>. Expanding these terms yields: <math><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>x</mi><mo>+</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mi>x</mi><mo>=</mo><mn>3</mn><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>1</mn><mo>)</mo></math>. Simplify the left side to <math><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup></math> and the right side to <math><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn></math>. Rearranging gives <math><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>3</mn></math>, which simplifies to <math><msup><mi>x</mi><mn>2</mn></msup><mo>=</mo><mn>3</mn></math>. The solutions are <math><mi>x</mi><mo>=</mo><msqrt><mn>3</mn></msqrt></math> and <math><mi>x</mi><mo>=</mo><mo>-</mo><msqrt><mn>3</mn></msqrt></math>. The sum of these solutions is <math><msqrt><mn>3</mn></msqrt><mo>+</mo><mo>(</mo><mo>-</mo><msqrt><mn>3</mn></msqrt><mo>)</mo><mo>=</mo><mn>0</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "When solving rational equations, multiply the entire equation by the least common denominator to eliminate fractions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 14,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "One-variable data: distributions and measures of center and spread",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": "<svg width='400' height='200' viewBox='0 0 400 200' xmlns='http://www.w3.org/2000/svg'><text x='50' y='30' font-family='Arial' font-size='12' font-weight='bold'>Data Set A</text><line x1='50' y1='80' x2='350' y2='80' stroke='black'/><circle cx='100' cy='70' r='3' fill='blue'/><circle cx='110' cy='70' r='3' fill='blue'/><circle cx='120' cy='70' r='3' fill='blue'/><circle cx='200' cy='70' r='3' fill='blue'/><circle cx='280' cy='70' r='3' fill='blue'/><circle cx='290' cy='70' r='3' fill='blue'/><circle cx='300' cy='70' r='3' fill='blue'/><text x='50' y='130' font-family='Arial' font-size='12' font-weight='bold'>Data Set B</text><line x1='50' y1='180' x2='350' y2='180' stroke='black'/><circle cx='180' cy='170' r='3' fill='red'/><circle cx='190' cy='170' r='3' fill='red'/><circle cx='195' cy='170' r='3' fill='red'/><circle cx='200' cy='170' r='3' fill='red'/><circle cx='205' cy='170' r='3' fill='red'/><circle cx='210' cy='170' r='3' fill='red'/><circle cx='220' cy='170' r='3' fill='red'/></svg>",
+      "question_chart_description": "Two dot plots. Set A has values spread far apart (clustered at ends). Set B has values clustered tightly in the center.",
+      "question": "The dot plots show two data sets, A and B, which have the same mean. Which of the following statements correctly compares the standard deviation of data set A to the standard deviation of data set B?",
+      "options": {
+        "A": "The standard deviation of A is less than the standard deviation of B.",
+        "B": "The standard deviation of A is equal to the standard deviation of B.",
+        "C": "The standard deviation of A is greater than the standard deviation of B.",
+        "D": "There is not enough information to compare the standard deviations."
+      },
+      "answer": "C",
+      "explanation": "Standard deviation measures the spread of data around the mean. In Set A, points are far from the center (spread out). In Set B, points are clustered tightly in the middle. Therefore, Set A has a greater standard deviation.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Visually, if data points are clustered near the mean, the standard deviation is small; if they are pushed to the extremes, it is large.",
+      "additional_data": null
+    },
+    {
+      "question_number": 15,
+      "domain": "Problem-Solving and Data Analysis",
+      "skill": "Inference from sample statistics and margin of error",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "A poll of 1,000 likely voters shows that 52% plan to vote for Candidate X. The margin of error for this poll is 3% at a 95% confidence level. Which of the following is the best conclusion?",
+      "options": {
+        "A": "Exactly 52% of all voters will vote for Candidate X.",
+        "B": "There is a 95% probability that the true percentage of voters voting for Candidate X is between 49% and 55%.",
+        "C": "Candidate X will definitely win the election.",
+        "D": "If the poll were repeated, the result would definitely be 52% again."
+      },
+      "answer": "B",
+      "explanation": "A margin of error of 3% means the true population parameter is expected to be within <math><mn>52</mn><mo>%</mo><mo>±</mo><mn>3</mn><mo>%</mo></math> (i.e., 49% to 55%) with 95% confidence.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Margin of error describes the range of likely values for the population, not a guarantee of a specific future outcome.",
+      "additional_data": null
+    },
+    {
+      "question_number": 16,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "If <math><mo>|</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>5</mn><mo>|</mo><mo>+</mo><mn>4</mn><mo>=</mo><mn>1</mn></math>, how many distinct real solutions does the equation have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "answer": "A",
+      "explanation": "Isolate the absolute value: <math><mo>|</mo><mn>2</mn><mi>x</mi><mo>-</mo><mn>5</mn><mo>|</mo><mo>=</mo><mn>1</mn><mo>-</mo><mn>4</mn><mo>=</mo><mo>-</mo><mn>3</mn></math>. Since the absolute value of a real number is always non-negative (<math><mo>≥</mo><mn>0</mn></math>), it cannot equal -3. Thus, there are no real solutions.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Always isolate the absolute value expression first. If it equals a negative number, there are no solutions.",
+      "additional_data": null
+    },
+    {
+      "question_number": 17,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "MCQ",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "The equation of a circle in the xy-plane is given by <math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>11</mn></math>. What is the radius of the circle?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "11",
+        "D": "36"
+      },
+      "answer": "B",
+      "explanation": "Complete the square for x and y. <math><mo>(</mo><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mn>6</mn><mi>x</mi><mo>)</mo><mo>+</mo><mo>(</mo><msup><mi>y</mi><mn>2</mn></msup><mo>+</mo><mn>8</mn><mi>y</mi><mo>)</mo><mo>=</mo><mn>11</mn></math>. Add <math><msup><mrow><mo>(</mo><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>9</mn></math> and <math><msup><mn>4</mn><mn>2</mn></msup><mo>=</mo><mn>16</mn></math> to both sides. <math><msup><mrow><mo>(</mo><mi>x</mi><mo>-</mo><mn>3</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>+</mo><msup><mrow><mo>(</mo><mi>y</mi><mo>+</mo><mn>4</mn><mo>)</mo></mrow><mn>2</mn></msup><mo>=</mo><mn>11</mn><mo>+</mo><mn>9</mn><mo>+</mo><mn>16</mn><mo>=</mo><mn>36</mn></math>. The equation is <math><mo>(</mo><mi>x</mi><mo>-</mo><mi>h</mi><msup><mo>)</mo><mn>2</mn></msup><mo>+</mo><mo>(</mo><mi>y</mi><mo>-</mo><mi>k</mi><msup><mo>)</mo><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math>. Thus <math><msup><mi>r</mi><mn>2</mn></msup><mo>=</mo><mn>36</mn></math>, so <math><mi>r</mi><mo>=</mo><mn>6</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "To convert the expanded form of a circle's equation to standard form, complete the square for both variables.",
+      "additional_data": null
+    },
+    {
+      "question_number": 18,
+      "domain": "Algebra",
+      "skill": "Systems of 2 linear equations in 2 variables",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "In the system of linear equations <math><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>=</mo><mn>12</mn></math> and <math><mn>2</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>=</mo><mn>60</mn></math>, <math><mi>a</mi></math> and <math><mi>b</mi></math> are constants. If the system has infinitely many solutions, what is the value of <math><mfrac><mi>a</mi><mi>b</mi></mfrac></math>?",
+      "options": null,
+      "answer": ".25",
+      "explanation": "For infinitely many solutions, the equations must be proportional. Divide the second equation by 5: <math><mn>0.4</mn><mi>x</mi><mo>+</mo><mn>1.6</mn><mi>y</mi><mo>=</mo><mn>12</mn></math>. Comparing coefficients with <math><mi>a</mi><mi>x</mi><mo>+</mo><mi>b</mi><mi>y</mi><mo>=</mo><mn>12</mn></math>, we have <math><mi>a</mi><mo>=</mo><mn>0.4</mn></math> and <math><mi>b</mi><mo>=</mo><mn>1.6</mn></math>. The ratio <math><mfrac><mi>a</mi><mi>b</mi></mfrac><mo>=</mo><mfrac><mn>0.4</mn><mn>1.6</mn></mfrac><mo>=</mo><mn>0.25</mn></math>.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "If a system has infinite solutions, the lines are identical, meaning their coefficients are proportional.",
+      "additional_data": null
+    },
+    {
+      "question_number": 19,
+      "domain": "Advanced Math",
+      "skill": "Nonlinear equations in 1 variable",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": null,
+      "question_chart_description": null,
+      "question": "For the quadratic equation <math><mn>2</mn><msup><mi>x</mi><mn>2</mn></msup><mo>-</mo><mi>k</mi><mi>x</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn></math>, <math><mi>k</mi></math> is a constant. If the equation has exactly one real solution, what is the positive value of <math><mi>k</mi></math>?",
+      "options": null,
+      "answer": "8",
+      "explanation": "For exactly one real solution, the discriminant must be zero: <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi><mo>=</mo><mn>0</mn></math>. Here <math><mi>a</mi><mo>=</mo><mn>2</mn><mo>,</mo><mi>b</mi><mo>=</mo><mo>-</mo><mi>k</mi><mo>,</mo><mi>c</mi><mo>=</mo><mn>8</mn></math>. So <math><mo>(</mo><mo>-</mo><mi>k</mi><msup><mo>)</mo><mn>2</mn></msup><mo>-</mo><mn>4</mn><mo>(</mo><mn>2</mn><mo>)</mo><mo>(</mo><mn>8</mn><mo>)</mo><mo>=</mo><mn>0</mn></math>. <math><msup><mi>k</mi><mn>2</mn></msup><mo>-</mo><mn>64</mn><mo>=</mo><mn>0</mn></math>. <math><msup><mi>k</mi><mn>2</mn></msup><mo>=</mo><mn>64</mn></math>. <math><mi>k</mi><mo>=</mo><mn>8</mn></math> (since we want the positive value).",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Use the discriminant <math><msup><mi>b</mi><mn>2</mn></msup><mo>-</mo><mn>4</mn><mi>a</mi><mi>c</mi></math> to determine the number of solutions: >0 (2 real), =0 (1 real), <0 (0 real).",
+      "additional_data": null
+    },
+    {
+      "question_number": 20,
+      "domain": "Geometry and Trigonometry",
+      "skill": "Circles",
+      "difficulty": "Hard",
+      "question_type": "SPR",
+      "question_chart_svg": "<svg width='300' height='300' viewBox='0 0 300 300' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='150' r='100' stroke='black' stroke-width='2' fill='none'/><path d='M 150 150 L 250 150 A 100 100 0 0 0 181 55 Z' fill='#ccc' stroke='black' stroke-width='2'/><line x1='150' y1='150' x2='250' y2='150' stroke='black'/><line x1='150' y1='150' x2='181' y2='55' stroke='black'/><text x='165' y='140' font-family='Arial' font-size='12'>72°</text><text x='200' y='140' font-family='Arial' font-size='12'>10</text></svg>",
+      "question_chart_description": "A circle with radius 10. A sector is shaded defined by a central angle of 72 degrees.",
+      "question": "A circle has a radius of 10. An arc on this circle has a central angle of <math><mn>72</mn><mo>°</mo></math>. What is the length of this arc? (Answer in terms of <math><mi>\u03c0</mi></math>, enter the coefficient of <math><mi>\u03c0</mi></math>. For example, if the answer is <math><mn>5</mn><mi>\u03c0</mi></math>, enter 5)",
+      "options": null,
+      "answer": "4",
+      "explanation": "Arc length <math><mi>L</mi></math> is fraction of the circumference: <math><mfrac><mi>\u03b8</mi><mn>360</mn></mfrac><mo>×</mo><mn>2</mn><mi>\u03c0</mi><mi>r</mi></math>. <math><mfrac><mn>72</mn><mn>360</mn></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac></math>. Circumference <math><mo>=</mo><mn>2</mn><mi>\u03c0</mi><mo>(</mo><mn>10</mn><mo>)</mo><mo>=</mo><mn>20</mn><mi>\u03c0</mi></math>. Arc length <math><mo>=</mo><mfrac><mn>1</mn><mn>5</mn></mfrac><mo>×</mo><mn>20</mn><mi>\u03c0</mi><mo>=</mo><mn>4</mn><mi>\u03c0</mi></math>. Enter 4.",
+      "explanation_chart_svg": null,
+      "explanation_chart_description": null,
+      "score_improvement_tip": "Arc length is simply the circumference multiplied by the ratio of the central angle to 360 degrees.",
+      "additional_data": null
+    }
+  ]
+}
+
+```
+
+---
+
+# SAT Math Question Difficulty Audit
+
+## 1. Difficulty Distribution Summary
+
+| Metric | Easy | Medium | Hard |
+| --- | --- | --- | --- |
+| **Declared Distribution** | 4 | 6 | 10 |
+| **Audited Distribution** | 4 | 8 | 8 |
+| **Alignment Score** | **90%** (18/20 questions correctly labeled) |  |  |
+
+## 2. Mislabeled Questions Log
+
+| Q# | Assigned Difficulty | Assessed Difficulty | Reason for Reclassification |
+| --- | --- | --- | --- |
+| **11** | Hard | **Medium** | The problem requires a direct translation of a text scenario into a linear inequality (). While it involves interpreting "maximum," it does not require complex solving, abstract reasoning, or multi-stage logic characteristic of "Hard" questions. It is a standard "modeling" task. |
+| **20** | Hard | **Medium** | Calculating arc length given a central angle in degrees is a direct application of a standard formula (). Unlike Q17 (Completing the Square) or Q19 (Discriminant analysis), this question relies on routine recall and calculation without deeper conceptual manipulation. |
+
+## 3. Detailed Analysis
+
+* **Well-Calibrated Hard Questions (Q12, Q13, Q16, Q19):** These questions successfully hit the "Hard" benchmark by requiring students to integrate multiple concepts (e.g., vertex form + system solving) or recognize subtle constraints (e.g., absolute value outputs must be non-negative).
+* **Solid Medium Tier (Q5, Q7, Q9):** The Medium questions appropriately bridge the gap; they aren't one-step solutions like the Easy tier, but the path to the solution is generally visible from the start (e.g., elimination for systems, estimating slope).
+* **Easy Tier Consistency:** Questions 1-4 are excellent examples of "Easy" items, focusing on single-step operations or direct reading of data/formulas with zero distractors.

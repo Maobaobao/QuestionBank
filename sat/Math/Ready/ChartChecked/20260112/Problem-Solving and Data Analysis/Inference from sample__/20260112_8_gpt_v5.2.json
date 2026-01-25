@@ -315,7 +315,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "A company wants to estimate the proportion of its customers who would be interested in a new subscription service. The company considers three different sampling plans.\nPlan <math><mn>1</mn></math>: Survey customers who visit the company\u2019s website during one day.\nPlan <math><mn>2</mn></math>: Survey a simple random sample of customers from a list of all customers.\nPlan <math><mn>3</mn></math>: Survey customers who respond to an email invitation asking for feedback about the new service.\nWhich plan is most appropriate for making an inference about the proportion of all customers who would be interested in the new subscription service?",
+      "question": "A company wants to estimate the proportion of its customers who would be interested in a new subscription service. The company considers three different sampling plans.<br>Plan <math><mn>1</mn></math>: Survey customers who visit the company\u2019s website during one day.<br>Plan <math><mn>2</mn></math>: Survey a simple random sample of customers from a list of all customers.<br>Plan <math><mn>3</mn></math>: Survey customers who respond to an email invitation asking for feedback about the new service.<br>Which plan is most appropriate for making an inference about the proportion of all customers who would be interested in the new subscription service?",
       "options": {
         "A": "Plan <math><mn>1</mn></math>, because only current website visitors are likely to use the service.",
         "B": "Plan <math><mn>2</mn></math>, because a simple random sample of all customers is most representative.",

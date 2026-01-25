@@ -28,7 +28,7 @@
     },
     {
       "passage_number": 6,
-      "text": "Thanks to this creative revolution, the coming medical breakthroughs won’t just offer longer lives but fuller ones, enriched by all the art, music, literature, film, and games created by humanity during those extra years. Most important, you’ll share all this with the people you love most. Imagine being healthy as you watch your great-grandchildren grow into adults! And material abundance will ease economic pressures and afford families the quality time together they’ve long yearned for.\n\nThis is the profound leap that awaits us—a future where our technological wonders don’t diminish our humanity but allow it to flourish."
+      "text": "Thanks to this creative revolution, the coming medical breakthroughs won’t just offer longer lives but fuller ones, enriched by all the art, music, literature, film, and games created by humanity during those extra years. Most important, you’ll share all this with the people you love most. Imagine being healthy as you watch your great-grandchildren grow into adults! And material abundance will ease economic pressures and afford families the quality time together they’ve long yearned for.<br><br>This is the profound leap that awaits us—a future where our technological wonders don’t diminish our humanity but allow it to flourish."
     }
   ],
   "questions": [
@@ -165,7 +165,7 @@
         "C": "Kids study for colleges and jobs, making learning essential in a technical society",
         "D": "Ancient Greeks emphasized virtue, while Enlightenment thinkers focused on economic success"
       },
-      "question": "While researching a topic, a student has taken the following notes:\n- Ancient Greeks to Enlightenment: education to nourish mind and cultivate virtue.\n- Industrial Revolution: reframed as training for economic success.\n- Today: study for instrumental reasons (college, grad school, job).\n- Result: deadens natural curiosity and love of learning.",
+      "question": "While researching a topic, a student has taken the following notes:<br>- Ancient Greeks to Enlightenment: education to nourish mind and cultivate virtue.<br>- Industrial Revolution: reframed as training for economic success.<br>- Today: study for instrumental reasons (college, grad school, job).<br>- Result: deadens natural curiosity and love of learning.",
       "answer": "A",
       "explanation": "This choice synthesizes the contrast between historical and modern education, emphasizing how the shift deadens curiosity.",
       "score_improvement_tip": "Synthesize notes to support the goal by selecting and combining details that highlight contrasts or effects."

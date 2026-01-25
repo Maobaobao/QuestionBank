@@ -355,7 +355,7 @@
         "D": "<math><mn>0.90</mn></math>"
       },
       "answer": "A",
-      "explanation": "Assume 1000 people. Disease: 10 people. No Disease: 990. \nPositives: <math><mn>0.9</mn><mo>×</mo><mn>10</mn><mo>=</mo><mn>9</mn></math> (True Pos). <math><mn>0.05</mn><mo>×</mo><mn>990</mn><mo>=</mo><mn>49.5</mn></math> (False Pos). Total Pos = <math><58.5</mn></math>. <math><mi>P</mi><mo>(</mo><mtext>Disease</mtext><mo>|</mo><mtext>Pos</mtext><mo>)</mo><mo>=</mo><mfrac><mn>9</mn><mn>58.5</mn></mfrac><mo>&#8776;</mo><mn>0.15</mn></math>.",
+      "explanation": "Assume 1000 people. Disease: 10 people. No Disease: 990. <br>Positives: <math><mn>0.9</mn><mo>×</mo><mn>10</mn><mo>=</mo><mn>9</mn></math> (True Pos). <math><mn>0.05</mn><mo>×</mo><mn>990</mn><mo>=</mo><mn>49.5</mn></math> (False Pos). Total Pos = <math><58.5</mn></math>. <math><mi>P</mi><mo>(</mo><mtext>Disease</mtext><mo>|</mo><mtext>Pos</mtext><mo>)</mo><mo>=</mo><mfrac><mn>9</mn><mn>58.5</mn></mfrac><mo>&#8776;</mo><mn>0.15</mn></math>.",
       "explanation_chart_svg": null,
       "explanation_chart_description": null,
       "score_improvement_tip": "Use a hypothetical population (e.g., 1000) to build a contingency table for these types of problems.",

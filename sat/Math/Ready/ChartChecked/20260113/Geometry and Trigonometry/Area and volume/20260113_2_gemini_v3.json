@@ -159,7 +159,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "The system of equations below has exactly one solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>.\n<math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>16</mn></math>\n<math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math>\nWhat is the value of <math><mi>x</mi></math>?",
+      "question": "The system of equations below has exactly one solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>.<br><math><mn>3</mn><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>16</mn></math><br><math><mi>y</mi><mo>=</mo><mi>x</mi><mo>+</mo><mn>3</mn></math><br>What is the value of <math><mi>x</mi></math>?",
       "options": {
         "A": "2",
         "B": "3",

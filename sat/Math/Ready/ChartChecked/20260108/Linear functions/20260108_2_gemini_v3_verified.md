@@ -283,7 +283,7 @@
       "skill": "Systems of 2 linear equations in 2 variables",
       "difficulty": "Hard",
       "question_type": "MCQ",
-      "question": "Consider the system of equations below, where <math><mi>k</mi></math> is a constant.\n<math><mi>k</mi><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>10</mn></math>\n<math><mn>4</mn><mi>x</mi><mo>-</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>7</mn></math>\nIf the system has no solution, what is the value of <math><mi>k</mi></math>?",
+      "question": "Consider the system of equations below, where <math><mi>k</mi></math> is a constant.<br><math><mi>k</mi><mi>x</mi><mo>-</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>10</mn></math><br><math><mn>4</mn><mi>x</mi><mo>-</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>7</mn></math><br>If the system has no solution, what is the value of <math><mi>k</mi></math>?",
       "question_chart_svg": null,
       "question_chart_description": null,
       "options": {

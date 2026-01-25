@@ -282,7 +282,7 @@
   "question_type": "MCQ",
   "question_chart_svg": null,
   "question_chart_description": null,
-  "question": "The table below shows values for a linear function <math><mi>f</mi></math>. What is the x-intercept of the graph of <math><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>?\n\n<table border='1' style='border-collapse: collapse; text-align: center;'><tr><th style='padding: 5px;'>x</th><td style='padding: 5px;'>0</td><td style='padding: 5px;'>2</td></tr><tr><th style='padding: 5px;'>f(x)</th><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-2</td></tr></table>",
+  "question": "The table below shows values for a linear function <math><mi>f</mi></math>. What is the x-intercept of the graph of <math><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>?<br><br><table border='1' style='border-collapse: collapse; text-align: center;'><tr><th style='padding: 5px;'>x</th><td style='padding: 5px;'>0</td><td style='padding: 5px;'>2</td></tr><tr><th style='padding: 5px;'>f(x)</th><td style='padding: 5px;'>2</td><td style='padding: 5px;'>-2</td></tr></table>",
   "options": {
     "A": "<math><mo>(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>",
     "B": "<math><mo>(</mo><mn>0.5</mn><mo>,</mo><mn>0</mn><mo>)</mo></math>",

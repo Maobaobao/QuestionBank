@@ -127,7 +127,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "The system of equations below is defined as follows:\n<math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>4</mn></math>\n<math><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>7</mn></math>\nWhat is the value of <math><mi>x</mi></math> in the solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math> to the system?",
+      "question": "The system of equations below is defined as follows:<br><math><mn>2</mn><mi>x</mi><mo>-</mo><mi>y</mi><mo>=</mo><mn>4</mn></math><br><math><mi>x</mi><mo>+</mo><mn>2</mn><mi>y</mi><mo>=</mo><mn>7</mn></math><br>What is the value of <math><mi>x</mi></math> in the solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math> to the system?",
       "options": {
         "A": "1",
         "B": "2",
@@ -332,7 +332,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "How many distinct real solutions does the following system of equations have?\n<math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>5</mn></math>\n<math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>",
+      "question": "How many distinct real solutions does the following system of equations have?<br><math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><mn>3</mn><mi>x</mi><mo>+</mo><mn>5</mn></math><br><math><mi>y</mi><mo>=</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn></math>",
       "options": {
         "A": "0",
         "B": "1",
@@ -356,10 +356,10 @@
       "question_chart_description": null,
       "question": "A cargo truck carries boxes of type A and boxes of type B. Type A boxes weigh 40 pounds each, and Type B boxes weigh 65 pounds each. The truck can carry a maximum weight of 2,000 pounds and a maximum of 40 boxes. Let <math><mi>a</mi></math> be the number of Type A boxes and <math><mi>b</mi></math> be the number of Type B boxes. Which system of inequalities represents this situation?",
       "options": {
-        "A": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≤</mo><mn>40</mn></math><br/><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>2000</mn></math>",
-        "B": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≥</mo><mn>40</mn></math><br/><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>2000</mn></math>",
-        "C": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≤</mo><mn>40</mn></math><br/><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≥</mo><mn>2000</mn></math>",
-        "D": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≥</mo><mn>2000</mn></math><br/><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>40</mn></math>"
+        "A": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≤</mo><mn>40</mn></math><br><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>2000</mn></math>",
+        "B": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≥</mo><mn>40</mn></math><br><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>2000</mn></math>",
+        "C": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≤</mo><mn>40</mn></math><br><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≥</mo><mn>2000</mn></math>",
+        "D": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≥</mo><mn>2000</mn></math><br><math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>40</mn></math>"
       },
       "answer": "A",
       "explanation": "The constraint on the number of boxes is <math><mi>a</mi><mo>+</mo><mi>b</mi><mo>≤</mo><mn>40</mn></math>. The constraint on weight is <math><mn>40</mn><mi>a</mi><mo>+</mo><mn>65</mn><mi>b</mi><mo>≤</mo><mn>2000</mn></math>.",

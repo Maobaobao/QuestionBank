@@ -115,7 +115,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "The system of equations below has solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>. What is the value of <math><mi>x</mi></math>?\n<math><mtable><mtr><mtd><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>18</mn></mtd></mtr></mtable></math>",
+      "question": "The system of equations below has solution <math><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></math>. What is the value of <math><mi>x</mi></math>?<br><math><mtable><mtr><mtd><mi>y</mi><mo>=</mo><mn>4</mn><mi>x</mi></mtd></mtr><mtr><mtd><mn>2</mn><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mn>18</mn></mtd></mtr></mtable></math>",
       "options": {
         "A": "3",
         "B": "4.5",

@@ -229,7 +229,7 @@
       "question_type": "MCQ",
       "question_chart_svg": null,
       "question_chart_description": null,
-      "question": "A local gym offers Yoga and Pilates classes. The table below shows the number of members enrolled in each class.\n\n| | Yoga | Pilates | Total |\n|---|---|---|---|\n| Morning | 20 | 15 | 35 |\n| Evening | 30 | 25 | 55 |\n| Total | 50 | 40 | 90 |\n\nIf a member is selected at random from those enrolled in a Morning class, what is the probability that the member is enrolled in Pilates?",
+      "question": "A local gym offers Yoga and Pilates classes. The table below shows the number of members enrolled in each class.<br><br>| | Yoga | Pilates | Total |<br>|---|---|---|---|<br>| Morning | 20 | 15 | 35 |<br>| Evening | 30 | 25 | 55 |<br>| Total | 50 | 40 | 90 |<br><br>If a member is selected at random from those enrolled in a Morning class, what is the probability that the member is enrolled in Pilates?",
       "options": {
         "A": "<math><mfrac><mn>15</mn><mn>90</mn></mfrac></math>",
         "B": "<math><mfrac><mn>15</mn><mn>40</mn></mfrac></math>",
